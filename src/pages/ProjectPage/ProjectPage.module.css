@@ -166,7 +166,7 @@
 
 .sectionHeading > p {
   margin-bottom: 12px;
-  color: var(--color-accent);
+  color: var(--color-text);
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.1em;
@@ -214,7 +214,7 @@
 .documentLink svg { flex: 0 0 auto; color: var(--color-accent); }
 .documentLink:hover { background: var(--color-border); }
 .documentUnavailable { display: grid; justify-content: stretch; gap: 5px; }
-.documentUnavailable span { color: var(--color-muted); font-size: 0.78rem; font-weight: 500; }
+.documentUnavailable span { color: var(--color-text); font-size: 0.78rem; font-weight: 500; }
 .documentUnavailable a { color: var(--color-graphite); font-size: 0.76rem; }
 
 .galleryGrid {
@@ -271,7 +271,7 @@
 .layoutBody h3 { margin: 0 0 18px; color: var(--color-graphite); font-family: var(--font-display); font-size: 1.65rem; font-weight: 500; line-height: 1; }
 .layoutFacts { display: flex; flex-wrap: wrap; gap: 14px 22px; margin: 0; }
 .layoutFacts dd { font-size: 0.86rem; }
-.layoutNotes { margin: 16px 0 0; padding-left: 18px; color: var(--color-muted); font-size: 0.75rem; line-height: 1.5; }
+.layoutNotes { margin: 16px 0 0; padding-left: 18px; color: var(--color-text); font-size: 0.75rem; line-height: 1.5; }
 .layoutPrice { margin: 22px 0 0; color: var(--color-graphite); font-weight: 800; }
 
 .relatedSection { background: var(--color-surface); }

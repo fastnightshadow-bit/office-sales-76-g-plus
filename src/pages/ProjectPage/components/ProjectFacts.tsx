@@ -24,13 +24,9 @@ function formatTotalMoney(value: number): string {
 export function ProjectFacts({ project }: ProjectFactsProps) {
   const facts = [
     project.completionLabel ? { label: "Срок", value: project.completionLabel } : null,
-    project.minimumPrice && project.minimumPrice > 0
-      ? { label: "Минимальная стоимость", value: formatTotalMoney(project.minimumPrice) }
-      : null,
     project.mortgageRateLabel
       ? { label: "Условия", value: `Ипотека ${project.mortgageRateLabel}` }
       : null,
-    project.developer ? { label: "Застройщик", value: project.developer } : null,
   ].filter((fact): fact is { label: string; value: string } => fact !== null);
   const roomPrices = project.roomPrices.filter(
     (item): item is typeof item & { minimumPrice: number } =>

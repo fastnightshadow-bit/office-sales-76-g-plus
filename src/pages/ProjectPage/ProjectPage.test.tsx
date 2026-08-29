@@ -5,6 +5,7 @@ import { afterEach, describe, expect, it } from "vitest";
 import { appRoutes } from "../../app/routes";
 import { getProjects } from "../../features/catalog/catalog-repository";
 import { ProjectDocuments } from "./ProjectPage";
+import { ProjectFacts } from "./components/ProjectFacts";
 import { RelatedProjects } from "./components/RelatedProjects";
 
 function renderProject(slug: string, suffix = "") {
@@ -41,6 +42,22 @@ describe("ProjectPage", () => {
       "href",
       expect.stringContaining("query="),
     );
+  });
+
+  it("keeps detail facts limited to address, completion, mortgage, and room minimums", () => {
+    const base = getProjects().find(({ slug }) => slug === "zhk-novatsiya")!;
+    const project = { ...base, developer: "Тестовый застройщик" };
+
+    render(<ProjectFacts project={project} />);
+
+    expect(screen.getByText("Ярославль, Республиканский проезд д.1")).toBeVisible();
+    expect(screen.getByText("Сдан!")).toBeVisible();
+    expect(screen.getByText("Ипотека от 6%")).toBeVisible();
+    expect(screen.getByText("1-комнатные")).toBeVisible();
+    expect(screen.getByText("от 6 900 000 ₽")).toBeVisible();
+    expect(screen.queryByText("Минимальная стоимость")).not.toBeInTheDocument();
+    expect(screen.queryByText("Застройщик")).not.toBeInTheDocument();
+    expect(screen.queryByText("Тестовый застройщик")).not.toBeInTheDocument();
   });
 
   it("omits empty values and unknown room prices instead of showing zero", async () => {
