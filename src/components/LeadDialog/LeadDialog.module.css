@@ -1,0 +1,141 @@
+.backdrop {
+  position: fixed;
+  z-index: 120;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: max(20px, env(safe-area-inset-top)) max(20px, env(safe-area-inset-right)) max(20px, env(safe-area-inset-bottom)) max(20px, env(safe-area-inset-left));
+  overflow-y: auto;
+  background: rgb(23 34 29 / 48%);
+}
+
+.dialog {
+  width: min(100%, 560px);
+  max-height: min(760px, calc(100dvh - 40px));
+  padding: clamp(22px, 4vw, 38px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  color: var(--color-text);
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-soft);
+  -webkit-overflow-scrolling: touch;
+}
+
+.dialogHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.eyebrow {
+  color: var(--color-muted);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.closeButton {
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 46px;
+  height: 46px;
+  padding: 0;
+  color: var(--color-graphite);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.closeButton:hover { background: var(--color-border); }
+
+.headingGroup { margin: 28px 0 24px; }
+
+.headingGroup h2,
+.success h2 {
+  margin: 0;
+  color: var(--color-graphite);
+  font-family: var(--font-display);
+  font-size: clamp(2.3rem, 7vw, 3.4rem);
+  font-weight: 500;
+  line-height: 0.95;
+}
+
+.headingGroup p,
+.success p {
+  max-width: 45ch;
+  margin: 16px 0 0;
+  color: var(--color-muted);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+.errorSummary {
+  margin-bottom: 18px;
+  padding: 12px 14px;
+  color: var(--color-error);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  background: rgb(166 64 53 / 8%);
+  border: 1px solid rgb(166 64 53 / 22%);
+  border-radius: var(--radius-control);
+}
+
+form { display: grid; gap: 18px; }
+.fieldGroup { display: grid; gap: 7px; }
+.fieldGroup label { color: var(--color-graphite); font-size: 0.78rem; font-weight: 800; }
+.fieldGroup label span { color: var(--color-muted); font-weight: 500; }
+
+.fieldGroup input,
+.fieldGroup textarea {
+  width: 100%;
+  min-height: 50px;
+  padding: 12px 14px;
+  color: var(--color-text);
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: 13px;
+  outline: none;
+  resize: vertical;
+  transition: border-color var(--duration-fast) var(--ease-out), box-shadow var(--duration-fast) var(--ease-out);
+}
+
+.fieldGroup textarea { min-height: 94px; }
+.fieldGroup input:focus, .fieldGroup textarea:focus { border-color: var(--color-accent-dark); box-shadow: 0 0 0 3px rgb(113 130 119 / 18%); }
+.fieldGroup input[aria-invalid="true"], .fieldGroup textarea[aria-invalid="true"] { border-color: var(--color-error); }
+.fieldError { color: var(--color-error); font-size: 0.75rem; line-height: 1.4; }
+.fieldHint { color: var(--color-muted); font-size: 0.7rem; }
+
+.consent {
+  display: grid;
+  grid-template-columns: 22px 1fr;
+  align-items: start;
+  gap: 10px;
+  color: var(--color-muted);
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+.consent input { width: 20px; height: 20px; margin: 0; accent-color: var(--color-accent-dark); }
+.consent a { color: var(--color-graphite); font-weight: 700; }
+
+.success { padding: 24px 0 4px; }
+.successMark { display: grid; place-items: center; width: 54px; height: 54px; margin-bottom: 22px; color: var(--color-white); font-size: 1.5rem; background: var(--color-accent-dark); border-radius: 50%; }
+.success p { margin-bottom: 28px; }
+
+@media (max-width: 600px) {
+  .backdrop { align-items: flex-end; padding: 0; }
+  .dialog { width: 100%; max-height: min(94dvh, 760px); padding: 22px max(20px, env(safe-area-inset-right)) max(24px, env(safe-area-inset-bottom)) max(20px, env(safe-area-inset-left)); border-radius: 24px 24px 0 0; }
+  .headingGroup { margin-top: 22px; }
+}
+
+@media (max-height: 560px) and (orientation: landscape) {
+  .backdrop { align-items: flex-start; }
+  .dialog { margin-block: 12px; max-height: calc(100dvh - 24px); }
+}
