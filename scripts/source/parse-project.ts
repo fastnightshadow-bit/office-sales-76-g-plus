@@ -18,6 +18,14 @@ function absoluteUrl(value: string | undefined, sourceUrl: string): string | und
   try {
     const resolved = new URL(value, sourceUrl);
     const source = new URL(sourceUrl);
+    if (
+      !["http:", "https:"].includes(resolved.protocol)
+      || resolved.hostname !== source.hostname
+      || (resolved.port && !(
+        (resolved.protocol === "https:" && resolved.port === "443")
+        || (resolved.protocol === "http:" && resolved.port === "80")
+      ))
+    ) return undefined;
     const writtenOrigin = sourceUrl.match(/^https?:\/\/[^/]+/i)?.[0];
     return resolved.origin === source.origin && writtenOrigin
       ? `${writtenOrigin}${resolved.pathname}${resolved.search}${resolved.hash}`
@@ -49,6 +57,21 @@ function labelledValue($: cheerio.CheerioAPI, root: Cheerio<AnyNode>, labelPatte
     const parent = label.parent();
     const sibling = label.nextAll("p, span, div").first();
     result = clean(sibling.text()) ?? clean(parent.children().not(label).text());
+  });
+  return result;
+}
+
+function developerValue($: cheerio.CheerioAPI): string | undefined {
+  let result: string | undefined;
+  $("[aria-label='Об объекте'] > div, [data-project-fact], .lp-prop7").each((_index, rowNode) => {
+    if (result) return;
+    const row = $(rowNode);
+    const label = row.find("h2, h3, h4, b, strong, small, .lp-prop7-n").first();
+    if (!/^застройщик$/i.test(clean(label.text()) ?? "")) return;
+    const value = clean(row.find(".lp-prop7-v").first().text())
+      ?? clean(label.next("p, span, div").first().text());
+    if (!value || value.length > 160 || !/[a-zа-яё]/i.test(value) || /^инн\b/i.test(value)) return;
+    result = value;
   });
   return result;
 }
@@ -148,7 +171,7 @@ export function parseProjectPage(html: string, sourceUrl: string, checkedAt: str
   const address = labelledValue($, root, /^адрес$/i)
     ?? clean(html.match(/hintContent:\s*['"]([^'"]+)['"]/)?.[1]);
   const district = labelledValue($, root, /^район$/i);
-  const developer = labelledValue($, root, /^застройщик$/i);
+  const developer = developerValue($);
   const mortgageRateLabel = labelledValue($, root, /^ипотека/i);
   const minimumPriceLabel = labelledValue($, root, /^минимальная\s+цена$/i);
   const coverImageUrl = absoluteUrl(

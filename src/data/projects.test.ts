@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { resolve } from "node:path";
 import { describe, expect, it } from "vitest";
@@ -16,14 +17,38 @@ const reportJson = z.object({
   importedProjects: z.number(),
   duplicateSlugs: z.number(),
   invalidRecords: z.number(),
-  discoveredAssets: z.number(),
-  selectedAssets: z.number(),
-  omittedAssets: z.number(),
-  cachedImages: z.number(),
+  discoveredAssetReferences: z.number(),
+  selectedAssetReferences: z.number(),
+  successfulAssetReferences: z.number(),
+  uniqueProjectAssets: z.number(),
+  deduplicatedAssetReferences: z.number(),
+  deduplicatedGalleryCardOmissions: z.number(),
+  omittedAssetReferences: z.number(),
+  omittedAssetReferenceReason: z.literal("selection-cap"),
+  assetReferenceUnit: z.literal("unique-source-url-role-reference"),
+  assetFingerprintAlgorithm: z.literal("sha256-normalized-480-webp"),
+  heroAssets: z.literal(1),
   failedAssets: z.number(),
   mediaBytes: z.number(),
   sourceLayouts: z.number(),
   importedLayouts: z.number(),
+  normalizedCompletionDates: z.number(),
+  missingCompletionLabels: z.number(),
+  unparseableCompletionLabels: z.number(),
+  unparseableCompletionDetails: z.array(z.object({ slug: z.string(), label: z.string() })),
+  untrustedPriceProjects: z.number(),
+  untrustedPriceRecords: z.number(),
+  priceQualityRecordUnit: z.literal("logical-source-record"),
+  untrustedPriceDetails: z.array(z.object({
+    projectSlug: z.string(),
+    record: z.enum(["project-price-block", "layout"]),
+    reason: z.enum(["unitless-sibling-scale-conflict", "joint-layout-scale-outlier"]),
+    affectedFields: z.array(z.string()),
+    layoutId: z.string().optional(),
+    sourceLabels: z.array(z.string()),
+  })),
+  structuredFeatureSections: z.number(),
+  structuredPurchaseProgramSections: z.number(),
 }).parse(loadJson("source-report.json"));
 
 describe("generated source snapshot", () => {
@@ -33,9 +58,52 @@ describe("generated source snapshot", () => {
     expect(projects.every((project) => project.minimumPrice !== 0)).toBe(true);
     expect(projects.every((project) => project.sourceUrl && project.sourceCheckedAt)).toBe(true);
     const layouts = projects.flatMap((project) => project.layouts);
+    expect(layouts).toHaveLength(1_485);
     expect(layouts.every((layout) => layout.roomLabel.trim().length > 0)).toBe(true);
-    expect(reportJson.sourceLayouts).toBe(layouts.length);
-    expect(reportJson.importedLayouts).toBe(layouts.length);
+    for (const project of projects) {
+      expect(new Set(project.layouts.map(({ id }) => id)).size).toBe(project.layouts.length);
+    }
+    expect(reportJson.sourceLayouts).toBe(1_485);
+    expect(reportJson.importedLayouts).toBe(1_485);
+    expect(projects.every((project) => project.completionDate)).toBe(true);
+    expect(reportJson).toMatchObject({
+      normalizedCompletionDates: 92,
+      missingCompletionLabels: 0,
+      unparseableCompletionLabels: 0,
+      unparseableCompletionDetails: [],
+      untrustedPriceProjects: 2,
+      untrustedPriceRecords: 2,
+      priceQualityRecordUnit: "logical-source-record",
+      structuredFeatureSections: 0,
+      structuredPurchaseProgramSections: 0,
+    });
+    const megapolis = projects.find(({ slug }) => slug === "zhk-megapolis");
+    expect(megapolis?.minimumPrice).toBeUndefined();
+    expect(megapolis?.roomPrices.find(({ room }) => room === "1")?.minimumPrice).toBeUndefined();
+    expect(megapolis?.dataQualityFlags).toContain("untrusted-price");
+    const corruptLayout = projects.find(({ slug }) => slug === "zhk-novoe-bragino-dom-2")
+      ?.layouts.find(({ id }) => id === "4638995");
+    expect(corruptLayout?.price).toBeUndefined();
+    expect(corruptLayout?.pricePerMeter).toBeUndefined();
+    expect(reportJson.untrustedPriceDetails).toEqual(expect.arrayContaining([
+      expect.objectContaining({
+        projectSlug: "zhk-megapolis",
+        record: "project-price-block",
+        affectedFields: expect.arrayContaining(["minimum-price", "room-price:1"]),
+      }),
+      expect.objectContaining({
+        projectSlug: "zhk-novoe-bragino-dom-2",
+        record: "layout",
+        layoutId: "4638995",
+        affectedFields: ["layout-price", "layout-price-per-meter"],
+      }),
+    ]));
+    expect(projects.every((project) => !project.developer || (
+      project.developer.length <= 160 && /[a-zа-яё]/i.test(project.developer)
+    ))).toBe(true);
+    expect(projects.every((project) => project.features.length === 0)).toBe(true);
+    expect(projects.every((project) => project.purchasePrograms.length === 0)).toBe(true);
+    expect(JSON.stringify(projects)).not.toContain("24\\\\7");
     expect(reportJson).toMatchObject({ importedProjects: 92, duplicateSlugs: 0, invalidRecords: 0 });
   });
 
@@ -65,10 +133,31 @@ describe("generated source snapshot", () => {
         .every(({ width }) => width <= 960)).toBe(true);
       expect((project.coverImage?.variants ?? []).every(({ width }) => width <= 1440)).toBe(true);
     }
-    expect(reportJson.discoveredAssets).toBeGreaterThanOrEqual(reportJson.selectedAssets);
-    expect(reportJson.omittedAssets).toBe(reportJson.discoveredAssets - reportJson.selectedAssets);
+    const fingerprints = new Map<string, string>();
+    for (const asset of assets) {
+      const fingerprintUrl = asset.variants.find(({ width, format }) => width === 480 && format === "webp")?.url
+        ?? asset.src;
+      const bytes = readFileSync(resolve(process.cwd(), "public", fingerprintUrl.slice(1)));
+      const fingerprint = createHash("sha256").update(bytes).digest("hex");
+      const existing = fingerprints.get(fingerprint);
+      if (existing) expect(fingerprintUrl).toBe(existing);
+      else fingerprints.set(fingerprint, fingerprintUrl);
+    }
+    expect(fingerprints.size).toBe(reportJson.uniqueProjectAssets);
+    expect(reportJson.discoveredAssetReferences).toBeGreaterThanOrEqual(reportJson.selectedAssetReferences);
+    expect(reportJson.omittedAssetReferences)
+      .toBe(reportJson.discoveredAssetReferences - reportJson.selectedAssetReferences);
     expect(reportJson.failedAssets).toBe(0);
-    expect(reportJson.cachedImages).toBe(reportJson.selectedAssets + 1);
+    expect(reportJson.successfulAssetReferences)
+      .toBe(reportJson.uniqueProjectAssets + reportJson.deduplicatedAssetReferences);
+    expect(reportJson.deduplicatedGalleryCardOmissions)
+      .toBeLessThanOrEqual(reportJson.deduplicatedAssetReferences);
+    expect(reportJson).toMatchObject({
+      omittedAssetReferenceReason: "selection-cap",
+      assetReferenceUnit: "unique-source-url-role-reference",
+      assetFingerprintAlgorithm: "sha256-normalized-480-webp",
+    });
+    expect(reportJson.heroAssets).toBe(1);
     expect(reportJson.mediaBytes).toBeLessThanOrEqual(300 * 1024 * 1024);
     expect(existsSync(resolve(process.cwd(), "public/media/site/hero-g-plus.webp"))).toBe(true);
     const heroVariants = readdirSync(resolve(process.cwd(), "public/media/site"))

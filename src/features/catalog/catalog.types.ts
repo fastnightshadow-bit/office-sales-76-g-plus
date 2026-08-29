@@ -4,6 +4,8 @@ export type DataQualityFlag =
   | "missing-price"
   | "missing-completion"
   | "missing-cover"
+  | "untrusted-price"
+  | "unparseable-completion"
   | "unreachable-document"
   | "contact-conflict"
   | "legal-review";

@@ -2,20 +2,64 @@
   "importedProjects": 92,
   "duplicateSlugs": 0,
   "invalidRecords": 0,
-  "missingPrices": 11,
-  "missingCompletionDates": 0,
+  "missingPrices": 12,
+  "normalizedCompletionDates": 92,
+  "missingCompletionLabels": 0,
+  "unparseableCompletionLabels": 0,
+  "unparseableCompletionDetails": [],
+  "untrustedPriceProjects": 2,
+  "untrustedPriceRecords": 2,
+  "priceQualityRecordUnit": "logical-source-record",
+  "untrustedPriceDetails": [
+    {
+      "projectSlug": "zhk-novoe-bragino-dom-2",
+      "record": "layout",
+      "reason": "joint-layout-scale-outlier",
+      "affectedFields": [
+        "layout-price",
+        "layout-price-per-meter"
+      ],
+      "layoutId": "4638995",
+      "sourceLabels": [
+        "347 751",
+        "10 837"
+      ]
+    },
+    {
+      "projectSlug": "zhk-megapolis",
+      "record": "project-price-block",
+      "reason": "unitless-sibling-scale-conflict",
+      "affectedFields": [
+        "minimum-price",
+        "room-price:1"
+      ],
+      "sourceLabels": [
+        "от 3.5 руб/м²",
+        "от 3.5"
+      ]
+    }
+  ],
   "missingCovers": 0,
   "failedAssets": 0,
-  "discoveredAssets": 2865,
-  "selectedAssets": 795,
-  "omittedAssets": 2070,
-  "cachedImages": 796,
-  "imageVariants": 2288,
-  "mediaBytes": 118635935,
+  "discoveredAssetReferences": 2865,
+  "selectedAssetReferences": 795,
+  "successfulAssetReferences": 795,
+  "uniqueProjectAssets": 732,
+  "deduplicatedAssetReferences": 63,
+  "deduplicatedGalleryCardOmissions": 28,
+  "omittedAssetReferences": 2070,
+  "omittedAssetReferenceReason": "selection-cap",
+  "assetReferenceUnit": "unique-source-url-role-reference",
+  "assetFingerprintAlgorithm": "sha256-normalized-480-webp",
+  "heroAssets": 1,
+  "imageVariants": 2094,
+  "mediaBytes": 108057590,
   "verifiedDocuments": 262,
   "unverifiedDocuments": 0,
   "sourceLayouts": 1485,
   "importedLayouts": 1485,
+  "structuredFeatureSections": 0,
+  "structuredPurchaseProgramSections": 0,
   "sourceCheckedAt": "2026-08-29",
   "failedAssetDetails": []
 }

@@ -9,13 +9,28 @@ import type {
   ProjectDocument,
   SourceProjectInput,
 } from "../src/features/catalog/catalog.types";
-import { normalizeProject } from "../src/features/catalog/normalize-project";
+import {
+  findUntrustedPriceRecords,
+  normalizeProject,
+} from "../src/features/catalog/normalize-project";
 import {
   companyDataSchema,
   legalDocumentsSchema,
 } from "../src/features/company/company.types";
-import { cacheImage, resetImageDownloadCache } from "./source/asset-cache";
-import { fetchPageCached, sourceRequestHeaders } from "./source/fetch-page";
+import {
+  cacheImage,
+  cacheImageDetailed,
+  ContentAssetRegistry,
+  GeneratedMediaBudget,
+  IMAGE_CONTENT_FINGERPRINT_ALGORITHM,
+  resetImageDownloadCache,
+} from "./source/asset-cache";
+import {
+  fetchPage,
+  fetchSourceResponse,
+  sourceRequestHeaders,
+  type SourceNetworkOptions,
+} from "./source/fetch-page";
 import { parseCompany, parseLegalDocument } from "./source/parse-company";
 import {
   parseProjectIndexEntries,
@@ -70,7 +85,7 @@ export async function mapWithConcurrency<T, R>(
 export interface ProjectMediaSelection {
   coverUrl?: string;
   galleryUrls: string[];
-  layoutImages: Array<{ id: string; url: string }>;
+  layoutImages: Array<{ ids: string[]; url: string }>;
   discoveredAssets: number;
   selectedAssets: number;
   omittedAssets: number;
@@ -79,16 +94,17 @@ export interface ProjectMediaSelection {
 export function selectProjectMedia(input: SourceProjectInput): ProjectMediaSelection {
   const coverUrl = input.coverImageUrl;
   const uniqueGallery = [...new Set((input.galleryUrls ?? []).filter((url) => url !== coverUrl))];
-  const layoutImages: Array<{ id: string; url: string }> = [];
-  const seenLayoutUrls = new Set<string>();
+  const layoutImages = new Map<string, string[]>();
   for (const layout of input.layouts ?? []) {
-    if (!layout.imageUrl || seenLayoutUrls.has(layout.imageUrl)) continue;
-    seenLayoutUrls.add(layout.imageUrl);
-    layoutImages.push({ id: layout.id, url: layout.imageUrl });
+    if (!layout.imageUrl) continue;
+    const ids = layoutImages.get(layout.imageUrl) ?? [];
+    ids.push(layout.id);
+    layoutImages.set(layout.imageUrl, ids);
   }
-  const discoveredAssets = (coverUrl ? 1 : 0) + uniqueGallery.length + layoutImages.length;
+  const layoutCandidates = [...layoutImages].map(([url, ids]) => ({ ids, url }));
+  const discoveredAssets = (coverUrl ? 1 : 0) + uniqueGallery.length + layoutCandidates.length;
   const selectedGallery = uniqueGallery.slice(0, 4);
-  const selectedLayouts = layoutImages.slice(0, 4);
+  const selectedLayouts = layoutCandidates.slice(0, 4);
   const selectedAssets = (coverUrl ? 1 : 0) + selectedGallery.length + selectedLayouts.length;
   const selection: ProjectMediaSelection = {
     galleryUrls: selectedGallery,
@@ -158,6 +174,17 @@ function safeSegment(value: string): string {
   return value.normalize("NFKD").replace(/[^a-zA-Z0-9_-]+/g, "-").replace(/^-+|-+$/g, "") || "asset";
 }
 
+function ordinaryImageAsset(asset: ImageAsset): ImageAsset {
+  const variants = asset.variants.filter(({ width }) => width <= 960);
+  const largestWebp = variants
+    .filter(({ format }) => format === "webp")
+    .sort((left, right) => right.width - left.width)[0];
+  return {
+    src: largestWebp?.url ?? asset.src,
+    variants,
+  };
+}
+
 interface FailedAsset {
   projectSlug: string;
   kind: "cover" | "gallery" | "layout";
@@ -165,18 +192,69 @@ interface FailedAsset {
   error: string;
 }
 
-interface MediaCounters {
-  images: number;
+export interface MediaCounters {
+  logicalReferences: number;
+  successfulReferences: number;
+  reusedReferences: number;
+  omittedDuplicateGalleryCards: number;
   variants: number;
 }
 
-async function cacheProjectMedia(
+export interface MediaAuditReport {
+  discoveredAssetReferences: number;
+  selectedAssetReferences: number;
+  successfulAssetReferences: number;
+  uniqueProjectAssets: number;
+  deduplicatedAssetReferences: number;
+  deduplicatedGalleryCardOmissions: number;
+  omittedAssetReferences: number;
+  omittedAssetReferenceReason: "selection-cap";
+  assetReferenceUnit: "unique-source-url-role-reference";
+  assetFingerprintAlgorithm: typeof IMAGE_CONTENT_FINGERPRINT_ALGORITHM;
+}
+
+export function createMediaAuditReport(
+  discoveredAssetReferences: number,
+  uniqueProjectAssets: number,
+  counters: MediaCounters,
+): MediaAuditReport {
+  if (counters.successfulReferences !== uniqueProjectAssets + counters.reusedReferences) {
+    throw new Error("Successful asset references must equal unique assets plus deduplicated references");
+  }
+  if (counters.logicalReferences > discoveredAssetReferences) {
+    throw new Error("Selected asset references cannot exceed discovered references");
+  }
+  if (counters.omittedDuplicateGalleryCards > counters.reusedReferences) {
+    throw new Error("Omitted duplicate gallery cards cannot exceed deduplicated references");
+  }
+  return {
+    discoveredAssetReferences,
+    selectedAssetReferences: counters.logicalReferences,
+    successfulAssetReferences: counters.successfulReferences,
+    uniqueProjectAssets,
+    deduplicatedAssetReferences: counters.reusedReferences,
+    deduplicatedGalleryCardOmissions: counters.omittedDuplicateGalleryCards,
+    omittedAssetReferences: discoveredAssetReferences - counters.logicalReferences,
+    omittedAssetReferenceReason: "selection-cap",
+    assetReferenceUnit: "unique-source-url-role-reference",
+    assetFingerprintAlgorithm: IMAGE_CONTENT_FINGERPRINT_ALGORITHM,
+  };
+}
+
+export interface CacheProjectMediaOptions {
+  contentRegistry: ContentAssetRegistry;
+  mediaBudget: GeneratedMediaBudget;
+  network?: SourceNetworkOptions;
+}
+
+export async function cacheProjectMedia(
   input: SourceProjectInput,
   project: Project,
   publicRoot: string,
   failedAssets: FailedAsset[],
   counters: MediaCounters,
   onAssetAttempt: () => void,
+  options: CacheProjectMediaOptions,
 ): Promise<Project> {
   const projectDirectory = join(publicRoot, "media/projects", safeSegment(project.slug));
   const selection = selectProjectMedia(input);
@@ -184,16 +262,26 @@ async function cacheProjectMedia(
     url: string,
     base: string,
     profile: "ordinary" | "cover" = "ordinary",
-  ): Promise<ImageAsset> => {
-    const asset = await cacheImage(url, join(projectDirectory, base), { profile });
-    counters.images += 1;
-    counters.variants += asset.variants.length;
-    return asset;
+  ) => {
+    counters.logicalReferences += 1;
+    const result = await cacheImageDetailed(url, join(projectDirectory, base), {
+      profile,
+      contentRegistry: options.contentRegistry,
+      mediaBudget: options.mediaBudget,
+      ...(options.network ? { network: options.network } : {}),
+    });
+    counters.successfulReferences += 1;
+    if (result.reused) counters.reusedReferences += 1;
+    else counters.variants += result.asset.variants.length;
+    return result;
   };
 
+  let coverContentHash: string | undefined;
   if (selection.coverUrl) {
     try {
-      project.coverImage = await cache(selection.coverUrl, "cover", "cover");
+      const cached = await cache(selection.coverUrl, "cover", "cover");
+      project.coverImage = cached.asset;
+      coverContentHash = cached.contentHash;
       project.dataQualityFlags = project.dataQualityFlags.filter((flag) => flag !== "missing-cover");
     } catch (error) {
       delete project.coverImage;
@@ -210,9 +298,16 @@ async function cacheProjectMedia(
   }
 
   const gallery: ImageAsset[] = [];
+  const galleryContentHashes = new Set(coverContentHash ? [coverContentHash] : []);
   for (const [index, url] of selection.galleryUrls.entries()) {
     try {
-      gallery.push(await cache(url, `gallery-${String(index + 1).padStart(3, "0")}`));
+      const cached = await cache(url, `gallery-${String(index + 1).padStart(3, "0")}`);
+      if (!galleryContentHashes.has(cached.contentHash)) {
+        galleryContentHashes.add(cached.contentHash);
+        gallery.push(ordinaryImageAsset(cached.asset));
+      } else {
+        counters.omittedDuplicateGalleryCards += 1;
+      }
     } catch (error) {
       failedAssets.push({
         projectSlug: project.slug,
@@ -226,23 +321,30 @@ async function cacheProjectMedia(
   }
   project.gallery = gallery;
 
-  const selectedLayoutImages = new Map(selection.layoutImages.map(({ id, url }) => [id, url]));
-  for (const layout of project.layouts) {
-    const imageUrl = selectedLayoutImages.get(layout.id);
-    delete layout.image;
-    if (!imageUrl) continue;
+  const layoutAssets = new Map<string, ImageAsset>();
+  for (const [index, { ids, url }] of selection.layoutImages.entries()) {
     try {
-      layout.image = await cache(imageUrl, `layout-${safeSegment(layout.id)}`);
+      const cached = await cache(
+        url,
+        `layout-${safeSegment(ids[0] ?? String(index + 1))}`,
+      );
+      const layoutAsset = ordinaryImageAsset(cached.asset);
+      for (const id of ids) layoutAssets.set(id, layoutAsset);
     } catch (error) {
       failedAssets.push({
         projectSlug: project.slug,
         kind: "layout",
-        sourceUrl: imageUrl,
+        sourceUrl: url,
         error: String(error),
       });
     } finally {
       onAssetAttempt();
     }
+  }
+  for (const layout of project.layouts) {
+    delete layout.image;
+    const asset = layoutAssets.get(layout.id);
+    if (asset) layout.image = asset;
   }
   return project;
 }
@@ -263,15 +365,17 @@ async function directorySize(directory: string): Promise<number> {
   return total;
 }
 
-export async function requestDocument(url: string): Promise<boolean> {
+export async function requestDocument(
+  url: string,
+  network: SourceNetworkOptions = {},
+): Promise<boolean> {
   for (let attempt = 1; attempt <= 2; attempt += 1) {
     try {
-      const response = await fetch(url, {
+      const response = await fetchSourceResponse(url, {
         method: "HEAD",
         headers: sourceRequestHeaders(),
-        redirect: "follow",
         signal: AbortSignal.timeout(15_000),
-      });
+      }, network);
       if (response.ok) return true;
       if (response.status < 500 && response.status !== 405) return false;
     } catch {
@@ -282,41 +386,60 @@ export async function requestDocument(url: string): Promise<boolean> {
   return false;
 }
 
-export interface SourceReport {
+export interface SourceReport extends MediaAuditReport {
   importedProjects: number;
   duplicateSlugs: number;
   invalidRecords: number;
   missingPrices: number;
-  missingCompletionDates: number;
+  normalizedCompletionDates: number;
+  missingCompletionLabels: number;
+  unparseableCompletionLabels: number;
+  unparseableCompletionDetails: Array<{ slug: string; label: string }>;
+  untrustedPriceProjects: number;
+  untrustedPriceRecords: number;
+  priceQualityRecordUnit: "logical-source-record";
+  untrustedPriceDetails: Array<ReturnType<typeof findUntrustedPriceRecords>[number] & { projectSlug: string }>;
   missingCovers: number;
   failedAssets: number;
-  discoveredAssets: number;
-  selectedAssets: number;
-  omittedAssets: number;
-  cachedImages: number;
+  heroAssets: 1;
   imageVariants: number;
   mediaBytes: number;
   verifiedDocuments: number;
   unverifiedDocuments: number;
   sourceLayouts: number;
   importedLayouts: number;
+  structuredFeatureSections: number;
+  structuredPurchaseProgramSections: number;
   sourceCheckedAt: string;
   failedAssetDetails: FailedAsset[];
 }
 
+export interface FreshStaging {
+  root: string;
+  public: string;
+  data: string;
+}
+
+export async function prepareFreshStaging(rootDirectory: string): Promise<FreshStaging> {
+  const root = join(rootDirectory, "work/source-import-staging");
+  await rm(root, { recursive: true, force: true });
+  const staging: FreshStaging = {
+    root,
+    public: join(root, "public"),
+    data: join(root, "data"),
+  };
+  await mkdir(staging.data, { recursive: true });
+  return staging;
+}
+
 export async function importSource(rootDirectory = resolve(".")): Promise<SourceReport> {
   const checkedAt = new Date().toISOString().slice(0, 10);
-  const stagingRoot = join(rootDirectory, "work/source-import-staging");
-  const stagingPublic = join(stagingRoot, "public");
-  const stagingData = join(stagingRoot, "data");
-  await mkdir(stagingData, { recursive: true });
-  await Promise.all([
-    rm(join(stagingPublic, "media/projects"), { recursive: true, force: true }),
-    rm(join(stagingPublic, "media/site"), { recursive: true, force: true }),
-  ]);
+  const staging = await prepareFreshStaging(rootDirectory);
+  const stagingRoot = staging.root;
+  const stagingPublic = staging.public;
+  const stagingData = staging.data;
   resetImageDownloadCache();
 
-  const pageCache = join(stagingRoot, "source-pages");
   const namedPages = [
     ["catalog", `${SOURCE_ROOT}/catalog-list/`],
     ["home", `${SOURCE_ROOT}/`],
@@ -326,7 +449,7 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
   ] as const;
   console.log("Fetching source index and company/legal pages (5 total)...");
   const namedHtml = await Promise.all(namedPages.map(async ([name, url]) => {
-    const html = await fetchPageCached(url, pageCache);
+    const html = await fetchPage(url);
     console.log(`Fetched source page: ${name}`);
     return html;
   }));
@@ -339,7 +462,7 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
   console.log(`Validated unique project URLs: ${entries.length}`);
   let fetchedProjects = 0;
   const pageHtml = await mapWithConcurrency(entries, CONCURRENCY, async (entry) => {
-    const html = await fetchPageCached(entry.sourceUrl, pageCache);
+    const html = await fetchPage(entry.sourceUrl);
     fetchedProjects += 1;
     if (fetchedProjects % 5 === 0 || fetchedProjects === entries.length) {
       console.log(`Fetched project pages: ${fetchedProjects}/${entries.length}`);
@@ -360,10 +483,12 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
       `Normalization would drop ${droppedLayouts.length} source layout records:\n${JSON.stringify(droppedLayouts, null, 2)}`,
     );
   }
+  const untrustedPriceDetails = parsedInputs.flatMap((input) => (
+    findUntrustedPriceRecords(input).map((issue) => ({ projectSlug: input.slug, ...issue }))
+  ));
   const mediaSelections = parsedInputs.map(selectProjectMedia);
   const discoveredAssets = mediaSelections.reduce((total, selection) => total + selection.discoveredAssets, 0);
   const selectedAssets = mediaSelections.reduce((total, selection) => total + selection.selectedAssets, 0);
-  const omittedAssets = discoveredAssets - selectedAssets;
   console.log(
     `Parsed project records: ${parsedInputs.length}; discovered media assets: ${discoveredAssets}; selected: ${selectedAssets}`,
   );
@@ -377,7 +502,15 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
     return pending;
   };
   const failedAssets: FailedAsset[] = [];
-  const counters: MediaCounters = { images: 0, variants: 0 };
+  const counters: MediaCounters = {
+    logicalReferences: 0,
+    successfulReferences: 0,
+    reusedReferences: 0,
+    omittedDuplicateGalleryCards: 0,
+    variants: 0,
+  };
+  const contentRegistry = new ContentAssetRegistry();
+  const mediaBudget = new GeneratedMediaBudget(MAX_MEDIA_BYTES);
   let completed = 0;
   let processedMediaAssets = 0;
   const projects = await mapWithConcurrency(parsedInputs, CONCURRENCY, async (parsed) => {
@@ -399,6 +532,7 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
           console.log(`Processed media assets: ${processedMediaAssets}/${selectedAssets}`);
         }
       },
+      { contentRegistry, mediaBudget },
     );
     completed += 1;
     if (completed % 10 === 0 || completed === entries.length) {
@@ -421,36 +555,58 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
   const heroAsset = await cacheImage(
     heroSource,
     join(stagingPublic, "media/site/hero-g-plus"),
-    { profile: "hero" },
+    { profile: "hero", mediaBudget },
   );
   const heroSourceFile = join(stagingPublic, heroAsset.src.slice(1));
   const heroFile = join(stagingPublic, "media/site/hero-g-plus.webp");
-  await copyFile(heroSourceFile, heroFile);
+  const heroAliasBytes = (await stat(heroSourceFile)).size;
+  mediaBudget.reserve(heroAliasBytes, heroFile);
+  try {
+    await copyFile(heroSourceFile, heroFile);
+  } catch (error) {
+    mediaBudget.release(heroAliasBytes);
+    throw error;
+  }
   const mediaBytes = assertMediaBudget(await directorySize(join(stagingPublic, "media")));
 
   const verifiedDocuments = validatedProjects.flatMap((project) => project.documents)
     .filter((document) => document.status === "verified").length;
   const unverifiedDocuments = validatedProjects.flatMap((project) => project.documents)
     .filter((document) => document.status === "unverified").length;
+  const mediaAudit = createMediaAuditReport(discoveredAssets, contentRegistry.uniqueAssets, counters);
   const report: SourceReport = {
     importedProjects: validatedProjects.length,
     duplicateSlugs: inventory.duplicateSlugs,
     invalidRecords: 0,
     missingPrices: validatedProjects.filter((project) => project.dataQualityFlags.includes("missing-price")).length,
-    missingCompletionDates: validatedProjects
+    normalizedCompletionDates: validatedProjects.filter((project) => project.completionDate).length,
+    missingCompletionLabels: validatedProjects
       .filter((project) => project.dataQualityFlags.includes("missing-completion")).length,
+    unparseableCompletionLabels: validatedProjects
+      .filter((project) => project.dataQualityFlags.includes("unparseable-completion")).length,
+    unparseableCompletionDetails: validatedProjects.flatMap((project) => (
+      project.dataQualityFlags.includes("unparseable-completion") && project.completionLabel
+        ? [{ slug: project.slug, label: project.completionLabel }]
+        : []
+    )),
+    untrustedPriceProjects: validatedProjects
+      .filter((project) => project.dataQualityFlags.includes("untrusted-price")).length,
+    untrustedPriceRecords: untrustedPriceDetails.length,
+    priceQualityRecordUnit: "logical-source-record",
+    untrustedPriceDetails,
     missingCovers: validatedProjects.filter((project) => project.dataQualityFlags.includes("missing-cover")).length,
     failedAssets: failedAssets.length,
-    discoveredAssets,
-    selectedAssets,
-    omittedAssets,
-    cachedImages: counters.images + 1,
+    ...mediaAudit,
+    heroAssets: 1,
     imageVariants: counters.variants + heroAsset.variants.length,
     mediaBytes,
     verifiedDocuments,
     unverifiedDocuments,
     sourceLayouts: parsedInputs.reduce((total, input) => total + (input.layouts?.length ?? 0), 0),
     importedLayouts: validatedProjects.reduce((total, project) => total + project.layouts.length, 0),
+    structuredFeatureSections: parsedInputs.filter((input) => input.features !== undefined).length,
+    structuredPurchaseProgramSections: parsedInputs
+      .filter((input) => input.purchasePrograms !== undefined).length,
     sourceCheckedAt: checkedAt,
     failedAssetDetails: failedAssets,
   };

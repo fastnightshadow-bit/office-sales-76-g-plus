@@ -43,11 +43,6 @@ describe("parseProjectPage", () => {
         url: "https://офиспродаж76.рф/media/documents/declaration.pdf",
         status: "unverified",
       },
-      {
-        title: "Разрешение на строительство",
-        url: "https://docs.example.test/permit.pdf",
-        status: "unverified",
-      },
     ]);
   });
 
@@ -66,5 +61,25 @@ describe("parseProjectPage", () => {
       priceLabel: "от",
       pricePerMeterLabel: "125 000",
     });
+  });
+
+  it("omits a developer captured from an unscoped prose block or numeric INN", () => {
+    const prose = "Описание проекта ".repeat(100);
+    const input = parseProjectPage(`
+      <main>
+        <h1>ЖК Безопасный</h1>
+        <section class="lp-description">
+          <div><h3>Застройщик</h3><p>${prose}</p></div>
+          <p>Застройщик: ООО "Пример" ИНН 7602067446. Ипотека и рассрочка.</p>
+        </section>
+        <section aria-label="Об объекте">
+          <div><h3>Застройщик</h3><p>7602067446</p></div>
+        </section>
+      </main>
+    `, SOURCE_URL, "2026-08-29");
+
+    expect(input.developer).toBeUndefined();
+    expect(input.features).toBeUndefined();
+    expect(input.purchasePrograms).toBeUndefined();
   });
 });

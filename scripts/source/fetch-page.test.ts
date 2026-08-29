@@ -1,18 +1,16 @@
-import { mkdtemp, rm } from "node:fs/promises";
-import { tmpdir } from "node:os";
-import { join } from "node:path";
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { fetchPage, fetchPageCached } from "./fetch-page";
+import { fetchPage, validateSourceUrl } from "./fetch-page";
 
-const temporaryDirectories: string[] = [];
+const SOURCE_URL = "https://офиспродаж76.рф/catalog/primer/";
+const SOURCE_HOSTNAME = new URL(SOURCE_URL).hostname;
+const publicNetwork = {
+  allowedHostnames: [SOURCE_HOSTNAME],
+  resolveHost: async () => ["93.184.216.34"],
+};
 
 afterEach(async () => {
   vi.useRealTimers();
   vi.restoreAllMocks();
-  await Promise.all(temporaryDirectories.splice(0).map((directory) => rm(directory, {
-    recursive: true,
-    force: true,
-  })));
 });
 
 describe("fetchPage", () => {
@@ -25,7 +23,7 @@ describe("fetchPage", () => {
       return new Response("<main>ok</main>", { status: 200 });
     });
 
-    const pending = fetchPage("https://example.test/catalog/", 2);
+    const pending = fetchPage(SOURCE_URL, 2, publicNetwork);
     await vi.advanceTimersByTimeAsync(500);
 
     await expect(pending).resolves.toBe("<main>ok</main>");
@@ -39,24 +37,78 @@ describe("fetchPage", () => {
       return new Response("unavailable", { status: 503 });
     });
 
-    await expect(fetchPage("https://example.test/catalog/", 1))
-      .rejects.toThrow("HTTP 503 for https://example.test/catalog/");
+    await expect(fetchPage(SOURCE_URL, 1, publicNetwork))
+      .rejects.toThrow(`HTTP 503 for ${SOURCE_URL}`);
     expect(attempts).toBe(1);
   });
 
-  it("reuses a completed local page cache on later imports", async () => {
-    const cacheDirectory = await mkdtemp(join(tmpdir(), "office-sales-76-pages-"));
-    temporaryDirectories.push(cacheDirectory);
+  it("fetches every normal page request fresh", async () => {
     let requests = 0;
     vi.spyOn(globalThis, "fetch").mockImplementation(async () => {
       requests += 1;
-      return new Response("<main>cached</main>", { status: 200 });
+      return new Response(`<main>${requests}</main>`, { status: 200 });
     });
 
-    expect(await fetchPageCached("https://example.test/page/", cacheDirectory))
-      .toBe("<main>cached</main>");
-    expect(await fetchPageCached("https://example.test/page/", cacheDirectory))
-      .toBe("<main>cached</main>");
-    expect(requests).toBe(1);
+    expect(await fetchPage(SOURCE_URL, 1, publicNetwork)).toBe("<main>1</main>");
+    expect(await fetchPage(SOURCE_URL, 1, publicNetwork)).toBe("<main>2</main>");
+    expect(requests).toBe(2);
+  });
+
+  it("treats unicode and punycode source hostnames as the same allowlisted host", () => {
+    expect(validateSourceUrl(SOURCE_URL, [SOURCE_HOSTNAME]).hostname).toBe(SOURCE_HOSTNAME);
+    expect(validateSourceUrl(
+      `https://${SOURCE_HOSTNAME}/catalog/primer/`,
+      ["офиспродаж76.рф"],
+    ).hostname).toBe(SOURCE_HOSTNAME);
+  });
+
+  it.each([
+    "127.0.0.1",
+    "10.0.0.1",
+    "169.254.10.20",
+    "224.0.0.1",
+    "0.0.0.0",
+    "::1",
+    "::127.0.0.1",
+    "::ffff:127.0.0.1",
+    "fe80::1",
+    "ff02::1",
+    "::",
+  ])("rejects a source hostname resolving to unsafe address %s", async (address) => {
+    const request = vi.fn<typeof fetch>();
+    await expect(fetchPage(SOURCE_URL, 1, {
+      ...publicNetwork,
+      fetchImpl: request,
+      resolveHost: async () => [address],
+    })).rejects.toThrow("unsafe address");
+    expect(request).not.toHaveBeenCalled();
+  });
+
+  it("rejects a direct URL outside the explicit source host", async () => {
+    await expect(fetchPage("https://example.test/catalog/", 1, publicNetwork))
+      .rejects.toThrow("Source host is not allowlisted");
+  });
+
+  it("validates redirect targets before following them", async () => {
+    vi.spyOn(globalThis, "fetch").mockResolvedValue(new Response(null, {
+      status: 302,
+      headers: { location: "http://127.0.0.1/private" },
+    }));
+
+    await expect(fetchPage(SOURCE_URL, 1, publicNetwork))
+      .rejects.toThrow("Source host is not allowlisted");
+  });
+
+  it("re-resolves and rejects a same-host redirect that changes to a private address", async () => {
+    const addresses = [["93.184.216.34"], ["127.0.0.1"]];
+    vi.spyOn(globalThis, "fetch").mockResolvedValue(new Response(null, {
+      status: 302,
+      headers: { location: "/redirected" },
+    }));
+
+    await expect(fetchPage(SOURCE_URL, 1, {
+      ...publicNetwork,
+      resolveHost: async () => addresses.shift() ?? ["127.0.0.1"],
+    })).rejects.toThrow("unsafe address");
   });
 });

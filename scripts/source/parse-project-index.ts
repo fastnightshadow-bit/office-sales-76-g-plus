@@ -28,6 +28,14 @@ function absoluteUrl(value: string | undefined, baseUrl: string): string | undef
   try {
     const resolved = new URL(value, baseUrl);
     const base = new URL(baseUrl);
+    if (
+      !["http:", "https:"].includes(resolved.protocol)
+      || resolved.hostname !== base.hostname
+      || (resolved.port && !(
+        (resolved.protocol === "https:" && resolved.port === "443")
+        || (resolved.protocol === "http:" && resolved.port === "80")
+      ))
+    ) return undefined;
     const writtenOrigin = baseUrl.match(/^https?:\/\/[^/]+/i)?.[0];
     return resolved.origin === base.origin && writtenOrigin
       ? `${writtenOrigin}${resolved.pathname}${resolved.search}${resolved.hash}`
