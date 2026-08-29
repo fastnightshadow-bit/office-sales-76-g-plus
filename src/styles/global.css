@@ -1,0 +1,12 @@
+@import "@fontsource-variable/manrope";
+@import "@fontsource/cormorant-garamond";
+
+:root {
+  font-family: "Manrope Variable", sans-serif;
+  color: #1c2721;
+  background: #ffffff;
+}
+
+body {
+  margin: 0;
+}
