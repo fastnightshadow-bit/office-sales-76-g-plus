@@ -40,8 +40,8 @@ class StorageEvents {
     if (type === "storage" && this.listener === listener) this.listener = undefined;
   }
 
-  dispatch(newValue: string | null): void {
-    this.listener?.({ key: FAVORITES_STORAGE_KEY, newValue } as StorageEvent);
+  dispatch(event: Pick<StorageEvent, "key" | "newValue" | "storageArea">): void {
+    this.listener?.(event as StorageEvent);
   }
 
   get hasListener(): boolean {
@@ -106,16 +106,50 @@ describe("favorites store", () => {
     const unsubscribe = store.subscribe(listener);
 
     expect(events.hasListener).toBe(true);
-    events.dispatch(JSON.stringify(["remote", "remote", 3]));
+    events.dispatch({
+      key: FAVORITES_STORAGE_KEY,
+      newValue: JSON.stringify(["remote", "remote", 3]),
+      storageArea: storage,
+    });
     expect(store.getSnapshot()).toEqual(["remote"]);
     expect(listener).toHaveBeenCalledTimes(1);
-    events.dispatch(JSON.stringify(["remote"]));
+    events.dispatch({ key: FAVORITES_STORAGE_KEY, newValue: JSON.stringify(["remote"]), storageArea: storage });
     expect(listener).toHaveBeenCalledTimes(1);
-    events.dispatch("bad-json");
+    events.dispatch({ key: FAVORITES_STORAGE_KEY, newValue: "bad-json", storageArea: storage });
     expect(store.getSnapshot()).toEqual([]);
     expect(listener).toHaveBeenCalledTimes(2);
     unsubscribe();
     expect(events.hasListener).toBe(false);
+  });
+
+  it("clears favorites once when localStorage.clear emits a null-key event", () => {
+    const events = new StorageEvents();
+    storage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify(["remote"]));
+    const store = createFavoritesStore(storage, events);
+    const listener = vi.fn();
+    store.subscribe(listener);
+
+    events.dispatch({ key: null, newValue: null, storageArea: storage });
+    expect(store.getSnapshot()).toEqual([]);
+    expect(listener).toHaveBeenCalledTimes(1);
+
+    events.dispatch({ key: null, newValue: null, storageArea: storage });
+    expect(listener).toHaveBeenCalledTimes(1);
+  });
+
+  it("ignores unrelated keys and storage areas", () => {
+    const events = new StorageEvents();
+    const otherStorage = new MemoryStorage();
+    const store = createFavoritesStore(storage, events);
+    const listener = vi.fn();
+    store.subscribe(listener);
+    store.toggle("local");
+
+    events.dispatch({ key: "other-key", newValue: JSON.stringify(["remote"]), storageArea: storage });
+    events.dispatch({ key: FAVORITES_STORAGE_KEY, newValue: JSON.stringify(["remote"]), storageArea: otherStorage });
+
+    expect(store.getSnapshot()).toEqual(["local"]);
+    expect(listener).toHaveBeenCalledTimes(1);
   });
 
   it("keeps getSnapshot identity stable between changes", () => {

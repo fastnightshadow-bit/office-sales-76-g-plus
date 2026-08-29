@@ -63,7 +63,7 @@ export function createFavoritesStore(
   };
 
   const onStorage = (event: StorageEvent): void => {
-    if (event.key !== FAVORITES_STORAGE_KEY) return;
+    if (event.key !== null && event.key !== FAVORITES_STORAGE_KEY) return;
     if (event.storageArea != null && storage !== undefined && event.storageArea !== storage) return;
     setSnapshot(parseStoredFavorites(event.newValue), false);
   };
