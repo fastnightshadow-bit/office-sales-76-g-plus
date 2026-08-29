@@ -1,0 +1,222 @@
+.page {
+  color: var(--color-text);
+  background: var(--color-white);
+}
+
+.hero {
+  padding-block: clamp(96px, 13vw, 176px) clamp(64px, 8vw, 108px);
+  background: var(--color-surface);
+}
+
+.heroInner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 0.54fr);
+  align-items: end;
+  gap: clamp(32px, 7vw, 96px);
+}
+
+.eyebrow {
+  margin-bottom: 16px;
+  color: var(--color-text);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.hero h1,
+.callbackCard h2,
+.messengerCard h2 {
+  color: var(--color-graphite);
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(4rem, 10vw, 8rem);
+  line-height: 0.86;
+  letter-spacing: -0.045em;
+}
+
+.heroInner > p {
+  max-width: 42ch;
+  margin: 0;
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  line-height: 1.7;
+}
+
+.contactSection,
+.visitSection {
+  padding-block: clamp(64px, 8vw, 112px);
+}
+
+.contactGrid,
+.visitGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.65fr);
+  gap: 16px;
+}
+
+.primaryContacts {
+  display: grid;
+  gap: 12px;
+}
+
+.contactCard {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(18px, 3vw, 30px);
+  min-height: 116px;
+  padding: clamp(22px, 3vw, 34px);
+  color: var(--color-graphite);
+  text-decoration: none;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  transition: transform var(--duration-fast) var(--ease-out), border-color var(--duration-fast) var(--ease-out);
+}
+
+.contactCard:hover {
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+}
+
+.contactCard svg,
+.addressCard > svg,
+.messengerCard > svg {
+  width: 28px;
+  height: 28px;
+  color: var(--color-accent);
+}
+
+.contactCard span { min-width: 0; }
+
+.contactCard small {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--color-text);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.contactCard strong {
+  overflow-wrap: anywhere;
+  font-family: var(--font-display);
+  font-size: clamp(1.55rem, 3vw, 2.45rem);
+  font-weight: 500;
+  line-height: 1;
+}
+
+.callbackCard,
+.addressCard,
+.messengerCard {
+  padding: clamp(28px, 4vw, 48px);
+  border-radius: var(--radius-card);
+}
+
+.callbackCard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-white);
+  background: var(--color-graphite);
+}
+
+.callbackCard .eyebrow,
+.callbackCard h2 { color: var(--color-white); }
+
+.callbackCard h2,
+.messengerCard h2 {
+  margin: 0 0 22px;
+  font-size: clamp(2.35rem, 4vw, 4rem);
+  line-height: 0.96;
+}
+
+.callbackCard > p:not(.eyebrow) {
+  margin-bottom: 34px;
+  line-height: 1.65;
+}
+
+.callbackCard button {
+  min-height: 52px;
+  margin-top: auto;
+  padding-inline: 24px;
+  color: var(--color-graphite);
+  font-weight: 800;
+  background: var(--color-white);
+  border: 0;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+}
+
+.visitSection { background: var(--color-surface); }
+
+.addressCard,
+.messengerCard {
+  min-height: 330px;
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+}
+
+.addressCard > svg,
+.messengerCard > svg { margin-bottom: 40px; }
+
+.addressCard address {
+  max-width: 20ch;
+  margin-bottom: 36px;
+  color: var(--color-graphite);
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  font-style: normal;
+  line-height: 1.03;
+}
+
+.addressCard a,
+.messengerLinks a {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 48px;
+  color: var(--color-graphite);
+  font-weight: 800;
+}
+
+.messengerLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.messengerLinks a {
+  padding-inline: 22px;
+  text-decoration: none;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+}
+
+@media (max-width: 800px) {
+  .heroInner,
+  .contactGrid,
+  .visitGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .contactCard { min-height: 102px; }
+  .addressCard, .messengerCard { min-height: 0; }
+}
+
+@media (max-width: 420px) {
+  .contactCard {
+    grid-template-columns: 34px minmax(0, 1fr);
+    gap: 12px;
+    padding-inline: 18px;
+  }
+
+  .contactCard svg { width: 23px; height: 23px; }
+  .contactCard strong { font-size: 1.45rem; }
+}

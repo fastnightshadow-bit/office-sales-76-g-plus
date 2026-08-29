@@ -1,0 +1,174 @@
+.page {
+  color: var(--color-text);
+  background: var(--color-white);
+}
+
+.hero {
+  padding-block: clamp(96px, 13vw, 176px) clamp(72px, 9vw, 124px);
+  background: var(--color-surface);
+}
+
+.heroInner {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(260px, 0.6fr);
+  align-items: end;
+  gap: clamp(32px, 6vw, 88px);
+}
+
+.eyebrow {
+  margin-bottom: 18px;
+  color: var(--color-text);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.hero h1,
+.sectionHeading h2,
+.identitySection h2 {
+  color: var(--color-graphite);
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(3.5rem, 9vw, 8rem);
+  line-height: 0.86;
+  letter-spacing: -0.045em;
+}
+
+.lead {
+  max-width: 40ch;
+  margin: 0;
+  font-size: clamp(1rem, 1.6vw, 1.25rem);
+  line-height: 1.7;
+}
+
+.claimsSection,
+.identitySection {
+  padding-block: clamp(72px, 9vw, 128px);
+}
+
+.sectionHeading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 0.62fr);
+  gap: clamp(28px, 6vw, 88px);
+  margin-bottom: clamp(40px, 6vw, 72px);
+}
+
+.sectionHeading h2,
+.identitySection h2 {
+  max-width: 12ch;
+  margin: 0;
+  font-size: clamp(2.7rem, 5vw, 5rem);
+  line-height: 0.96;
+  letter-spacing: -0.025em;
+}
+
+.disclaimer {
+  align-self: end;
+  max-width: 54ch;
+  margin: 0;
+  padding-left: 20px;
+  line-height: 1.7;
+  border-left: 3px solid var(--color-accent);
+}
+
+.claimGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.claimCard {
+  min-height: 250px;
+  padding: clamp(24px, 3vw, 40px);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+}
+
+.claimCard strong {
+  display: block;
+  margin-bottom: 44px;
+  color: var(--color-graphite);
+  font-family: var(--font-display);
+  font-size: clamp(3.3rem, 6vw, 5.7rem);
+  font-weight: 500;
+  line-height: 0.9;
+}
+
+.claimCard p,
+.services p {
+  margin: 0;
+  line-height: 1.65;
+}
+
+.services {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 32px;
+  margin-top: 16px;
+  padding: clamp(28px, 4vw, 48px);
+  color: var(--color-white);
+  background: var(--color-graphite);
+  border-radius: var(--radius-card);
+}
+
+.identitySection {
+  background: var(--color-surface);
+}
+
+.identityGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(320px, 1fr);
+  gap: clamp(36px, 8vw, 120px);
+}
+
+.identityList {
+  margin: 0;
+  border-top: 1px solid var(--color-border);
+}
+
+.identityList div {
+  display: grid;
+  grid-template-columns: minmax(100px, 0.34fr) 1fr;
+  gap: 20px;
+  padding-block: 22px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.identityList dt {
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.identityList dd {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+@media (max-width: 800px) {
+  .heroInner,
+  .sectionHeading,
+  .identityGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero h1 { max-width: 7ch; }
+  .lead { max-width: 48ch; }
+  .claimGrid { grid-template-columns: 1fr; }
+  .claimCard { min-height: auto; }
+  .claimCard strong { margin-bottom: 24px; }
+  .services { grid-template-columns: 1fr; gap: 24px; }
+}
+
+@media (max-width: 420px) {
+  .hero h1 { font-size: clamp(3.2rem, 18vw, 4.4rem); }
+  .identityList div { grid-template-columns: 1fr; gap: 8px; }
+}

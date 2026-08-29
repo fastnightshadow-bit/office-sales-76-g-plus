@@ -10,6 +10,9 @@ const HomePage = lazy(async () => import("../pages/HomePage/HomePage"));
 const CatalogPage = lazy(async () => import("../pages/CatalogPage/CatalogPage"));
 const ProjectPage = lazy(async () => import("../pages/ProjectPage/ProjectPage"));
 const FavoritesPage = lazy(async () => import("../pages/FavoritesPage/FavoritesPage"));
+const AboutPage = lazy(async () => import("../pages/AboutPage/AboutPage"));
+const ContactsPage = lazy(async () => import("../pages/ContactsPage/ContactsPage"));
+const LegalPage = lazy(async () => import("../pages/LegalPage/LegalPage"));
 
 function AppLayout() {
   const { pathname } = useLocation();
@@ -55,10 +58,10 @@ export const appRoutes: RouteObject[] = [
       { path: "catalog", element: <CatalogPage /> },
       { path: "catalog/:slug", element: <ProjectPage /> },
       { path: "favorites", element: <FavoritesPage /> },
-      { path: "about", element: <RoutePlaceholder title="О компании в следующем этапе" /> },
-      { path: "contacts", element: <RoutePlaceholder title="Контакты в следующем этапе" /> },
-      { path: "privacy", element: <RoutePlaceholder title="Политика в следующем этапе" /> },
-      { path: "consent", element: <RoutePlaceholder title="Согласие в следующем этапе" /> },
+      { path: "about", element: <AboutPage /> },
+      { path: "contacts", element: <ContactsPage /> },
+      { path: "privacy", element: <LegalPage kind="privacy" /> },
+      { path: "consent", element: <LegalPage kind="consent" /> },
       { path: "*", element: <RoutePlaceholder title="Такой страницы пока нет" /> },
     ],
   },
