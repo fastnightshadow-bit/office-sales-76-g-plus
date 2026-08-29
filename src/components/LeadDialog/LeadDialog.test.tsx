@@ -50,6 +50,30 @@ describe("LeadDialog", () => {
     expect(screen.getByRole("alert")).toBeInTheDocument();
   });
 
+  it("masks typed and pasted phones while allowing controlled deletion", async () => {
+    const user = userEvent.setup();
+    render(<LeadDialog open kind="callback" onClose={vi.fn()} />);
+    const phone = screen.getByLabelText("Телефон");
+
+    await user.type(phone, "9100000000");
+    expect(phone).toHaveValue("+7 (910) 000-00-00");
+
+    await user.clear(phone);
+    fireEvent.change(phone, { target: { value: "+79100000000" } });
+    expect(phone).toHaveValue("+7 (910) 000-00-00");
+
+    await user.keyboard("{Backspace}");
+    expect(phone).toHaveValue("+7 (910) 000-00-0");
+
+    await user.clear(phone);
+    await user.type(phone, "+79100000000");
+    expect(phone).toHaveValue("+7 (910) 000-00-00");
+
+    await user.clear(phone);
+    await user.type(phone, "89100000000");
+    expect(phone).toHaveValue("+7 (910) 000-00-00");
+  });
+
   it("traps keyboard focus and closes on Escape", async () => {
     const user = userEvent.setup();
     const onClose = vi.fn();
@@ -88,6 +112,27 @@ describe("LeadDialog", () => {
     unmount();
     expect(document.body.style.overflow).toBe("");
     void user;
+  });
+
+  it("keeps the modal locked and focused when an inline close callback changes", async () => {
+    const firstClose = vi.fn();
+    const latestClose = vi.fn();
+    const { rerender } = render(
+      <LeadDialog kind="viewing" onClose={() => firstClose()} open projectTitle="ЖК Новация" />,
+    );
+    const dialog = await screen.findByRole("dialog");
+    const phone = screen.getByLabelText("Телефон");
+    phone.focus();
+    rerender(<LeadDialog kind="viewing" onClose={() => latestClose()} open projectTitle="ЖК Новация" />);
+
+    expect(screen.getByRole("dialog")).toBe(dialog);
+    expect(document.body.style.overflow).toBe("hidden");
+    expect(document.getElementById("root")).toHaveAttribute("inert");
+    expect(phone).toHaveFocus();
+
+    fireEvent.keyDown(dialog, { key: "Escape" });
+    expect(firstClose).not.toHaveBeenCalled();
+    expect(latestClose).toHaveBeenCalledTimes(1);
   });
 
   it("clears a draft when the dialog is closed and reopened", async () => {

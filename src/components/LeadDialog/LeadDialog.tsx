@@ -7,7 +7,7 @@ import {
   type FormEvent,
 } from "react";
 import { createPortal } from "react-dom";
-import { validateLead } from "../../features/leads/lead-validation";
+import { formatRussianPhoneInput, validateLead } from "../../features/leads/lead-validation";
 import type { LeadDraft, LeadErrors, LeadKind } from "../../features/leads/lead.types";
 import { Button } from "../Button/Button";
 import styles from "./LeadDialog.module.css";
@@ -90,8 +90,13 @@ export function LeadDialog({ open, kind, projectTitle, onClose }: LeadDialogProp
   const phoneRef = useRef<HTMLInputElement>(null);
   const triggerRef = useRef<HTMLElement | null>(null);
   const wasOpenRef = useRef(false);
+  const onCloseRef = useRef(onClose);
 
   const copy = copyByKind[kind];
+
+  useEffect(() => {
+    onCloseRef.current = onClose;
+  }, [onClose]);
 
   useEffect(() => {
     if (typeof document === "undefined") return;
@@ -162,7 +167,7 @@ export function LeadDialog({ open, kind, projectTitle, onClose }: LeadDialogProp
         setDraft(makeDraft(kind, projectTitle));
         setErrors({});
         setSubmitted(false);
-        onClose();
+        onCloseRef.current();
         return;
       }
       if (event.key !== "Tab" || !dialogRef.current) return;
@@ -192,7 +197,7 @@ export function LeadDialog({ open, kind, projectTitle, onClose }: LeadDialogProp
       }
       restoreTriggerFocus();
     };
-  }, [onClose, open, portalElement]);
+  }, [open, portalElement]);
 
   useEffect(() => {
     if (!open || !portalElement) return;
@@ -224,7 +229,11 @@ export function LeadDialog({ open, kind, projectTitle, onClose }: LeadDialogProp
   };
 
   const updateField = (field: keyof Pick<LeadDraft, "name" | "phone" | "comment">, value: string) => {
-    const nextValue = field === "comment" ? value.slice(0, MAX_COMMENT_LENGTH) : value;
+    const nextValue = field === "comment"
+      ? value.slice(0, MAX_COMMENT_LENGTH)
+      : field === "phone"
+        ? formatRussianPhoneInput(value)
+        : value;
     setDraft((current) => ({ ...current, [field]: nextValue }));
     if (field in errors) {
       setErrors((current) => {
