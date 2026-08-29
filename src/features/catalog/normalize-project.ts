@@ -9,14 +9,14 @@ import type {
   SourceProjectInput,
 } from "./catalog.types";
 
-const ROOM_KEYS: RoomKey[] = ["studio", "1", "2", "3", "4+"];
+const ROOM_KEYS: RoomKey[] = ["studio", "1", "2", "3", "4+", "commercial"];
 
 const ROOM_LABELS: Array<[RoomKey, RegExp]> = [
   ["studio", /студ|studio/i],
-  ["1", /(?:^|\D)1(?:\s*[-–—]?\s*комн|\s*к(?:омн)?\.?|\s*bed)|однокомн/i],
-  ["2", /(?:^|\D)2(?:\s*[-–—]?\s*комн|\s*к(?:омн)?\.?|\s*bed)|двухкомн/i],
-  ["3", /(?:^|\D)3(?:\s*[-–—]?\s*комн|\s*к(?:омн)?\.?|\s*bed)|трёхкомн|трехкомн/i],
-  ["4+", /4\s*\+|4\s*(?:[-–—]?\s*комн|\s*к(?:омн)?\.?|\s*bed)|многокомн/i],
+  ["1", /(?:^|\D)1(?:\s*[-–—]?\s*(?:комн|к(?:омн)?\.?)|\s*bed)|однокомн/i],
+  ["2", /(?:^|\D)2(?:\s*[-–—]?\s*(?:комн|к(?:омн)?\.?)|\s*bed)|двухкомн/i],
+  ["3", /(?:^|\D)3(?:\s*[-–—]?\s*(?:комн|к(?:омн)?\.?)|\s*bed)|трёхкомн|трехкомн/i],
+  ["4+", /4\s*\+|4(?:\s*[-–—]?\s*(?:комн|к(?:омн)?\.?)|\s*bed)|многокомн/i],
 ];
 
 function clean(value: string | undefined): string | undefined {
@@ -105,6 +105,13 @@ function normalizeRoomKey(label: string | undefined): RoomKey | undefined {
   if (ROOM_KEYS.includes(normalized as RoomKey)) {
     return normalized as RoomKey;
   }
+  if (/торгово[-\s]?офис|нежил/i.test(normalized)) {
+    return "commercial";
+  }
+  const euroRoom = normalized.match(/^([1-4])\s*(?:\+\s*евро|евро\s*\+)/i)?.[1];
+  if (euroRoom) {
+    return euroRoom === "4" ? "4+" : euroRoom as RoomKey;
+  }
   return ROOM_LABELS.find(([, pattern]) => pattern.test(normalized))?.[0];
 }
 
@@ -127,14 +134,16 @@ function imageAsset(url: string | undefined): ImageAsset | undefined {
 }
 
 function normalizeLayout(source: SourceLayoutInput): Layout | undefined {
-  const room = normalizeRoomKey(source.roomLabel);
-  if (!room) {
+  const roomLabel = clean(source.roomLabel);
+  const room = normalizeRoomKey(roomLabel);
+  if (!room || !roomLabel) {
     return undefined;
   }
 
   const layout: Layout = {
     id: source.id,
     room,
+    roomLabel,
     notes: source.notes?.map((note) => note.trim()).filter(Boolean) ?? [],
   };
   const area = normalizeNumberLabel(source.areaLabel);

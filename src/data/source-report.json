@@ -1,0 +1,21 @@
+{
+  "importedProjects": 92,
+  "duplicateSlugs": 0,
+  "invalidRecords": 0,
+  "missingPrices": 11,
+  "missingCompletionDates": 0,
+  "missingCovers": 0,
+  "failedAssets": 0,
+  "discoveredAssets": 2865,
+  "selectedAssets": 795,
+  "omittedAssets": 2070,
+  "cachedImages": 796,
+  "imageVariants": 2288,
+  "mediaBytes": 118635935,
+  "verifiedDocuments": 262,
+  "unverifiedDocuments": 0,
+  "sourceLayouts": 1485,
+  "importedLayouts": 1485,
+  "sourceCheckedAt": "2026-08-29",
+  "failedAssetDetails": []
+}

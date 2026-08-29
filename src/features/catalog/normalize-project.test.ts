@@ -27,6 +27,43 @@ it("does not invent missing prices", () => {
   expect(project.dataQualityFlags).toContain("missing-price");
 });
 
+it("preserves layouts whose source uses a hyphenated compact room label", () => {
+  const project = normalizeProject({
+    slug: "primer",
+    title: "ЖК Пример",
+    sourceUrl: "https://example.test/catalog/primer/",
+    sourceCheckedAt: "2026-08-29",
+    layouts: [{ id: "flat-2k", roomLabel: "2-к квартира", areaLabel: "56,4 м²" }],
+  });
+
+  expect(project.layouts).toEqual([{
+    id: "flat-2k",
+    room: "2",
+    roomLabel: "2-к квартира",
+    area: 56.4,
+    notes: [],
+  }]);
+});
+
+it.each([
+  ["1 + евро", "1"],
+  ["2 + евродвушка", "2"],
+  ["3+евро", "3"],
+  ["4 евро+", "4+"],
+  ["Торгово-офисное", "commercial"],
+  ["нежилое", "commercial"],
+] as const)("preserves the exact source room label %s as %s", (roomLabel, room) => {
+  const project = normalizeProject({
+    slug: "primer",
+    title: "ЖК Пример",
+    sourceUrl: "https://example.test/catalog/primer/",
+    sourceCheckedAt: "2026-08-29",
+    layouts: [{ id: "layout", roomLabel }],
+  });
+
+  expect(project.layouts).toEqual([{ id: "layout", room, roomLabel, notes: [] }]);
+});
+
 it("formats total price without a square-metre suffix", () => {
   expect(formatMoney(6_900_000)).toBe("6,9 млн ₽");
 });

@@ -1,4 +1,4 @@
-export type RoomKey = "studio" | "1" | "2" | "3" | "4+";
+export type RoomKey = "studio" | "1" | "2" | "3" | "4+" | "commercial";
 
 export type DataQualityFlag =
   | "missing-price"
@@ -16,6 +16,7 @@ export interface RoomPrice {
 export interface Layout {
   id: string;
   room: RoomKey;
+  roomLabel: string;
   area?: number;
   price?: number;
   pricePerMeter?: number;

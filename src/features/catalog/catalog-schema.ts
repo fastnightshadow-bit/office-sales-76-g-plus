@@ -1,6 +1,15 @@
 import { z } from "zod";
 
-export const roomKeySchema = z.enum(["studio", "1", "2", "3", "4+"]);
+const imageUrlSchema = z.string().refine((value) => {
+  if (/^\/media\/[a-zA-Z0-9._~!$&'()*+,;=:@%/-]+$/.test(value)) return true;
+  try {
+    return ["http:", "https:"].includes(new URL(value).protocol);
+  } catch {
+    return false;
+  }
+}, "Expected a local /media path or an HTTP(S) URL");
+
+export const roomKeySchema = z.enum(["studio", "1", "2", "3", "4+", "commercial"]);
 
 export const dataQualityFlagSchema = z.enum([
   "missing-price",
@@ -12,13 +21,13 @@ export const dataQualityFlagSchema = z.enum([
 ]);
 
 export const imageVariantSchema = z.object({
-  url: z.string().url(),
+  url: imageUrlSchema,
   width: z.union([z.literal(480), z.literal(960), z.literal(1440), z.literal(1920)]),
   format: z.enum(["avif", "webp"]),
 });
 
 export const imageAssetSchema = z.object({
-  src: z.string().url(),
+  src: imageUrlSchema,
   variants: z.array(imageVariantSchema),
 });
 
@@ -36,6 +45,7 @@ export const projectDocumentSchema = z.object({
 export const layoutSchema = z.object({
   id: z.string().min(1),
   room: roomKeySchema,
+  roomLabel: z.string().min(1),
   area: z.number().positive().optional(),
   price: z.number().positive().optional(),
   pricePerMeter: z.number().positive().optional(),
