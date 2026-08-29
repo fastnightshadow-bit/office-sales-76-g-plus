@@ -1,5 +1,17 @@
 export type RoomKey = "studio" | "1" | "2" | "3" | "4+" | "commercial";
 
+export type CompletionFilter = "all" | "ready" | "2026" | "2027" | "2028+";
+export type CatalogSort = "featured" | "price-asc" | "price-desc" | "completion";
+
+export interface CatalogQuery {
+  text?: string;
+  district?: string;
+  rooms?: RoomKey[];
+  maximumPrice?: number;
+  completion?: CompletionFilter;
+  sort?: CatalogSort;
+}
+
 export type DataQualityFlag =
   | "missing-price"
   | "missing-completion"
