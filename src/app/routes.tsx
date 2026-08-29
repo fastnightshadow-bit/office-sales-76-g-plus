@@ -8,6 +8,7 @@ import styles from "./App.module.css";
 
 const HomePage = lazy(async () => import("../pages/HomePage/HomePage"));
 const CatalogPage = lazy(async () => import("../pages/CatalogPage/CatalogPage"));
+const ProjectPage = lazy(async () => import("../pages/ProjectPage/ProjectPage"));
 const FavoritesPage = lazy(async () => import("../pages/FavoritesPage/FavoritesPage"));
 
 function AppLayout() {
@@ -52,7 +53,7 @@ export const appRoutes: RouteObject[] = [
     children: [
       { index: true, element: <HomePage /> },
       { path: "catalog", element: <CatalogPage /> },
-      { path: "catalog/:slug", element: <RoutePlaceholder title="Карточка проекта в следующем этапе" /> },
+      { path: "catalog/:slug", element: <ProjectPage /> },
       { path: "favorites", element: <FavoritesPage /> },
       { path: "about", element: <RoutePlaceholder title="О компании в следующем этапе" /> },
       { path: "contacts", element: <RoutePlaceholder title="Контакты в следующем этапе" /> },
