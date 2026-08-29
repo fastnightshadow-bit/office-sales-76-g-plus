@@ -20,21 +20,6 @@
 
 .main { min-height: 60vh; }
 
-.placeholder {
-  display: grid;
-  min-height: 62vh;
-  place-items: center;
-  padding-block: clamp(96px, 14vw, 180px);
-  text-align: center;
-  background: var(--color-surface);
-}
-
-.placeholderInner { max-width: 700px; }
-.placeholderBadge { margin-bottom: 14px; color: var(--color-accent-dark); font-size: 0.74rem; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; }
-.placeholder h1 { margin-bottom: 20px; color: var(--color-graphite); font-family: var(--font-display); font-size: clamp(3rem, 7vw, 6rem); font-weight: 500; line-height: 0.92; }
-.placeholder p { margin: 0 auto 28px; line-height: 1.7; }
-.placeholder a { display: inline-flex; align-items: center; min-height: 48px; padding-inline: 24px; color: var(--color-white); font-weight: 700; text-decoration: none; background: var(--color-graphite); border-radius: var(--radius-pill); }
-
 @media (max-width: 1023px) {
   .app { padding-bottom: calc(68px + env(safe-area-inset-bottom)); }
 }

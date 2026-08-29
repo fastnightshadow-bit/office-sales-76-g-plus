@@ -1,9 +1,12 @@
 import { lazy, Suspense } from "react";
-import { createBrowserRouter, Link, Outlet, type RouteObject, useLocation } from "react-router-dom";
+import { createBrowserRouter, Outlet, type RouteObject, useLocation } from "react-router-dom";
 import { MobileBottomNav } from "../components/MobileBottomNav/MobileBottomNav";
 import { PageSkeleton } from "../components/PageSkeleton/PageSkeleton";
 import { SiteFooter } from "../components/SiteFooter/SiteFooter";
 import { SiteHeader } from "../components/SiteHeader/SiteHeader";
+import { getRouteSeo } from "../seo/seo-config";
+import { Seo } from "../seo/Seo";
+import { AppErrorBoundary } from "./AppErrorBoundary";
 import styles from "./App.module.css";
 
 const HomePage = lazy(async () => import("../pages/HomePage/HomePage"));
@@ -13,11 +16,14 @@ const FavoritesPage = lazy(async () => import("../pages/FavoritesPage/FavoritesP
 const AboutPage = lazy(async () => import("../pages/AboutPage/AboutPage"));
 const ContactsPage = lazy(async () => import("../pages/ContactsPage/ContactsPage"));
 const LegalPage = lazy(async () => import("../pages/LegalPage/LegalPage"));
+const NotFoundPage = lazy(async () => import("../pages/NotFoundPage/NotFoundPage"));
 
 function AppLayout() {
   const { pathname } = useLocation();
+  const seo = getRouteSeo(pathname);
   return (
     <div className={styles.app}>
+      <Seo {...seo} />
       <a className={styles.skipLink} href="#main-content">К содержанию</a>
       <SiteHeader mode={pathname === "/" ? "overlay" : "solid"} />
       <main className={styles.main} id="main-content">
@@ -31,38 +37,25 @@ function AppLayout() {
   );
 }
 
-function RoutePlaceholder({ title }: { title: string }) {
-  return (
-    <section className={styles.placeholder}>
-      <div className={`container ${styles.placeholderInner}`}>
-        <p className={styles.placeholderBadge}>Частная демонстрация</p>
-        <h1>{title}</h1>
-        <p>Этот раздел будет собран на следующем этапе. Главная уже использует локальный проверенный снимок каталога.</p>
-        <Link to="/">Вернуться на главную</Link>
-      </div>
-    </section>
-  );
-}
-
-function RouteError() {
-  return <RoutePlaceholder title="Страница временно недоступна" />;
-}
-
 export const appRoutes: RouteObject[] = [
   {
     path: "/",
     element: <AppLayout />,
-    errorElement: <RouteError />,
     children: [
-      { index: true, element: <HomePage /> },
-      { path: "catalog", element: <CatalogPage /> },
-      { path: "catalog/:slug", element: <ProjectPage /> },
-      { path: "favorites", element: <FavoritesPage /> },
-      { path: "about", element: <AboutPage /> },
-      { path: "contacts", element: <ContactsPage /> },
-      { path: "privacy", element: <LegalPage kind="privacy" /> },
-      { path: "consent", element: <LegalPage kind="consent" /> },
-      { path: "*", element: <RoutePlaceholder title="Такой страницы пока нет" /> },
+      {
+        errorElement: <AppErrorBoundary />,
+        children: [
+          { index: true, element: <HomePage /> },
+          { path: "catalog", element: <CatalogPage /> },
+          { path: "catalog/:slug", element: <ProjectPage /> },
+          { path: "favorites", element: <FavoritesPage /> },
+          { path: "about", element: <AboutPage /> },
+          { path: "contacts", element: <ContactsPage /> },
+          { path: "privacy", element: <LegalPage kind="privacy" /> },
+          { path: "consent", element: <LegalPage kind="consent" /> },
+          { path: "*", element: <NotFoundPage /> },
+        ],
+      },
     ],
   },
 ];

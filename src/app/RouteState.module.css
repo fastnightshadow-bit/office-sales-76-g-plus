@@ -1,0 +1,26 @@
+.state {
+  display: grid;
+  min-height: 62vh;
+  place-items: center;
+  padding-block: clamp(92px, 13vw, 168px);
+  color: var(--color-text);
+  background: var(--color-surface);
+}
+
+.inner { max-width: 780px; text-align: center; }
+.eyebrow { margin-bottom: 14px; color: var(--color-graphite); font-size: 0.74rem; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; }
+.inner h1 { margin-bottom: 22px; color: var(--color-graphite); font-family: var(--font-display); font-size: clamp(3.2rem, 7vw, 6.3rem); font-weight: 500; letter-spacing: -0.04em; line-height: 0.9; text-wrap: balance; }
+.inner h1:focus { outline: 3px solid var(--color-accent); outline-offset: 8px; }
+.explanation { max-width: 650px; margin: 0 auto 32px; font-size: 1rem; line-height: 1.75; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 12px; }
+.primary, .secondary, .textLink { display: inline-flex; min-height: 50px; align-items: center; justify-content: center; padding: 0 23px; font: inherit; font-weight: 750; border-radius: var(--radius-pill); cursor: pointer; }
+.primary { color: var(--color-white); background: var(--color-graphite); border: 1px solid var(--color-graphite); }
+.secondary { color: var(--color-graphite); text-decoration: none; background: var(--color-white); border: 1px solid var(--color-border); }
+.textLink { color: var(--color-graphite); text-underline-offset: 4px; background: transparent; }
+.primary:focus-visible, .secondary:focus-visible, .textLink:focus-visible { outline: 3px solid var(--color-accent); outline-offset: 3px; }
+
+@media (max-width: 520px) {
+  .state { min-height: 68vh; padding-block: 82px; }
+  .actions { align-items: stretch; flex-direction: column; }
+  .primary, .secondary, .textLink { width: 100%; }
+}
