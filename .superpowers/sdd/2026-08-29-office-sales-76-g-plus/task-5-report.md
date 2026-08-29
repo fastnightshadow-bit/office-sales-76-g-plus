@@ -68,3 +68,13 @@ The delivered shell uses the approved white / soft-green / graphite visual direc
 - Source snapshot files, catalog domain contracts, generated JSON, and generated media were not modified.
 - No backend, network submission, analytics, storage, router expansion, home sections, catalog page, or lead flow was introduced.
 - Interactive browser QA could not be completed in this worker because the sandbox rejected the local Vite listener with `listen EPERM`; the permission escalation produced no output and was aborted. Root will run preview/browser QA after this scoped commit. Static responsive rules and all DOM-level interaction/accessibility contracts above are verified.
+
+## Fix round 1/5
+
+Addressed the three Important findings from the Task 5 review without changing the approved G+ direction:
+
+- `SiteHeader` now closes and fully cleans up the mobile dialog on React Router location changes, including programmatic navigation and Back, and when `(min-width: 1024px)` becomes true. Location/breakpoint cleanup does not restore focus into a stale trigger; explicit Escape and close-button actions still restore focus. Media-query listeners are removed on cleanup.
+- The mobile panel is constrained to `100dvh`, scrolls internally with overscroll containment, preserves safe-area padding, and keeps the header/close control sticky and reachable on short or landscape viewports. Navigation and phone contact remain reachable in the scroll flow.
+- SectionHeading descriptions and the small mobile-contact copy now use the approved `--color-text` token instead of `--color-muted`, preserving the palette while meeting WCAG AA for ordinary text.
+
+Added regressions cover programmatic navigation, browser-back navigation, breakpoint crossing with mocked `matchMedia`, mobile-panel layout declarations, and AA-safe token applications. Fix-round verification: shell suite 16 tests passed; full suite 14 files / 118 tests passed; typecheck, lint, production build, and `git diff --check` passed. Browser/visual QA remains for the root worker.

@@ -1,7 +1,10 @@
-import { cleanup, fireEvent, render, screen, within } from "@testing-library/react";
+import { act, cleanup, fireEvent, render, screen, within } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
+import { readFileSync } from "node:fs";
+import { resolve } from "node:path";
 import { renderToString } from "react-dom/server";
-import { MemoryRouter } from "react-router-dom";
+import { MemoryRouter, useNavigate } from "react-router-dom";
+import type { NavigateFunction } from "react-router-dom";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { Button } from "../components/Button/Button";
 import { DemoNotice } from "../components/DemoNotice/DemoNotice";
@@ -12,6 +15,10 @@ import { Reveal } from "../components/Reveal/Reveal";
 import { SiteFooter } from "../components/SiteFooter/SiteFooter";
 import { SiteHeader } from "../components/SiteHeader/SiteHeader";
 import type { ImageAsset } from "../features/catalog/catalog.types";
+
+const siteHeaderCss = resolve(process.cwd(), "src/components/SiteHeader/SiteHeader.module.css");
+const sectionHeadingCss = resolve(process.cwd(), "src/components/SectionHeading/SectionHeading.module.css");
+const tokensCss = resolve(process.cwd(), "src/styles/tokens.css");
 
 const imageAsset: ImageAsset = {
   src: "/media/projects/example/cover-960.webp",
@@ -87,7 +94,118 @@ describe("G+ application shell", () => {
     expect(screen.queryByRole("dialog", { name: "Навигация" })).not.toBeInTheDocument();
     expect(document.body.style.overflow).toBe("");
     expect(container).not.toHaveAttribute("inert");
-    expect(trigger).toHaveFocus();
+    expect(trigger).not.toHaveFocus();
+  });
+
+  it("closes and cleans up when the location changes without restoring stale trigger focus", async () => {
+    const user = userEvent.setup();
+    let navigateTo: NavigateFunction | undefined;
+
+    function NavigationDriver() {
+      navigateTo = useNavigate();
+      return null;
+    }
+
+    const { container } = render(
+      <MemoryRouter initialEntries={["/"]}>
+        <SiteHeader forceMobileForTest />
+        <NavigationDriver />
+      </MemoryRouter>,
+    );
+
+    const trigger = screen.getByRole("button", { name: "Открыть меню" });
+    await user.click(trigger);
+    expect(screen.getByRole("dialog", { name: "Навигация" })).toBeVisible();
+    expect(container).toHaveAttribute("aria-hidden", "true");
+
+    act(() => navigateTo?.("/catalog"));
+
+    expect(screen.queryByRole("dialog", { name: "Навигация" })).not.toBeInTheDocument();
+    expect(document.body.style.overflow).toBe("");
+    expect(container).not.toHaveAttribute("aria-hidden");
+    expect(container).not.toHaveAttribute("inert");
+    expect(trigger).not.toHaveFocus();
+  });
+
+  it("closes on browser-back navigation while the dialog is open", async () => {
+    const user = userEvent.setup();
+    let navigateTo: NavigateFunction | undefined;
+
+    function NavigationDriver() {
+      navigateTo = useNavigate();
+      return null;
+    }
+
+    const { container } = render(
+      <MemoryRouter initialEntries={["/", "/catalog"]} initialIndex={1}>
+        <SiteHeader forceMobileForTest />
+        <NavigationDriver />
+      </MemoryRouter>,
+    );
+
+    const trigger = screen.getByRole("button", { name: "Открыть меню" });
+    await user.click(trigger);
+    expect(screen.getByRole("dialog", { name: "Навигация" })).toBeVisible();
+
+    act(() => navigateTo?.(-1));
+
+    expect(screen.queryByRole("dialog", { name: "Навигация" })).not.toBeInTheDocument();
+    expect(document.body.style.overflow).toBe("");
+    expect(container).not.toHaveAttribute("aria-hidden");
+    expect(container).not.toHaveAttribute("inert");
+    expect(trigger).not.toHaveFocus();
+  });
+
+  it("closes when the viewport crosses into the desktop breakpoint", async () => {
+    const user = userEvent.setup();
+    const listeners = new Set<(event: MediaQueryListEvent) => void>();
+    const mediaQuery = {
+      matches: false,
+      media: "(min-width: 1024px)",
+      onchange: null,
+      addEventListener: (_type: string, listener: (event: MediaQueryListEvent) => void) => listeners.add(listener),
+      removeEventListener: (_type: string, listener: (event: MediaQueryListEvent) => void) => listeners.delete(listener),
+      addListener: () => undefined,
+      removeListener: () => undefined,
+      dispatchEvent: () => true,
+    };
+    vi.stubGlobal("matchMedia", vi.fn(() => mediaQuery as unknown as MediaQueryList));
+
+    render(
+      <MemoryRouter>
+        <SiteHeader forceMobileForTest />
+      </MemoryRouter>,
+    );
+
+    await user.click(screen.getByRole("button", { name: "Открыть меню" }));
+    expect(screen.getByRole("dialog", { name: "Навигация" })).toBeVisible();
+
+    mediaQuery.matches = true;
+    act(() => {
+      listeners.forEach((listener) => listener({ matches: true, media: mediaQuery.media } as MediaQueryListEvent));
+    });
+
+    expect(screen.queryByRole("dialog", { name: "Навигация" })).not.toBeInTheDocument();
+    expect(document.body.style.overflow).toBe("");
+  });
+
+  it("keeps short mobile dialogs scrollable with reachable controls", () => {
+    const css = readFileSync(siteHeaderCss, "utf8");
+
+    expect(css).toMatch(/\.mobileDialog\s*\{[\s\S]*height:\s*100dvh;[\s\S]*max-height:\s*100dvh;/);
+    expect(css).toMatch(/\.mobileDialog\s*\{[\s\S]*overflow-y:\s*auto;[\s\S]*overscroll-behavior:\s*contain;/);
+    expect(css).toMatch(/\.mobileDialogHeader\s*\{[\s\S]*position:\s*sticky;[\s\S]*top:\s*0;/);
+    expect(css).toMatch(/\.mobileDialog\s*\{[\s\S]*safe-area-inset-top[\s\S]*safe-area-inset-bottom/);
+  });
+
+  it("uses an AA-safe text token for ordinary small copy", () => {
+    const tokens = readFileSync(tokensCss, "utf8");
+    const heading = readFileSync(sectionHeadingCss, "utf8");
+    const header = readFileSync(siteHeaderCss, "utf8");
+
+    expect(tokens).toMatch(/--color-text:\s*#1c2721/i);
+    expect(heading).toMatch(/\.description\s*\{[\s\S]*color:\s*var\(--color-text\);/);
+    expect(header).toMatch(/\.mobileContact\s*\{[\s\S]*color:\s*var\(--color-text\);/);
   });
 
   it("restores body and background state when an open header unmounts", async () => {

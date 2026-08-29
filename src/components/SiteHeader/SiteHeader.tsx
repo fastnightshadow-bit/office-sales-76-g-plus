@@ -6,7 +6,7 @@ import {
   useState,
 } from "react";
 import { createPortal } from "react-dom";
-import { Link, NavLink } from "react-router-dom";
+import { Link, NavLink, useLocation } from "react-router-dom";
 import companyJson from "../../data/company.json";
 import { companyDataSchema } from "../../features/company/company.types";
 import styles from "./SiteHeader.module.css";
@@ -49,9 +49,18 @@ export function SiteHeader({
   const [menuOpen, setMenuOpen] = useState(false);
   const [portalElement, setPortalElement] = useState<HTMLDivElement | null>(null);
   const menuId = useId();
+  const location = useLocation();
+  const locationSignature = `${location.key}:${location.pathname}:${location.search}:${location.hash}`;
   const triggerRef = useRef<HTMLButtonElement>(null);
   const dialogRef = useRef<HTMLDivElement>(null);
   const wasOpenRef = useRef(false);
+  const restoreFocusRef = useRef(false);
+  const previousLocationSignatureRef = useRef(locationSignature);
+
+  const closeMenu = (restoreFocus = true) => {
+    restoreFocusRef.current = restoreFocus;
+    setMenuOpen(false);
+  };
 
   useEffect(() => {
     if (typeof document === "undefined") return;
@@ -66,6 +75,13 @@ export function SiteHeader({
   }, []);
 
   useEffect(() => {
+    if (previousLocationSignatureRef.current === locationSignature) return;
+
+    previousLocationSignatureRef.current = locationSignature;
+    closeMenu(false);
+  }, [locationSignature]);
+
+  useEffect(() => {
     if (menuOpen) {
       wasOpenRef.current = true;
       return;
@@ -73,8 +89,38 @@ export function SiteHeader({
 
     if (wasOpenRef.current) {
       wasOpenRef.current = false;
-      triggerRef.current?.focus();
+      if (!restoreFocusRef.current) return;
+
+      restoreFocusRef.current = false;
+      const trigger = triggerRef.current;
+      if (trigger && document.contains(trigger) && !trigger.disabled) trigger.focus();
     }
+  }, [menuOpen]);
+
+  useEffect(() => {
+    if (typeof window === "undefined" || typeof window.matchMedia !== "function") return;
+
+    const mediaQuery = window.matchMedia("(min-width: 1024px)");
+    const closeForDesktop = (matches: boolean) => {
+      if (!matches) return;
+      closeMenu(false);
+    };
+    const onChange = (event: MediaQueryListEvent) => closeForDesktop(event.matches);
+
+    closeForDesktop(mediaQuery.matches);
+    if (mediaQuery.addEventListener) {
+      mediaQuery.addEventListener("change", onChange);
+    } else {
+      mediaQuery.addListener?.(onChange);
+    }
+
+    return () => {
+      if (mediaQuery.removeEventListener) {
+        mediaQuery.removeEventListener("change", onChange);
+      } else {
+        mediaQuery.removeListener?.(onChange);
+      }
+    };
   }, [menuOpen]);
 
   useEffect(() => {
@@ -104,7 +150,7 @@ export function SiteHeader({
     const onKeyDown = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
         event.preventDefault();
-        setMenuOpen(false);
+        closeMenu();
         return;
       }
 
@@ -140,8 +186,6 @@ export function SiteHeader({
     };
   }, [menuOpen, portalElement]);
 
-  const closeMenu = () => setMenuOpen(false);
-
   const mobileDialog = menuOpen && portalElement
     ? createPortal(
         <div
@@ -165,7 +209,7 @@ export function SiteHeader({
               <button
                 aria-label="Закрыть меню"
                 className={styles.iconButton}
-                onClick={closeMenu}
+                onClick={() => closeMenu()}
                 type="button"
               >
                 <X aria-hidden="true" size={24} strokeWidth={1.8} />
@@ -178,7 +222,7 @@ export function SiteHeader({
                   className={({ isActive }) => isActive ? styles.mobileLinkActive : styles.mobileLink}
                   end={item.end}
                   key={item.label}
-                  onClick={closeMenu}
+                  onClick={() => closeMenu(false)}
                   to={item.to}
                 >
                   {item.label}

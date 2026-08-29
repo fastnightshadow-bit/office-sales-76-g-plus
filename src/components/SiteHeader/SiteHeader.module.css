@@ -146,6 +146,7 @@
   inset: 0;
   display: flex;
   justify-content: flex-end;
+  overflow: hidden;
   background: rgb(23 34 29 / 42%);
 }
 
@@ -153,19 +154,29 @@
   display: flex;
   flex-direction: column;
   width: min(100%, 520px);
-  min-height: 100%;
-  min-height: 100dvh;
+  height: 100dvh;
+  max-height: 100dvh;
+  min-height: 0;
   padding: max(20px, env(safe-area-inset-top)) clamp(20px, 6vw, 36px) max(28px, env(safe-area-inset-bottom));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
   color: var(--color-graphite);
   background: var(--color-white);
   box-shadow: var(--shadow-soft);
+  -webkit-overflow-scrolling: touch;
 }
 
 .mobileDialogHeader {
+  position: sticky;
+  z-index: 1;
+  top: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex: 0 0 auto;
   min-height: 52px;
+  background: var(--color-white);
 }
 
 .dialogTitle {
@@ -182,7 +193,7 @@
 
 .mobileNav {
   display: flex;
-  flex: 1;
+  flex: 1 0 auto;
   flex-direction: column;
   justify-content: center;
   padding: 32px 0;
@@ -208,8 +219,9 @@
 
 .mobileContact {
   display: grid;
+  flex: 0 0 auto;
   gap: 10px;
-  color: var(--color-muted);
+  color: var(--color-text);
   font-size: 0.78rem;
 }
 
