@@ -1,0 +1,112 @@
+.hero {
+  position: relative;
+  display: flex;
+  min-height: clamp(720px, 92vh, 920px);
+  align-items: flex-end;
+  overflow: hidden;
+  color: var(--color-white);
+  background: var(--color-graphite);
+}
+
+.heroImage { position: absolute; z-index: 0; inset: 0; width: 100%; height: 100%; border-radius: 0; }
+.heroImageElement { width: 100%; height: 100%; object-fit: cover; object-position: 58% 52%; }
+.heroOverlay { position: absolute; z-index: 1; inset: 0; background: linear-gradient(90deg, rgb(14 24 19 / 84%) 0%, rgb(14 24 19 / 62%) 46%, rgb(14 24 19 / 38%) 78%, rgb(14 24 19 / 46%) 100%); }
+.heroInner { position: relative; z-index: 2; display: grid; gap: clamp(36px, 6vh, 62px); padding-top: clamp(138px, 18vh, 190px); padding-bottom: clamp(42px, 7vh, 68px); }
+.heroCopy { max-width: 770px; }
+.heroEyebrow { margin-bottom: 18px; color: rgb(255 255 255 / 86%); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; }
+.heroCopy h1 { max-width: 750px; margin-bottom: 22px; font-family: var(--font-display); font-size: clamp(4.4rem, 7vw, 7.4rem); font-weight: 500; letter-spacing: -0.05em; line-height: 0.82; text-wrap: balance; }
+.heroCopy > p:last-child { max-width: 590px; margin-bottom: 0; color: rgb(255 255 255 / 88%); font-size: clamp(0.96rem, 1.4vw, 1.12rem); line-height: 1.7; }
+
+.whiteSection { background: var(--color-white); }
+.surfaceSection { background: var(--color-surface); }
+.sectionInner { padding-block: clamp(76px, 10vw, 132px); }
+
+.metrics { display: grid; grid-template-columns: minmax(280px, 1.45fr) repeat(3, minmax(150px, 0.55fr)); align-items: end; gap: 0; padding-block: clamp(64px, 8vw, 96px); }
+.metricIntro { max-width: 390px; padding-right: 40px; }
+.metricIntro > p:last-child { margin-bottom: 0; line-height: 1.65; }
+.kicker { margin-bottom: 14px; color: var(--color-accent-dark); font-size: 0.7rem; font-style: normal; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
+.metric { min-height: 120px; padding: 10px 24px 6px; border-left: 1px solid var(--color-border); }
+.metric strong { display: block; margin-bottom: 5px; color: var(--color-graphite); font-family: var(--font-display); font-size: clamp(2.5rem, 4vw, 4.4rem); font-weight: 500; letter-spacing: -0.045em; line-height: 0.9; }
+
+.sectionTopline { display: flex; align-items: flex-end; justify-content: space-between; gap: 40px; margin-bottom: 48px; }
+.textLink { display: inline-flex; align-items: center; min-height: 44px; flex: 0 0 auto; gap: 8px; color: var(--color-graphite); font-size: 0.84rem; font-weight: 760; text-decoration: none; border-bottom: 1px solid var(--color-graphite); }
+.featuredGrid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(18px, 2.4vw, 30px); }
+
+.steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; margin: 54px 0 0; padding: 0; list-style: none; border-top: 1px solid var(--color-border); }
+.steps li { min-width: 0; padding: 26px clamp(20px, 2.4vw, 34px) 0 0; }
+.steps li + li { padding-left: clamp(20px, 2.4vw, 34px); border-left: 1px solid var(--color-border); }
+.stepHead { display: flex; align-items: center; justify-content: space-between; margin-bottom: 46px; color: var(--color-accent-dark); }
+.stepHead span { font-size: 0.7rem; font-weight: 800; letter-spacing: 0.1em; }
+.steps h3,
+.benefits h3 { margin-bottom: 14px; color: var(--color-graphite); font-family: var(--font-display); font-size: clamp(1.65rem, 2.4vw, 2.1rem); font-weight: 500; line-height: 1.02; }
+.steps p,
+.benefits p { margin-bottom: 0; color: var(--color-text); font-size: 0.88rem; line-height: 1.7; }
+
+.benefits { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin-top: 52px; }
+.benefits article { min-height: 310px; padding: clamp(26px, 3vw, 40px); background: var(--color-white); border: 1px solid var(--color-border); border-radius: var(--radius-card); }
+.benefits svg { margin-bottom: 72px; color: var(--color-accent-dark); }
+
+.companyInner { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(310px, 0.6fr); gap: clamp(56px, 10vw, 150px); padding-block: clamp(76px, 10vw, 132px); }
+.companyHeading h2,
+.developerInner h2,
+.finalCta h2 { margin-bottom: 24px; color: var(--color-graphite); font-family: var(--font-display); font-size: clamp(3.3rem, 6.2vw, 6.3rem); font-weight: 500; letter-spacing: -0.045em; line-height: 0.88; text-wrap: balance; }
+.companyHeading > p:not(.kicker) { max-width: 700px; margin-bottom: 26px; line-height: 1.75; }
+.companyContacts { display: flex; flex-direction: column; align-self: end; padding: 28px 0 8px clamp(28px, 4vw, 52px); font-style: normal; border-left: 1px solid var(--color-border); }
+.companyContacts > span { margin-bottom: 7px; color: var(--color-accent-dark); font-size: 0.7rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase; }
+.companyContacts strong { margin-bottom: 20px; font-family: var(--font-display); font-size: 1.7rem; font-weight: 500; line-height: 1.05; }
+.companyContacts a { display: inline-flex; align-items: center; width: fit-content; min-height: 44px; gap: 9px; color: var(--color-graphite); font-weight: 720; text-decoration: none; }
+.companyContacts p { margin: 16px 0 0; line-height: 1.65; }
+
+.developerInner { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.8fr); gap: clamp(48px, 9vw, 130px); padding-block: clamp(76px, 10vw, 126px); }
+.developerInner h2 { margin-bottom: 0; font-size: clamp(3rem, 5.6vw, 5.7rem); }
+.developerCopy { align-self: end; }
+.developerCopy > p { margin-bottom: 28px; line-height: 1.75; }
+.developerCopy small { display: block; max-width: 430px; margin-top: 15px; color: var(--color-text); font-size: 0.72rem; line-height: 1.55; }
+
+.finalCta { max-width: 930px; padding-block: clamp(86px, 12vw, 156px); text-align: center; }
+.finalCta h2 { font-size: clamp(3.8rem, 7vw, 7rem); }
+.finalCta > p:not(.kicker) { max-width: 650px; margin: 0 auto 32px; font-size: 1rem; line-height: 1.75; }
+
+@media (max-width: 1023px) {
+  .hero { min-height: min(880px, 100svh); align-items: flex-end; }
+  .heroImageElement { object-position: 58% center; }
+  .heroInner { gap: 32px; padding-top: 118px; padding-bottom: 38px; }
+  .heroCopy { max-width: 680px; }
+  .heroCopy h1 { font-size: clamp(4rem, 10vw, 6.2rem); }
+  .metrics { grid-template-columns: repeat(3, 1fr); }
+  .metricIntro { grid-column: 1 / -1; max-width: 620px; padding: 0 0 38px; }
+  .steps { grid-template-columns: repeat(2, 1fr); row-gap: 44px; }
+  .steps li:nth-child(3) { padding-left: 0; border-left: 0; }
+  .benefits { grid-template-columns: 1fr; }
+  .benefits article { min-height: 220px; }
+  .benefits svg { margin-bottom: 44px; }
+  .companyInner,
+  .developerInner { grid-template-columns: 1fr; }
+  .companyContacts { padding-left: 0; border-top: 1px solid var(--color-border); border-left: 0; }
+}
+
+@media (max-width: 767px) {
+  .hero { min-height: min(790px, 100svh); }
+  .heroOverlay { background: rgb(14 24 19 / 59%); }
+  .heroInner { padding-top: 104px; padding-bottom: 28px; }
+  .heroCopy h1 { max-width: 390px; margin-bottom: 18px; font-size: clamp(3.45rem, 16vw, 5rem); line-height: 0.84; }
+  .heroCopy > p:last-child { max-width: 420px; font-size: 0.9rem; line-height: 1.6; }
+  .heroEyebrow { max-width: 330px; margin-bottom: 14px; font-size: 0.62rem; line-height: 1.45; }
+  .metrics { grid-template-columns: 1fr; }
+  .metric { min-height: auto; padding: 24px 0; border-top: 1px solid var(--color-border); border-left: 0; }
+  .metric strong { margin: 0; font-size: 3.1rem; }
+  .sectionTopline { display: block; margin-bottom: 34px; }
+  .sectionTopline .textLink { margin-top: 22px; }
+  .featuredGrid { grid-template-columns: 1fr; }
+  .steps { grid-template-columns: 1fr; row-gap: 0; }
+  .steps li,
+  .steps li + li { padding: 26px 0; border-top: 1px solid var(--color-border); border-left: 0; }
+  .steps li:first-child { border-top: 0; }
+  .stepHead { margin-bottom: 28px; }
+  .benefits { margin-top: 36px; }
+  .benefits article { min-height: 240px; }
+  .companyHeading h2,
+  .developerInner h2,
+  .finalCta h2 { font-size: clamp(3rem, 14vw, 4.5rem); }
+  .companyContacts strong { font-size: 1.55rem; }
+}

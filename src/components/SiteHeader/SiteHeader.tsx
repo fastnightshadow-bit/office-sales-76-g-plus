@@ -247,6 +247,7 @@ export function SiteHeader({
     <>
       <header
         className={`${styles.header} ${mode === "overlay" ? styles.overlay : styles.solid} ${forceMobileForTest ? styles.forceMobile : ""}`}
+        data-mode={mode}
       >
         <div className={`container ${styles.inner}`}>
           <Link aria-label="Офис продаж 76 — главная" className={styles.brand} to="/">

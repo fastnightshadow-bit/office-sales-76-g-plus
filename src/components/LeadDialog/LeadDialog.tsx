@@ -295,6 +295,7 @@ export function LeadDialog({ open, kind, projectTitle, onClose }: LeadDialogProp
               <h2 id={titleId}>{copy.title}</h2>
               <p id={descriptionId}>
                 {copy.description}{projectTitle ? ` Объект: ${projectTitle}.` : ""}
+                {" "}Это локальная демо-форма: данные никуда не отправляются и не сохраняются.
               </p>
             </div>
 

@@ -3,8 +3,11 @@ import { describe, expect, it } from "vitest";
 import { App } from "./App";
 
 describe("App", () => {
-  it("renders the approved public brand", () => {
+  it("renders the approved home message", async () => {
     render(<App />);
-    expect(screen.getByRole("heading", { level: 1, name: "Офис продаж 76" })).toBeInTheDocument();
+    expect(await screen.findByRole("heading", {
+      level: 1,
+      name: "Весь город. Один правильный выбор.",
+    })).toBeInTheDocument();
   });
 });

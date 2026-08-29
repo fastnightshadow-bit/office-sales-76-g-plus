@@ -18,61 +18,23 @@
 
 .skipLink:focus { transform: translateY(0); }
 
-.main {
+.main { min-height: 60vh; }
+
+.placeholder {
   display: grid;
-  align-items: center;
-  min-height: clamp(560px, 74vh, 780px);
-  padding-block: clamp(88px, 12vw, 164px);
+  min-height: 62vh;
+  place-items: center;
+  padding-block: clamp(96px, 14vw, 180px);
+  text-align: center;
   background: var(--color-surface);
 }
 
-.intro { max-width: 900px; }
+.placeholderInner { max-width: 700px; }
+.placeholderBadge { margin-bottom: 14px; color: var(--color-accent-dark); font-size: 0.74rem; font-weight: 800; letter-spacing: 0.11em; text-transform: uppercase; }
+.placeholder h1 { margin-bottom: 20px; color: var(--color-graphite); font-family: var(--font-display); font-size: clamp(3rem, 7vw, 6rem); font-weight: 500; line-height: 0.92; }
+.placeholder p { margin: 0 auto 28px; line-height: 1.7; }
+.placeholder a { display: inline-flex; align-items: center; min-height: 48px; padding-inline: 24px; color: var(--color-white); font-weight: 700; text-decoration: none; background: var(--color-graphite); border-radius: var(--radius-pill); }
 
-.eyebrow {
-  margin-bottom: 16px;
-  color: var(--color-accent-dark);
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.13em;
-  text-transform: uppercase;
-}
-
-.intro h1 {
-  max-width: 800px;
-  margin-bottom: 28px;
-  color: var(--color-graphite);
-  font-family: var(--font-display);
-  font-size: clamp(4rem, 10vw, 8.5rem);
-  font-weight: 500;
-  letter-spacing: -0.055em;
-  line-height: 0.82;
-}
-
-.summary {
-  max-width: 640px;
-  margin-bottom: 32px;
-  color: var(--color-accent-dark);
-  font-size: clamp(1rem, 1.8vw, 1.2rem);
-  line-height: 1.75;
-}
-
-.catalogLink {
-  display: inline-flex;
-  align-items: center;
-  min-height: 50px;
-  gap: 9px;
-  padding-inline: 24px;
-  color: var(--color-white);
-  font-size: 0.86rem;
-  font-weight: 750;
-  text-decoration: none;
-  background: var(--color-graphite);
-  border-radius: var(--radius-pill);
-  transition: background-color var(--duration-fast) var(--ease-out), transform var(--duration-fast) var(--ease-out);
-}
-
-.catalogLink:hover { background: var(--color-accent-dark); transform: translateY(-1px); }
-
-@media (min-width: 1024px) {
-  .app { padding-bottom: 0; }
+@media (max-width: 1023px) {
+  .app { padding-bottom: calc(68px + env(safe-area-inset-bottom)); }
 }
