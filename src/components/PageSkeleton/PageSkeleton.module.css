@@ -1,0 +1,36 @@
+.skeleton {
+  width: min(100% - 40px, var(--container));
+  min-height: 50vh;
+  margin-inline: auto;
+  padding-block: clamp(72px, 10vw, 140px);
+}
+
+.heading,
+.line,
+.card {
+  background: var(--color-surface);
+  border-radius: var(--radius-control);
+  animation: skeleton-pulse 1.4s ease-in-out infinite;
+}
+
+.heading { width: min(520px, 76%); height: clamp(44px, 6vw, 72px); }
+.line { width: min(680px, 90%); height: 16px; margin-top: 24px; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 52px;
+}
+
+.card { min-height: 280px; border-radius: var(--radius-card); }
+
+@keyframes skeleton-pulse {
+  0%, 100% { opacity: 0.62; }
+  50% { opacity: 1; }
+}
+
+@media (max-width: 767px) {
+  .grid { grid-template-columns: 1fr; }
+  .card:not(:first-child) { display: none; }
+}

@@ -1,0 +1,21 @@
+:root {
+  --color-white: #ffffff;
+  --color-surface: #f4f6f3;
+  --color-graphite: #17221d;
+  --color-text: #1c2721;
+  --color-muted: #6f7a73;
+  --color-accent: #718277;
+  --color-accent-dark: #4f6257;
+  --color-border: #e2e7e3;
+  --color-error: #a64035;
+  --radius-card: 24px;
+  --radius-control: 16px;
+  --radius-pill: 999px;
+  --container: 1320px;
+  --shadow-soft: 0 22px 60px rgb(23 34 29 / 12%);
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Manrope Variable", Inter, system-ui, sans-serif;
+  --duration-fast: 200ms;
+  --duration-reveal: 480ms;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}

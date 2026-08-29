@@ -1,0 +1,19 @@
+.reveal { opacity: 1; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    transition: opacity var(--duration-reveal) var(--ease-out), transform var(--duration-reveal) var(--ease-out);
+  }
+
+  .pending { opacity: 0; transform: translateY(20px); }
+  .visible { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .pending,
+  .visible {
+    opacity: 1;
+    transform: none;
+  }
+}
