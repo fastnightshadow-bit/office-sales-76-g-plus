@@ -24,7 +24,7 @@ function clean(value: string | undefined): string | undefined {
   return normalized ? normalized : undefined;
 }
 
-function parseNumericToken(value: string): number | undefined {
+function parseNumericToken(value: string, millionContext = false): number | undefined {
   const token = value.replace(/[\u00a0\u202f\s]/g, "").replace(/[^\d,.-]/g, "");
   if (!token || token === "." || token === "," || token === "-") {
     return undefined;
@@ -40,7 +40,10 @@ function parseNumericToken(value: string): number | undefined {
   } else if (separators.length === 1) {
     const separatorIndex = Math.max(unsigned.indexOf("."), unsigned.indexOf(","));
     const digitsAfterSeparator = unsigned.length - separatorIndex - 1;
-    normalized = digitsAfterSeparator === 1 || digitsAfterSeparator === 2
+    // In a million label, a single separator followed by three digits is a
+    // decimal fraction too (`6.900 млн` means 6.9 million). Multiple
+    // separators remain grouped thousands (`5.698.000`).
+    normalized = digitsAfterSeparator === 1 || digitsAfterSeparator === 2 || millionContext
       ? `${unsigned.slice(0, separatorIndex)}.${unsigned.slice(separatorIndex + 1)}`
       : unsigned.replace(/[.,]/g, "");
   }
@@ -61,14 +64,14 @@ export function normalizeMoney(value: string): number | undefined {
     return undefined;
   }
 
-  const number = parseNumericToken(numberMatch[0]);
+  const isMillion = /(?:млн?|миллион|million)/.test(normalized);
+  const number = parseNumericToken(numberMatch[0], isMillion);
   if (number === undefined || number <= 0) {
     return undefined;
   }
 
   // `\b` is ASCII-oriented in JavaScript and does not create a boundary after
   // Cyrillic text, so use the unit text directly here.
-  const isMillion = /(?:млн?|миллион|million)/.test(normalized);
   const result = isMillion ? number * 1_000_000 : number;
   return result > 0 ? Math.round(result) : undefined;
 }

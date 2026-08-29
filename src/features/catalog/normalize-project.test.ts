@@ -4,7 +4,9 @@ import { formatMoney, normalizeMoney, normalizeProject } from "./normalize-proje
 describe("normalizeMoney", () => {
   it.each([
     ["6.9 мл", 6_900_000],
+    ["6.900 млн ₽", 6_900_000],
     ["5 698 000", 5_698_000],
+    ["5.698.000", 5_698_000],
     ["110 000 руб/м²", 110_000],
     ["от", undefined],
     ["0 млн", undefined],
