@@ -7,6 +7,8 @@ import { SiteHeader } from "../components/SiteHeader/SiteHeader";
 import styles from "./App.module.css";
 
 const HomePage = lazy(async () => import("../pages/HomePage/HomePage"));
+const CatalogPage = lazy(async () => import("../pages/CatalogPage/CatalogPage"));
+const FavoritesPage = lazy(async () => import("../pages/FavoritesPage/FavoritesPage"));
 
 function AppLayout() {
   const { pathname } = useLocation();
@@ -49,9 +51,9 @@ export const appRoutes: RouteObject[] = [
     errorElement: <RouteError />,
     children: [
       { index: true, element: <HomePage /> },
-      { path: "catalog", element: <RoutePlaceholder title="Каталог в следующем этапе" /> },
+      { path: "catalog", element: <CatalogPage /> },
       { path: "catalog/:slug", element: <RoutePlaceholder title="Карточка проекта в следующем этапе" /> },
-      { path: "favorites", element: <RoutePlaceholder title="Избранное в следующем этапе" /> },
+      { path: "favorites", element: <FavoritesPage /> },
       { path: "about", element: <RoutePlaceholder title="О компании в следующем этапе" /> },
       { path: "contacts", element: <RoutePlaceholder title="Контакты в следующем этапе" /> },
       { path: "privacy", element: <RoutePlaceholder title="Политика в следующем этапе" /> },

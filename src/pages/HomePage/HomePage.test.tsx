@@ -159,8 +159,8 @@ describe("G+ home page", () => {
 
     expect(await screen.findByRole("banner")).toHaveAttribute("data-mode", "overlay");
     await router.navigate("/catalog");
+    expect(await screen.findByRole("heading", { name: "Каталог проектов" })).toBeVisible();
     expect(await screen.findByRole("banner")).toHaveAttribute("data-mode", "solid");
-    expect(screen.getByRole("heading", { name: "Каталог в следующем этапе" })).toBeVisible();
   });
 
   it("keeps the mobile filter sheet scrollable and safe-area aware", () => {
