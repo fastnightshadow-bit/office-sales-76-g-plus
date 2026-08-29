@@ -2,6 +2,7 @@ import { mkdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import projects from "../src/data/projects.json";
+import { getPublicationSite } from "../src/seo/publication-config";
 
 const privateRobots = "User-agent: *\nDisallow: /\n";
 
@@ -14,18 +15,6 @@ export interface WriteRouteAssetsOptions {
 export type WriteRouteAssetsResult =
   | { generated: true; message: string }
   | { generated: false; message: string };
-
-function normalizeSiteUrl(siteUrl: string | undefined): URL | undefined {
-  if (!siteUrl) return undefined;
-  try {
-    const parsed = new URL(siteUrl);
-    if (parsed.protocol !== "https:" || parsed.username || parsed.password || parsed.search || parsed.hash) return undefined;
-    parsed.pathname = `${parsed.pathname.replace(/\/+$/, "")}/`;
-    return parsed;
-  } catch {
-    return undefined;
-  }
-}
 
 function escapeXml(value: string): string {
   return value
@@ -52,7 +41,7 @@ export async function writeRouteAssets(options: WriteRouteAssetsOptions): Promis
   await mkdir(options.outputDir, { recursive: true });
   const robotsPath = join(options.outputDir, "robots.txt");
   const sitemapPath = join(options.outputDir, "sitemap.xml");
-  const siteUrl = normalizeSiteUrl(options.siteUrl);
+  const siteUrl = getPublicationSite(options.siteUrl);
 
   if (!siteUrl) {
     await writeFile(robotsPath, privateRobots, "utf8");

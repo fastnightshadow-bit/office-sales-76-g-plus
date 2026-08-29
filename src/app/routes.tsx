@@ -23,7 +23,7 @@ function AppLayout() {
   const seo = getRouteSeo(pathname);
   return (
     <div className={styles.app}>
-      <Seo {...seo} />
+      {seo ? <Seo {...seo} /> : null}
       <a className={styles.skipLink} href="#main-content">К содержанию</a>
       <SiteHeader mode={pathname === "/" ? "overlay" : "solid"} />
       <main className={styles.main} id="main-content">

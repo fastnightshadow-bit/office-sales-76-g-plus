@@ -2,7 +2,7 @@ import { cleanup, render, waitFor } from "@testing-library/react";
 import { createMemoryRouter, RouterProvider } from "react-router-dom";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { appRoutes } from "../app/routes";
-import { buildCanonical } from "./seo-config";
+import { buildCanonical, getProjectSeo } from "./seo-config";
 
 function metaContent(selector: string): string | null {
   return document.head.querySelector<HTMLMetaElement>(selector)?.content ?? null;
@@ -65,5 +65,25 @@ describe("route metadata", () => {
     expect(buildCanonical("/catalog", undefined)).toBeUndefined();
     expect(buildCanonical("/catalog", "http://demo.example")).toBeUndefined();
     expect(buildCanonical("//attacker.example", "https://demo.example")).toBeUndefined();
+  });
+
+  it("derives project metadata from data already loaded by the lazy project page", () => {
+    expect(getProjectSeo({
+      slug: "river-house",
+      title: "ЖК Речной",
+      coverImage: { src: "/media/projects/river-house/cover-960.webp" },
+    })).toEqual({
+      title: "ЖК Речной — новостройка в Ярославле | Офис продаж 76",
+      description: "ЖК Речной в Ярославле. Проверенные сведения из локального снимка каталога «Офис продаж 76».",
+      image: "/media/projects/river-house/cover-960.webp",
+      path: "/catalog/river-house",
+      type: "article",
+    });
+
+    expect(getProjectSeo({
+      slug: "unsafe-cover",
+      title: "ЖК Безопасный",
+      coverImage: { src: "https://source.example/cover.webp" },
+    })).not.toHaveProperty("image");
   });
 });

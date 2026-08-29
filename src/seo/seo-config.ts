@@ -1,4 +1,4 @@
-import { getProjectBySlug, getProjects } from "../features/catalog/catalog-repository";
+import { getPublicationSite } from "./publication-config";
 
 export interface SeoProps {
   title: string;
@@ -9,7 +9,13 @@ export interface SeoProps {
 }
 
 const brand = "Офис продаж 76";
-const projectCount = getProjects().length;
+const projectCount = 92;
+
+export interface ProjectSeoInput {
+  slug: string;
+  title: string;
+  coverImage?: { src: string };
+}
 
 const routeMetadata: Record<string, SeoProps> = {
   "/": {
@@ -67,46 +73,36 @@ export function isSafeLocalImage(path: string): boolean {
 export function buildCanonical(path: string, siteUrl?: string): string | undefined {
   if (!siteUrl || !safeRoutePath(path)) return undefined;
 
-  try {
-    const base = new URL(siteUrl);
-    if (base.protocol !== "https:" || base.username || base.password || base.search || base.hash) return undefined;
-    const basePath = base.pathname.replace(/\/+$/, "");
-    base.pathname = `${basePath}${path === "/" ? "/" : path}`.replace(/\/{2,}/g, "/");
-    return base.href;
-  } catch {
-    return undefined;
-  }
+  const base = getPublicationSite(siteUrl);
+  if (!base) return undefined;
+  const basePath = base.pathname.replace(/\/+$/, "");
+  base.pathname = `${basePath}${path === "/" ? "/" : path}`.replace(/\/{2,}/g, "/");
+  return base.href;
 }
 
-export function getRouteSeo(pathname: string): SeoProps {
-  const staticMetadata = routeMetadata[pathname];
-  if (staticMetadata) return staticMetadata;
+export function getProjectSeo(project: ProjectSeoInput): SeoProps {
+  const image = project.coverImage?.src;
+  return {
+    title: `${project.title} — новостройка в Ярославле | ${brand}`,
+    description: `${project.title} в Ярославле. Проверенные сведения из локального снимка каталога «${brand}».`,
+    ...(image && isSafeLocalImage(image) ? { image } : {}),
+    path: `/catalog/${encodeURIComponent(project.slug)}`,
+    type: "article",
+  };
+}
 
-  const projectMatch = pathname.match(/^\/catalog\/([^/]+)$/);
-  if (projectMatch) {
-    const slug = (() => {
-      try {
-        return decodeURIComponent(projectMatch[1]!);
-      } catch {
-        return "";
-      }
-    })();
-    const project = getProjectBySlug(slug);
-    if (project) {
-      const image = project.coverImage?.src;
-      return {
-        title: `${project.title} — новостройка в Ярославле | ${brand}`,
-        description: `${project.title} в Ярославле. Проверенные сведения из локального снимка каталога «${brand}».`,
-        ...(image && isSafeLocalImage(image) ? { image } : {}),
-        path: `/catalog/${encodeURIComponent(project.slug)}`,
-        type: "article",
-      };
-    }
-  }
-
+export function getNotFoundSeo(pathname: string): SeoProps {
   return {
     title: `Страница не найдена — ${brand}`,
     description: "Запрошенной страницы нет в частной демонстрации сайта «Офис продаж 76».",
     path: safeRoutePath(pathname) ? pathname : "/",
   };
+}
+
+export function getRouteSeo(pathname: string): SeoProps | undefined {
+  const staticMetadata = routeMetadata[pathname];
+  if (staticMetadata) return staticMetadata;
+
+  if (/^\/catalog\/[^/]+$/.test(pathname)) return undefined;
+  return getNotFoundSeo(pathname);
 }

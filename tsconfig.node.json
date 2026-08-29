@@ -24,6 +24,7 @@
     "src/features/catalog/catalog-schema.ts",
     "src/features/catalog/catalog.types.ts",
     "src/features/catalog/normalize-project.ts",
-    "src/features/company/company.types.ts"
+    "src/features/company/company.types.ts",
+    "src/seo/publication-config.ts"
   ]
 }

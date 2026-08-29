@@ -6,6 +6,8 @@ import { ResponsiveImage } from "../../components/ResponsiveImage/ResponsiveImag
 import { getProjectBySlug, getProjects } from "../../features/catalog/catalog-repository";
 import type { Project } from "../../features/catalog/catalog.types";
 import { useFavorites } from "../../features/favorites/use-favorites";
+import { Seo } from "../../seo/Seo";
+import { getNotFoundSeo, getProjectSeo } from "../../seo/seo-config";
 import styles from "./ProjectPage.module.css";
 import { ProjectFacts } from "./components/ProjectFacts";
 import { ProjectGallery } from "./components/ProjectGallery";
@@ -88,7 +90,14 @@ export default function ProjectPage() {
     return `${location.pathname}${suffix ? `?${suffix}` : ""}`;
   }, [location.pathname, searchParams]);
 
-  if (!project) return <ProjectNotFound />;
+  if (!project) {
+    return (
+      <>
+        <Seo {...getNotFoundSeo(location.pathname)} />
+        <ProjectNotFound />
+      </>
+    );
+  }
 
   const favorite = isFavorite(project.slug);
   const anchorItems = [
@@ -99,7 +108,9 @@ export default function ProjectPage() {
   ].filter(({ visible }) => visible);
 
   return (
-    <article className={styles.page}>
+    <>
+      <Seo {...getProjectSeo(project)} />
+      <article className={styles.page}>
       <section className={styles.hero}>
         <div className={`container ${styles.heroGrid}`}>
           <div className={styles.heroCopy}>
@@ -180,6 +191,7 @@ export default function ProjectPage() {
         open={leadOpen}
         projectTitle={project.title}
       />
-    </article>
+      </article>
+    </>
   );
 }
