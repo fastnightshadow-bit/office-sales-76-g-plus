@@ -1,0 +1,240 @@
+{
+  "slug": "zhk-novyy-dom",
+  "title": "ЖК Новый Дом",
+  "shortDescription": "Приватный кирпичный дом комфорт,ИГО.. Консультации 24/7",
+  "description": [
+    "ЖК «Новый Дом» д. Старое Брагино 29",
+    "в Дзержинском районе г. Ярославля",
+    "Всего 20 квартир, потолки 2.62",
+    "- 4-этажный кирпичный дом (керамический кирпич)",
+    "- И.Г.О. (Индивидуальное газовое отопление и горячее водоснабжение)",
+    "- Водоснабжение и Водоотведение центральное",
+    "- Пред чистовая отделка квартир",
+    "- Удобная территория дома",
+    "- Видеонаблюдение территории",
+    "- Парковочные места на территории ЖК",
+    "- Детская игровая площадка",
+    "- Спортивный зал в цокольном этаже",
+    "- Находится в центре Северного жилого района города Ярославля",
+    "- Современные комфортные планировки с панорамным остеклением",
+    "- Домофон FACE ID",
+    "Инфраструктура:",
+    "Школы, детские сады, начальная школа-детский сад, центр детей и юношества (дом пионеров), центры раннего развития, сетевые магазины, кафе, фитнесс-клубы, отделения банков и почты, Администрация Дзержинского района, поликлиники-больницы детские и взрослые, остановки общественного транспорта в шаговой доступности.",
+    "Условия приобретения",
+    "-Заключение Договора Долевого участия.",
+    "-ИПОТЕКА С ГОСПОДДЕРЖКОЙ СЕМЕЙНОЙ И АЙТИ от 5,9%",
+    "-Проектное финансирование СБ РФ.",
+    "- Эскроу счета",
+    "Застройщик ГК Строительный Трест более 10 жк построено в срок."
+  ],
+  "district": "Дзержинский",
+  "address": "г. Ярославль, д. Старое Брагино д. 29",
+  "completionLabel": "3 кв 2026",
+  "completionDate": "2026-Q3",
+  "minimumPrice": 5200000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5200000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7300000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 10000000
+    }
+  ],
+  "mortgageRateLabel": "от 5.9%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-novyy-dom/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-novyy-dom/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novyy-dom/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novyy-dom/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novyy-dom/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-novyy-dom/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novyy-dom/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novyy-dom/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/5b0/c91jr24zitrlqyqcrpc1lk30jcstchl5.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/5a0/hxfqg25u0291pyc041jyj2n2pht18jwc.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638827",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 44.13,
+      "price": 5163210,
+      "pricePerMeter": 117000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novyy-dom/layout-4638827-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638827-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638827-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638827-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638827-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638830",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 88.86,
+      "price": 10218900,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novyy-dom/layout-4638830-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638830-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638830-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638830-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novyy-dom/layout-4638830-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novyy-dom/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

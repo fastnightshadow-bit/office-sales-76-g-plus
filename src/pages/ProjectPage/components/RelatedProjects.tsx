@@ -1,17 +1,17 @@
 import { PropertyCard } from "../../../components/PropertyCard/PropertyCard";
-import type { Project } from "../../../features/catalog/catalog.types";
+import type { ProjectSummary } from "../../../features/catalog/catalog.types";
 import styles from "../ProjectPage.module.css";
 
 interface RelatedProjectsProps {
-  project: Project;
-  projects: readonly Project[];
+  project: ProjectSummary;
+  projects: readonly ProjectSummary[];
 }
 
-function selectRelatedProjects(project: Project, projects: readonly Project[]): Project[] {
+function selectRelatedProjects(project: ProjectSummary, projects: readonly ProjectSummary[]): ProjectSummary[] {
   const bySlug = new Map(projects.map((candidate) => [candidate.slug, candidate]));
   const selected = project.relatedProjectSlugs
     .map((slug) => bySlug.get(slug))
-    .filter((candidate): candidate is Project => candidate !== undefined && candidate.slug !== project.slug);
+    .filter((candidate): candidate is ProjectSummary => candidate !== undefined && candidate.slug !== project.slug);
 
   if (selected.length < 3 && project.district) {
     for (const candidate of projects) {

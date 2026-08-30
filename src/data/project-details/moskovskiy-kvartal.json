@@ -1,0 +1,371 @@
+{
+  "slug": "moskovskiy-kvartal",
+  "title": "ЖК Московский Квартал",
+  "shortDescription": "Дом полностью из керамического кирпича - экологичного, природного материала, общепризнанного наиболее комфортным для постоянного проживания.",
+  "description": [
+    "ЖК \"Московский Квартал\" стр 1 4 кв.2028 года.",
+    "Застройщик Группа Компаний \"ЯрСтройЗаказчик\" 17 лет на рынке недвижимости, 14 построенных домов и 2000 сданных квартир.",
+    "Начато строительство следующего, 9-12 этажного дома ЖК «Московский квартал». Жилой комплекс расположен рядом с крупными транспортными магистралями, в районе с развитой инфраструктурой, до центра города 10 минут.",
+    "Удачное расположение в начале спального района с большим количеством объектов социально-бытовой инфраструктуры, в близи от центра города и основных транспортных развязок. Дом строится полностью из керамического кирпича - экологичного, природного материала, общепризнанного наиболее комфортным для проживания в нашем климате. Толстые стены в 640 мм прекрасно держат тепло зимой и прохладу летом, что позволило спроектировать окна в пол, распашные прозрачные балконные двери, панорамное остекление и просторные лоджии, которые становятся самостоятельными функциональными помещениями. Подъезды обустроены эстетичными холлами и безопасными входными группами с витринным остеклением, позволяющими оценить атмосферу снаружи и обстановку внутри, прежде чем зайти или выйти. Центральное отопление. Потолки 2.6 м.",
+    "Консультации по объекту 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, Проспект Фрундзе",
+  "completionLabel": "4 кв /2028",
+  "completionDate": "2028-Q4",
+  "minimumPrice": 4000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6500000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 10000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/moskovskiy-kvartal/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/moskovskiy-kvartal/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/moskovskiy-kvartal/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/moskovskiy-kvartal/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/moskovskiy-kvartal/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/moskovskiy-kvartal/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/moskovskiy-kvartal/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/moskovskiy-kvartal/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/moskovskiy-kvartal/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/8d8/875x3vpqed90azk092a0miu19q8o5zc1.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/d26/4xq5xeoeluwctnrwq4muh0bx7v51u03k.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639352",
+      "room": "1",
+      "roomLabel": "1-комнатная +",
+      "area": 41.37,
+      "price": 5590000,
+      "pricePerMeter": 135122,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/moskovskiy-kvartal/layout-4639352-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639352-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639352-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639354",
+      "room": "1",
+      "roomLabel": "1-комнатная +",
+      "area": 39.99,
+      "price": 5490000,
+      "pricePerMeter": 137284,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/moskovskiy-kvartal/layout-4639354-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639354-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639354-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639356",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29.63,
+      "price": 4190000,
+      "pricePerMeter": 141411,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/moskovskiy-kvartal/layout-4639356-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639356-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639356-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639538",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.55,
+      "price": 5690000,
+      "pricePerMeter": 133725,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/moskovskiy-kvartal/layout-4639538-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639538-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639538-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639538-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/moskovskiy-kvartal/layout-4639538-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639358",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 41.47,
+      "price": 5590000,
+      "pricePerMeter": 134796,
+      "notes": []
+    },
+    {
+      "id": "4639359",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.22,
+      "price": 5160000,
+      "pricePerMeter": 142463,
+      "notes": []
+    },
+    {
+      "id": "4639360",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.55,
+      "price": 4990000,
+      "pricePerMeter": 132889,
+      "notes": []
+    },
+    {
+      "id": "4639361",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.53,
+      "price": 5490000,
+      "pricePerMeter": 135455,
+      "notes": []
+    },
+    {
+      "id": "4639362",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 41.23,
+      "price": 5590000,
+      "pricePerMeter": 135581,
+      "notes": []
+    },
+    {
+      "id": "4639364",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.66,
+      "price": 5060000,
+      "pricePerMeter": 141896,
+      "notes": []
+    },
+    {
+      "id": "4639365",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.2,
+      "price": 4490000,
+      "pricePerMeter": 127557,
+      "notes": []
+    },
+    {
+      "id": "4639366",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 28.56,
+      "price": 4030000,
+      "pricePerMeter": 141106,
+      "notes": []
+    },
+    {
+      "id": "4639367",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 46.83,
+      "price": 5990000,
+      "pricePerMeter": 127909,
+      "notes": []
+    },
+    {
+      "id": "4639353",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 52.55,
+      "price": 6670000,
+      "pricePerMeter": 126927,
+      "notes": []
+    },
+    {
+      "id": "4639355",
+      "room": "2",
+      "roomLabel": "2-комнатная +",
+      "area": 55.64,
+      "price": 7070000,
+      "pricePerMeter": 127067,
+      "notes": []
+    },
+    {
+      "id": "4639357",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 58.15,
+      "price": 7390000,
+      "pricePerMeter": 127085,
+      "notes": []
+    },
+    {
+      "id": "4639539",
+      "room": "2",
+      "roomLabel": "2-комнатная +",
+      "area": 58.56,
+      "price": 7670000,
+      "pricePerMeter": 130977,
+      "notes": []
+    },
+    {
+      "id": "4639363",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 85.49,
+      "price": 9990000,
+      "pricePerMeter": 116856,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/moskovskiy-kvartal/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -60,7 +60,7 @@ describe("CatalogPage", () => {
 
     await user.click(screen.getByRole("button", { name: "Сбросить фильтры" }));
     await user.selectOptions(screen.getByRole("combobox", { name: "Сортировка" }), "price-asc");
-    expect(within(screen.getAllByRole("article")[0]!).getByRole("heading", { level: 3 }))
+    expect(within(screen.getAllByRole("article")[0]!).getByRole("heading", { level: 2 }))
       .toHaveTextContent("ЖК Барвиха кор. 4");
     expect(screen.getByLabelText("Текущий URL")).toHaveTextContent("sort=price-asc");
   });
@@ -93,7 +93,7 @@ describe("CatalogPage", () => {
 
     await waitFor(() => expect(resultCount()).toHaveTextContent("Найден 1 проект"), { timeout: 1_000 });
     expect(screen.getByLabelText("Текущий URL")).toHaveTextContent("text=%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0");
-    expect(screen.getByRole("heading", { level: 3, name: "Дом на Салтыкова Щедрина" })).toBeVisible();
+    expect(screen.getByRole("heading", { level: 2, name: "Дом на Салтыкова Щедрина" })).toBeVisible();
   });
 
   it("restores the search field and results during browser history navigation", async () => {
@@ -112,7 +112,7 @@ describe("CatalogPage", () => {
     await user.click(screen.getByRole("button", { name: "Назад в истории" }));
 
     expect(screen.getByRole("searchbox", { name: "Поиск по каталогу" })).toHaveValue("Атлас");
-    expect(screen.getByRole("heading", { level: 3, name: "ЖК Атлас" })).toBeVisible();
+    expect(screen.getByRole("heading", { level: 2, name: "ЖК Атлас" })).toBeVisible();
   });
 
   it("renders 18 projects at first, loads 18 more, and resets the window after filtering", async () => {
@@ -130,6 +130,11 @@ describe("CatalogPage", () => {
   it("shows a useful empty state and never renders malformed price labels", async () => {
     const user = userEvent.setup();
     renderCatalog();
+
+    const firstRealCard = screen.getAllByRole("article")[0]!;
+    expect(within(firstRealCard).getByText(/^от \d+(?:[,.]\d+)? млн ₽$/)).toBeVisible();
+    expect(within(firstRealCard).queryByText(/млн ₽\/м²/)).not.toBeInTheDocument();
+    expect(within(firstRealCard).queryByText(/^от\s*$/)).not.toBeInTheDocument();
 
     await user.type(screen.getByRole("searchbox", { name: "Поиск по каталогу" }), "несуществующий проект xyz");
     expect(await screen.findByRole("heading", { name: "Ничего не нашли" }, { timeout: 1_000 })).toBeVisible();

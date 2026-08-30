@@ -3,7 +3,6 @@ import userEvent from "@testing-library/user-event";
 import { MemoryRouter } from "react-router-dom";
 import { afterEach, describe, expect, it } from "vitest";
 import { getProjects } from "../../features/catalog/catalog-repository";
-import type { Project } from "../../features/catalog/catalog.types";
 import { PropertyCard } from "./PropertyCard";
 
 afterEach(() => {
@@ -33,7 +32,7 @@ describe("PropertyCard", () => {
   it("renders an honest fallback when total price is unknown", () => {
     const source = getProjects()[0];
     if (!source) throw new Error("Expected imported projects");
-    const project: Project = { ...source };
+    const project = { ...source };
     delete project.minimumPrice;
 
     render(<MemoryRouter><PropertyCard project={project} /></MemoryRouter>);

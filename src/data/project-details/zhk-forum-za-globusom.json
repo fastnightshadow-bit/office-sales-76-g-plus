@@ -1,0 +1,483 @@
+{
+  "slug": "zhk-forum-za-globusom",
+  "title": "ЖК Форум за Глобусом 2",
+  "shortDescription": "Кирпичный дом с индивидуальным отоплением, в 50 метрах от ТЦ \"Глобус\"",
+  "description": [
+    "Дом 2 стр. - (5 подъездов) ЖК \"Форум за Глобусом\" п.Красный Бор, ул. Заволжская д.1 от Застройщика ООО\"Форум\"",
+    "Из керамического кирпича, с индивидуальным газовым отоплением, фасады будут облицованы минеральным утеплителем по технологии \"Тёплый фасад\", оштукатурены и окрашены самыми современными материалами, что обеспечит долгий срок службы повышенную теплоизоляцию и сухость.",
+    "Отделка и комплектация: стены оштукатурены, пол стяжка, входные двери, окна ПВХ, радиаторы отопления, счётчики, разведена электрика, пожарная сигнализация, двух контурный котёл, газовые плиты. Возможна отделка под ключ за доп плату.",
+    "Комплекс запроектирован с продуманным расположением домов для образования комфортной приватной среды : детские площадки, парковочные зоны, магазины, салоны красоты, развивающие кружки и т.д будут располагаться на первых этажах в коммерческих помещениях.",
+    "ЖК выгодно расположен в самом экологически чистом Заволжском районе г.Ярославль , центрально расположен рядом с ТЦ\"Глобус\" в окружении новых домов и жилых комплексов соседство с которыми обеспечивает благополучное окружение и безопасность, инфраструктура района не уступает ни одному району города.",
+    "Безопасность и способы покупки: 3 стр. продажи квартир осуществляются согласно последним изменениям 214 ФЗ с использованием счетов ЭСКРОУ, застройщик аккредитован в ведущих банках, поможем сформировать заявки на одобрение в ПАО \"Сбербанк\", ПАО\"ВТБ, ОАО \"Россельхозбанк\" и др. банки, льготная ипотека от 6%, семейная ипотека, мат капитал.",
+    "Застройщик ООО \"Форум\" 11 лет успешной работы в сфере строительства, в городе Ярославль сдаёт в срок уже третье строение, проекты выгодно отличаются качеством постройки из кирпича, современными планировками и самое главное своевременной готовностью объектов.",
+    "Консультации просмотры 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, пос. Красный бор, ул Заволжская д.1",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-forum-za-globusom-3/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-3/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-3/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-3/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-3/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-forum-za-globusom/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-forum-za-globusom/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-forum-za-globusom/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-forum-za-globusom/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [],
+  "layouts": [
+    {
+      "id": "4637583",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 43.09,
+      "price": 4480000,
+      "pricePerMeter": 103968,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom/layout-4637583-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637583-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637583-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637584",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 43.93,
+      "price": 4560000,
+      "pricePerMeter": 103802,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom/layout-4637584-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637584-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637584-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637090",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 39.22,
+      "price": 4390000,
+      "pricePerMeter": 111933,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom/layout-4637090-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637090-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637090-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637091",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 43.55,
+      "price": 4580000,
+      "pricePerMeter": 105166,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom/layout-4637091-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637091-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-forum-za-globusom/layout-4637091-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637092",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 43.55,
+      "price": 4900000,
+      "pricePerMeter": 112514,
+      "notes": []
+    },
+    {
+      "id": "4637093",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 39.22,
+      "price": 4390000,
+      "pricePerMeter": 111933,
+      "notes": []
+    },
+    {
+      "id": "4637098",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 40.45,
+      "price": 4190000,
+      "pricePerMeter": 103585,
+      "notes": []
+    },
+    {
+      "id": "4637105",
+      "room": "1",
+      "roomLabel": "1 комнатная квартира",
+      "area": 43.42,
+      "price": 4890000,
+      "pricePerMeter": 112621,
+      "notes": []
+    },
+    {
+      "id": "4637083",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 66.69,
+      "price": 7020000,
+      "pricePerMeter": 105263,
+      "notes": []
+    },
+    {
+      "id": "4637084",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 57.76,
+      "price": 5750000,
+      "pricePerMeter": 99550,
+      "notes": []
+    },
+    {
+      "id": "4637094",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 56.02,
+      "price": 6300000,
+      "pricePerMeter": 112460,
+      "notes": []
+    },
+    {
+      "id": "4637095",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 64.96,
+      "price": 6300000,
+      "pricePerMeter": 96983,
+      "notes": []
+    },
+    {
+      "id": "4637100",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 66.69,
+      "price": 6940000,
+      "pricePerMeter": 104064,
+      "notes": []
+    },
+    {
+      "id": "4637096",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 64.96,
+      "price": 6300000,
+      "pricePerMeter": 96983,
+      "notes": []
+    },
+    {
+      "id": "4637101",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 66.2,
+      "price": 6420000,
+      "pricePerMeter": 96979,
+      "notes": []
+    },
+    {
+      "id": "4637111",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 66.75,
+      "price": 6470000,
+      "pricePerMeter": 96929,
+      "notes": []
+    },
+    {
+      "id": "4637575",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 69.39,
+      "price": 6710000,
+      "pricePerMeter": 96700,
+      "notes": []
+    },
+    {
+      "id": "4637576",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 62.52,
+      "price": 6550000,
+      "pricePerMeter": 104766,
+      "notes": []
+    },
+    {
+      "id": "4637577",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 70.03,
+      "price": 6770000,
+      "pricePerMeter": 96673,
+      "notes": []
+    },
+    {
+      "id": "4637578",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 63.7,
+      "price": 6180000,
+      "pricePerMeter": 97017,
+      "notes": []
+    },
+    {
+      "id": "4637579",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 62.52,
+      "price": 6070000,
+      "pricePerMeter": 97089,
+      "notes": []
+    },
+    {
+      "id": "4637580",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 63.7,
+      "price": 6180000,
+      "pricePerMeter": 97017,
+      "notes": []
+    },
+    {
+      "id": "4637581",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 64.96,
+      "price": 6300000,
+      "pricePerMeter": 96983,
+      "notes": []
+    },
+    {
+      "id": "4637582",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 66.96,
+      "price": 6470000,
+      "pricePerMeter": 96625,
+      "notes": []
+    },
+    {
+      "id": "4637586",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 57.76,
+      "price": 5750000,
+      "pricePerMeter": 99550,
+      "notes": []
+    },
+    {
+      "id": "4637103",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 62.52,
+      "price": 6550000,
+      "pricePerMeter": 104766,
+      "notes": []
+    },
+    {
+      "id": "4637102",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 63.7,
+      "price": 6180000,
+      "pricePerMeter": 97017,
+      "notes": []
+    },
+    {
+      "id": "4637739",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 87.77,
+      "price": 8850000,
+      "pricePerMeter": 100832,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-forum-za-globusom/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

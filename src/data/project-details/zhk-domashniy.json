@@ -1,0 +1,394 @@
+{
+  "slug": "zhk-domashniy",
+  "title": "ЖК \"Домашний\"",
+  "shortDescription": "Кирпичный дом комфорт класса, индивидуальное газовое отопление.",
+  "description": [
+    "ЖК Домашний сдача 4 кв.2026 года.",
+    "Дом 9-ти этажный кирпичный, 3 подъезда, на 196 квартир с индивидуальными кладовыми помещениями и общими колясочными, сквозные подъезды с качественной отделкой.",
+    "Отделка White box - предчистовая(подготовка под ремонт косметику)",
+    "Индивидуальное газовое отопление.",
+    "Благоустройство территории предусматривает современную спортивную и детская площадки.",
+    "Удобная локация рядом Школа №89, садик, больницы, ТЦ, сетевые магазины, остановка о.т рядом.",
+    "Застройщик MENGEL(строительный дом)10 лет на рынке, 8 ЖК введено в эксплуатацию.",
+    "Официальный партнёр по реализации проекта сервис бронирования \"Новостроек\" офиспродаж76(ОООВаш выбор ИНН 7602067446)"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Тормозное шоссе",
+  "completionLabel": "4 кв /2026",
+  "completionDate": "2026-Q4",
+  "minimumPrice": 4500000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4500000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 10000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-domashniy/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-domashniy/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-domashniy/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-domashniy/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-domashniy/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-domashniy/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/36a/3wfxhjygalnv9qoaq9bff5djib55h535.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/57c/51idtvlw7l7gwinkbwl1qhvyakvsslnv.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638211",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.21,
+      "price": 5487300,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-domashniy/layout-4638211-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638211-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638211-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638212",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.88,
+      "price": 5610000,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-domashniy/layout-4638212-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638212-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638212-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638212-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638212-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638210",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.06,
+      "price": 4921020,
+      "pricePerMeter": 117000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-domashniy/layout-4638210-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638210-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-domashniy/layout-4638210-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638206",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.05,
+      "price": 4515500,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-domashniy/layout-4638206.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638205",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.05,
+      "price": 5541750,
+      "pricePerMeter": 135000,
+      "notes": []
+    },
+    {
+      "id": "4638213",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 47.04,
+      "price": 5221440,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638226",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 48.91,
+      "price": 5135550,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4638208",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.43,
+      "price": 4598730,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638204",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.15,
+      "price": 5015250,
+      "pricePerMeter": 135000,
+      "notes": []
+    },
+    {
+      "id": "4638227",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.05,
+      "price": 4720750,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638207",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.05,
+      "price": 4720750,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638219",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 65.59,
+      "price": 7542850,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638217",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.98,
+      "price": 6657780,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638216",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56.19,
+      "price": 6237090,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638220",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.75,
+      "price": 7520250,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638221",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 69.79,
+      "price": 7537320,
+      "pricePerMeter": 108000,
+      "notes": []
+    },
+    {
+      "id": "4638218",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.36,
+      "price": 6842880,
+      "pricePerMeter": 108000,
+      "notes": []
+    },
+    {
+      "id": "4638215",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.32,
+      "price": 7468200,
+      "pricePerMeter": 135000,
+      "notes": []
+    },
+    {
+      "id": "4638222",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 71.78,
+      "price": 7752400,
+      "pricePerMeter": 108002,
+      "notes": []
+    },
+    {
+      "id": "4638224",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 92.11,
+      "price": 10224210,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638223",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 77.07,
+      "price": 10404450,
+      "pricePerMeter": 135000,
+      "notes": []
+    },
+    {
+      "id": "4638225",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 95.02,
+      "price": 10547220,
+      "pricePerMeter": 111000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-domashniy/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

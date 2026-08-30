@@ -99,11 +99,11 @@
 .sheetFields .field:last-child { border-bottom: 0; }
 .apply { width: 100%; min-height: 56px; margin-top: 18px; padding-inline: 20px; color: var(--color-white); font-weight: 760; background: var(--color-graphite); border-radius: var(--radius-control); }
 
-@media (max-width: 1023px) {
+@media (max-width: 767px) {
   .desktopSearch { display: none; }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 768px) {
   .mobileTrigger { display: none; }
 }
 

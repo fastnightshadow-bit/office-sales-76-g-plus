@@ -1,0 +1,307 @@
+{
+  "slug": "zhk-petropavlovskie-prudy",
+  "title": "ЖК \"Петропавловские пруды\"",
+  "shortDescription": "Кирпичный, малоквартирный клубный дом",
+  "description": [
+    "Малоэтажный, приватный полностью кирпичный комплекс, всего 64 квартиры.",
+    "Красивая архитектура,огороженный двор с ландшафтным дизайном, лаундж зонами, современными спортивной, детской площадками, гостевая парковка 77 машино. мест, двор без машин.",
+    "Места общего пользования спроектированы по уникальному дизайн проекту, материалы многоцветный керамогранит, оригинальная подсветка на стенах, продуманна до мелочей установка светового оборудования с датчиками света.",
+    "Индивидуальное газовое отопление. Этажность – 4 жилых этажей , возведен из кирпича, что обеспечивает надежную шумоизоляцию и хорошо сохраняет тепло.",
+    "Отделка пред чистовая-всё подготовлено под ремонт: ровные поверхности под напольное покрытие и оклейку обоев; розетки выключатели; приборы учёта вода,эл. энергия; газовое оборудование двух контурный котёл датчики утечки, газовый счётчик; современные радиаторы отопления; все выводы под сантехнику, качественные входные двери в едином стиле.",
+    "Проектное финансирование от Сбербанка, продажи по ДДУ с ЭСКРОУ, застройщик с многолетним опытом строительства из керамического кирпича.",
+    "Информация предоставлена официальным партнёром по реализации проекта.",
+    "ООО Ваш выбор(офиспродаж76)"
+  ],
+  "district": "Красноперекопский",
+  "address": "Ярославль ул Мамонтова\\Тулупова",
+  "completionLabel": "4 кв 2025",
+  "completionDate": "2025-Q4",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 8900000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 11900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-petropavlovskie-prudy/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-petropavlovskie-prudy/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-petropavlovskie-prudy/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-petropavlovskie-prudy/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-petropavlovskie-prudy/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-petropavlovskie-prudy/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-petropavlovskie-prudy/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-petropavlovskie-prudy/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-petropavlovskie-prudy/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-petropavlovskie-prudy/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-petropavlovskie-prudy/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация 1",
+      "url": "https://офиспродаж76.рф/upload/iblock/258/ubc1xamefz9y230xawgp5os9r4vvgg81.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная дек 2",
+      "url": "https://офиспродаж76.рф/upload/iblock/825/fub4k4hnsibic8w0ortounvmmt48uo4u.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во 1",
+      "url": "https://офиспродаж76.рф/upload/iblock/1e5/dbgspzugmvemsx3ep4bmwwf0rzqx4vnv.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Р-е на стр 2",
+      "url": "https://офиспродаж76.рф/upload/iblock/14f/94iwsf9togo3qeqj107hqv7dkp5rtjtt.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "схема расп. стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/4b8/ammbn4htsc99da6ctm4ixfawz64l3c90.png",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638439",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 71,
+      "price": 11147000,
+      "pricePerMeter": 157000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-petropavlovskie-prudy/layout-4638439-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-petropavlovskie-prudy/layout-4638439-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-petropavlovskie-prudy/layout-4638439-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-petropavlovskie-prudy/layout-4638439-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-petropavlovskie-prudy/layout-4638439-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639006",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 56.9,
+      "price": 9104000,
+      "pricePerMeter": 160000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-petropavlovskie-prudy/layout-4639006.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639007",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 55,
+      "price": 9181660,
+      "pricePerMeter": 166939,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-petropavlovskie-prudy/layout-4639007.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639009",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 73,
+      "price": 10971000,
+      "pricePerMeter": 150288,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-petropavlovskie-prudy/layout-4639009.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638422",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 86.4,
+      "price": 12696390,
+      "pricePerMeter": 146949,
+      "notes": []
+    },
+    {
+      "id": "4638424",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 92,
+      "price": 14713600,
+      "pricePerMeter": 159930,
+      "notes": []
+    },
+    {
+      "id": "4639008",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 75.5,
+      "price": 11935320,
+      "pricePerMeter": 158084,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-petropavlovskie-prudy/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

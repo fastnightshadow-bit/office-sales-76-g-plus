@@ -1,0 +1,530 @@
+{
+  "slug": "zhk-novelly-4-str",
+  "title": "ЖК Новеллы 4 стр",
+  "shortDescription": "Жилой Квартал \"Новеллы\" класс-\"Комфорт\" на Тутаевском шоссе/Панина компании \"Талан\" Консультации будни и выходные 24/7",
+  "description": [
+    "Жилой Квартал \"Новеллы\" стр 4 (третья очередь) от Застройщика \"Талан\" сдаётся в феврале 2027 года.",
+    "Уникальная для мкр-рна застройка, индивидуальный проект класса-\"Комфорт\"",
+    "Четыре подъезда 14,15,16 - 18 этажей, 17 - 9 эт , будут отличатся по цветовой композиции. Расположение домов предусматривает приватный двор, закрытый по периметру.",
+    "Более 40 продуманных планировочных решений.",
+    "Когда каждый квадратный метр используется максимально функционально. Европланировки с просторной кухней-гостинной и классические виды квартир открывают широкие возможности для выбора на любой вкус.",
+    "Функциональные подъезды.",
+    "Разработаны по авторскому проекту. Продуманный дизайн, много света, помещение для консьержа, в холе зона отдыха, колясочная, туалет.",
+    "Уютный безопасный двор.",
+    "Во дворе ЖК предусмотрели чтобы каждый житель нашёл занятие по душе. Малышам: качели,песочница. Подросткам: спортивно-игровые комплексы, баскетбольная площадка. Взрослым площадки для занятия спортом, зоны отдыха.",
+    "Застройщик: ООО «СЗ «ТАЛАН-ЯРОСЛАВЛЬ» - одна из ведущих федеральных компаний. 17 лет работы в Ижевске, Перми, Уфе, Набережных Челнах, Твери, Тюмени, Хабаровске, Нижнем Новгороде, Ярославле, Новосибирске, Владивостоке, Нижневартовске, Ханты-Мансийске, Севастополе и Сочи. г. Ярославль.",
+    "Информация представлена \"официальным партнёром застройщика по продажам\" :",
+    "(ООО «Ваш выбор» ИНН 7602067446)",
+    "консультации по ипотеке, бронирование строго по ценам застройщика.",
+    "г. Ярославль,ул. Победы 38/27 оф.501 тел. 8(4852) 95-55-55, 8(910)-977-37-37"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, Тутаевское шоссе.",
+  "completionLabel": "4 кв / 2026",
+  "completionDate": "2026-Q4",
+  "minimumPrice": 4100000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4100000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-novelly-4-str/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-novelly-4-str/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-4-str/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-4-str/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-4-str/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-4-str/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-4-str/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-novelly-3-str/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novelly-4-str/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novelly-4-str/gallery-003-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novelly-4-str/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/4d2/56cq8edj2n83ji59opkbsgv3yl792ncw.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Пр-я Декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/bd4/a8vppai0jvae8rkd3k2x6lfp6gd9nsnj.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638370",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.6,
+      "price": 6019637,
+      "pricePerMeter": 169091,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-4-str/layout-4638370-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638370-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638370-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638370-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638370-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638376",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29.2,
+      "price": 5300549,
+      "pricePerMeter": 181526,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-4-str/layout-4638376-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638376-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638376-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638376-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638376-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638377",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 41.5,
+      "price": 6573801,
+      "pricePerMeter": 158405,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-4-str/layout-4638377-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638377-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638377-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638377-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638377-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638381",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29.2,
+      "price": 5227761,
+      "pricePerMeter": 179033,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-4-str/layout-4638381-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638381-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638381-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638381-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-4-str/layout-4638381-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638382",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 42,
+      "price": 5855100,
+      "pricePerMeter": 139407,
+      "notes": []
+    },
+    {
+      "id": "4638388",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 49.6,
+      "price": 7017400,
+      "pricePerMeter": 141480,
+      "notes": []
+    },
+    {
+      "id": "4638391",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 40.3,
+      "price": 6746283,
+      "pricePerMeter": 167402,
+      "notes": []
+    },
+    {
+      "id": "4638369",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 64,
+      "price": 7942752,
+      "pricePerMeter": 124106,
+      "notes": []
+    },
+    {
+      "id": "4638373",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 66.7,
+      "price": 8104896,
+      "pricePerMeter": 121513,
+      "notes": []
+    },
+    {
+      "id": "4638378",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 71.3,
+      "price": 8405184,
+      "pricePerMeter": 117885,
+      "notes": []
+    },
+    {
+      "id": "4638380",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.2,
+      "price": 8207687,
+      "pricePerMeter": 160306,
+      "notes": []
+    },
+    {
+      "id": "4638383",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 71.2,
+      "price": 8016864,
+      "pricePerMeter": 112596,
+      "notes": []
+    },
+    {
+      "id": "4638384",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 62.7,
+      "price": 8306016,
+      "pricePerMeter": 132472,
+      "notes": []
+    },
+    {
+      "id": "4638386",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 69.5,
+      "price": 8108640,
+      "pricePerMeter": 116671,
+      "notes": []
+    },
+    {
+      "id": "4638387",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 63,
+      "price": 8052480,
+      "pricePerMeter": 127817,
+      "notes": []
+    },
+    {
+      "id": "4638371",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 71,
+      "price": 8902500,
+      "pricePerMeter": 125387,
+      "notes": []
+    },
+    {
+      "id": "4638374",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 86,
+      "price": 9837600,
+      "pricePerMeter": 114391,
+      "notes": []
+    },
+    {
+      "id": "4638379",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 86.3,
+      "price": 10023072,
+      "pricePerMeter": 116142,
+      "notes": []
+    },
+    {
+      "id": "4638385",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 76.5,
+      "price": 9352600,
+      "pricePerMeter": 122256,
+      "notes": []
+    },
+    {
+      "id": "4638389",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 92.9,
+      "price": 10684608,
+      "pricePerMeter": 115012,
+      "notes": []
+    },
+    {
+      "id": "4638390",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 89.9,
+      "price": 9936000,
+      "pricePerMeter": 110523,
+      "notes": []
+    },
+    {
+      "id": "4639718",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 52.3,
+      "price": 11011200,
+      "pricePerMeter": 210539,
+      "notes": []
+    },
+    {
+      "id": "4638392",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 128.3,
+      "price": 22228000,
+      "pricePerMeter": 173250,
+      "notes": []
+    },
+    {
+      "id": "4638393",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 93.6,
+      "price": 18007700,
+      "pricePerMeter": 192390,
+      "notes": []
+    },
+    {
+      "id": "4638395",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 77,
+      "price": 17143300,
+      "pricePerMeter": 222640,
+      "notes": []
+    },
+    {
+      "id": "4639236",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 106.2,
+      "price": 18766600,
+      "pricePerMeter": 176710,
+      "notes": []
+    },
+    {
+      "id": "4639540",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 77.7,
+      "price": 13461500,
+      "pricePerMeter": 173250,
+      "notes": []
+    },
+    {
+      "id": "4639541",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 76.1,
+      "price": 16748100,
+      "pricePerMeter": 220080,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novelly-4-str/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

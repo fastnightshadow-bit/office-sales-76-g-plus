@@ -1,0 +1,371 @@
+{
+  "slug": "zhk-idiliya",
+  "title": "ЖК«Идиллия»",
+  "shortDescription": "Приватный кирпичный дом комфорт с ИГО, берег Волги. Консультации 24/7",
+  "description": [
+    "ЖК \"Идиллия\" представляет собой приватную малоэтажную застройку, в живописном месте (уникальный микроклимат, свежий воздух, 50 метров до берега р. Волги).",
+    "Кирпичный дом комфорт класса с индивидуальным газовым отоплением, приватной благоустроенной территорией",
+    "Дом построен на просторном земельном участке, что позволило спроектировать комфортную среду проживания. Проектом благоустройства предусмотрены детская и спортивная площадки, зона отдыха, парковки",
+    "В доме 5 жилых этажей, 4 подъезда, всего 100 квартир",
+    "Конструкция дома: дом выложен из керамических блоков с облицовкой керамический кирпич , что обеспечивает долговечность и энергетическую эффективность. Высота потолков 2.7м. Межквартирные стены из бетонных блоков межкомнатные перегородки из пазогребневых блоков с воздушным зазором и слоем минерального утеплителя, что с запасом удовлетворяет показателям необходимой звукоизоляции относительно нормативов в СП 23-103-2003, согласно требованиям по ГОСТ 12.1.029.-80. Крыша из гибкой черепицы",
+    ".",
+    "Предчистовая внутренняя отделка(полная подготовка под ремонт,косметику включает остекление лоджий)",
+    "Чистовая под ключ от застройщика - за доп. плату",
+    "Локация: В шаговой доступности: школы, садики, остановка, все сетевые магазины, аптеки, рядом поликлиника, хорошая экология относительно района",
+    "Застройщик: ООО \"СтройИнвестПроект\" группа компаний Управдом"
+  ],
+  "district": "Дзержинский",
+  "address": "г. Ярославль, 3 норский пер.",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4200000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4200000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5900000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8300000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-idiliya/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-idiliya/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-idiliya/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-idiliya/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-idiliya/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-idiliya/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-idiliya/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-idiliya/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-idiliya/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/154/8tvm9mdrdnbxt8ofvdk93ta63k2gy8o5.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/399/dhwxrmvz63lfz4f6h87pbecjej6x92td.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во",
+      "url": "https://офиспродаж76.рф/upload/iblock/da3/6u5fvgjd6chn5uxl3bykkrlp4aru8f0v.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект ДДУ",
+      "url": "https://офиспродаж76.рф/upload/iblock/3e5/54epdjrshzihh07pk14vrniz2nyanzok.docx",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637720",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 41.3,
+      "price": 4295200,
+      "pricePerMeter": 104000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-idiliya/layout-4637720-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637720-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637720-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637724",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 41.3,
+      "price": 4295200,
+      "pricePerMeter": 104000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-idiliya/layout-4637724-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637724-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637724-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637725",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 42.1,
+      "price": 4378400,
+      "pricePerMeter": 104000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-idiliya/layout-4637725-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637725-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637725-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637731",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 42.55,
+      "price": 4382650,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-idiliya/layout-4637731-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637731-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-idiliya/layout-4637731-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637733",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57.2,
+      "price": 5891600,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4637722",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 62.25,
+      "price": 6474000,
+      "pricePerMeter": 104000,
+      "notes": []
+    },
+    {
+      "id": "4637723",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 59.9,
+      "price": 6229600,
+      "pricePerMeter": 104000,
+      "notes": []
+    },
+    {
+      "id": "4637726",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 68.1,
+      "price": 7082400,
+      "pricePerMeter": 104000,
+      "notes": []
+    },
+    {
+      "id": "4637727",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 60.2,
+      "price": 6200600,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4637730",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 64.6,
+      "price": 6653800,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4637735",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58.55,
+      "price": 6030650,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4637736",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 61.3,
+      "price": 6313900,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4637734",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 79.9,
+      "price": 8229700,
+      "pricePerMeter": 103000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-idiliya/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

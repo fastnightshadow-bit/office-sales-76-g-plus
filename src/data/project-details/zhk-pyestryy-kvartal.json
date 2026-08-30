@@ -1,0 +1,343 @@
+{
+  "slug": "zhk-pyestryy-kvartal",
+  "title": "ЖК \"Пёстрый Квартал\"",
+  "shortDescription": "Современный комплекс комфорт.",
+  "description": [
+    "ЖК Пёстрый Квартал - три десяти этажных дома комфорт класса. Начало Фрунзенского района. Кирпичные стены, повышенная тепло и звукоизоляция. Своя крышная котельная. Приватная безопасная территория детские площадки, спорт зона.",
+    "Представлено третье стр. 10 жилых этажей, два подъезда, 138 квартир, 75 кладовых помещений, потолки 2.64 м",
+    "Продажи по ДДУ, счета эскроу.",
+    "Застройщик:ГК Жилстрой Сити построено более 20 многоквартирных дома, более 30 лет является одной из крупнейших в Ярославле.",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Бурмакинская",
+  "completionLabel": "2 кв 2027",
+  "completionDate": "2027-Q2",
+  "minimumPrice": 3000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7930000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-pyestryy-kvartal/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-pyestryy-kvartal/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-pyestryy-kvartal/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-pyestryy-kvartal/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-pyestryy-kvartal/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-pyestryy-kvartal/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-pyestryy-kvartal/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-pyestryy-kvartal/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-pyestryy-kvartal/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/bd1/r2f5t3ufji7o4898le57p3annwnwztp9.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/561/s2sadgkt18d1ir808d9rh5omsuuj56x0.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639244",
+      "room": "studio",
+      "roomLabel": "студияа",
+      "area": 28.1,
+      "price": 2950500,
+      "pricePerMeter": 105000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-pyestryy-kvartal/layout-4639244.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639240",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.3,
+      "price": 4323060,
+      "pricePerMeter": 102200,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-pyestryy-kvartal/layout-4639240-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-pyestryy-kvartal/layout-4639240-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-pyestryy-kvartal/layout-4639240-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639241",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.3,
+      "price": 4323060,
+      "pricePerMeter": 102200,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-pyestryy-kvartal/layout-4639241-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-pyestryy-kvartal/layout-4639241-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-pyestryy-kvartal/layout-4639241-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639242",
+      "room": "studio",
+      "roomLabel": "студияа",
+      "area": 29,
+      "price": 3045000,
+      "pricePerMeter": 105000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-pyestryy-kvartal/layout-4639242.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639243",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 47.4,
+      "price": 4844280,
+      "pricePerMeter": 102200,
+      "notes": []
+    },
+    {
+      "id": "4639245",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 47.4,
+      "price": 4844280,
+      "pricePerMeter": 102200,
+      "notes": []
+    },
+    {
+      "id": "4639246",
+      "room": "studio",
+      "roomLabel": "студияа",
+      "area": 29,
+      "price": 3045000,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639247",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.3,
+      "price": 4323060,
+      "pricePerMeter": 102200,
+      "notes": []
+    },
+    {
+      "id": "4639248",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.3,
+      "price": 4323060,
+      "pricePerMeter": 102200,
+      "notes": []
+    },
+    {
+      "id": "4639251",
+      "room": "studio",
+      "roomLabel": "студияа",
+      "area": 28.1,
+      "price": 2950500,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639239",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.4,
+      "price": 6213200,
+      "pricePerMeter": 98000,
+      "notes": []
+    },
+    {
+      "id": "4639249",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.4,
+      "price": 6213200,
+      "pricePerMeter": 98000,
+      "notes": []
+    },
+    {
+      "id": "4639238",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 84,
+      "price": 7938000,
+      "pricePerMeter": 94500,
+      "notes": []
+    },
+    {
+      "id": "4639250",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 84,
+      "price": 7938000,
+      "pricePerMeter": 94500,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-pyestryy-kvartal/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

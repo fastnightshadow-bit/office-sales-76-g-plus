@@ -1,0 +1,343 @@
+{
+  "slug": "zhk-na-lisitsina",
+  "title": "ЖК \"НА ЛИСИЦИНА\"",
+  "shortDescription": "Дом в центральной части города, подземный паркинг, приватный благоустроенный двор.",
+  "description": [
+    "Жилой дом \"НА ЛИСИЦИНА\"",
+    "Трёх подъездный лифты HAS г\\п 1000кг, 10 жилых эт, 11 тех. этаж 1.78 м",
+    "Всего 132 жилых квартиры, первый этаж коммерция, подземный паркинг на 24 машиноместа.",
+    "Монолитный дом, вен-фасад фиброцементные панели, высота потолков 2.6 м 10 эт 3.2 м. Квартиры без отделки, стены гипсовая штукатурка, входная металлическая дверь.",
+    "Территория будет обустроена детскими, спортивными площадками.",
+    "Рядом детские сады 102 и 236, школа искусств № 1.",
+    "Застройщик \"Светлояр\" построено в срок более 15 жилых проектов, счета эскроу, проектное финансирование, льготная ипотека от 6%"
+  ],
+  "district": "Центр",
+  "address": "Ярослаль, ул Лисицина 6в",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 8000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 8000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 12000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 16000000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-na-lisitsina/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-na-lisitsina/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-na-lisitsina/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-na-lisitsina/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-na-lisitsina/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-na-lisitsina/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-na-lisitsina/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-na-lisitsina/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-na-lisitsina/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-na-lisitsina/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/d95/m4fk0fvmc096v1yrvrx7s0ntsl8ssy1m.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/702/l7zcgf59bkh1qrfjoyn18d340cbn417l.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637523",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.1,
+      "price": 8030000,
+      "pricePerMeter": 200249,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-lisitsina/layout-4637523-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637523-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637523-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637564",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.5,
+      "price": 8110000,
+      "pricePerMeter": 200247,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-lisitsina/layout-4637564-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637564-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637564-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637566",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 48.95,
+      "price": 9800000,
+      "pricePerMeter": 200204,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-lisitsina/layout-4637566-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637566-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637566-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637569",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.15,
+      "price": 8840000,
+      "pricePerMeter": 200227,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-lisitsina/layout-4637569-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637569-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-na-lisitsina/layout-4637569-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637572",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.45,
+      "price": 8300000,
+      "pricePerMeter": 200241,
+      "notes": []
+    },
+    {
+      "id": "4637573",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.45,
+      "price": 9100000,
+      "pricePerMeter": 200220,
+      "notes": []
+    },
+    {
+      "id": "4637574",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.2,
+      "price": 8650000,
+      "pricePerMeter": 200231,
+      "notes": []
+    },
+    {
+      "id": "4637521",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.55,
+      "price": 12084500,
+      "pricePerMeter": 190157,
+      "notes": []
+    },
+    {
+      "id": "4637522",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.85,
+      "price": 13091500,
+      "pricePerMeter": 190145,
+      "notes": []
+    },
+    {
+      "id": "4637562",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.85,
+      "price": 12901500,
+      "pricePerMeter": 190147,
+      "notes": []
+    },
+    {
+      "id": "4637565",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.7,
+      "price": 12883000,
+      "pricePerMeter": 190295,
+      "notes": []
+    },
+    {
+      "id": "4637568",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 66.3,
+      "price": 12617000,
+      "pricePerMeter": 190302,
+      "notes": []
+    },
+    {
+      "id": "4637567",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 90.5,
+      "price": 16309000,
+      "pricePerMeter": 180210,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-na-lisitsina/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

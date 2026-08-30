@@ -6,8 +6,7 @@ import { LeadDialog } from "../../components/LeadDialog/LeadDialog";
 import { ResponsiveImage } from "../../components/ResponsiveImage/ResponsiveImage";
 import { Reveal } from "../../components/Reveal/Reveal";
 import { SectionHeading } from "../../components/SectionHeading/SectionHeading";
-import companyJson from "../../data/company.json";
-import { companyDataSchema } from "../../features/company/company.types";
+import { companyData as company } from "../../features/company/company-data";
 import { getProjects } from "../../features/catalog/catalog-repository";
 import type { ImageAsset } from "../../features/catalog/catalog.types";
 import type { LeadKind } from "../../features/leads/lead.types";
@@ -18,7 +17,6 @@ import { HeroSearch } from "./components/HeroSearch";
 import { ServiceSteps } from "./components/ServiceSteps";
 import { TrustMetrics } from "./components/TrustMetrics";
 
-const company = companyDataSchema.parse(companyJson);
 const projects = getProjects();
 const cityPhoneHref = `tel:+${company.cityPhone.replace(/\D/g, "")}`;
 
@@ -48,6 +46,7 @@ export default function HomePage() {
           alt="Современная архитектура Ярославля"
           asset={heroImage}
           className={styles.heroImage!}
+          compactSourceWidth={480}
           eager
           imageClassName={styles.heroImageElement!}
           ratio="auto"

@@ -1,0 +1,413 @@
+{
+  "slug": "zhk-zvezda",
+  "title": "ЖК Звезда",
+  "shortDescription": "Кирпичный дом, ИГО, 10 мин до цента г. Ярославля",
+  "description": [
+    "ЖК \"Звезда\" г. Ярославль",
+    "Будет состоять из двух кирпичных домов переменной этажности 6-8 этажей с индивидуальным газовым отоплением.",
+    "Высота потолков 2.7 м.",
+    "Отделка предчистовая - White Box",
+    "Представлено первое строение из 3-х подъездов на 104 квартиры. 37 гостевых парк. мест.",
+    "Проектом предусматривается обустройство дворовых территорий - физкультурные, детские площадки, зоны отдыха для взрослых.",
+    "Дома расположены рядом с остановочным комплексом, в пешей доступности Школы №13 и 32, детские сады № 59,241; педагогический коледж; больница им. Семашко",
+    "Застройщик с безупречной репутацией ГК \"Медик\" построено более 20 качественных кирпичных проектов многоквартирных домов.",
+    "Консультации по приобретению, ипотеке 24/7"
+  ],
+  "district": "Красноперекопский",
+  "address": "ул. Текстилей",
+  "completionLabel": "4 кв 2027",
+  "completionDate": "2027-Q4",
+  "minimumPrice": 4250000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4250000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6130000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-zvezda/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-zvezda/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-zvezda/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-zvezda/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-zvezda/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-zvezda-2-str/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-zvezda-2-str/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-zvezda-2-str/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-zvezda-2-str/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/634/afy395ihi46wkapt7ut39ikox1xn759r.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/e05/0oqrrngjg225xfd5yty69k0eah21ic54.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "План застройки",
+      "url": "https://офиспродаж76.рф/upload/iblock/b2e/4vdohvytreig5xu9bshkeln3wwbauton.webp",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639166",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 36.7,
+      "price": 4257200,
+      "pricePerMeter": 116000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-zvezda/layout-4639166-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639166-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639166-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639166-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639166-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639167",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 41.8,
+      "price": 4768620,
+      "pricePerMeter": 114082,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-zvezda/layout-4639167-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639167-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639167-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639167-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639167-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639171",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 39.57,
+      "price": 4590120,
+      "pricePerMeter": 116000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-zvezda/layout-4639171-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639171-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639171-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639171-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639171-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639172",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 42.67,
+      "price": 4864380,
+      "pricePerMeter": 114000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-zvezda/layout-4639172-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639172-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639172-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639172-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-zvezda/layout-4639172-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639173",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.42,
+      "price": 4607880,
+      "pricePerMeter": 114000,
+      "notes": []
+    },
+    {
+      "id": "4639177",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 39.91,
+      "price": 4629560,
+      "pricePerMeter": 116000,
+      "notes": []
+    },
+    {
+      "id": "4639178",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 36.18,
+      "price": 4196880,
+      "pricePerMeter": 116000,
+      "notes": []
+    },
+    {
+      "id": "4639165",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 68.98,
+      "price": 7725760,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639168",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 54.75,
+      "price": 6132000,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639175",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.27,
+      "price": 6302240,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639174",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 54.79,
+      "price": 6136480,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639176",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 62.01,
+      "price": 6945120,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639179",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.37,
+      "price": 6313440,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639180",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.58,
+      "price": 6336960,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4639170",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 73.57,
+      "price": 8239840,
+      "pricePerMeter": 112000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-zvezda/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

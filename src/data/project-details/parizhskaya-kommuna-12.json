@@ -1,0 +1,260 @@
+{
+  "slug": "parizhskaya-kommuna-12",
+  "title": "Парижская Коммуна 6-12",
+  "shortDescription": "Кирпичный малоквартирный дом. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+  "description": [
+    "Новый ЖК на Парижской Коммуне стр. 12;6",
+    "Сдача (3-4) кв.2025 года.",
+    "Дом из керамического кирпича - 9 этажей, 62 жилых квартиры, своя газовая котельная, высота потолков 2.62 м.",
+    "Энергоэффективность категории А+ толщина кирпича 510 мм + утепление и сам фасад.",
+    "Отделка предчистовая: квартиры подготовлены под ремонт(полы полу сухая стяжка, выравнивание стен финишной штукатуркой), остекление панорамных лоджий.",
+    "Улучшенная отделка подъездов, безбарьерная среда, колясочные, лапомойки, Face ID, видеонаблюдение.",
+    "Благоустройство территории предусматривает современную спортивную и детскую площадки, озеленение с зонами для отдыха, парковки для авто .",
+    "Удобная не отдалённая от центра локация - школы № 80,72,39, 13;дет. садики № 126,209,211; больница №9; ТЦ \"Рио\"; сетевые магазины; остановка рядом, с верхних этажей вид на Волгу.",
+    "Застройщика ООО СЗ \"Строительный Трест\" (хорошая репутация - 5 качественных, построенных в срок многоквартирных дома).",
+    "Партнёры по продажам: ООО \"Ваш Выбор\" ИНН 7602067446 (офиспродаж76) - Более 5 лет осуществляем прямые продажи без наценок и коммисий, строго по ДДУ с Эскроу а так же по ДКП(введёные в эсплуатацию) от застройщиков г. Ярославль консультации по приобретению и ипотеке 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярославль, ул.Комунаров",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4400000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4400000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5900000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/parizhskaya-kommuna-12/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/parizhskaya-kommuna-12/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/parizhskaya-kommuna-12/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/parizhskaya-kommuna-12/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/parizhskaya-kommuna-12/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/parizhskaya-kommuna-12/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhukovskogo-12/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/parizhskaya-kommuna-12/gallery-003-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/parizhskaya-kommuna-12/gallery-004-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная де-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/6bf/af7mxs6ew3kzp7uo2rq3mt5pgt2ux048.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Р-е на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/588/1c6m1218gwgklwkb9d51qevutfyns04e.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638280",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 64.74,
+      "price": 6927180,
+      "pricePerMeter": 107000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/parizhskaya-kommuna-12/layout-4638280-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638280-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638280-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638286",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61.76,
+      "price": 6361280,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/parizhskaya-kommuna-12/layout-4638286-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638286-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638286-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638354",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 70.82,
+      "price": 7294460,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/parizhskaya-kommuna-12/layout-4638354-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638354-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638354-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638354-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638354-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638355",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 73.8,
+      "price": 7970400,
+      "pricePerMeter": 108000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/parizhskaya-kommuna-12/layout-4638355-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638355-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638355-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638355-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/parizhskaya-kommuna-12/layout-4638355-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/parizhskaya-kommuna-12/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

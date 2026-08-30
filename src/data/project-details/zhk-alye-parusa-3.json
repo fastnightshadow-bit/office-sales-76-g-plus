@@ -1,0 +1,225 @@
+{
+  "slug": "zhk-alye-parusa-3",
+  "title": "ЖК Алые паруса 3",
+  "shortDescription": "Новый современный ЖК из 4 многоквартирных домов, использование счетов ЭСКРОУ, от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Алые паруса\" проект из 4 многоквартирных домов от 10 до 24-х этажей, строящихся по кирпично монолитной технологии.",
+    "Дом Сдан! Красноборская 38 корп. 3",
+    "Представлено 3 третье стр первый жилой двух подъездный дом на 238 квартир этажностью 26 этажей - 24 жилых, на подъезд предусмотрен один грузопассажирский лифт, и два пассажирских лифта.",
+    "Отделка предусматривает: стены-штукатурка, потолки-ж.б плита без окраски, полы-полусухая цементно-песочная стяжка, электропроводка с розетками и выключателями, отопление-радиаторы, водоснабжение- стояки с приборами учёта, окна ПВХ, входные двери.",
+    "Придомовая территория: будут созданы максимально комфортные условия для жителей квартала. Во дворе будут построены детские площадки, спортивные площадки, зоны для отдыха. На первых этажах коммерческие помещения .",
+    "Инфраструктура: Парковая зелёная зона, детские сады, школы, остановочные комплексы, поликлиника, все сетевые магазины, в километре гипермаркет \"Глобус\", кафе, салоны красоты, фитнес центры всё необходимое для жизни и отдыха в сочетании с самым экологичным районом и одной из самых экологически благоприятных частей Заволжского р-на граничащая с сосновым бором.",
+    "Застройщик: ГСК \"МЕДИК\" строительная компания основана в 2008 году, за это время заработала безупречную репутацию благодаря качеству строительства и своевременному вводу в эксплуатацию более десятка многоквартирных домов.",
+    "Консультации 24/7 Скидки!"
+  ],
+  "district": "Заволжский",
+  "address": "г Ярославль, ул. Красноборская 38к3",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "roomPrices": [
+    {
+      "room": "2",
+      "minimumPrice": 6400000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-alye-parusa-3/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-alye-parusa-3/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-3/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-3/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-3/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-alye-parusa-3/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-alye-parusa/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-alye-parusa/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Схема ген плана",
+      "url": "https://офиспродаж76.рф/upload/iblock/6d4/nn09ztlejxmw47sgz49qbthn3ltp30r9.jpg",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/037/t5t65s50l5jb4yn3asj613evtw1vd2cx.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/9d3/k5d3nl24je97z6a7v18033kya2fg8aks.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "р-е на Ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/5cb/eqg7tr8w7wtz0aox77lyj0huwdn2yjod.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4636177",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 71.15,
+      "price": 6616950,
+      "pricePerMeter": 93000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-3/layout-4636177.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4636169",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 88.59,
+      "price": 8238870,
+      "pricePerMeter": 93000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-3/layout-4636169-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-alye-parusa-3/layout-4636169-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-alye-parusa-3/layout-4636169-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636901",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 88.8,
+      "price": 8436000,
+      "pricePerMeter": 95000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-3/layout-4636901-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-alye-parusa-3/layout-4636901-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-alye-parusa-3/layout-4636901-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-alye-parusa-3/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

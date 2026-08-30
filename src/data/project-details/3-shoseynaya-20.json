@@ -1,0 +1,323 @@
+{
+  "slug": "3-shoseynaya-20",
+  "title": "3 Шоссейная 22А(Б)",
+  "shortDescription": "Кирпичный дом с индивидуальным газовым отоплением.",
+  "description": [
+    "ООО \"Волжстрой\" г. Ярославль, ул. 3 Шоссейная д. 22 А(Б) - два малоэтажных 4-х эт дома по 48-квартир, полностью кирпичные, высота потолков 2.7 м, расположены в экологически чистом Заволжском районе .",
+    "Индивидуальное газовое отопление. ЖК представляет собой два шести подъездных малонаселённых дома, всего по две квартиры на этаже . Возведен из керамического кирпича, что обеспечивает надежную шумоизоляцию и долго сохраняет тепло, территория вмещает детскую и спортивную площадку покрытую безопасным резиновым покрытием, отдельную парк. зону для машин.",
+    "Отделка - пред чистовая: окна и оконная дверь ПВХ; полы стяжка; стены-штукатурка, шпаклёвка; сантехническое оборудование -разводка коммуникаций, радиаторы отопления, счётчики, устройство внутреннего пожара тушения; электрика-электро выключатели, розетки; газ-плита газовая, двух контурный котёл, счётчик газовый бытовой, извещатель автономный дымовой, клапан газовый терма запорный; сигнализатор загазованности.",
+    "Расположен в 10 минутах езды от Центра, рядом остановка с хорошей транспортной развязкой, детский сад № 174, школа № 47, рядом Зелёный Бор и Прусовские карьеры, 5 минут на авто до Тверицкого пляжа, все сетевые магазины, аптеки, ТИХО, ЭКОЛОГИЧНО, УДОБНО!!!"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, ул. Шосейная 20",
+  "completionLabel": "Сдан!!!",
+  "completionDate": "ready",
+  "minimumPrice": 3600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3600000
+    },
+    {
+      "room": "2"
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/3-shoseynaya-20/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/3-shoseynaya-20/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/3-shoseynaya-20/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/3-shoseynaya-20/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/3-shoseynaya-20/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/3-shoseynaya-20/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/3-shoseynaya-20/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/3-shoseynaya-20/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/3-shoseynaya-20/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/3-shoseynaya-20/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/3-shoseynaya-20/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/9dd/y1ezd0kchm1b7r09zixkq7fa3v4rv6u0.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/662/yvnj4rx1873j1esif94ul0aq86hdkfa7.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во 2",
+      "url": "https://офиспродаж76.рф/upload/iblock/09f/ti3sidsrkf4dj8uy2h8jkqjr9suaf7gc.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4636342",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/3-shoseynaya-20/layout-4636342-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636342-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636342-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636343",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.88,
+      "price": 3650000,
+      "pricePerMeter": 81328,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/3-shoseynaya-20/layout-4636343-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636343-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636343-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636344",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/3-shoseynaya-20/layout-4636344-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636344-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636344-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636347",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/3-shoseynaya-20/layout-4636347-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636347-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/3-shoseynaya-20/layout-4636347-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636364",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": []
+    },
+    {
+      "id": "4636366",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": []
+    },
+    {
+      "id": "4636367",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": []
+    },
+    {
+      "id": "4636369",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.6,
+      "price": 3800000,
+      "pricePerMeter": 85202,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/3-shoseynaya-20/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

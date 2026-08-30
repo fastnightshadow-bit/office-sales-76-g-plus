@@ -1,0 +1,385 @@
+{
+  "slug": "zhk-u-prudov",
+  "title": "ЖК \"У прудов\"",
+  "shortDescription": "Кирпичный дом бизнес класса в центре р-на",
+  "description": [
+    "ЖК \"У прудов\"",
+    "Дом бизнес-класса в центре Дзержинского района сочетающий в себе комфорт, надёжность, удобную локацию.",
+    "Индивидуальное газовое отопление (двухконтурные котлы)",
+    "Кирпичный дом (640 мм наружные стены)8 жилых этажей, 3-ри подъезда, на подъезд грузовой лифт, 140 квартир, 73 кладовых помещений, 42 парк. места.",
+    "Отделка предчистовая(white-box) - полная подготовка под ремонт(выровнены все поверхности, электрика, разводка сантехники, остекление лоджий, газовая плита, счётчики-вода, свет, газ, высота потолков 2.7м.",
+    "Дизайнерские МОПы.",
+    "Современные детские, спортивные зоны, безбарьерная среда.",
+    "Инфраструктура - в пешей доступности детские сады №15;235 , школа №62 гимназия №2, множество спортивных площадок, сетевые магазины, фитнес центры,поликлиника №3, остановки.",
+    "Общество с ограниченной ответственностью «Специализированный застройщик«ЖК «У прудов» (ООО «СЗ «ЖК «У прудов»)",
+    "ИНН/КПП 7604380157/760601001с 2013 года возведено и введено в эксплуатацию 5 жилых многоквартирных дома, коммерческие объекты 6200 кв\\м ) продажи по ДДУ с использованием счетов эскроу",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, пр Дзержинского у д. 24",
+  "completionLabel": "4 кв 2027",
+  "completionDate": "2027-Q4",
+  "minimumPrice": 4300000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4300000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8500000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-u-prudov/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-u-prudov/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-u-prudov/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-u-prudov/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-u-prudov/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-u-prudov/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-u-prudov/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/9ca/u0nbjc31loikbvindri0mi5g7x45phtx.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Пр. декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/453/mh4li64beygi5x07pprn5mc8ud7fjma9.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639183",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 34.31,
+      "price": 4460300,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-u-prudov/layout-4639183-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639183-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639183-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639184",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 38.18,
+      "price": 4963400,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-u-prudov/layout-4639184-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639184-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639184-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639185",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 38.26,
+      "price": 4973800,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-u-prudov/layout-4639185-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639185-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639185-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639186",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 37.6,
+      "price": 4888000,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-u-prudov/layout-4639186-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639186-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639186-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639186-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-u-prudov/layout-4639186-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639187",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 38.9,
+      "price": 5057000,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4639188",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 34.76,
+      "price": 4518800,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4639189",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 33.12,
+      "price": 4305600,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4639190",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 37.83,
+      "price": 4917900,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4639191",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 36.87,
+      "price": 4793100,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4639192",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 72.37,
+      "price": 8684400,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4639193",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 51.37,
+      "price": 6421250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639194",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 48.11,
+      "price": 6013750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639195",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 58.48,
+      "price": 7310000,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639196",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 57.13,
+      "price": 7141250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639197",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 49.7,
+      "price": 6212500,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639198",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.23,
+      "price": 7028750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639199",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 57.9,
+      "price": 7237500,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639200",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 62.4,
+      "price": 7800000,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639201",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 51.02,
+      "price": 6377500,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4639202",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 70.71,
+      "price": 8485200,
+      "pricePerMeter": 120000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-u-prudov/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

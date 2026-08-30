@@ -1,0 +1,242 @@
+{
+  "slug": "zhk-prestizh-siti",
+  "title": "ЖК \"Престиж Сити\"",
+  "shortDescription": "Кирпичный дом комфорт класса. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+  "description": [
+    "PRESTIGE CITY сдача 4 кв.2024 года.",
+    "Дом из керамического кирпича с индивидуальным газовым отоплением(100 квартир, 10 эт, 54 кладовых пом).",
+    "Отделка предчистовая MAX White Box (подготовка под ремонт косметику-включает сантехнику, электрику финишную штукатурку)",
+    "Улучшенная отделка подъездов, входных групп.",
+    "Благоустройство территории предусматривает современную спортивную и детскую площадки, ландшафтное озеленение с зонами для отдыха, парковки для авто .",
+    "Удобная локация - школы, садики, больницы, ТЦ, сетевые магазины, остановка о.т рядом,с верхних этажей вид на Волгу.",
+    "Застройщик ООО СЗ СК Престиж, ген. подрядчики ООО СК \"Гефест\" ИНН 7604390733."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Ильинская",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4600000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6600000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-prestizh-siti/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-prestizh-siti/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-prestizh-siti/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-prestizh-siti/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-prestizh-siti/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-prestizh-siti/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-prestizh-siti/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-prestizh-siti/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-prestizh-siti/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/060/pfan0nds10xek3t4c492zjalij2r4u36.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/a30/mwg7dczsms2zdfl93ehzjtowsk0b08ga.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637677",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 44.94,
+      "price": 4673760,
+      "pricePerMeter": 104000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-prestizh-siti/layout-4637677.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637680",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 44.77,
+      "price": 4745620,
+      "pricePerMeter": 106000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-prestizh-siti/layout-4637680.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637681",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 44.61,
+      "price": 4728660,
+      "pricePerMeter": 106000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-prestizh-siti/layout-4637681.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637682",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 62.45,
+      "price": 6619700,
+      "pricePerMeter": 106000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-prestizh-siti/layout-4637682.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637676",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 79.94,
+      "price": 7994000,
+      "pricePerMeter": 100000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-prestizh-siti/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

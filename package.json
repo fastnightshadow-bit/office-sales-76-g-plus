@@ -13,6 +13,7 @@
     "test:run": "vitest run",
     "test:e2e": "playwright test",
     "import:source": "tsx scripts/import-source.ts",
+    "generate:catalog": "tsx scripts/write-catalog-artifacts.ts",
     "generate:routes": "tsx scripts/write-route-assets.ts"
   },
   "dependencies": {
@@ -39,6 +40,7 @@
     "eslint": "^10.9.1",
     "globals": "^17.11.0",
     "jsdom": "^30.0.1",
+    "lighthouse": "13.4.1",
     "sharp": "^0.35.4",
     "tsx": "^4.23.12",
     "typescript": "^6.0.3",

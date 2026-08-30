@@ -1,0 +1,293 @@
+{
+  "slug": "lenina-28a",
+  "title": "Ленина 28а",
+  "shortDescription": "Квартиры в центре , приватная территория, подземный паркинг",
+  "description": [
+    "Дом 7-мь этажей, из трёх подъездов, всего 110 жилых квартир, подземный паркинг, кладовые помещения.",
+    "Приватный огороженный двор с детской площадкой и зоной отдыха для взрослых.",
+    "Отопление- ИНДИВИДУАЛЬНОЕ ГАЗОВОЕ.",
+    "Тип дома кирпичный. Фасад облицован керамическим кирпичом.",
+    "Отделка: white box - пред чистовая под ремонт без сантехнического оборудования, высота потолков 2.7 м.",
+    "Закрытая охраняемая территория, пост охраны в здании. Бесшумные лифты комфорт класса. Улучшенная отделка мест общего пользования. Видеонаблюдение за придомовой территорией, гостевой парковкой, местами общего пользования.",
+    "Ввод в эксплуатацию - 4 квартал 2022 г. Продажа жилых и нежилых помещений осуществляется по договору купли продажи от Застройщика(Акционерное Общество «Компания Патио» ИНН 7604196581) - подходит под ипотеку с гос. поддержкой и все виды оплаты."
+  ],
+  "district": "Центр",
+  "address": "Ярослаль, пр. Ленина 28а",
+  "completionLabel": "Сдан!!!",
+  "completionDate": "ready",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 14000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 16700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/lenina-28a/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/lenina-28a/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/lenina-28a/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/lenina-28a/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/lenina-28a/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/lenina-28a/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/lenina-28a/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/lenina-28a/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/lenina-28a/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/lenina-28a/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/lenina-28a/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/lenina-28a/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/lenina-28a/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/lenina-28a/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/lenina-28a/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/f7f/bbl8mjw96nrsxz5mu02l5522veeh6deo.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во",
+      "url": "https://офиспродаж76.рф/upload/iblock/435/60l2l33jdo4n1mlwort77rhgdu15g7jr.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637315",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 70.64,
+      "price": 14128000,
+      "pricePerMeter": 200000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/lenina-28a/layout-4637315-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/lenina-28a/layout-4637315-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637315-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637315-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637315-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637316",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 88.14,
+      "price": 16746600,
+      "pricePerMeter": 190000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/lenina-28a/layout-4637316-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/lenina-28a/layout-4637316-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637316-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637316-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637316-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637317",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 92.81,
+      "price": 17633900,
+      "pricePerMeter": 190000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/lenina-28a/layout-4637317-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/lenina-28a/layout-4637317-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637317-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637317-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/lenina-28a/layout-4637317-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/lenina-28a/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

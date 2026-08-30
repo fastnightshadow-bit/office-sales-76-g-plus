@@ -1,0 +1,282 @@
+{
+  "slug": "zhk-uyutnyy-kvartal-2",
+  "title": "ЖК \"УЮТНЫЙ КВАРТАЛ\"-1",
+  "shortDescription": "ЖК \"Уютный Квартал\" основная концепция квартала ориентирована на создание комфорта и приватности.",
+  "description": [
+    "ЖК \"Уютный Квартал\" 2 кв 2026 год",
+    "Уникальная для мкр-рна застройка, индивидуальный проект класса-\"Комфорт\" квартиры с ОТДЕЛКОЙ ПОД КЛЮЧ",
+    "Два 8 эт многоквартирных дома на просторной придомовой территории, будут выгодно отличаться современной, сдержанной архитектурой и приватной безопасной средой для отдыха и спорта .",
+    "Отопление - своя крышная котельная.",
+    "Квартиры с полной отделкой под ключ высота потолков 2.7 м.",
+    "Функциональные подъезды.",
+    "Разработаны по авторскому проекту. Продуманный дизайн, много света.",
+    "Уютный безопасный двор.",
+    "Во дворе ЖК предусмотрели чтобы каждый житель нашёл занятие по душе. Малышам: качели,песочница. Подросткам: спортивно-игровые комплексы, баскетбольная площадка. Взрослым площадки для занятия спортом, зоны отдыха.",
+    "Застройщик: \"Светлояр» - одна из крупнейших Ярославских компаний. Более 10 лет работы, построено 205000 кв\\м .",
+    "Информация представлена \"официальным партнёром застройщика по продажам\" :",
+    "(ООО «Ваш выбор» ИНН 7602067446)",
+    "консультации по ипотеке, бронирование строго по ценам застройщика.",
+    "г. Ярославль,ул. Победы 38/27 оф.501 тел. 8(4852) 95-55-55, 8(910)-977-37-37"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, Парижская Комуна д. 11",
+  "completionLabel": "3 кв / 2026",
+  "completionDate": "2026-Q3",
+  "minimumPrice": 4600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4600000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8600000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-uyutnyy-kvartal-2/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/9e9/t0a2un6inudtl27b7j5f8ae2dozju05n.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/df6/jc0jgst8f7pm59g5cqkmyzw5fw4m8tw9.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "справка об отделке",
+      "url": "https://офиспродаж76.рф/upload/iblock/cd0/418xn7giwjuw85fvicbujww0pmoakmfe.doc",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637754",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 46.57,
+      "price": 5503690,
+      "pricePerMeter": 118181,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal-2/layout-4637754.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637756",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 44.1,
+      "price": 5214700,
+      "pricePerMeter": 118247,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal-2/layout-4637756.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637763",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 48.53,
+      "price": 5733010,
+      "pricePerMeter": 118133,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal-2/layout-4637763.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637745",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 60.84,
+      "price": 7051600,
+      "pricePerMeter": 115904,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal-2/layout-4637745.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637746",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 57.78,
+      "price": 6699700,
+      "pricePerMeter": 115952,
+      "notes": []
+    },
+    {
+      "id": "4637760",
+      "room": "2",
+      "roomLabel": "2 комнатная квартира",
+      "area": 69.66,
+      "price": 8065900,
+      "pricePerMeter": 115790,
+      "notes": []
+    },
+    {
+      "id": "4637759",
+      "room": "3",
+      "roomLabel": "3 евро+",
+      "area": 93.73,
+      "price": 9428000,
+      "pricePerMeter": 100587,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-uyutnyy-kvartal-2/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

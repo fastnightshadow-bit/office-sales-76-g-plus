@@ -1,0 +1,281 @@
+{
+  "slug": "zhk-na-dyadkovskoy",
+  "title": "ЖК \"на Дядьковской\"",
+  "shortDescription": "Кирпич, ИГО, в удобной локации.Эскроу счета, 100% безопасность вложений.",
+  "description": [
+    "ЖК \"на Дядьковской\" сдача 3 кв.2026 года.",
+    "г. Ярославль р-н Школы № 91",
+    "Дом кирпичный 9-ть жилых эт , 2 подъезда, 81 жилая квартира, просторная придомовая территория обустроеная детской спортивной зонами, парковкой.",
+    "Отопление индивидуальное газовое(двухконтурный котёл).",
+    "Отделка предчистовая(подготовка под ремонт косметику): штукатурка; стяжка; с\\у плитка,сантехника; система отопления радиатары; 2 камерные стеклопакеты, остекление лоджий.",
+    "Благоустройство территории предусматривает современную спортивную и детская площадки.",
+    "Расположен в новом микр.р-не рядом Школа №91, садик, больницы, ТЦ, сетевые магазины, остановка о.т рядом,небольшая отдалённость от центра, граничит с зелёной зоной.",
+    "Надёжный Застройщик - г.к \"ЯрПолесье\" СК \" Партнёр\" построены 10-ки проектов в Ярославле эскроу счета, продажи по ДДУ, Ипотека от 6%.",
+    "ООО Ваш Выбор - официальный партнёр по продажам квартир от Застройщика.Консультации просмотры 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Дядьковская 6",
+  "completionLabel": "3 кв /2026",
+  "completionDate": "2026-Q3",
+  "minimumPrice": 4200000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4200000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 10000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-na-dyadkovskoy/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-na-dyadkovskoy/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-na-dyadkovskoy/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-na-dyadkovskoy/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-na-dyadkovskoy/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-na-dyadkovskoy/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-na-dyadkovskoy/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-na-dyadkovskoy/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-na-dyadkovskoy/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-na-dyadkovskoy/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-na-dyadkovskoy/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/68b/ovpci6w2k098fy9zob75fumm6obykn2e.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная Декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/b79/ufpwclxem7lyzge5keuczzt17n7egdab.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638171",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.6,
+      "price": 5200000,
+      "pricePerMeter": 142077,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-dyadkovskoy/layout-4638171.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638172",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.7,
+      "price": 5050000,
+      "pricePerMeter": 133952,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-dyadkovskoy/layout-4638172.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638174",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 46.6,
+      "price": 5630000,
+      "pricePerMeter": 120815,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-dyadkovskoy/layout-4638174.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638176",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.68,
+      "price": 5327400,
+      "pricePerMeter": 124822,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-na-dyadkovskoy/layout-4638176.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638177",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.4,
+      "price": 4683150,
+      "pricePerMeter": 128658,
+      "notes": []
+    },
+    {
+      "id": "4638179",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.63,
+      "price": 5458700,
+      "pricePerMeter": 125113,
+      "notes": []
+    },
+    {
+      "id": "4638169",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 60,
+      "price": 7950000,
+      "pricePerMeter": 132500,
+      "notes": []
+    },
+    {
+      "id": "4638175",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 87,
+      "price": 9900000,
+      "pricePerMeter": 113793,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-na-dyadkovskoy/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

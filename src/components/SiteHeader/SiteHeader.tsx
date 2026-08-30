@@ -7,11 +7,9 @@ import {
 } from "react";
 import { createPortal } from "react-dom";
 import { Link, NavLink, useLocation } from "react-router-dom";
-import companyJson from "../../data/company.json";
-import { companyDataSchema } from "../../features/company/company.types";
+import { companyData as company } from "../../features/company/company-data";
 import styles from "./SiteHeader.module.css";
 
-const company = companyDataSchema.parse(companyJson);
 const cityPhoneHref = `tel:+${company.cityPhone.replace(/\D/g, "")}`;
 
 const navigation = [

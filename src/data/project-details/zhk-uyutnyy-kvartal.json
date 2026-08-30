@@ -1,0 +1,515 @@
+{
+  "slug": "zhk-uyutnyy-kvartal",
+  "title": "ЖК \"УЮТНЫЙ КВАРТАЛ\" - 2",
+  "shortDescription": "ЖК \"Уютный Квартал\" основная концепция квартала ориентирована на создание комфорта и приватности.",
+  "description": [
+    "ЖК \"Уютный Квартал\" - 2",
+    "Уникальная для мкр-рна застройка, индивидуальный проект класса-\"Комфорт\" квартиры с ОТДЕЛКОЙ ПОД КЛЮЧ",
+    "Состоит из двух секций на 63 и 187 жилых квартиры и коммерческими помещениями на 1 эт.",
+    "Жилой комплекс «Уютный квартал 2» — это продуманная среда, где эстетика, качество строительства и комфорт объединяются в единую концепцию современного городского пространства. В комплексе предусмотрен благоустроенный просторный двор с игровыми и прогулочными зонами, создающими атмосферу уюта и приватности. Также территория комплекса включает увеличенное количество парковочных мест, обеспечивая комфорт владельцам автомобилей и их гостям в любое время суток. Квартиры передаются с современной бюджетной отделкой, выполненной в нейтральной цветовой гамме с использованием качественных материалов., а расположение в динамично развивающемся районе.",
+    "Отопление - своя крышная котельная.",
+    "Квартиры с полной отделкой под ключ высота потолков 2.7 м.",
+    "Функциональные подъезды.",
+    "Разработаны по авторскому проекту. Продуманный дизайн, много света.",
+    "Уютный безопасный двор.",
+    "Во дворе ЖК предусмотрели чтобы каждый житель нашёл занятие по душе. Малышам: качели,песочница. Подросткам: спортивно-игровые комплексы, баскетбольная площадка. Взрослым площадки для занятия спортом, зоны отдыха.",
+    "Застройщик: \"Светлояр» - одна из крупнейших Ярославских компаний. Более 10 лет работы, построено 205000 кв\\м .",
+    "Консультации по объекту 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, Парижская Комуна д. 11",
+  "completionLabel": "2 кв 2029",
+  "completionDate": "2029-Q2",
+  "minimumPrice": 3900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-uyutnyy-kvartal/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-uyutnyy-kvartal/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-uyutnyy-kvartal/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/258/hj8gqdh0k15zht4xjw8n2az8wm5i2afz.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/6ab/osxg6ytapvjwkv2vg4bwuvn2ilaalvr0.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "пр. декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/ff5/lt0ljxdj46xz14c3yepmh0ho47uhgi6q.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639300",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.85,
+      "price": 4089250,
+      "pricePerMeter": 105257,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal/layout-4639300-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639300-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639300-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639301",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 41.27,
+      "price": 4333350,
+      "pricePerMeter": 105000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal/layout-4639301-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639301-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639301-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639302",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 44.33,
+      "price": 4665150,
+      "pricePerMeter": 105237,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal/layout-4639302-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639302-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639302-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639304",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.58,
+      "price": 3850900,
+      "pricePerMeter": 105273,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-uyutnyy-kvartal/layout-4639304-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639304-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-uyutnyy-kvartal/layout-4639304-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639309",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 40.71,
+      "price": 4274550,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639310",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 41.13,
+      "price": 4318650,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639311",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.9,
+      "price": 4294500,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639313",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 39.29,
+      "price": 4125450,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639314",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.29,
+      "price": 4104450,
+      "pricePerMeter": 104466,
+      "notes": []
+    },
+    {
+      "id": "4639316",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.89,
+      "price": 4083450,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639317",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.12,
+      "price": 4212600,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639319",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.45,
+      "price": 4247250,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639320",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 48.97,
+      "price": 4897000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639322",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.47,
+      "price": 4144350,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639323",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.21,
+      "price": 3907050,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639325",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.27,
+      "price": 4018350,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639329",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.95,
+      "price": 4194750,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639330",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 50.96,
+      "price": 5096000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639297",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 63.82,
+      "price": 6392000,
+      "pricePerMeter": 100157,
+      "notes": []
+    },
+    {
+      "id": "4639298",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58.83,
+      "price": 5893000,
+      "pricePerMeter": 100170,
+      "notes": []
+    },
+    {
+      "id": "4639303",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 73.66,
+      "price": 7366000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639305",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.31,
+      "price": 5631000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639306",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 61.34,
+      "price": 6134000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639307",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 67.8,
+      "price": 6780000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639315",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 69.32,
+      "price": 6932000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639318",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 65.36,
+      "price": 6536000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639321",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 74.97,
+      "price": 7497000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639327",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 66.41,
+      "price": 6641000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639331",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 59.07,
+      "price": 5907000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639312",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 94.23,
+      "price": 8951850,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4639326",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 93.55,
+      "price": 9822750,
+      "pricePerMeter": 105000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-uyutnyy-kvartal/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

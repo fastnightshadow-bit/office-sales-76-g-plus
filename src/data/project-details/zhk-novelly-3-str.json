@@ -1,0 +1,427 @@
+{
+  "slug": "zhk-novelly-3-str",
+  "title": "ЖК Новеллы 3 стр",
+  "shortDescription": "Жилой Квартал \"Новеллы\" класс-\"Комфорт\" на Тутаевском шоссе/Панина компании \"Талан\" Консультации будни и выходные 24/7",
+  "description": [
+    "Жилой Квартал \"Новеллы\" стр 3 (третья очередь) от Застройщика \"Талан\" сдаётся в марте 2026 года.",
+    "Уникальная для мкр-рна застройка, индивидуальный проект класса-\"Комфорт\"",
+    "Отделка пред чистовая.",
+    "Пять подъездов 9,10,11,12,13 подъезды по 9 эт, будут отличатся по цветовой композиции. Расположение домов предусматривает приватный двор, закрытый по периметру.",
+    "Более 40 продуманных планировочных решений.",
+    "Когда каждый квадратный метр используется максимально функционально. Европланировки с просторной кухней-гостинной и классические виды квартир открывают широкие возможности для выбора на любой вкус.",
+    "Функциональные подъезды.",
+    "Разработаны по авторскому проекту. Продуманный дизайн, много света, помещение для консьержа, в холе зона отдыха, колясочная, туалет.",
+    "Уютный безопасный двор.",
+    "Во дворе ЖК предусмотрели чтобы каждый житель нашёл занятие по душе. Малышам: качели,песочница. Подросткам: спортивно-игровые комплексы, баскетбольная площадка. Взрослым площадки для занятия спортом, зоны отдыха.",
+    "Застройщик: ООО «СЗ «ТАЛАН-ЯРОСЛАВЛЬ» - одна из ведущих федеральных компаний. 17 лет работы в Ижевске, Перми, Уфе, Набережных Челнах, Твери, Тюмени, Хабаровске, Нижнем Новгороде, Ярославле, Новосибирске, Владивостоке, Нижневартовске, Ханты-Мансийске, Севастополе и Сочи. г. Ярославль.",
+    "Информация представлена \"официальным партнёром застройщика по продажам\" :",
+    "(ООО «Ваш выбор» ИНН 7602067446)",
+    "консультации по ипотеке, бронирование строго по ценам застройщика.",
+    "г. Ярославль,ул. Победы 38/27 оф.501 тел. 8(4852) 95-55-55, 8(910)-977-37-37"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, Тутаевское шоссе.",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4700000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4700000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7300000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8300000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-novelly-3-str/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-novelly-3-str/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-3-str/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-3-str/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-3-str/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-3-str/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novelly-3-str/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-novelly-3-str/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novelly-3-str/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novelly-3-str/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novelly-3-str/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/3b8/09hfg3m5g2kv67r6fuo1jowzkf4axo57.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Благоустройства тер",
+      "url": "https://офиспродаж76.рф/upload/iblock/23c/ptbm0xvjidd7aa0hz3sz57ygoe2rlq51.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Расположение очереди",
+      "url": "https://офиспродаж76.рф/upload/iblock/cca/oqsdzb59nr7sjimg52qoz42ywfp3mo3t.jpeg",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637694",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.1,
+      "price": 5602100,
+      "pricePerMeter": 151000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-3-str/layout-4637694-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637694-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637694-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637694-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637694-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637693",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 34.2,
+      "price": 5278100,
+      "pricePerMeter": 154330,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-3-str/layout-4637693-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637693-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637693-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637696",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.4,
+      "price": 5672900,
+      "pricePerMeter": 140418,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-3-str/layout-4637696-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637696-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637696-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637707",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.1,
+      "price": 5604900,
+      "pricePerMeter": 143348,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novelly-3-str/layout-4637707-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637707-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novelly-3-str/layout-4637707-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637701",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.3,
+      "price": 5490500,
+      "pricePerMeter": 147198,
+      "notes": []
+    },
+    {
+      "id": "4637685",
+      "room": "2",
+      "roomLabel": "2 евро +",
+      "area": 71.2,
+      "price": 9296928,
+      "pricePerMeter": 130575,
+      "notes": []
+    },
+    {
+      "id": "4637692",
+      "room": "2",
+      "roomLabel": "2 евро +",
+      "area": 64,
+      "price": 8968416,
+      "pricePerMeter": 140132,
+      "notes": []
+    },
+    {
+      "id": "4637695",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 71.3,
+      "price": 8969000,
+      "pricePerMeter": 125792,
+      "notes": []
+    },
+    {
+      "id": "4637714",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 54.4,
+      "price": 8226400,
+      "pricePerMeter": 151221,
+      "notes": []
+    },
+    {
+      "id": "4637698",
+      "room": "2",
+      "roomLabel": "2 евро+",
+      "area": 69.5,
+      "price": 9258336,
+      "pricePerMeter": 133213,
+      "notes": []
+    },
+    {
+      "id": "4637699",
+      "room": "2",
+      "roomLabel": "2 евро +",
+      "area": 70.2,
+      "price": 9335520,
+      "pricePerMeter": 132985,
+      "notes": []
+    },
+    {
+      "id": "4637688",
+      "room": "4+",
+      "roomLabel": "4 евро+",
+      "area": 118.2,
+      "price": 12977760,
+      "pricePerMeter": 109795,
+      "notes": []
+    },
+    {
+      "id": "4637691",
+      "room": "4+",
+      "roomLabel": "4 евро+",
+      "area": 113.9,
+      "price": 12669120,
+      "pricePerMeter": 111230,
+      "notes": []
+    },
+    {
+      "id": "4637705",
+      "room": "3",
+      "roomLabel": "3 евро+",
+      "area": 79.3,
+      "price": 9927648,
+      "pricePerMeter": 125191,
+      "notes": []
+    },
+    {
+      "id": "4637706",
+      "room": "3",
+      "roomLabel": "3 евро+",
+      "area": 85.4,
+      "price": 11087328,
+      "pricePerMeter": 129828,
+      "notes": []
+    },
+    {
+      "id": "4637708",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 75.9,
+      "price": 10339100,
+      "pricePerMeter": 136220,
+      "notes": []
+    },
+    {
+      "id": "4637715",
+      "room": "3",
+      "roomLabel": "3 евро+",
+      "area": 97,
+      "price": 12715584,
+      "pricePerMeter": 131088,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novelly-3-str/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

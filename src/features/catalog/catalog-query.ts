@@ -5,6 +5,8 @@ export type { CatalogQuery, CatalogSort, CompletionFilter } from "./catalog.type
 const ROOM_KEYS = new Set<RoomKey>(["studio", "1", "2", "3", "4+", "commercial"]);
 const COMPLETION_FILTERS = new Set<CompletionFilter>(["all", "ready", "2026", "2027", "2028+"]);
 const SORTS = new Set<CatalogSort>(["featured", "price-asc", "price-desc", "completion"]);
+export const MAXIMUM_PRICE_OPTIONS = [5_000_000, 7_000_000, 10_000_000, 15_000_000] as const;
+const MAXIMUM_PRICES = new Set<number>(MAXIMUM_PRICE_OPTIONS);
 
 function nonEmpty(value: string | null): string | undefined {
   return value !== null && value.length > 0 ? value : undefined;
@@ -42,7 +44,7 @@ export function parseCatalogQuery(params: URLSearchParams | string): CatalogQuer
   const maximumPriceText = source.get("maximumPrice");
   if (maximumPriceText !== null) {
     const maximumPrice = Number(maximumPriceText);
-    if (Number.isFinite(maximumPrice) && maximumPrice > 0) query.maximumPrice = maximumPrice;
+    if (MAXIMUM_PRICES.has(maximumPrice)) query.maximumPrice = maximumPrice;
   }
 
   const completion = source.get("completion");
@@ -62,8 +64,7 @@ export function serializeCatalogQuery(query: CatalogQuery): URLSearchParams {
   for (const room of rooms) params.append("rooms", room);
 
   if (query.maximumPrice !== undefined
-    && Number.isFinite(query.maximumPrice)
-    && query.maximumPrice > 0) {
+    && MAXIMUM_PRICES.has(query.maximumPrice)) {
     params.set("maximumPrice", String(query.maximumPrice));
   }
   if (query.completion !== undefined && validCompletion(query.completion) && query.completion !== "all") {

@@ -1,0 +1,316 @@
+{
+  "slug": "zhk-mechta",
+  "title": "ЖК Мечта",
+  "shortDescription": "Современный проект в удобной локации.",
+  "description": [
+    "Дом сдан!",
+    "Монолитно - кирпичный дом 18 этажей. 144 квартиры, два грузопассажирских лифта, кладовые помещение, в близи дома будет оборудован паркинг.",
+    "Навесной вентилируемый фасад в современном стиле с элементами декора.",
+    "Места общего пользования спроектированы по уникальному дизайн проекту, продуманна до мелочей установка светового оборудования с датчиками света.",
+    "Расположен в сердце района с богатой инфраструктурой .",
+    "Отделка пред чистовая-всё подготовлено под ремонт: натяжные потолки, ровные поверхности под напольное покрытие и оклейку обоев; розетки выключатели; приборы учёта вода, эл. энергия; современные радиаторы отопления; все выводы под сантехнику, качественные входные двери в едином стиле.",
+    "Благоустройство территории: Детская и спортивные площадки, озеленение, парковочная зона.",
+    "Застройщик- СЗ \"В-СТРОЙ с 2017 года введено в эксплуатацию 16 жилых домов различного класса, более 40 000 кв\\м сданного без задержек жилья.",
+    "Консультации по проекту 24/7"
+  ],
+  "district": "Красноперекопский",
+  "address": "Ярославль ул Менделеева д.10",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 5400000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5400000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 10000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-mechta/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-mechta/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-mechta/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-mechta/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-mechta/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-mechta/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-mechta/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-mechta/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mechta/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-mechta/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mechta/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-mechta/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mechta/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-mechta/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mechta/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/a25/2ovuvudylo86yemhgd6auw3pqcba5l13.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Р-е на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/af7/fh5cbub23358km8xvv401j5boe9aufay.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638067",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.75,
+      "price": 5300000,
+      "pricePerMeter": 130061,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mechta/layout-4638067-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638067-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638067-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638066",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 73.45,
+      "price": 8600000,
+      "pricePerMeter": 117086,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mechta/layout-4638066-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638066-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638066-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638069",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.45,
+      "price": 7000000,
+      "pricePerMeter": 133460,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mechta/layout-4638069-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638069-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638069-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638071",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 64.68,
+      "price": 8200000,
+      "pricePerMeter": 126778,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mechta/layout-4638071-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638071-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-mechta/layout-4638071-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638072",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58.65,
+      "price": 7700000,
+      "pricePerMeter": 131287,
+      "notes": []
+    },
+    {
+      "id": "4638065",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 103.01,
+      "price": 10850000,
+      "pricePerMeter": 105330,
+      "notes": []
+    },
+    {
+      "id": "4638070",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 79.88,
+      "price": 9400000,
+      "pricePerMeter": 117677,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-mechta/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -83,6 +83,25 @@ export interface Project {
   dataQualityFlags: DataQualityFlag[];
 }
 
+export interface ProjectSummary {
+  slug: string;
+  title: string;
+  shortDescription: string;
+  district?: string;
+  address?: string;
+  completionLabel?: string;
+  completionDate?: string;
+  minimumPrice?: number;
+  roomPrices: RoomPrice[];
+  availableRooms: RoomKey[];
+  mortgageRateLabel?: string;
+  coverImage?: ImageAsset;
+  relatedProjectSlugs: string[];
+  sourceUrl: string;
+  sourceCheckedAt: string;
+  dataQualityFlags: DataQualityFlag[];
+}
+
 export interface SourceLayoutInput {
   id: string;
   roomLabel?: string;

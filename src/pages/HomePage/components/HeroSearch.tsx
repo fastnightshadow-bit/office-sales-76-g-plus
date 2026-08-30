@@ -3,15 +3,13 @@ import { useEffect, useId, useMemo, useRef, useState, type FormEvent } from "rea
 import { createPortal } from "react-dom";
 import { useNavigate } from "react-router-dom";
 import { filterProjects } from "../../../features/catalog/catalog-filters";
-import { serializeCatalogQuery } from "../../../features/catalog/catalog-query";
-import type { CatalogQuery, Project, RoomKey } from "../../../features/catalog/catalog.types";
+import { MAXIMUM_PRICE_OPTIONS, serializeCatalogQuery } from "../../../features/catalog/catalog-query";
+import type { CatalogQuery, ProjectSummary, RoomKey } from "../../../features/catalog/catalog.types";
 import styles from "./HeroSearch.module.css";
 
 interface HeroSearchProps {
-  projects: readonly Project[];
+  projects: readonly ProjectSummary[];
 }
-
-const prices = [5_000_000, 7_000_000, 10_000_000, 15_000_000] as const;
 
 const roomOptions: Array<{ label: string; value: RoomKey }> = [
   { label: "Студия", value: "studio" },
@@ -32,7 +30,7 @@ function projectWord(count: number) {
 }
 
 function useMobileSearch() {
-  const query = "(max-width: 1023px)";
+  const query = "(max-width: 767px)";
   const [mobile, setMobile] = useState(() => (
     typeof window !== "undefined" && typeof window.matchMedia === "function"
       ? window.matchMedia(query).matches
@@ -98,7 +96,7 @@ function SearchFields({ query, districts, onChange }: FieldsProps) {
           value={query.maximumPrice ?? ""}
         >
           <option value="">Без ограничения</option>
-          {prices.map((price) => <option key={price} value={price}>до {price / 1_000_000} млн ₽</option>)}
+          {MAXIMUM_PRICE_OPTIONS.map((price) => <option key={price} value={price}>до {price / 1_000_000} млн ₽</option>)}
         </select>
       </label>
       <label className={styles.field}>

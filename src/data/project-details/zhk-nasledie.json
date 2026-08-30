@@ -1,0 +1,277 @@
+{
+  "slug": "zhk-nasledie",
+  "title": "ЖК«Наследие»",
+  "shortDescription": "Квартиры с отделкой, дом комфорт, в парке на берегу Волги. Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Наследие\" Ярославль. Квартиры с отделкой под ключ. Дом Сдан!",
+    "Представляет собой малоэтажную застройку, в любимом месте отдыха ярославцев-парке \"Павловская роща\" (уникальный микроклимат, свежий воздух, 100 метров до берега р. Волги).",
+    "Дизайнерская отделка входных групп.",
+    "Дом построен на просторном земельном участке, что позволило спроектировать комфортную среду проживания. Проектом благоустройства предусмотрены детская и спортивная площадки, зона отдыха, парковки.",
+    "В доме 7 жилых этажей, 8-ой технический, котельная на крыше, три подъезда, 84 квартиры.",
+    "Конструкция дома: дом выложен из крупноформатных силикатных ЭКО блоков \"Quadro\" с облицовкой штукатуркой по верх минерального утеплителя, что обеспечивает долговечность и энергетическую эффективность. Межквартирные стены из бетонных блоков \"Квадро\" 250мм межкомнатные перегородки из пазогребневых блоков 70мм с воздушным зазором и слоем минерального утеплителя, что с запасом удовлетворяет показателям необходимой звукоизоляции относительно нормативов в СП 23-103-2003, согласно требованиям по ГОСТ 12.1.029.-80.",
+    "Плоская инверсионная кровля.",
+    "Вход на первый этаж обеспечен пандусом, много естественного освещения в общих холлах с панорамным остеклением, качественная долговечная отделка, панорамный лифт с видом на парк.",
+    "Крышная котельная даёт экономию в оплате ком услуг, позволяет начинать отопительный сезон по желанию жильцов.",
+    "Полная внутренняя отделка. Квартиры полностью готовы для проживания. Отделка включает в себя: напольное покрытие(ламинат), обои под окраску, с/у ванная (кафельная плитка),электрику(выключатели розетки), приборы учёта, остекление лоджий, корзины под кондиционеры.",
+    "Локация: В шаговой доступности: школы, садики, остановка, все сетевые магазины, аптеки, рядом поликлиника.",
+    "Застройщик: ООО \"Золотое кольцо\" ИНН 7604100314",
+    "Каждому покупателю подарочные сертификаты на 30 000 руб от производителя мебели -\"Мелодия Мебели\"",
+    "Просмотры квартир, консультации по приобретению, заведение заявок на семейную Ипотеку 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "г. Ярославль, ул.Тутаевское шоссе д. 74",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 5300000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5300000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7800000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 10300000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-nasledie/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-nasledie/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-nasledie/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-nasledie/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-nasledie/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-nasledie/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-nasledie/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-nasledie/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-nasledie/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-nasledie/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Смотреть презентацию ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/615/j1bee7hlierzdc6aagbzi8r3ttxh2kpy.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проект дома",
+      "url": "https://офиспродаж76.рф/upload/iblock/b78/aw6ffkshbr4dsczublv0onuexgahcyrq.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Благоустройство",
+      "url": "https://офиспродаж76.рф/upload/iblock/070/5ba4zqpxluddoq5t8dqqmbufnut6cqj0.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/84f/jv3izb4t3tc42xu2g0usktsgsm9d7prp.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на строительство.",
+      "url": "https://офиспродаж76.рф/upload/iblock/8fc/33wvtaa3qocphal7dokerc1o32ct0uzz.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Приказ Департамента(присвоение адреса)",
+      "url": "https://офиспродаж76.рф/upload/iblock/d82/joxhdfxv1l8cohmxxh00bmv42uaerval.jpeg",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637158",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 41.4,
+      "price": 5382000,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nasledie/layout-4637158.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637159",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 44.22,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nasledie/layout-4637159.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637162",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 41.5,
+      "price": 5395000,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nasledie/layout-4637162.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637163",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 41.7,
+      "price": 5421000,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nasledie/layout-4637163.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637164",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 43.69,
+      "notes": []
+    },
+    {
+      "id": "4637160",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 60.4,
+      "price": 7852000,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4637165",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 60.3,
+      "price": 7839000,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4637155",
+      "room": "3",
+      "roomLabel": "3+ евро",
+      "area": 79.2,
+      "price": 10296000,
+      "pricePerMeter": 130000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-nasledie/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

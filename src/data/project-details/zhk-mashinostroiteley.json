@@ -1,0 +1,244 @@
+{
+  "slug": "zhk-mashinostroiteley",
+  "title": "ЖК \"Машиностроителей\" 25",
+  "shortDescription": "Современный дом в удобной локации.",
+  "description": [
+    "ЖК \"Машиностроителей\" дом 21 - 1 кв 2027",
+    "17 жилых этажей один подьезд, два лифта.",
+    "144 жилых квартиры, потолки 2.5",
+    "О ЖК:",
+    "Поквартирный учет теплоснабжения, электроснабжения, горячей и холодной воды;",
+    "Видеонаблюдение входа и вестибюля 1 этажа;",
+    "Установка домофона в каждой квартире;",
+    "Консьерж при входе в дом;",
+    "Скоростные и бесшумные лифты;",
+    "Чистовая отделка керамогранитом мест общего пользования на 1 этаже;",
+    "Наружные стены из газобетонных блоков «ЭКОс», облицованные керамическим кирпичом;",
+    "Стены, перегородки и потолки в квартирах подготовлены под чистовую отделку;",
+    "Металлические входные двери в квартирах;",
+    "Биметаллические радиаторы отопления;",
+    "Энергосберегающие стеклопакеты в окнах;",
+    "Каркасно-монолитная технология строительства;",
+    "Возможность свободной планировки квартир;",
+    "Wi-Fi зона на придомовой территории.",
+    "Стяжка пола с устройством теплозвукоизоляции;",
+    "Экологически чистый район города;",
+    "Удобная транспортная доступность (более 15 маршрутов автобусов и маршрутных такси);",
+    "Зеленая зона, 2 сосновых бора детский парк «Карпаты» наличие лыжных беговых трасс;",
+    "Бассейн, детская поликлиника №5, областная клиническая больница, 4 крупных торговых центра, кинотеатр.",
+    "Консультации 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль,Машиностроителей",
+  "completionLabel": "1 кв / 2027",
+  "completionDate": "2027-Q1",
+  "minimumPrice": 4900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8100000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-mashinostroiteley/cover.webp",
+    "variants": []
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-mashinostroiteley/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-mashinostroiteley/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-mashinostroiteley/gallery-003-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-mashinostroiteley/gallery-004-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mashinostroiteley/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/3ab/8fak6ij6o072ka27teqn7f8gxvzyv0o3.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/237/slkfp71lpfkrsrr6vf1imkhln6ccy53l.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638927",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 42.99,
+      "price": 4943850,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mashinostroiteley/layout-4638927.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638930",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 42.99,
+      "price": 4857870,
+      "pricePerMeter": 113000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mashinostroiteley/layout-4638930.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638933",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 42.99,
+      "price": 4943850,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mashinostroiteley/layout-4638933.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638928",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 63.84,
+      "price": 7213920,
+      "pricePerMeter": 113000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-mashinostroiteley/layout-4638928.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638929",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 64.76,
+      "price": 7123600,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4638931",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 64.76,
+      "price": 7188360,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4638932",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 63.84,
+      "price": 7213920,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4638926",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 74.43,
+      "price": 8187300,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4638934",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 74.43,
+      "price": 8187300,
+      "pricePerMeter": 110000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-mashinostroiteley/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

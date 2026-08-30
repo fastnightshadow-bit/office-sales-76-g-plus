@@ -1,0 +1,198 @@
+{
+  "slug": "zhk-premer-2",
+  "title": "ЖК Премьер - 2",
+  "shortDescription": "Ликвидные планировки в удобной локации. Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Премьер\" 2 - Ваш новый уровень комфорта в динамичном районе Ярославля!",
+    "ЖК \"Премьер\" - это современный жилой комплекс, идеально расположенный в удобной деловой локации Ярославля. Мы предлагаем не просто квартиры, а новый образ жизни, сочетающий в себе удобство, безопасность и престиж.",
+    "Главное для Вас:",
+    "* Удобное расположение: ЖК \"Премьер\" находится в районе с развитой инфраструктурой и удобной транспортной доступностью, что позволяет добраться в любую точку города.",
+    "* Деловая локация: В непосредственной близости расположены бизнес-центры, офисные здания, банки и другие объекты деловой инфраструктуры, что делает ЖК\"Премьер\" отличным выбором для тех, кто ценит своё время.",
+    "* Развитая инфраструктура: В шаговой доступности от комплекса находятся школы, детские сады, мед. учреждения,магазины,кафе и рестораны - всё необходимое для комфортной жизни.",
+    "* Безопасность и комфорт: Закрытая территория с круглосуточным видеонаблюдением и охраной,достаточное количество парковочных мест, детская спортивные зоны.",
+    "Подробнее о ЖК \"Премьер\":",
+    ": г. Ярославль, ул. Старая Костромская, д.4 (2-й этап). Застройщик: ООО \"СЗ ВИКТОРИЯ\".",
+    "Здание представляет собой односекционный жилой дом с 18-ю надземными этажами, с подвалом и теплым чердаком. Количество квартир составляет 162 шт В подвале запроектированы насосная, насосная пожаротушения, водомерный узел, электрощитовая и помещение уборочного инвентаря. На кровле предусмотрено помещение котельной.",
+    "Предусматривается обустройство дворовой территории, которое включает в себя размещение следующих площадок: физкультурные и детские площадки, площадки для отдыха взрослых, хозяйственные площадки и площадки для кратковременной стоянки автотранспорта. Благоустройство территории участка включает в себя устройство асфальтобетонного покрытия проездов и тротуаров.",
+    "Монолитный дом, вентилируемый фасад из фиброцементных плит, высота потолков 2.70 м",
+    "Отделка :",
+    "* White Box - подготовка под чистовую отделку, включающая выравнивание стен и пола, разводку электрики и сантехники.Этот вариант для тех, кто хочет создать сам интерьер своей мечты.",
+    "консультации 24/7."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Старая костромская 4",
+  "completionLabel": "4 кв 2026",
+  "completionDate": "2026-Q4",
+  "minimumPrice": 3500000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3500000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-premer-2/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-premer-2/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-premer-2/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-premer-2/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-premer-2/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-premer-2/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-premer-2/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/b4f/gb1x5ru5nl9q4ugzm6q0ba0xxyh26ye2.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная Д-ция",
+      "url": "https://офиспродаж76.рф/upload/iblock/8ad/yw4sh2esk161viqi0n0mjy3e0z9runoy.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638606",
+      "room": "studio",
+      "roomLabel": "1-ком. студия",
+      "area": 31.47,
+      "price": 3461700,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-2/layout-4638606.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638607",
+      "room": "studio",
+      "roomLabel": "1-ком. студия",
+      "area": 33.68,
+      "price": 3704800,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-2/layout-4638607.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638603",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56.9,
+      "price": 5746900,
+      "pricePerMeter": 101000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-2/layout-4638603-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-premer-2/layout-4638603-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-premer-2/layout-4638603-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639537",
+      "room": "commercial",
+      "roomLabel": "нежилое",
+      "area": 56.82,
+      "price": 5852460,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-2/layout-4639537.webp",
+        "variants": []
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-premer-2/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -1,0 +1,478 @@
+{
+  "slug": "zhk-traditsii",
+  "title": "ЖК \"Традиции\"",
+  "shortDescription": "Кирпичный дом, ИГО, 10 мин до цента г. Ярославля",
+  "description": [
+    "ЖД \"Традиции\" 4 кв. 2027",
+    "Начало Красноперекопского р-на",
+    "Малоэтажный, приватный полностью кирпичный дом, 3 подъезда,61 квартиры,потолки 2.7.",
+    "Красивая архитектура, благоустроенная территория, гостевая парковка.",
+    "Места общего пользования - качественная дизайнерская отделка.",
+    "Индивидуальное газовое отопление. Этажность – 4 жилых этажей , возведен из кирпича, что обеспечивает надежную шумоизоляцию и хорошо сохраняет тепло.",
+    "Отделка пред чистовая-всё подготовлено под ремонт: качественные стеклопакеты, остекление лоджий, ровные поверхности под напольное покрытие и оклейку обоев; розетки выключатели; приборы учёта вода,эл. энергия; газовое оборудование двух контурный котёл датчики утечки, газовый счётчик; современные радиаторы отопления; все выводы под сантехнику, входные двери в едином стиле.",
+    "Рядом вся необходимая инфраструктура, близость к центру г Ярославля",
+    "Информация предоставлена официальным партнёром по реализации проекта.",
+    "ООО Ваш выбор(офиспродаж76) Консультации 24/7"
+  ],
+  "district": "Красноперекопский",
+  "address": "ул. Колмыковых 5",
+  "completionLabel": "4 кв 2027",
+  "completionDate": "2027-Q4",
+  "minimumPrice": 6100000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 6100000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7900000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 12100000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-traditsii/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-traditsii/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-traditsii/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-traditsii/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-traditsii/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-traditsii/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-traditsii/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-traditsii/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-traditsii/gallery-004-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/a62/839euojbu6k29xswawc7uxrxf7sb4ckp.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/325/51y0utvu8j3mao4cqmtvq7cjfptppn78.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639122",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.96,
+      "price": 6095000,
+      "pricePerMeter": 141876,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-traditsii/layout-4639122.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639123",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 48.11,
+      "price": 6830000,
+      "pricePerMeter": 141966,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-traditsii/layout-4639123.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639128",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 59.57,
+      "price": 8340000,
+      "pricePerMeter": 140003,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-traditsii/layout-4639128.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639129",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 66.66,
+      "price": 9330000,
+      "pricePerMeter": 139964,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-traditsii/layout-4639129.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639132",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 43.22,
+      "price": 6270000,
+      "pricePerMeter": 145072,
+      "notes": []
+    },
+    {
+      "id": "4639133",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 48.61,
+      "price": 7040000,
+      "pricePerMeter": 144826,
+      "notes": []
+    },
+    {
+      "id": "4639136",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 45.95,
+      "price": 6510000,
+      "pricePerMeter": 141676,
+      "notes": []
+    },
+    {
+      "id": "4639139",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 60.95,
+      "price": 8530000,
+      "pricePerMeter": 139951,
+      "notes": []
+    },
+    {
+      "id": "4639146",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.96,
+      "price": 6095000,
+      "pricePerMeter": 141876,
+      "notes": []
+    },
+    {
+      "id": "4639147",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 48.11,
+      "price": 6830000,
+      "pricePerMeter": 141966,
+      "notes": []
+    },
+    {
+      "id": "4639151",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.96,
+      "price": 6230000,
+      "pricePerMeter": 145019,
+      "notes": []
+    },
+    {
+      "id": "4639152",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 66.66,
+      "price": 9330000,
+      "pricePerMeter": 139964,
+      "notes": []
+    },
+    {
+      "id": "4639125",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.21,
+      "price": 7870000,
+      "pricePerMeter": 140011,
+      "notes": []
+    },
+    {
+      "id": "4639126",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 71.03,
+      "price": 9590000,
+      "pricePerMeter": 135013,
+      "notes": []
+    },
+    {
+      "id": "4639127",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 77.66,
+      "price": 10320000,
+      "pricePerMeter": 132887,
+      "notes": []
+    },
+    {
+      "id": "4639130",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 97.28,
+      "price": 12640000,
+      "pricePerMeter": 129934,
+      "notes": []
+    },
+    {
+      "id": "4639134",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 74.68,
+      "price": 9690000,
+      "pricePerMeter": 129754,
+      "notes": []
+    },
+    {
+      "id": "4639135",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 59.68,
+      "price": 8130000,
+      "pricePerMeter": 136227,
+      "notes": []
+    },
+    {
+      "id": "4639137",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 76.12,
+      "price": 10120000,
+      "pricePerMeter": 132948,
+      "notes": []
+    },
+    {
+      "id": "4639138",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 69.98,
+      "price": 9570000,
+      "pricePerMeter": 136753,
+      "notes": []
+    },
+    {
+      "id": "4639140",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 74.68,
+      "price": 9930000,
+      "pricePerMeter": 132967,
+      "notes": []
+    },
+    {
+      "id": "4639141",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 82.23,
+      "price": 10690000,
+      "pricePerMeter": 130001,
+      "notes": []
+    },
+    {
+      "id": "4639142",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 63.66,
+      "price": 8910000,
+      "pricePerMeter": 139962,
+      "notes": []
+    },
+    {
+      "id": "4639143",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 102.36,
+      "price": 13310000,
+      "pricePerMeter": 130031,
+      "notes": []
+    },
+    {
+      "id": "4639144",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 71.29,
+      "price": 9620000,
+      "pricePerMeter": 134942,
+      "notes": []
+    },
+    {
+      "id": "4639145",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.21,
+      "price": 7870000,
+      "pricePerMeter": 140011,
+      "notes": []
+    },
+    {
+      "id": "4639149",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 77.66,
+      "price": 10320000,
+      "pricePerMeter": 132887,
+      "notes": []
+    },
+    {
+      "id": "4639150",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 97.27,
+      "price": 12640000,
+      "pricePerMeter": 129948,
+      "notes": []
+    },
+    {
+      "id": "4639124",
+      "room": "3",
+      "roomLabel": "3-комнатная евро+",
+      "area": 93.84,
+      "price": 12670000,
+      "pricePerMeter": 135017,
+      "notes": []
+    },
+    {
+      "id": "4639131",
+      "room": "3",
+      "roomLabel": "3-комнатная евро+",
+      "area": 129.06,
+      "price": 16770000,
+      "pricePerMeter": 129940,
+      "notes": []
+    },
+    {
+      "id": "4639148",
+      "room": "3",
+      "roomLabel": "3-комнатная евро+",
+      "area": 93.68,
+      "price": 12640000,
+      "pricePerMeter": 134927,
+      "notes": []
+    },
+    {
+      "id": "4639153",
+      "room": "3",
+      "roomLabel": "3-комнатная евро+",
+      "area": 129.16,
+      "price": 16790000,
+      "pricePerMeter": 129994,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-traditsii/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

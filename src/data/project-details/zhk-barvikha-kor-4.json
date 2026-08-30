@@ -1,0 +1,440 @@
+{
+  "slug": "zhk-barvikha-kor-4",
+  "title": "ЖК Барвиха кор. 4",
+  "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+  "description": [
+    "Проект 4-го корпуса жилого комплекса Барвиха, представляет собой 3-х подъездный 9-ти этажный многоквартирный дом на 261 кв. Потолки 2.72 На 1-х этажах располагаются нежилые помещения с обособленными входами от жилой части.",
+    "В цокольном этаже здания располагаются кладовые помещения. Архитектурная выразительность фасадов достигается пластикой объёмов, деталей и элементов, цветового решения жилого дома, объединяющих здание в единый ансамбль",
+    "застройки микрорайона. В пластическом решении фасадов использовано чередование балконов и лоджий с плоскостями стен основного объёма.",
+    "В жилом комплексе Барвиха представлены квартиры более с чем 20 планировками 1,2,3-х комнатные, площадью от 37 до 160 кв. м.",
+    "Среди них можно выбрать: стандартные или европейские варианты, с гардеробной или нишами для шкафов; с панорамным остеклением или зимним садом.",
+    "Так же имеются двухуровневые квартиры со вторым светом. Предусмотрены лоджии и балконы в каждой квартире.",
+    "Индивидуальное газовое отопление — это система, в которой теплоноситель подогревается до нужной температуры под контролем жильцов.",
+    "Преимущества индивидуального газового отопления:",
+    "- можно начать и закончить отопительный сезон в любое время;",
+    "- современные котлы автоматически отслеживают изменения погоды и настраивают уровень обогрева для поддержания комфортной температуры в комнатах;",
+    "- за счёт дополнительного утепления и использования автоматики можно существенно снизить расходы на отопление;",
+    "- тот же газовый котёл можно использовать для подогрева водопроводной воды.",
+    "ООО Ваш выбор Новостройки консультации 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Посёлок Заволжье",
+  "completionLabel": "4 кв 2028",
+  "completionDate": "2028-Q4",
+  "minimumPrice": 1900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 1900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 4300000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 6700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-barvikha-kor-4/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-barvikha-kor-4/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-barvikha-kor-4/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-barvikha-kor-4/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-barvikha-kor-4/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-barvikha-kor-3/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [],
+  "layouts": [
+    {
+      "id": "4639855",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.5,
+      "price": 3017500,
+      "pricePerMeter": 85000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-barvikha-kor-4/layout-4639855.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639853",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.2,
+      "price": 3077000,
+      "pricePerMeter": 85000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-barvikha-kor-4/layout-4639853-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-barvikha-kor-4/layout-4639853-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-barvikha-kor-4/layout-4639853-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639856",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29.2,
+      "price": 2482000,
+      "pricePerMeter": 85000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-barvikha-kor-4/layout-4639856-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-barvikha-kor-4/layout-4639856-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-barvikha-kor-4/layout-4639856-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639857",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 28,
+      "price": 2380000,
+      "pricePerMeter": 85000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-barvikha-kor-4/layout-4639857.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639858",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 28.2,
+      "price": 2397000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639863",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.2,
+      "price": 3077000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639869",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 26.1,
+      "price": 2218500,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639870",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 22,
+      "price": 1870000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639871",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36,
+      "price": 3060000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639872",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 45.9,
+      "price": 3901500,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639874",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.9,
+      "price": 4930000,
+      "pricePerMeter": 133604,
+      "notes": []
+    },
+    {
+      "id": "4639876",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29,
+      "price": 2465000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639854",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.2,
+      "price": 4777000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639852",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.8,
+      "price": 4403000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639851",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.8,
+      "price": 4403000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639850",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 54.8,
+      "price": 4658000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639848",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.9,
+      "price": 4836500,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639859",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57,
+      "price": 4845000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639860",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.8,
+      "price": 4403000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639861",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.8,
+      "price": 4403000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639862",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.8,
+      "price": 4403000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639864",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.2,
+      "price": 4777000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639865",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.5,
+      "price": 4377500,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639866",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 61,
+      "price": 5185000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639868",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 55.7,
+      "price": 4734500,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639873",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58,
+      "price": 4930000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639875",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 61,
+      "price": 5185000,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639849",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 77.9,
+      "price": 6621500,
+      "pricePerMeter": 85000,
+      "notes": []
+    },
+    {
+      "id": "4639867",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 77.9,
+      "price": 6621500,
+      "pricePerMeter": 85000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-barvikha-kor-4/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

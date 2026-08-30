@@ -1,0 +1,384 @@
+{
+  "slug": "zhk-atmosfera",
+  "title": "ЖК Атмосфера",
+  "shortDescription": "Кирпичный дом комфорт класса. Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"АТМОСФЕРА\" - дом из керамического кирпича, в динамичном районе Ярославля!",
+    "Продажи по ДДУ от Застройщика,эскроу счета, проектное финансирование ПАО Сбербанк, семейная ИПОТЕКА 6%",
+    "В каждой квартире двух контурный газовый котёл, безопасные электроплиты. В доме 9 жилых этажей, два подъезда, 126 квартир. Высота потолков 2.7. Безбарьерная среда. Колясочные.",
+    "Запроектированы современные детские спортивные зоны, приватная безопасная огороженная территория с видеонаблюдением.",
+    "Отделка - White box, панорамное остекление лоджий 5;7;9 эт, электрика(розетки выключатели), двух контурный котёл, приборы учёта, электрическая плита, стяжка, финишная штукатурка, разводка труб под сантехнику.",
+    "ЖК \"Атмосфера\" - это современный жилой комплекс, идеально расположенный в удобной деловой локации Ярославля. Мы предлагаем не просто квартиры, а новый образ жизни, сочетающий в себе удобство, безопасность и престиж.",
+    "Застройщик ООО СЗ \"БАЗИС\" компания с многолетним успешным опытом строительства многоквартирных домов.",
+    "Ген подрядчик: Генподрядчики: ЗАО Ярнефтехимстрой - построены и сданы раньше сроков более 5 многоквартирных дома",
+    "Консультации по ипотеке, бронированию 24/7.",
+    "ООО Ваш выбор - официальный менеджер проекта по продажам."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль,",
+  "completionLabel": "1 кв 2028",
+  "completionDate": "2028-Q1",
+  "minimumPrice": 3900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5700000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-atmosfera/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-atmosfera/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-atmosfera/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-atmosfera/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-atmosfera/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-atmosfera/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-atmosfera/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-atmosfera/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-atmosfera/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-atmosfera/gallery-003-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-atmosfera/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "пр. декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/dd9/js8t9pulvpj3hwasmiw6o2q65du9jqla.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Р-е на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/9f6/krrtg207oxd8evc6y22y2l7z9m0wx8ub.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Схема застройки",
+      "url": "https://офиспродаж76.рф/upload/iblock/c52/ry7j8z7akbn3zo26dsfbq1ac78bu3vnf.jpeg",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638787",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 31.61,
+      "price": 4267350,
+      "pricePerMeter": 135000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atmosfera/layout-4638787-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638787-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638787-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638788",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.96,
+      "price": 4620000,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atmosfera/layout-4638788-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638788-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638788-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638789",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.45,
+      "price": 4556250,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atmosfera/layout-4638789-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638789-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638789-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638790",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.12,
+      "price": 4890000,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atmosfera/layout-4638790-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638790-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-atmosfera/layout-4638790-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638791",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.06,
+      "price": 5003100,
+      "pricePerMeter": 135000,
+      "notes": []
+    },
+    {
+      "id": "4638792",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 33.53,
+      "price": 4191250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638793",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 30.39,
+      "price": 3798750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638794",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 45.31,
+      "price": 5663750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638795",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61.59,
+      "price": 7698750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638796",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.34,
+      "price": 6917500,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638797",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 52.71,
+      "price": 6588750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638798",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.84,
+      "price": 7230000,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638799",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56.01,
+      "price": 7001250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638800",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 45.76,
+      "price": 5948800,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4638801",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 71.14,
+      "price": 8892500,
+      "pricePerMeter": 125000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-atmosfera/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

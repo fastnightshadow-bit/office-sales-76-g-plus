@@ -5,6 +5,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Частная демонстрация нового сайта бренда «Офис продаж 76» с локальным снимком каталога новостроек." />
     <meta name="robots" content="noindex, nofollow" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script>
+      (() => {
+        const preload = document.createElement("link");
+        const projectRoute = /^\/catalog\/([a-z0-9-]+)$/.exec(window.location.pathname);
+        const compactViewport = window.matchMedia("(max-width: 600px)").matches;
+        preload.rel = "preload";
+        preload.as = "image";
+        preload.fetchPriority = "high";
+        preload.type = "image/avif";
+
+        if (window.location.pathname === "/") {
+          preload.href = compactViewport ? "/media/site/hero-g-plus-480.avif" : "/media/site/hero-g-plus-960.avif";
+          if (!compactViewport) {
+            preload.imageSrcset = "/media/site/hero-g-plus-480.avif 480w, /media/site/hero-g-plus-960.avif 960w";
+            preload.imageSizes = "100vw";
+          }
+        } else if (window.location.pathname === "/catalog") {
+          preload.href = compactViewport
+            ? "/media/projects/3-shoseynaya-20/cover-480.avif"
+            : "/media/projects/3-shoseynaya-20/cover-960.avif";
+          if (!compactViewport) {
+            preload.imageSrcset = "/media/projects/3-shoseynaya-20/cover-480.avif 480w, /media/projects/3-shoseynaya-20/cover-960.avif 960w";
+            preload.imageSizes = "360px";
+          }
+        } else if (projectRoute) {
+          preload.href = `/media/projects/${projectRoute[1]}/cover-${compactViewport ? 480 : 960}.avif`;
+          if (!compactViewport) {
+            preload.imageSrcset = `/media/projects/${projectRoute[1]}/cover-480.avif 480w, /media/projects/${projectRoute[1]}/cover-960.avif 960w`;
+            preload.imageSizes = "56vw";
+          }
+        } else {
+          return;
+        }
+
+        document.head.append(preload);
+      })();
+    </script>
     <title>Офис продаж 76 — частная демонстрация</title>
   </head>
   <body>

@@ -2,6 +2,7 @@ import { cleanup, render, waitFor } from "@testing-library/react";
 import { createMemoryRouter, RouterProvider } from "react-router-dom";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { appRoutes } from "../app/routes";
+import projectInventory from "../data/projects.json";
 import { buildCanonical, getProjectSeo } from "./seo-config";
 
 function metaContent(selector: string): string | null {
@@ -31,6 +32,17 @@ describe("route metadata", () => {
     );
     expect(document.head.querySelector('link[rel="canonical"]')).not.toBeInTheDocument();
     expect(metaContent('meta[property="og:url"]')).toBeNull();
+  });
+
+  it("keeps lightweight SEO inventory copy synchronized with the generated snapshot", async () => {
+    vi.stubEnv("VITE_SITE_URL", "");
+    const router = createMemoryRouter(appRoutes, { initialEntries: ["/"] });
+
+    render(<RouterProvider router={router} />);
+
+    await waitFor(() => expect(metaContent('meta[name="description"]')).toContain(`${projectInventory.length} проекта`));
+    expect(projectInventory).toHaveLength(92);
+    expect(new Set(projectInventory.map(({ slug }) => slug))).toHaveProperty("size", 92);
   });
 
   it("uses the local project cover and clears project-only metadata after navigation", async () => {

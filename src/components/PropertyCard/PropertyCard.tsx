@@ -7,12 +7,28 @@ import { ResponsiveImage } from "../ResponsiveImage/ResponsiveImage";
 import styles from "./PropertyCard.module.css";
 
 export interface PropertyCardProps {
-  project: Project;
+  project: Pick<Project,
+    | "slug"
+    | "title"
+    | "shortDescription"
+    | "district"
+    | "completionLabel"
+    | "minimumPrice"
+    | "coverImage"
+  >;
   variant?: "featured" | "compact";
+  eagerImage?: boolean;
+  headingLevel?: 2 | 3;
 }
 
-export function PropertyCard({ project, variant = "compact" }: PropertyCardProps) {
+export function PropertyCard({
+  eagerImage = false,
+  headingLevel = 3,
+  project,
+  variant = "compact",
+}: PropertyCardProps) {
   const { isFavorite, toggle } = useFavorites();
+  const Heading = headingLevel === 2 ? "h2" : "h3";
   const favorite = isFavorite(project.slug);
   const projectPath = `/catalog/${project.slug}`;
   const price = project.minimumPrice !== undefined && project.minimumPrice > 0
@@ -26,6 +42,8 @@ export function PropertyCard({ project, variant = "compact" }: PropertyCardProps
           <ResponsiveImage
             alt={`Фасад проекта ${project.title}`}
             {...(project.coverImage ? { asset: project.coverImage } : {})}
+            {...(eagerImage ? { compactSourceWidth: 480 as const } : {})}
+            eager={eagerImage}
             imageClassName={styles.image!}
             ratio={variant === "featured" ? "5 / 4" : "4 / 3"}
             sizes={variant === "featured"
@@ -51,9 +69,9 @@ export function PropertyCard({ project, variant = "compact" }: PropertyCardProps
           {project.district ? <span>{project.district}</span> : null}
           {project.completionLabel ? <span>{project.completionLabel}</span> : null}
         </div>
-        <h3 className={styles.title}>
+        <Heading className={styles.title}>
           <Link to={projectPath}>{project.title}</Link>
-        </h3>
+        </Heading>
         {project.shortDescription ? <p className={styles.description}>{project.shortDescription}</p> : null}
         <p className={styles.price}>{price}</p>
       </div>

@@ -1,0 +1,384 @@
+{
+  "slug": "zhk-karachikha",
+  "title": "ЖК \"Карачиха\"",
+  "shortDescription": "Кирпичные дома, клубный квартал в 5 мин от центра.",
+  "description": [
+    "Малоэтажный, приватный полностью кирпичный комплекс, первая очередь три трёх подъездных четырёх этажных дома по 48 квартир, просторная придомовая территория парковочных мест более одного на квартиру.",
+    "Красивая архитектура,огороженный двор с ландшафтным дизайном, спортивной, детской площадками, гостевая парковка.",
+    "Места общего пользования спроектированы по уникальному дизайн проекту, материалы многоцветный керамогранит, оригинальная подсветка на стенах, продуманна до мелочей установка светового оборудования с датчиками света.",
+    "Индивидуальное газовое отопление. Этажность – 4 жилых этажей , возведен из кирпича, что обеспечивает надежную шумоизоляцию и хорошо сохраняет тепло.",
+    "Отделка пред чистовая-всё подготовлено под ремонт: качественные стеклопакеты PEHAY, остекление лоджий, ровные поверхности под напольное покрытие и оклейку обоев; розетки выключатели; приборы учёта вода,эл. энергия; газовое оборудование двух контурный котёл датчики утечки, газовый счётчик; современные радиаторы отопления; все выводы под сантехнику, качественные входные двери в едином стиле.",
+    "Первые два дома сданы,продажи от застройщика по договору купли-продажи Ипотека от 6%",
+    "Информация предоставлена официальным партнёром по реализации проекта.",
+    "ООО Ваш выбор(офиспродаж76) Просмотры 24/7"
+  ],
+  "district": "Красноперекопский",
+  "address": "посёлок Карачиха, ул. Радужная",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 5280000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5280000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6370000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-karachikha/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-karachikha/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-karachikha/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-karachikha/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-karachikha/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-karachikha/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-karachikha/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-karachikha/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-karachikha/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-karachikha/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/709/rf83shj649eatejc2jh43njf4xd50852.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на ввод.",
+      "url": "https://офиспродаж76.рф/upload/iblock/88b/weea13b2lewm6vvj5tz2k4tqsa688leo.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Присв адрес 1 ст",
+      "url": "https://офиспродаж76.рф/upload/iblock/c3b/53b1zqxuz237414nob7g4iubb9p0uf3d.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Присв адрес 2 ст",
+      "url": "https://офиспродаж76.рф/upload/iblock/731/m103a4mgodzml5vneawj1x9nfzz1jwl3.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638462",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.2,
+      "price": 5304000,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-karachikha/layout-4638462-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638462-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638462-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638462-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638462-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638463",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.4,
+      "price": 5448000,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-karachikha/layout-4638463-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638463-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638463-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638463-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638463-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638464",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.2,
+      "price": 5304000,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-karachikha/layout-4638464-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638464-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638464-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638464-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638464-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638468",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.5,
+      "price": 5340000,
+      "pricePerMeter": 117363,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-karachikha/layout-4638468-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638468-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638468-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638468-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-karachikha/layout-4638468-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638469",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44,
+      "price": 5280000,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4638460",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 62.6,
+      "price": 7199000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638461",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.4,
+      "price": 6371000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638465",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61,
+      "price": 7015000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638466",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 65.9,
+      "price": 7578500,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638467",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.2,
+      "price": 7843000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638470",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.4,
+      "price": 6371000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638471",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 62.6,
+      "price": 7199000,
+      "pricePerMeter": 115000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-karachikha/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

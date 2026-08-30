@@ -1,0 +1,403 @@
+{
+  "slug": "zhk-yaroslavl-siti-1-ztap",
+  "title": "ЖК Ярославль СИТИ",
+  "shortDescription": "АКЦИЯ РАССРОЧКА до 5 лет. Дом в современном стиле, по индивидуальному архитектурному проекту. Консультации 24/7",
+  "description": [
+    "«Ярославль СИТИ» - это два 24-этажных одноподъездных жилых строения №1;3 и одно переменной этажности 6-19 этажей №2",
+    "Располагаются рядом с Московским проспектом.",
+    "Облицовка наружных стен выполняется по системе вентилируемого фасада, облицовочного кирпича и керамогранитной плитки шоколадной и бежевой цветовой гаммы.",
+    "Дополнительный комфорт домам придает наличие подземной парковки, больших площадей в квартирах, высоких потолков (2.75 - 3.10м), высококачественного остекления,двух грузопассажирских лифтов фирмы OTIS.",
+    "Безопасность жильцов обеспечивается собственной службой консьержа в каждом подъезде. Дома оборудуются закрытой мусорокамерой, обеспечивающей экологичность утилизации мусора.",
+    "Квартиры под черновую отделку.",
+    "Застройщик \"ООО СИТИ\""
+  ],
+  "district": "Красноперекопский",
+  "address": "г. Ярославль, Московский пр-кт, 78",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 5400000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5400000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7100000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Аудиторское заключение",
+      "url": "https://офиспродаж76.рф/upload/iblock/c60/8n4dapv9n1v76pmoa8ks3i6qo8it7473.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Заключение о степени готовности",
+      "url": "https://офиспродаж76.рф/upload/iblock/40e/hmgsf53fieoahg4f6ksopapb9dxvy0f9.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/f3d/qhchn9cmj5ist6o6gqnp8jtjqsykqbsy.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/7cc/lmt9yl85gujt26oleq5uqxjs1lnyq9e3.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на ввод 3 этап",
+      "url": "https://офиспродаж76.рф/upload/iblock/047/olr7jvcih5blsa8rdi7uaep5xlx3dct9.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4635605",
+      "room": "1",
+      "roomLabel": "1-комнатная 3-этап",
+      "area": 51.8,
+      "price": 5698000,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635605-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635605-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635605-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4635604",
+      "room": "1",
+      "roomLabel": "1-комнатная 3-этап",
+      "area": 46.3,
+      "price": 5648600,
+      "pricePerMeter": 122000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635604.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4635608",
+      "room": "1",
+      "roomLabel": "1-комнатная 3-этап",
+      "area": 51.2,
+      "price": 5529600,
+      "pricePerMeter": 108000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635608.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4635578",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 54.3,
+      "price": 5691000,
+      "pricePerMeter": 104807,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635578-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635578-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/layout-4635578-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4635572",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 53.3,
+      "price": 5924295,
+      "pricePerMeter": 111150,
+      "notes": []
+    },
+    {
+      "id": "4636858",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 53.1,
+      "price": 5469300,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4636859",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 53.4,
+      "price": 6194400,
+      "pricePerMeter": 116000,
+      "notes": []
+    },
+    {
+      "id": "4635571",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 53.1,
+      "price": 7327800,
+      "pricePerMeter": 138000,
+      "notes": []
+    },
+    {
+      "id": "4635569",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 56.3,
+      "price": 7206400,
+      "pricePerMeter": 128000,
+      "notes": []
+    },
+    {
+      "id": "4635921",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 58.4,
+      "price": 5372800,
+      "pricePerMeter": 92000,
+      "notes": []
+    },
+    {
+      "id": "4635565",
+      "room": "1",
+      "roomLabel": "1-комнатная 2-этап",
+      "area": 53.4,
+      "price": 5500200,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4635633",
+      "room": "1",
+      "roomLabel": "1-комнатная 1-этап",
+      "area": 51.4,
+      "price": 5756800,
+      "pricePerMeter": 112000,
+      "notes": []
+    },
+    {
+      "id": "4635630",
+      "room": "1",
+      "roomLabel": "1-комнатная 1-этап",
+      "area": 52,
+      "price": 5720000,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4635616",
+      "room": "2",
+      "roomLabel": "2-комнатная 3-этап",
+      "area": 69.5,
+      "price": 7297500,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4635614",
+      "room": "2",
+      "roomLabel": "2-комнатная 3-этап",
+      "area": 68.2,
+      "price": 7161000,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4635613",
+      "room": "2",
+      "roomLabel": "2-комнатная 3-этап",
+      "area": 68.4,
+      "price": 7182000,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4635612",
+      "room": "2",
+      "roomLabel": "2-комнатная 3-этап",
+      "area": 66.7,
+      "price": 7003500,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4635627",
+      "room": "2",
+      "roomLabel": "2-комнатная 1-этап",
+      "area": 69.4,
+      "price": 7287000,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4635624",
+      "room": "2",
+      "roomLabel": "2-комнатная 1-этап",
+      "area": 69,
+      "price": 7590000,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4635617",
+      "room": "2",
+      "roomLabel": "2-комнатная 1-этап",
+      "area": 71.1,
+      "price": 7465500,
+      "pricePerMeter": 105000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-yaroslavl-siti-1-ztap/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

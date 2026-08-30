@@ -1,0 +1,329 @@
+{
+  "slug": "zhk-rublyev",
+  "title": "ЖК«Рублёв»",
+  "shortDescription": "Приватный кирпичный дом комфорт . Консультации 24/7",
+  "description": [
+    "ЖК \"Рублёв\" представляет собой приватную малоквартирную застройку, в близи новых мкр-кварталов.",
+    "Кирпичный дом комфорт класса , приватной благоустроенной территорией.",
+    "Проектом предусмотрена комфортная обустроенная среда проживания.",
+    "В доме 9 этажей, 2 подъезда, 116 квартир, потолки 2.7.",
+    "Конструкция дома: дом из керамического кирпича , что обеспечивает долговечность и энергетическую эффективность.",
+    ".",
+    "Предчистовая внутренняя отделка полная подготовка под ремонт,косметику выравнивание,стяжка,выводы сантехники, электрика, газ оборудование, двух контурный котёл, приборы учёта.",
+    "Локация: В шаговой доступности: школы, садики, остановка, все сетевые магазины, аптеки, рядом поликлиника, хорошая экология относительно района",
+    "Застройщик: Группа гомпаний \"СК\" построены в срок более 8 проектов многоквартирных кирпичных домов в г.Ярославле",
+    "Официальные представители по продажам ООО \"Ваш выбор\" ИНН 7602067446"
+  ],
+  "district": "Дзержинский",
+  "address": "г. Ярославль, ул. Почтовая д. 10",
+  "completionLabel": "3 кв 2028",
+  "completionDate": "2028-Q3",
+  "minimumPrice": 3820000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3820000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-rublyev/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-rublyev/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-rublyev/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-rublyev/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-rublyev/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-rublyev/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-rublyev/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/f37/xgeclaqao41j13mwhizzfcoqmi1ua0tq.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/188/jd17uwdhyzrbsepdli1bczuuux1zbil6.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639235",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 30.94,
+      "price": 3805620,
+      "pricePerMeter": 123000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rublyev/layout-4639235.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639224",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.19,
+      "price": 4232520,
+      "pricePerMeter": 108000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rublyev/layout-4639224-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rublyev/layout-4639224-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rublyev/layout-4639224-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639227",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.55,
+      "price": 4279050,
+      "pricePerMeter": 111000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rublyev/layout-4639227-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rublyev/layout-4639227-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rublyev/layout-4639227-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639228",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.45,
+      "price": 4476600,
+      "pricePerMeter": 108000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rublyev/layout-4639228-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rublyev/layout-4639228-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rublyev/layout-4639228-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639231",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.69,
+      "price": 4286520,
+      "pricePerMeter": 108000,
+      "notes": []
+    },
+    {
+      "id": "4639233",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 31.94,
+      "price": 3928620,
+      "pricePerMeter": 123000,
+      "notes": []
+    },
+    {
+      "id": "4639225",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.8,
+      "price": 5380000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639223",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.13,
+      "price": 5513000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639226",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 50.96,
+      "price": 5096000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639229",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 62.34,
+      "price": 6234000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639230",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 56.24,
+      "price": 5624000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639232",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 47.08,
+      "price": 5250000,
+      "pricePerMeter": 111512,
+      "notes": []
+    },
+    {
+      "id": "4639234",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 54.01,
+      "price": 5401000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639222",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 77.73,
+      "price": 7773000,
+      "pricePerMeter": 100000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-rublyev/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

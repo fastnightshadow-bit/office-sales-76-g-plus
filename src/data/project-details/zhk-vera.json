@@ -1,0 +1,311 @@
+{
+  "slug": "zhk-vera",
+  "title": "ЖК \"Вера\"",
+  "shortDescription": "Кирпич, ИГО, парковая зона, 10 мин до Центра. Просмотры, консультации 24/7",
+  "description": [
+    "г. Ярославль, ул. Приозёрная ЖК \"Вера\" построен на просторной благоустроенной территории, рядом с транспортной артэрией, граничит с зоной Тверицкого парка, состоит из 11 жилых подъездов полностью кирпичный с индивидуальным газовым отоплением. Внутри комплекса есть инфраструктура развивающие кружки (ясли), салоны красоты и т.д. Рядом Школа №46, детский сад до центра 10 мин.",
+    "Отделка - пред чистовая: окна и оконная дверь ПВХ; полы стяжка; стены-штукатурка, шпаклёвка; потолок окраска; сантехническое оборудование -разводка коммуникаций, радиаторы отопления, счётчики, устройство внутреннего пожара тушения; электрика-электровыключатели, розетки; двух контурный котёл и.п, счётчик газовый бытовой, извещатель автономный дымовой, клапан газовый термозапорный; сигнализатор загазованности.",
+    "Застройщик компания с многолетним опытом \"Твёрдость\" занимает лидирующие позиции по надёжности и качеству строительства в Ярославле.",
+    "Партнёр по реализации ООО Ваш выбор(офиспродаж76) брокерский сервис по бронированию Новостроек г.Ярославля - консультации, просмотры квартир 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, ул. Приозёрная 5",
+  "completionLabel": "Сдан!!!",
+  "completionDate": "ready",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5500000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7600000
+    }
+  ],
+  "mortgageRateLabel": "17%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-vera/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-vera/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-vera/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-vera/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-vera/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-vera/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vera/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-vera/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vera/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-vera/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vera/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-vera/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vera/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/9ec/y7dymcvdpsqnugm4scktcg5z32b6t44i.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Присвоение адреса",
+      "url": "https://офиспродаж76.рф/upload/iblock/3c4/1sbyc3914tdonqfh9ez8v5sd9f7ohkzn.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638159",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 84.8,
+      "price": 6100000,
+      "pricePerMeter": 71934,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vera/layout-4638159-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-vera/layout-4638159-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-vera/layout-4638159-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638161",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 74.7,
+      "price": 6200000,
+      "pricePerMeter": 82999,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vera/layout-4638161-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-vera/layout-4638161-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-vera/layout-4638161-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639543",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 86.2,
+      "price": 7000000,
+      "pricePerMeter": 81206,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vera/layout-4639543-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-vera/layout-4639543-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-vera/layout-4639543-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-vera/layout-4639543-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-vera/layout-4639543-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639220",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 111.8,
+      "price": 8000000,
+      "pricePerMeter": 71556,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vera/layout-4639220-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-vera/layout-4639220-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-vera/layout-4639220-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639542",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 117,
+      "price": 8100000,
+      "pricePerMeter": 69231,
+      "notes": []
+    },
+    {
+      "id": "4638164",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 121.7,
+      "price": 8900000,
+      "pricePerMeter": 73131,
+      "notes": []
+    },
+    {
+      "id": "4638167",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 98.6,
+      "price": 7800000,
+      "pricePerMeter": 79108,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-vera/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

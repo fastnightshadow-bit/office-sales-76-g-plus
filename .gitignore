@@ -5,5 +5,7 @@ node_modules/
 dist/
 coverage/
 outputs/
+playwright-report/
+test-results/
 .env
 .env.*

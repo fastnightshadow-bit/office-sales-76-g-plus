@@ -1,0 +1,777 @@
+{
+  "slug": "zhk-bumerang",
+  "title": "ЖК \"Бумеранг\"",
+  "shortDescription": "Современный проект в удобной локации.",
+  "description": [
+    "ЖК «Бумеранг» — это современный монолитный дом, возведённый по передовым технологиям с использованием долговечного керамического кирпича. 18 этажей функционального пространства, где первый этаж отведён под коммерческие помещения, а 17 верхних — это ваш будущий дом.",
+    "Планировки и отделка:",
+    "Планировочные решения продуманы до мелочей: в продаже представлены квартиры от уютных студий для молодых специалистов или студентов до просторных трёхкомнатных квартир, идеально подходящих для любого состава семьи.",
+    "Все квартиры сдаются с пред чистовой отделкой (White Box), что даёт возможность сразу приступить к дизайнерскому ремонту и создать интерьер мечты.",
+    "Ключевые преимущества ЖК «Бумеранг»",
+    "• Современная архитектура и технологии:",
+    "монолитный каркас и облицовка керамическим кирпичом — залог прочности, долговечности и отличной звукоизоляции. Панорамное остекление балконов обеспечивает максимум естественного света и открывает великолепные виды из окон квартир. Фасад дома выполнен в современном стиле с сочетанием благородных коричневых и светло-бежевых оттенков.",
+    "• Комфорт и независимость: собственная газовая котельная — вы сами управляете теплом в доме и не зависите от городских сетей. Это гарантия стабильной температуры и экономии на коммунальных платежах.",
+    "• Парковка и подъезды:",
+    "в каждом из четырёх подъездов по два лифта — пассажирский и грузовой, что обеспечивает быструю и комфортную доставку на любой этаж. Подниматься с коляской или заносить мебель будет легко.",
+    "Для вашего удобства в цокольном этаже предусмотрен подземный паркинг – в продаже 12 авто-парковочных мест, также выделены гостевые парковочные места на придомовой территории.",
+    "o Инфраструктура для всей семьи:",
+    "на территории комплекса расположены современные детская и спортивная площадки для активного отдыха и развития детей.",
+    "В шаговой доступности находятся учебные заведения, медицинские учреждения, остановки общественного транспорта, а также универсальный культурно-развлекательный комплекс «Арена- 2000» и спортивный комплекс «Атлант»."
+  ],
+  "district": "Красноперекопский",
+  "address": "Ярославль ул Гагарина",
+  "completionLabel": "2 кв 2029",
+  "completionDate": "2029-Q2",
+  "minimumPrice": 3600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3600000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6400000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 9200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-bumerang/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-bumerang/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-bumerang/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-bumerang/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-bumerang/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-bumerang/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-bumerang/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-bumerang/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "проект",
+      "url": "https://офиспродаж76.рф/upload/iblock/572/z07r6hpqkzwtjfl8wzzzwnfegah480ho.pptx",
+      "status": "verified"
+    },
+    {
+      "title": "сит.план",
+      "url": "https://офиспродаж76.рф/upload/iblock/51b/w3ppxgredpylbl3m3bcv2lf442jihpcj.png",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/e48/ni8brle1z6482krp2y6tgsuiv2cy2idb.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/865/zzocphuejd75d1j4nmac4iwiopf27us4.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639533",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 31.41,
+      "price": 3612150,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-bumerang/layout-4639533-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639533-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639533-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639533-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639533-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639344",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.08,
+      "price": 5069200,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-bumerang/layout-4639344-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639344-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639344-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639344-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639344-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639345",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.86,
+      "price": 5131620,
+      "pricePerMeter": 117000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-bumerang/layout-4639345-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639345-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639345-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639345-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639345-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639348",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.63,
+      "price": 5017450,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-bumerang/layout-4639348-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639348-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639348-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639348-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-bumerang/layout-4639348-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639349",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.16,
+      "price": 4503400,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639350",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.9,
+      "price": 4551300,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639494",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.13,
+      "price": 4614950,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639495",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35,
+      "price": 4025000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639496",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 34.74,
+      "price": 4064580,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639497",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.29,
+      "price": 4978350,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639498",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.92,
+      "price": 4360800,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639499",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.72,
+      "price": 4413240,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639500",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.38,
+      "price": 4298700,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639501",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.13,
+      "price": 4110210,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639502",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 34.86,
+      "price": 4078620,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639503",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 46.9,
+      "price": 5393500,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639504",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.97,
+      "price": 4941550,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639505",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.71,
+      "price": 4997070,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639510",
+      "room": "1",
+      "roomLabel": "1-комнатная +",
+      "area": 49.34,
+      "price": 5674100,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639511",
+      "room": "1",
+      "roomLabel": "1-комнатная +",
+      "area": 47.36,
+      "price": 5446400,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639512",
+      "room": "1",
+      "roomLabel": "1-комнатная +",
+      "area": 47.09,
+      "price": 5509530,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639513",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 37.5,
+      "price": 4312500,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639514",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 34.23,
+      "price": 3936450,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639515",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 33.97,
+      "price": 3974490,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639516",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 37.41,
+      "price": 4302150,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639517",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 35.16,
+      "price": 4043400,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639518",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 34.9,
+      "price": 4083300,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639529",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 44.84,
+      "price": 5156600,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639530",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.14,
+      "price": 4524100,
+      "pricePerMeter": 115588,
+      "notes": []
+    },
+    {
+      "id": "4639531",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.88,
+      "price": 4548960,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639532",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 36.48,
+      "price": 4195200,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639534",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 31.15,
+      "price": 3644550,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639535",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.62,
+      "price": 4326300,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4639536",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.35,
+      "price": 4369950,
+      "pricePerMeter": 117000,
+      "notes": []
+    },
+    {
+      "id": "4639346",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.68,
+      "price": 7068480,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639347",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 60.2,
+      "price": 6682200,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639491",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.96,
+      "price": 6433560,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639492",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.69,
+      "price": 6518970,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4639493",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.82,
+      "price": 7542420,
+      "pricePerMeter": 109596,
+      "notes": []
+    },
+    {
+      "id": "4639506",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.96,
+      "price": 7679480,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4639507",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.52,
+      "price": 7050720,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639508",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61.57,
+      "price": 6800970,
+      "pricePerMeter": 110459,
+      "notes": []
+    },
+    {
+      "id": "4639509",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61.07,
+      "price": 6900910,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4639519",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.15,
+      "price": 7564650,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639520",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.89,
+      "price": 7671570,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4639521",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.67,
+      "price": 6401370,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639522",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.47,
+      "price": 6494110,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4639526",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.85,
+      "price": 7642350,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639527",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.22,
+      "price": 6573420,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639528",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 58.95,
+      "price": 6661350,
+      "pricePerMeter": 113000,
+      "notes": []
+    },
+    {
+      "id": "4639488",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 92.37,
+      "price": 9698850,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639489",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 87.63,
+      "price": 9201150,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639490",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 87.42,
+      "price": 9353940,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4639523",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 96.03,
+      "price": 10083150,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639524",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 90.57,
+      "price": 9509850,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639525",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 90.36,
+      "price": 9668520,
+      "pricePerMeter": 107000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-bumerang/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

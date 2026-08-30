@@ -1,8 +1,5 @@
-import companySource from "../../data/company.json";
-import { companyDataSchema } from "../../features/company/company.types";
+import { companyData as company } from "../../features/company/company-data";
 import styles from "./AboutPage.module.css";
-
-const company = companyDataSchema.parse(companySource);
 
 const claims = [
   {

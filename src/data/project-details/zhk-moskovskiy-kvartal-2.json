@@ -1,0 +1,226 @@
+{
+  "slug": "zhk-moskovskiy-kvartal-2",
+  "title": "ЖК \"Московский Квартал\" -2",
+  "shortDescription": "Дом полностью из керамического кирпича - экологичного, природного материала, общепризнанного наиболее комфортным для постоянного проживания. Представлены разные варианты отделки, чистовая и WhiteBox.",
+  "description": [
+    "ЖК \"Московский Квартал\" стр.2 4 кв.2026 года.",
+    "Жилой комплекс расположен рядом с крупными транспортными магистралями, в районе с развитой инфраструктурой, до центра города 10 минут.",
+    "Удачное расположение в начале спального района с большим количеством объектов социально-бытовой инфраструктуры, в близи от центра города и основных транспортных развязок. Дом строится полностью из керамического кирпича - экологичного, природного материала, общепризнанного наиболее комфортным для проживания в нашем климате. Толстые стены в 640 мм прекрасно держат тепло зимой и прохладу летом, что позволило спроектировать окна в пол, распашные прозрачные балконные двери, панорамное остекление и просторные лоджии, которые становятся самостоятельными функциональными помещениями. Подъезды обустроены эстетичными холлами и безопасными входными группами с витринным остеклением, позволяющими оценить атмосферу снаружи и обстановку внутри, прежде чем зайти или выйти. Центральное отопление. Потолки 2.6 м.",
+    "Консультации 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, Проспект Фрундзе",
+  "completionLabel": "4 кв /2026",
+  "completionDate": "2026-Q4",
+  "minimumPrice": 6000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 6000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 10700000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-moskovskiy-kvartal-2/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Смотреть презентацию ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/c23/q5fefofj9f6x7i40h62g5mlhj3ea6es4.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разр на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/cf8/fz6hsx74p86dbumzjgle212e1m46ypnk.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проект. Декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/31e/0vqmcsa5azopvtuijqplu0p80s0b2pad.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638448",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 64.74,
+      "price": 8270000,
+      "pricePerMeter": 127742,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-moskovskiy-kvartal-2/layout-4638448-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-moskovskiy-kvartal-2/layout-4638448-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-moskovskiy-kvartal-2/layout-4638448-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-moskovskiy-kvartal-2/layout-4638448-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-moskovskiy-kvartal-2/layout-4638448-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-moskovskiy-kvartal-2/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

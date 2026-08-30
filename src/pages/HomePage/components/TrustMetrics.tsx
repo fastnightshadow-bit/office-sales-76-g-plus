@@ -1,12 +1,12 @@
-import type { Project } from "../../../features/catalog/catalog.types";
+import type { ProjectSummary } from "../../../features/catalog/catalog.types";
 import styles from "../HomePage.module.css";
 
-export function TrustMetrics({ projects }: { projects: readonly Project[] }) {
+export function TrustMetrics({ projects }: { projects: readonly ProjectSummary[] }) {
   const districts = new Set(projects.flatMap(({ district }) => district ? [district] : [])).size;
   const pricedProjects = projects.filter(({ minimumPrice }) => minimumPrice !== undefined).length;
   const metrics = [
     { value: String(projects.length), label: "проекта" },
-    { value: String(districts), label: "районов города" },
+    { value: String(districts), label: "категорий районов в каталоге" },
     { value: String(pricedProjects), label: "проектов с указанной ценой" },
   ];
 

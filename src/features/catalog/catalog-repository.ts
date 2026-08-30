@@ -1,6 +1,5 @@
-import projectsJson from "../../data/projects.json";
-import { catalogSchema } from "./catalog-schema";
-import type { Project } from "./catalog.types";
+import projectSummariesJson from "../../data/projects-summary.json";
+import type { ProjectSummary } from "./catalog.types";
 
 function deepFreeze<T>(value: T): T {
   if (value !== null && typeof value === "object" && !Object.isFrozen(value)) {
@@ -10,15 +9,14 @@ function deepFreeze<T>(value: T): T {
   return value;
 }
 
-// Fail fast at module load if the generated source snapshot no longer matches its schema.
-const PROJECTS: readonly Project[] = deepFreeze(
-  catalogSchema.array().parse(projectsJson) as Project[],
-);
+// Import and CI tests schema-validate this generated snapshot. Runtime consumers
+// keep only the immutable typed data and do not ship the validation library.
+const PROJECTS: readonly ProjectSummary[] = deepFreeze(projectSummariesJson as ProjectSummary[]);
 
-export function getProjects(): readonly Project[] {
+export function getProjects(): readonly ProjectSummary[] {
   return PROJECTS;
 }
 
-export function getProjectBySlug(slug: string): Project | undefined {
+export function getProjectBySlug(slug: string): ProjectSummary | undefined {
   return PROJECTS.find((project) => project.slug === slug);
 }

@@ -1,0 +1,357 @@
+{
+  "slug": "zhk-novoe-bragino",
+  "title": "ЖК Новое Брагино",
+  "shortDescription": "Новый современный квартал \"Комфорт класса\"",
+  "description": [
+    "ЖК Новое Брагино - это продуманный, комфортный и удобный для жизни квартал с развитой собственной и соседней инфраструктурой станет новым образцом комфортного городского проживания.",
+    "Концепция комплекса максимально приближена к принципу \"город в городе\" - строения объеденины в клубный комплекс с множеством современных детских, спортивных зон, предусмотрено множество комерческих помещений, которые создают дополнительные удобства и способствуют развитию инфраструктуры (кофейни,пекарни,салоны красоты, и т.д), рядом новая школа и детский сад. ТЦ Альтаир в непосредственной близости.",
+    "Первое строение - 17 этажный многоквартирный жилой дом комфорт-класса, 192 жилых квартиры с 2 по 17 эт, 1 эт \"комерция\" потолки 2.7 два лифта.",
+    "Своя котельная на крыше дома, электроплиты ( не устанавливаются), разводка под сан технику ( без установки), счетчики на воду, счет и тепло. поверх кирпича сделана шуба и плюс штукатурка.",
+    "Конструктив - монолитный железнобетонный каркас стены кирпич, керамический камень,блоки. Отличается долговечностью, энергоэффективностью класса \"А\"",
+    "Красивый долговечный фасад.",
+    "Придомовая территория будет оборудована детскими, спорт. площадками, зоны отдыха, зелёные пространства создадут безопасную комфортную среду для жителей всех возрастов.",
+    "МОПЫ с дизайнерской отделкой будут оборудованны колясочными, красивые входные группы.",
+    "Застройщик \"СЗ\" ЯРОСЛАВЛЬСТРОЙПРОЕКТ\" проектное финансирование ведущим банком, ДДУ счета ЭСКРОУ.",
+    "Консультации по проекту помощь в заведении заявок на Ипотеку 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Дзержинский р-н, МКР №15",
+  "completionLabel": "4 кв 2027",
+  "completionDate": "2027-Q4",
+  "minimumPrice": 3700000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3700000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-novoe-bragino/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-novoe-bragino/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novoe-bragino/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novoe-bragino/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novoe-bragino/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novoe-bragino/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novoe-bragino/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-novoe-bragino/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novoe-bragino/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novoe-bragino/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/e85/yqdb1m6qsym3d898358m6doq374n29ai.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/74c/zi30hgsg43pv6sr8c1hdx39p0kdokum6.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "План Застройки",
+      "url": "https://офиспродаж76.рф/upload/iblock/dbf/mil4p82hww1rnntmg2a05s9z26m6sra4.jpeg",
+      "status": "verified"
+    },
+    {
+      "title": "Схема строений",
+      "url": "https://офиспродаж76.рф/upload/iblock/00c/vcuo82q3rh1natinktm9id8593v3nmjs.jpeg",
+      "status": "verified"
+    },
+    {
+      "title": "ДДУ",
+      "url": "https://офиспродаж76.рф/upload/iblock/611/x30mu376fo51k243zr7zhojagwbcf3jz.docx",
+      "status": "verified"
+    },
+    {
+      "title": "расположение стр",
+      "url": "https://офиспродаж76.рф/upload/iblock/1cc/wugdjgbl9jxm0z9qma5do6w05jnqzbo4.png",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638494",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 33.28,
+      "price": 3790758,
+      "pricePerMeter": 113905,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novoe-bragino/layout-4638494-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638494-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638494-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638491",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.15,
+      "price": 3976257,
+      "pricePerMeter": 107032,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novoe-bragino/layout-4638491-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638491-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638491-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638490",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.99,
+      "price": 3955415,
+      "pricePerMeter": 106932,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novoe-bragino/layout-4638490-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638490-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638490-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638489",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.95,
+      "price": 3902013,
+      "pricePerMeter": 108540,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novoe-bragino/layout-4638489-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638489-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novoe-bragino/layout-4638489-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638488",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.63,
+      "price": 3867280,
+      "pricePerMeter": 108540,
+      "notes": []
+    },
+    {
+      "id": "4638487",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.66,
+      "price": 3920127,
+      "pricePerMeter": 106932,
+      "notes": []
+    },
+    {
+      "id": "4638495",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 33.77,
+      "price": 3694269,
+      "pricePerMeter": 109395,
+      "notes": []
+    },
+    {
+      "id": "4638492",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 47.15,
+      "price": 5207482,
+      "pricePerMeter": 110445,
+      "notes": []
+    },
+    {
+      "id": "4638486",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 49.55,
+      "price": 5324643,
+      "pricePerMeter": 107460,
+      "notes": []
+    },
+    {
+      "id": "4638485",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 48.29,
+      "price": 5244535,
+      "pricePerMeter": 108605,
+      "notes": []
+    },
+    {
+      "id": "4638484",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 51.64,
+      "price": 6305244,
+      "pricePerMeter": 122100,
+      "notes": []
+    },
+    {
+      "id": "4638493",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 68.48,
+      "price": 7449254,
+      "pricePerMeter": 108780,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novoe-bragino/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

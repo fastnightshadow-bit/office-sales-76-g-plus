@@ -1,0 +1,324 @@
+{
+  "slug": "zhk-chistye-prudy",
+  "title": "ЖК \"Чистые пруды\"",
+  "shortDescription": "Кирпичный приватный клубный квартал.",
+  "description": [
+    "1 Строение 4 этажа, материал керамический кирпич, 4 подъезда, всего 68 квартир, высота потолков 2.7 м, 8 кладовых помещений на каждом этаже в 1,2 подъездах.",
+    "Красивая архитектура,огороженный двор с ландшафтным дизайном современными спортивной, детской площадками, парковочная зона.",
+    "Места общего пользования спроектированы по уникальному дизайн проекту, современные качественные материалы.",
+    "Своя котельная. Этажность – 4 жилых этажей , возведен из кирпича, что обеспечивает надежную шумоизоляцию и хорошо сохраняет тепло.",
+    "Отделка пред чистовая-всё подготовлено под ремонт: ровные поверхности под напольное покрытие и оклейку обоев; розетки выключатели; приборы учёта вода,эл. энергия; газовое оборудование двух контурный котёл датчики утечки, газовый счётчик; современные радиаторы отопления; все выводы под сантехнику.",
+    "Продажи по ДДУ с ЭСКРОУ, застройщик с многолетним опытом строительства из керамического кирпича.",
+    "Застройщик группа компаний \"Капитал 76\""
+  ],
+  "district": "Красноперекопский",
+  "address": "Ярославль ул Лесная",
+  "completionLabel": "3 кв 2026",
+  "completionDate": "2026-Q3",
+  "minimumPrice": 5700000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5700000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 8200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 9900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-chistye-prudy/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-chistye-prudy/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-chistye-prudy/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-chistye-prudy/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-chistye-prudy/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-chistye-prudy/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-chistye-prudy/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-chistye-prudy/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/68d/crugjgn1b6xctrrkfm5u8ht0cwiy8kma.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/8da/9e1qqgdaxno8er4tn3hz3qwxvr84hdy4.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638563",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.32,
+      "price": 5411400,
+      "pricePerMeter": 145000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-chistye-prudy/layout-4638563-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638563-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638563-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638578",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.3,
+      "price": 5698500,
+      "pricePerMeter": 145000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-chistye-prudy/layout-4638578-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638578-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638578-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638591",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.3,
+      "price": 5698500,
+      "pricePerMeter": 145000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-chistye-prudy/layout-4638591-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638591-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638591-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638592",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 39.3,
+      "price": 5698500,
+      "pricePerMeter": 145000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-chistye-prudy/layout-4638592-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638592-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-chistye-prudy/layout-4638592-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638593",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 59.13,
+      "price": 8278200,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4638594",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 59.13,
+      "price": 8278200,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4638573",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 89.82,
+      "price": 12574800,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4638576",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 98.09,
+      "price": 13732600,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4638585",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 116.12,
+      "price": 14979480,
+      "pricePerMeter": 129000,
+      "notes": []
+    },
+    {
+      "id": "4638588",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 97.97,
+      "price": 13715800,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4638595",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 133.7,
+      "price": 12367250,
+      "pricePerMeter": 92500,
+      "notes": []
+    },
+    {
+      "id": "4638596",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 82,
+      "price": 9840000,
+      "pricePerMeter": 120000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-chistye-prudy/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

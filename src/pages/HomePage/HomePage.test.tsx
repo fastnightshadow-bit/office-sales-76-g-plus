@@ -5,6 +5,8 @@ import { resolve } from "node:path";
 import { createMemoryRouter, RouterProvider } from "react-router-dom";
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { appRoutes } from "../../app/routes";
+import { getProjects } from "../../features/catalog/catalog-repository";
+import { selectFeaturedProjects } from "./components/FeaturedProjects";
 
 function renderRoute(initialEntry = "/") {
   const router = createMemoryRouter(appRoutes, { initialEntries: [initialEntry] });
@@ -12,9 +14,14 @@ function renderRoute(initialEntry = "/") {
   return router;
 }
 
-function useMobileViewport() {
+function useViewport(width: number) {
   vi.stubGlobal("matchMedia", vi.fn((query: string) => ({
-    matches: query === "(max-width: 1023px)",
+    matches: (() => {
+      const maximum = /max-width:\s*(\d+)px/.exec(query)?.[1];
+      const minimum = /min-width:\s*(\d+)px/.exec(query)?.[1];
+      return (maximum === undefined || width <= Number(maximum))
+        && (minimum === undefined || width >= Number(minimum));
+    })(),
     media: query,
     onchange: null,
     addEventListener: vi.fn(),
@@ -52,6 +59,19 @@ describe("G+ home page", () => {
 
     expect(await screen.findByText("92 проекта")).toBeVisible();
     expect(screen.queryByText(/184/)).not.toBeInTheDocument();
+    expect(screen.getByText(/5 категорий районов в каталоге/)).toBeVisible();
+    expect(screen.queryByText(/районов города/)).not.toBeInTheDocument();
+  });
+
+  it("uses a curated deterministic featured set without malformed campaign copy", () => {
+    const featured = selectFeaturedProjects(getProjects());
+
+    expect(featured.map(({ slug }) => slug)).toEqual([
+      "zhk-novatsiya",
+      "zhk-yaroslavl-siti-1-ztap",
+      "zhk-granat",
+    ]);
+    expect(featured.map(({ shortDescription }) => shortDescription).join(" ")).not.toMatch(/кв\\м|Акция ограничена/i);
   });
 
   it("serializes all desktop hero filters into catalog URL state", async () => {
@@ -72,7 +92,7 @@ describe("G+ home page", () => {
   });
 
   it("keeps mobile changes as a draft until apply and cancels without leaking state", async () => {
-    useMobileViewport();
+    useViewport(390);
     const user = userEvent.setup();
     const router = renderRoute();
 
@@ -105,6 +125,14 @@ describe("G+ home page", () => {
     expect(params.get("maximumPrice")).toBe("7000000");
     expect(params.get("district")).toBe("Центр");
     expect(document.body.style.overflow).toBe("");
+  });
+
+  it("uses the full hero search from the 768px tablet boundary", async () => {
+    useViewport(768);
+    renderRoute();
+
+    expect(await screen.findByRole("form", { name: "Поиск новостроек" })).toBeVisible();
+    expect(screen.queryByRole("button", { name: "Комнаты · Цена · Район" })).not.toBeInTheDocument();
   });
 
   it("renders deterministic featured cards with valid total-price labels", async () => {

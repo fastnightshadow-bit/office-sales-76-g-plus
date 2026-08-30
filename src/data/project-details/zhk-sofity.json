@@ -1,0 +1,330 @@
+{
+  "slug": "zhk-sofity",
+  "title": "ЖК Софиты",
+  "shortDescription": "ЖК Софиты - современный проект комфорт",
+  "description": [
+    "ЖК \"Софиты\" сдача 3 кв.2027 г.",
+    "Монолитно-кирпичный (монолитно каркасная технология с-тва), эстетичный фасад из керамогранита.",
+    "Индивидуальное поквартирное газовое отопление.",
+    "9-ть жилых эт, 3 подъезда, 132 жилых квартиры, 97 гостевых парковочных места, 2.7-3 м высота потолков",
+    "Отделка: White box - подготовка под ремонт(стены выровнены, полы подготовлены, комуникации выведены, лоджии остеклены)",
+    "Улучшенная дизайнерская отделка подъездов, безбарьерная среда, колясочные, кладовые, панорамные лифты, архитектурная подсветка здания.",
+    "Благоустройство территории предусматривает современную спортивную и детскую площадки, озеленение с зонами для отдыха, парковки для авто .",
+    "Удобная локация - школы ; садики больница № 2; ТЦ; сетевые магазины; аквапарк.",
+    "Консультации по объекту 24/7."
+  ],
+  "district": "Фрунзенский",
+  "address": "пр Фрунзе, ул Проектируемой, Тормозн Шоссе, ул Попова",
+  "completionLabel": "3 кв /2027",
+  "completionDate": "2027-Q3",
+  "minimumPrice": 3500000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3500000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5400000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-sofity/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-sofity/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-sofity/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-sofity/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-sofity/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-sofity/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-sofity/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-sofity/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-sofity/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-sofity/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-sofity/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-sofity/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-sofity/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/b9c/wm1t2dkvviz3iobsahjp5oxlafgt3cho.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/11a/z32hzudgac563krhpxc0f0nnw69p9ka7.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639090",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 34.02,
+      "price": 3470040,
+      "pricePerMeter": 102000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-sofity/layout-4639090-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-sofity/layout-4639090-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-sofity/layout-4639090-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639077",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40,
+      "price": 3880000,
+      "pricePerMeter": 97000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-sofity/layout-4639077.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639079",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.78,
+      "price": 3567660,
+      "pricePerMeter": 97000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-sofity/layout-4639079.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639080",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.49,
+      "price": 3619980,
+      "pricePerMeter": 102000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-sofity/layout-4639080.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639082",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40,
+      "price": 3880000,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4639085",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.47,
+      "price": 3617940,
+      "pricePerMeter": 102000,
+      "notes": []
+    },
+    {
+      "id": "4639087",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира +",
+      "area": 43.85,
+      "price": 4253450,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4639088",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.4,
+      "price": 3918800,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4639089",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.45,
+      "price": 3438650,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4639078",
+      "room": "2",
+      "roomLabel": "2-комнатная +",
+      "area": 78.88,
+      "price": 7493600,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4639083",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 65.45,
+      "price": 6217750,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4639084",
+      "room": "2",
+      "roomLabel": "2-комнатная +",
+      "area": 56.74,
+      "price": 5390300,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4639086",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 65.45,
+      "price": 6217750,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4639076",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 94.64,
+      "price": 8990800,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4639081",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 86.78,
+      "price": 8244100,
+      "pricePerMeter": 95000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-sofity/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

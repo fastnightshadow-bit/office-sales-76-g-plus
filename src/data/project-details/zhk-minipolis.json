@@ -1,0 +1,367 @@
+{
+  "slug": "zhk-minipolis",
+  "title": "ЖК Миниполис",
+  "shortDescription": "Авторская архитектура, дворы без машин, ИГО",
+  "description": [
+    "ЖК \"Миниполис\" 4 оч. - сдача 3 квартал 2027г .",
+    "Кирпичный дом на 44 квартиры, ИГО, высота потолков 2.7.",
+    "Комплексная застройка 32 дома.",
+    "Концепция проекта (Вся необходимая инфраструктура внутри квартала) . К концу 2027 года планируется ввод в эксплуатацию 32 дома с коммерческими площадями на первых этажах.",
+    "Дома из кирпича, с индивидуальным газовым отоплением, дворы без машин.",
+    "Отделка : стены штукатурка,шпаклёвка; пол стяжка;качественные входные двери; окна ПВХ; радиаторы отопления; счётчики; электрика; пожарная сигнализация; двух контурный котёл.",
+    "Комплекс запроектирован с продуманным расположением домов для образования комфортной приватной среды : детские площадки, парковочные зоны, магазины, салоны красоты, развивающие кружки и т.д будут располагаться на первых этажах в коммерческих помещениях.",
+    "ЖК выгодно расположен в экологически чистом Заволжском районе г.Ярославль , центрально расположен рядом с ТЦ\"Глобус\" в окружении новых домов и жилых комплексов соседство с которыми обеспечивает благополучное окружение и безопасность, инфраструктура района не уступает ни одному району города.",
+    "Безопасность и способы покупки: продажи квартир осуществляются согласно последним изменениям 214 ФЗ с использованием счетов ЭСКРОУ, застройщик аккредитован в ведущих банках, поможем сформировать заявки на одобрение в ПАО \"Сбербанк\", ПАО\"ВТБ, ОАО \"Россельхозбанк\" и др. банки, от 6%, Сельхоз Ипотека, IT, семейная ипотека, мат капитал.",
+    "Застройщик ООО\"Специализированный Застройщик \"МД-Строй\"(ИНН 7604364780)",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, пос.Зелёный Бор",
+  "completionLabel": "3 кв 2027",
+  "completionDate": "2027-Q3",
+  "minimumPrice": 3900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5500000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-minipolis/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-minipolis/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-minipolis/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-minipolis/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-minipolis/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-minipolis/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-minipolis/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/291/srily91z0m3dzj9492ws9djzd927349y.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/e71/ebph2y2l238pg8d5redg6tv19m8gec69.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638886",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.31,
+      "price": 3933600,
+      "pricePerMeter": 105430,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-minipolis/layout-4638886-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-minipolis/layout-4638886-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-minipolis/layout-4638886-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639412",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.94,
+      "price": 4011700,
+      "pricePerMeter": 105738,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-minipolis/layout-4639412-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-minipolis/layout-4639412-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-minipolis/layout-4639412-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638890",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 45.61,
+      "price": 4846600,
+      "pricePerMeter": 106262,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-minipolis/layout-4638890.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638891",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.38,
+      "price": 3941300,
+      "pricePerMeter": 105439,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-minipolis/layout-4638891-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-minipolis/layout-4638891-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-minipolis/layout-4638891-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638893",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.27,
+      "price": 3938000,
+      "pricePerMeter": 105661,
+      "notes": []
+    },
+    {
+      "id": "4639413",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 41.27,
+      "price": 4378000,
+      "pricePerMeter": 106082,
+      "notes": []
+    },
+    {
+      "id": "4639417",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.94,
+      "price": 3942400,
+      "pricePerMeter": 103911,
+      "notes": []
+    },
+    {
+      "id": "4639418",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.38,
+      "price": 4051300,
+      "pricePerMeter": 105558,
+      "notes": []
+    },
+    {
+      "id": "4638885",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 72.06,
+      "price": 7756100,
+      "pricePerMeter": 107634,
+      "notes": []
+    },
+    {
+      "id": "4638887",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 54.45,
+      "price": 5819000,
+      "pricePerMeter": 106869,
+      "notes": []
+    },
+    {
+      "id": "4638888",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 53.56,
+      "price": 5721000,
+      "pricePerMeter": 106815,
+      "notes": []
+    },
+    {
+      "id": "4638889",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 50.39,
+      "price": 5449400,
+      "pricePerMeter": 108144,
+      "notes": []
+    },
+    {
+      "id": "4639414",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 50.77,
+      "price": 5423000,
+      "pricePerMeter": 106815,
+      "notes": []
+    },
+    {
+      "id": "4639415",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 47.72,
+      "price": 5157900,
+      "pricePerMeter": 108087,
+      "notes": []
+    },
+    {
+      "id": "4639416",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57.97,
+      "price": 6215000,
+      "pricePerMeter": 107211,
+      "notes": []
+    },
+    {
+      "id": "4639419",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 71.34,
+      "price": 7676900,
+      "pricePerMeter": 107610,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-minipolis/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

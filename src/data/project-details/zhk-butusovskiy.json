@@ -1,0 +1,323 @@
+{
+  "slug": "zhk-butusovskiy",
+  "title": "ЖК \"Бутусовский\"",
+  "shortDescription": "ЖК \"Бутусовский\" уютный квартал из трёх невысоких кирпичных домов комфорт класса.",
+  "description": [
+    "ЖК \"Бутусовский\" стр 1",
+    "Уютный квартал из трёх малоэтажных строений из кирпича с торговыми строениями на 1-м эт и подземным паркингом.",
+    "1 стр - 6 этажей, 60 кв. три подъезда Г-образной конфикурации.",
+    "Керамический кирпич 640 мм наружные стены, в каждом подъезде грузопасажирский лифт, потолки 2.68, предусмотренно благоустройство и приватность придомовой территории.",
+    "Продажи по дду, эскроу счета, все действующие льготы по ипотечным ставкам.",
+    "Отделка-предчистовая \"White Box\" : стяжка, штукатурка, двух камерные стеклопакеты, счётчики, электрика, радиаторы отопления.",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Центр",
+  "address": "Ярославль, ул. Некрасова 41",
+  "completionLabel": "3 кв 2028",
+  "completionDate": "2028-Q3",
+  "minimumPrice": 9900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 9900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 14200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 19000000
+    },
+    {
+      "room": "4+",
+      "minimumPrice": 24000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-butusovskiy-str-2/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-butusovskiy-str-2/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-butusovskiy-str-2/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-butusovskiy-str-2/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-butusovskiy-str-2/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-butusovskiy/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-butusovskiy/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/30b/3uik0yur72ljs6iba33122j0dyfk1jad.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/995/o7kbe0cpmbbzoxmp9q32cmevcjjl17n1.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект дду",
+      "url": "https://офиспродаж76.рф/upload/iblock/831/bgvdmpkdu5pi30uxzdq4ei7krqcf59bo.docx",
+      "status": "verified"
+    },
+    {
+      "title": "схема расположения",
+      "url": "https://офиспродаж76.рф/upload/iblock/8f0/7ywkdat4sumx2atexq7t6w7xxwh4zrl1.png",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638936",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.25,
+      "price": 9900000,
+      "pricePerMeter": 240000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-butusovskiy/layout-4638936-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638936-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638936-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638940",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.79,
+      "price": 10989600,
+      "pricePerMeter": 240000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-butusovskiy/layout-4638936-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638936-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638936-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638941",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.19,
+      "price": 10845600,
+      "pricePerMeter": 240000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-butusovskiy/layout-4638941-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638941-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638941-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638943",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 48.45,
+      "price": 11628000,
+      "pricePerMeter": 240000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-butusovskiy/layout-4638943-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638943-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638943-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638943-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-butusovskiy/layout-4638943-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638945",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.07,
+      "price": 10816800,
+      "pricePerMeter": 240000,
+      "notes": []
+    },
+    {
+      "id": "4638946",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.87,
+      "price": 10768800,
+      "pricePerMeter": 240000,
+      "notes": []
+    },
+    {
+      "id": "4638937",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 62.02,
+      "price": 14264600,
+      "pricePerMeter": 230000,
+      "notes": []
+    },
+    {
+      "id": "4638942",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 70.44,
+      "price": 16201200,
+      "pricePerMeter": 230000,
+      "notes": []
+    },
+    {
+      "id": "4638944",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 68.63,
+      "price": 15784900,
+      "pricePerMeter": 230000,
+      "notes": []
+    },
+    {
+      "id": "4638947",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 65.28,
+      "price": 15014400,
+      "pricePerMeter": 230000,
+      "notes": []
+    },
+    {
+      "id": "4638939",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 92.29,
+      "price": 19380900,
+      "pricePerMeter": 210000,
+      "notes": []
+    },
+    {
+      "id": "4638938",
+      "room": "4+",
+      "roomLabel": "4-комнатная",
+      "area": 115.83,
+      "price": 24324300,
+      "pricePerMeter": 210000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-butusovskiy/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

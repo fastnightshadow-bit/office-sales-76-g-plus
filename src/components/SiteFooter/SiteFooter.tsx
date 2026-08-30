@@ -1,10 +1,8 @@
 import { Link } from "react-router-dom";
-import companyJson from "../../data/company.json";
-import { companyDataSchema } from "../../features/company/company.types";
+import { companyData as company } from "../../features/company/company-data";
 import { DemoNotice } from "../DemoNotice/DemoNotice";
 import styles from "./SiteFooter.module.css";
 
-const company = companyDataSchema.parse(companyJson);
 const cityPhoneHref = `tel:+${company.cityPhone.replace(/\D/g, "")}`;
 const mobilePhoneHref = `tel:+${company.mobilePhone.replace(/\D/g, "")}`;
 

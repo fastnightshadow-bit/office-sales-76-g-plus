@@ -1,0 +1,391 @@
+{
+  "slug": "zhk-novatsiya",
+  "title": "ЖК Новация",
+  "shortDescription": "Современный проект комфорт класса, финансирование Дом.рф, счета ЭСКРОУ. Консультации будни и выходные 24/7",
+  "description": [
+    "г. Ярославль, Республиканский проезд д.1",
+    "ЖК \"Новация\" Дом сдан!",
+    "Монолитный дом комфорт класса из 18 этажей, 187 жилых квартир - 85 однокомнатных, 85 двухкомнатных, 17 трёхкомнатных, предусмотрено три высокоскоростных бесшумных лифта Otis, 46 - подземных машино-мест, коммерческие помещения на первом этаже: 554 кв\\м магазин, 96 кв\\м офисы, просторная зона лобби.",
+    "Зона лобби- по индивидуальному дизайн проекту наполнена отдельными пространствами для хранения колясок и велосипедов, зоной консьержа, зоной для отдыха и деловых встреч, общий с\\у.",
+    "Эксплуатируемая крыша с лаунж-зоной обустроенной для отдыха и спорта - свежий воздух, прекрасные виды на р.Волгу, детский городок, тренажёры, зона отдыха.",
+    "Авторская архитектура фасада от Григория Дайнова, самые практичные и современные материалы облицовки - EQUITONE tectiva, технология \"ломанный фасад\" подчёркивает уникальность и статус проекта.",
+    "Панорамные окна в пол выходят на р. Волгу, витражи на алюминиевом профиле ALUTECH, стеклопакет на пластиковом профиле эстетичного цвета окраски RAL 7012, у каждой квартиры своё место для размещения кондиционера в подоконной нише.",
+    "Отделка - предчистовая: окна и оконная дверь ПВХ; полы стяжка; стены-штукатурка; сантехника -разводка коммуникаций, радиаторы отопления, счётчики, устройство внутреннего пожара тушения, электрика-разводка.",
+    "Расположение - непосредственная близость к Волжской Набережной.",
+    "В ближайшей шаговой доступности от 200 м до 900 м 3 детских сада №90,67,3.",
+    "Десятки дошкольных учреждений.",
+    "Школы в районе 1 км - №57,37",
+    "Образовательные учреждения - Финансовый университет, Колледжи-индустрии питания, технический, Строительный, Автомеханический техникумы, Мед академия.",
+    "В шаговой доступности: больница имени Соловьёва, аптеки, сетевые магазины, торгово развлекательные центры, центры здоровья, фитнес центры,салоны красоты, кафе, рестораны.",
+    "Консультации выход на объект 24/7 в будни и выходные:",
+    "г. Ярославль. ул. Победы д. 38\\27 оф. 501, 5 эт. тел 8(4852)95-55-55, 8(910)977-37-37; Полушкина Роща 16, стр 41 8(4852) 41-40-40"
+  ],
+  "district": "Центр",
+  "address": "Ярославль, Республиканский проезд д.1",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 6900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 6900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 8600000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 13400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-novatsiya/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-novatsiya/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novatsiya/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novatsiya/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novatsiya/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-novatsiya/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novatsiya/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novatsiya/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novatsiya/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Смотреть презентацию ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/eea/tcugrd21o571e2cbksio7j12mhe31q02.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/2cc/jy1w0t3d7u8m2jxvc5bwuopbtdzl43sp.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/035/cxqdzo1181wv9cigcsvc0xz2m5zx0xok.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проект ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/fec/x4wztkmecnyzfre75ozx3stgnxvldunv.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разр. Ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/9c0/a1qumw821hrprvju5bvksgd1z7v0tmb5.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4636387",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.3,
+      "price": 7309500,
+      "pricePerMeter": 165000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novatsiya/layout-4636387-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636387-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636387-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636388",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.1,
+      "price": 6904400,
+      "pricePerMeter": 164000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novatsiya/layout-4636388-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636388-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636388-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636389",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.1,
+      "price": 6904400,
+      "pricePerMeter": 164000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novatsiya/layout-4636389-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636389-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636389-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636380",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.4,
+      "price": 7281600,
+      "pricePerMeter": 164000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novatsiya/layout-4636380-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636380-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-novatsiya/layout-4636380-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4636390",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.4,
+      "price": 7281600,
+      "pricePerMeter": 164000,
+      "notes": []
+    },
+    {
+      "id": "4636391",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.8,
+      "price": 6897000,
+      "pricePerMeter": 165000,
+      "notes": []
+    },
+    {
+      "id": "4636392",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.4,
+      "price": 8650800,
+      "pricePerMeter": 162000,
+      "notes": []
+    },
+    {
+      "id": "4636383",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.8,
+      "price": 10170000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4636393",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67,
+      "price": 10653000,
+      "pricePerMeter": 159000,
+      "notes": []
+    },
+    {
+      "id": "4636394",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.5,
+      "price": 11070000,
+      "pricePerMeter": 164000,
+      "notes": []
+    },
+    {
+      "id": "4636395",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.6,
+      "price": 8683200,
+      "pricePerMeter": 162000,
+      "notes": []
+    },
+    {
+      "id": "4636397",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 65.5,
+      "price": 10414500,
+      "pricePerMeter": 159000,
+      "notes": []
+    },
+    {
+      "id": "4636398",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 83.7,
+      "price": 13392000,
+      "pricePerMeter": 160000,
+      "notes": []
+    },
+    {
+      "id": "4636386",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 83.5,
+      "price": 15605400,
+      "pricePerMeter": 186891,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novatsiya/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

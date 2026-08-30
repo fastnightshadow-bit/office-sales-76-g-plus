@@ -1,0 +1,430 @@
+{
+  "slug": "zhk-rivera-park-2-str",
+  "title": "ЖК Ривьера Парк 2 стр",
+  "shortDescription": "Квартиры на набережной, приватная территория, подземный паркинг. Консультации будни и выходные 24/7",
+  "description": [
+    "Ривьера парк 2 стр 7-8 этажей, 251 жилых квартиры, 125 подземных парковочных места, 1 эт коммерческие помещения.",
+    "Приватный огороженный двор без машин с детской площадкой и зоной отдыха для взрослых.",
+    "Отопление-своя газовая котельная.",
+    "Тип дома монолитно-кирпичный. Фасад облицован керамогранитом.",
+    "Отделка: white box - пред чистовая под ремонт без сантехнического оборудования, высота потолков 2.67 м.",
+    "Закрытая охраняемая территория, пост охраны в здании. Бесшумные лифты комфорт класса. Улучшенная отделка мест общего пользования. Видеонаблюдение за придомовой территорией, гостевой парковкой, местами общего пользования.",
+    "Ввод в эксплуатацию - 3 квартал 2025г. Продажа жилых и нежилых помещений осуществляется в соответствии с ФЗ-214 с применением эскроу счетов.",
+    "Застройщик - ГК \"Ташир\" Ген подрядчик - ООО \"Стандарт-Строй\" ИНН 7604250214"
+  ],
+  "district": "Центр",
+  "address": "Ярослаль, ул.Котрольсная набережная ст. 1",
+  "completionLabel": "3 кв 2025",
+  "completionDate": "2025-Q3",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2"
+    },
+    {
+      "room": "3",
+      "minimumPrice": 13000000
+    }
+  ],
+  "mortgageRateLabel": "от 5 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-rivera-park-2-str/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-rivera-park-2-str/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-rivera-park-2-str/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-rivera-park-2-str/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-rivera-park-2-str/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-rivera-park-2-str/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-rivera-park-2-str/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-rivera-park-2-str/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-rivera-park-2-str/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/d05/w438z06odwmibhu3fnncjvypnmtdkcms.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638252",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 56.22,
+      "price": 10117800,
+      "pricePerMeter": 179968,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rivera-park-2-str/layout-4638252-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638252-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638252-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638252-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638252-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638253",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 58.15,
+      "price": 10470000,
+      "pricePerMeter": 180052,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rivera-park-2-str/layout-4638253-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638253-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638253-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638253-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638253-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638254",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 59,
+      "price": 10611000,
+      "pricePerMeter": 179847,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rivera-park-2-str/layout-4638254-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638254-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638254-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638254-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638254-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638251",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 52.96,
+      "price": 11331000,
+      "pricePerMeter": 213954,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-rivera-park-2-str/layout-4638251-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638251-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638251-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638251-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-rivera-park-2-str/layout-4638251-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638255",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 62.43,
+      "price": 11235000,
+      "pricePerMeter": 179962,
+      "notes": []
+    },
+    {
+      "id": "4637391",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 112.6,
+      "price": 15200000,
+      "pricePerMeter": 134991,
+      "notes": []
+    },
+    {
+      "id": "4637395",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 114.1,
+      "price": 15400000,
+      "pricePerMeter": 134969,
+      "notes": []
+    },
+    {
+      "id": "4637390",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 111.5,
+      "price": 15053000,
+      "pricePerMeter": 135004,
+      "notes": []
+    },
+    {
+      "id": "4637399",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 113.33,
+      "notes": []
+    },
+    {
+      "id": "4637392",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 112.6,
+      "price": 15200000,
+      "pricePerMeter": 134991,
+      "notes": []
+    },
+    {
+      "id": "4637400",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 124.27,
+      "price": 16776000,
+      "pricePerMeter": 134996,
+      "notes": []
+    },
+    {
+      "id": "4637394",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 112.62,
+      "price": 15200000,
+      "pricePerMeter": 134967,
+      "notes": []
+    },
+    {
+      "id": "4637397",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 113.3,
+      "notes": []
+    },
+    {
+      "id": "4637393",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 112.62,
+      "price": 15200000,
+      "pricePerMeter": 134967,
+      "notes": []
+    },
+    {
+      "id": "4637396",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 113.29,
+      "notes": []
+    },
+    {
+      "id": "4637389",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 110.49,
+      "price": 14914000,
+      "pricePerMeter": 134981,
+      "notes": []
+    },
+    {
+      "id": "4637398",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 113.31,
+      "notes": []
+    },
+    {
+      "id": "4638256",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 114,
+      "price": 19437000,
+      "pricePerMeter": 170500,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-rivera-park-2-str/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

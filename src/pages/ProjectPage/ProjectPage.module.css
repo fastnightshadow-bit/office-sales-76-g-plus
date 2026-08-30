@@ -22,7 +22,7 @@
 .backLink {
   display: inline-block;
   margin-bottom: 24px;
-  color: var(--color-muted);
+  color: var(--color-text);
   font-size: 0.76rem;
   font-weight: 760;
   letter-spacing: 0.06em;
@@ -112,7 +112,7 @@
 .addressBlock { display: flex; gap: 13px; align-items: flex-start; }
 .addressBlock svg { flex: 0 0 auto; margin-top: 2px; color: var(--color-accent); }
 .addressBlock p { margin: 0 0 8px; color: var(--color-graphite); font-weight: 720; line-height: 1.48; }
-.addressBlock a { color: var(--color-muted); font-size: 0.76rem; text-underline-offset: 3px; }
+.addressBlock a { color: var(--color-text); font-size: 0.76rem; text-underline-offset: 3px; }
 
 .facts {
   display: grid;
@@ -124,7 +124,7 @@
 .facts div,
 .layoutFacts div { display: grid; align-content: start; gap: 7px; }
 .facts dt,
-.layoutFacts dt { color: var(--color-muted); font-size: 0.68rem; font-weight: 760; letter-spacing: 0.07em; text-transform: uppercase; }
+.layoutFacts dt { color: var(--color-text); font-size: 0.68rem; font-weight: 760; letter-spacing: 0.07em; text-transform: uppercase; }
 .facts dd,
 .layoutFacts dd { margin: 0; color: var(--color-graphite); font-weight: 720; }
 
@@ -137,7 +137,7 @@
 
 .roomPrice { display: grid; gap: 5px; padding-right: 16px; border-right: 1px solid var(--color-border); }
 .roomPrice:last-child { border-right: 0; }
-.roomPrice span { color: var(--color-muted); font-size: 0.76rem; }
+.roomPrice span { color: var(--color-text); font-size: 0.76rem; }
 .roomPrice strong { color: var(--color-graphite); font-size: 0.95rem; }
 
 .anchorNav {

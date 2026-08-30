@@ -1,0 +1,250 @@
+{
+  "slug": "zhukovskogo-12",
+  "title": "Жуковского 12",
+  "shortDescription": "Кирпичный малоквартирный дом. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+  "description": [
+    "ЖК на ул. Жуковского 12 сдача 2 кв.2027 года.",
+    "Дом из керамического кирпича, один подъезд 9 этажей, 81 жилых квартиры своя газовая котельная, потолки 2.65.",
+    "Отделка предчистовая White Box (подготовка под ремонт косметику-включает сантехнику, электрику финишную штукатурку)",
+    "Улучшенная отделка подъездов, безбарьерная среда, колясочные, лапомойки, Face ID, видеонаблюдение.",
+    "Благоустройство территории предусматривает современную спортивную и детскую площадки, озеленение с зонами для отдыха, парковки для авто 42 шт .",
+    "Удобная локация - школы № 21,91,23; садики № 99,25,98,35,58; больница № 2; ТЦ; сетевые магазины; аквапарк; ФОК \"Локомотив\"; остановка о.т рядом,с верхних этажей вид на Волгу.",
+    "Консультации по ипотеке и наличию 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Жуковского 12",
+  "completionLabel": "4 кв /2027",
+  "completionDate": "2027-Q4",
+  "minimumPrice": 3670000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3670000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5130000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhukovskogo-12/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhukovskogo-12/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhukovskogo-12/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhukovskogo-12/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhukovskogo-12/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhukovskogo-12/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhukovskogo-12/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhukovskogo-12/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/295/hz1rw0fz9albr3821hnszw9f39syuji1.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/11b/hnv6rsu202qm8edp64xon6vs5ooex3j2.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639157",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 39.96,
+      "price": 4158540,
+      "pricePerMeter": 104068,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhukovskogo-12/layout-4639157-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639157-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639157-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639159",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.37,
+      "price": 4642550,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhukovskogo-12/layout-4639159-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639159-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639159-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639160",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.37,
+      "price": 4198480,
+      "pricePerMeter": 104000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhukovskogo-12/layout-4639160-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639160-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639160-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639162",
+      "room": "2",
+      "roomLabel": "2-комнатная +",
+      "area": 64.44,
+      "price": 6637320,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhukovskogo-12/layout-4639162-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639162-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhukovskogo-12/layout-4639162-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639163",
+      "room": "2",
+      "roomLabel": "2-комнатная +",
+      "area": 51.65,
+      "price": 5371600,
+      "pricePerMeter": 104000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhukovskogo-12/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

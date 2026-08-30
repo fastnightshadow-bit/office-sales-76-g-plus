@@ -1,0 +1,372 @@
+{
+  "slug": "zhk-severnye-rezidentsii-",
+  "title": "ЖК Северные Резиденции",
+  "shortDescription": "Кирпичные дома с ИГО в микрорайоне «Яблоневый посад»",
+  "description": [
+    "Жилой Квартал «Северные резиденции»",
+    "1 очередь стр.№1;2 получено разрешение на ввод в эксплуатацию.",
+    "2 очередь стр. №3;4 сдача 3 кв 2027 год",
+    "Уютный квартал из 4-х кирпичных домов, дома одноподъездные на 90 квартир из 10 жилых этажей.",
+    "Индивидуальное газовое отопление.",
+    "Отделка предчистовая - полная подготовка под ремонт(выровнены все поверхности, электрика, разводка сантехники, остекление лоджий, газовая плита, счётчики-вода, свет, газ.",
+    "Инфраструктура - в пешей доступности новый детский сад «Яблочко», строится школа, множество спортивных площадок, сетевые магазины, фитнес центры, зелёная зона(Павловский парк),поликлиники, остановки.",
+    "Продажи от Юр лица(ООО «ГРАНД-М» ИНН 7604230105 ) с использованием счетов эскроу 100% безопасность вложений.",
+    "Застройщик ИП «Мухин Е.Д» построено множество коммерческих проектов ТЦ Космос, Парк отель Ярославль, Красный холм и т.т также обьекты жилых домов: ул. Республиканская 51к3, Московский 41к2, Шавырина 25к2, Кавказская 28а и др.проекты",
+    "Консультации 24/7, выход на строительный объект, заведение заявок на ипотеку, сопровождение сделок за счёт Застройщика."
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, 2 брагинский 11",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4200000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4200000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8600000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-severnye-rezidentsii/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-severnye-rezidentsii/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-severnye-rezidentsii/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-severnye-rezidentsii/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-severnye-rezidentsii/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-severnye-rezidentsii/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-severnye-rezidentsii/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-severnye-rezidentsii/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-severnye-rezidentsii/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/eea/nmo7dni0sib3xrt9052we2nr4s7zwjnn.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "План застройки",
+      "url": "https://офиспродаж76.рф/upload/iblock/211/l13868kkb0ibrqbf3bv21chuuqqza02y.jpeg",
+      "status": "verified"
+    },
+    {
+      "title": "Проект",
+      "url": "https://офиспродаж76.рф/upload/iblock/784/jzcggo2mu9ui7an667htzxr73g2xj9c7.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/419/wgdouwaexa2a1ilakvwyx7dh4p5u3ft0.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/ea0/m9zpw1hg28ka4as4rngy6dkbqllzukw5.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разр на ввод 2",
+      "url": "https://офиспродаж76.рф/upload/iblock/02e/xi7c0j8y6ncs1al1zn2rcrfpyo1tpmm3.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637303",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.54,
+      "price": 4612670,
+      "pricePerMeter": 101288,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638539",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.54,
+      "price": 4612670,
+      "pricePerMeter": 101288,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638540",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.63,
+      "price": 4612670,
+      "pricePerMeter": 101089,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-severnye-rezidentsii/layout-4638540-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4638540-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4638540-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638774",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.54,
+      "price": 4554000,
+      "pricePerMeter": 100000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-severnye-rezidentsii/layout-4637303-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637304",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.85,
+      "price": 4163500,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4637305",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.84,
+      "price": 4162400,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4638775",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.63,
+      "price": 4563000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4638541",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56.3,
+      "price": 6364270,
+      "pricePerMeter": 113042,
+      "notes": []
+    },
+    {
+      "id": "4637307",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56.3,
+      "price": 6193000,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4637308",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 64.38,
+      "price": 7081800,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4637311",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 77.82,
+      "price": 8638020,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4637310",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 78.25,
+      "price": 8685750,
+      "pricePerMeter": 111000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-severnye-rezidentsii-/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

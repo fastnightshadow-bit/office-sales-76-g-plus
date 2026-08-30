@@ -1,0 +1,760 @@
+{
+  "slug": "zhk-semeynyy-kvartal",
+  "title": "ЖК Семейный Квартал",
+  "shortDescription": "Клубный квартал, своя спа зона, спортзалы, комфорт класс",
+  "description": [
+    "Жилой комплекс \"Семейный Квартал\"",
+    "Комфорт класс.",
+    "Приватный клубный комплекс из 5 корпусов: свои спортивные залы для жителей квартала, напрямую соединены с корпусами № 2,3; 4,5",
+    "Подземный паркинг на 300 машиномест с выходом из каждого дома.",
+    "Характеристики строений :17 жилых этажей с \"тёплым\"чердаком и подвалом., в 1,2 и 4 корпусах крышные котельные 5-ть строений будет вмещать 970 жилых квартир",
+    "Двор без машин. Благоустройство прилегающей к дому территории предполагает:тротуарные дорожки, игровой комплекс, физкультурная площадка , площадка для тихого отдыха . Ландшафтный дизайн.Вокруг комплекса множество гостевых парковок.",
+    "В ближайшей доступности находятся детские сады школы, ТЦ, Гипремаркеты, спортивные комплексы. Перспективы карабулинской развязки.",
+    "Планируемуя дата окончания стр. 1 кв 2029 года, используется проектное финансирование ДОМ РФ , ДДУ с использованием ЭСКРОУ-СЧЕТОВ",
+    "Возможна беспроцентная рассрочка до 2 лет с минимальным первоначальным взносом от 10%",
+    "Застройщик ГК - ООО «СПК»",
+    "более 20 лет деятельности, построено более 5 успешных проектов жилых многоквартирных домов, также множество коммерческих объектов."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Бурмакинская\\Чернопрудная\\Лескова 35,36,37",
+  "completionLabel": "1 кв. 2029",
+  "completionDate": "2029-Q1",
+  "minimumPrice": 2900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 2900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5400000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7400000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-semeynyy-kvartal/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-semeynyy-kvartal/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-semeynyy-kvartal/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-semeynyy-kvartal/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-semeynyy-kvartal/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-semeynyy-kvartal/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-semeynyy-kvartal/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-semeynyy-kvartal/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-semeynyy-kvartal/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-semeynyy-kvartal/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-semeynyy-kvartal/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/9db/uobcip0sj2oit1ylfoj760jcqdz87rjx.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/3d6/twx9cgy6vlm3i3bhatfp7dvz6374rinn.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639026",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 43.59,
+      "price": 4794900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-semeynyy-kvartal/layout-4639026.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639028",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 26.09,
+      "price": 2895990,
+      "pricePerMeter": 111000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-semeynyy-kvartal/layout-4639028.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639029",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.81,
+      "price": 4709100,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-semeynyy-kvartal/layout-4639029.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639030",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 40.09,
+      "price": 4409900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-semeynyy-kvartal/layout-4639030.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639035",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 40.09,
+      "price": 4409900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639036",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.81,
+      "price": 4709100,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639037",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 26.09,
+      "price": 2895990,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639039",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 43.59,
+      "price": 4794900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639040",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 43.15,
+      "price": 4746500,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639042",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 34.29,
+      "price": 3771900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639043",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.48,
+      "price": 4672800,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639045",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 33.56,
+      "price": 3691600,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639047",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 28.94,
+      "price": 3212240,
+      "pricePerMeter": 110997,
+      "notes": []
+    },
+    {
+      "id": "4639048",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 43.69,
+      "price": 4805900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639051",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.9,
+      "price": 4169000,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639054",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.17,
+      "price": 4638700,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639059",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 40.75,
+      "price": 4482500,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639060",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 41.33,
+      "price": 4546300,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639061",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 39.88,
+      "price": 4386800,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639063",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 43.69,
+      "price": 4805900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639465",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.82,
+      "price": 4710200,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639467",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.54,
+      "price": 4679400,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639468",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 43.69,
+      "price": 4805900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639471",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30.68,
+      "price": 3405480,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639475",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 26.2,
+      "price": 2908200,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639476",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.84,
+      "price": 4162400,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639477",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.02,
+      "price": 4182200,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639479",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 43.69,
+      "price": 4805900,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639480",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29.14,
+      "price": 3254340,
+      "pricePerMeter": 111679,
+      "notes": []
+    },
+    {
+      "id": "4639483",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 43,
+      "price": 4730000,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639484",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 43.74,
+      "price": 4811400,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639485",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 42.23,
+      "price": 4645300,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639487",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 41.51,
+      "price": 4400060,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639027",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 63.91,
+      "price": 6774460,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639032",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.35,
+      "price": 5973100,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639033",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.35,
+      "price": 5973100,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639038",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 63.91,
+      "price": 6774460,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639044",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 62.02,
+      "price": 6574120,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639049",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 62.72,
+      "price": 6648320,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639050",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 58.92,
+      "price": 6245520,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639052",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 55.72,
+      "price": 5906320,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639055",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 60.68,
+      "price": 6432080,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639056",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.87,
+      "price": 6028220,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639057",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 50.12,
+      "price": 5312720,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639058",
+      "room": "2",
+      "roomLabel": "2 комнатная евро+",
+      "area": 59.89,
+      "price": 6348340,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639062",
+      "room": "2",
+      "roomLabel": "2 комнатная евро+",
+      "area": 62.72,
+      "price": 6648320,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639469",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 65.35,
+      "price": 6927100,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639466",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 63,
+      "price": 6678000,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639470",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 50.36,
+      "price": 5338160,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639472",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57,
+      "price": 6042000,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639473",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.73,
+      "price": 6013380,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639478",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 63,
+      "price": 6678000,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639481",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.97,
+      "price": 6038820,
+      "pricePerMeter": 106000,
+      "notes": []
+    },
+    {
+      "id": "4639486",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 62.97,
+      "price": 6926700,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639031",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 72.03,
+      "price": 7563150,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639034",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 72.03,
+      "price": 7563150,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639041",
+      "room": "3",
+      "roomLabel": "3 комнатная евро+",
+      "area": 86.05,
+      "price": 9035250,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639046",
+      "room": "3",
+      "roomLabel": "3 комнатная евро+",
+      "area": 100.3,
+      "price": 10531500,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639053",
+      "room": "3",
+      "roomLabel": "3 комнатная евро+",
+      "area": 84.66,
+      "price": 8889300,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639474",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 72.91,
+      "price": 7655550,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639482",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 72.9,
+      "price": 7654500,
+      "pricePerMeter": 105000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-semeynyy-kvartal/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

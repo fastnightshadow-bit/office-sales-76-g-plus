@@ -1,0 +1,333 @@
+{
+  "slug": "zhk-boroviki",
+  "title": "ЖК \"Боровики\"",
+  "shortDescription": "Клубный приватный квартал, кирпичные дома ИГО.",
+  "description": [
+    "ЖК \"Боровики\" стр.1 - 1 кв 2027",
+    "Кирпич, ИГО 4 этажа, 4 подъезда, 59 жилых квартиры, высота потолков 2.7 м; 3 м 4 этаж.",
+    "Отделка White box (пред чистовая) либо чистовая под ключ за умеренную доплату.",
+    "Новый Жилой Квартал «Боровики», расположенный в Заволжском районе Ярославля – наиболее благоприятном в экологическом плане – это проект с философией загородной жизни со всеми преимуществами города. Проект включает 6 домов комфортной высотности – всего в 4 этажа с приватной безопасной благоустроенной средой для детей, подростков и взрослых. Клубный комплекс будет оснащён современными системами \"Умный Дом\"",
+    "Экосистема \"Умного Дома\" - внутри экосистемы автоматизированы важнейшие вопросы по контролю безопасности(видеонаблюдение, видео домофоны), оптимизации потребления ресурсов автоматизация контроля учёта показаний.",
+    "Каждая квартира оснащена индивидуальным газовым отоплением.",
+    "Дома, возводимые из керамического кирпича, с кладкой в баварском стиле, в окружении сосен и зеленых насаждений, создадут неповторимую атмосферу, где захочется жить, учиться, работать и отдыхать, не выезжая за его пределы.",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, Заволжский р-н, ул. Клубная в районе дома 18-22",
+  "completionLabel": "1 кв. 2027",
+  "completionDate": "2027-Q1",
+  "minimumPrice": 4490000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4490000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6300000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-boroviki/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-boroviki/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-boroviki/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-boroviki/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-boroviki/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-boroviki/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-boroviki/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-boroviki/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-boroviki/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-boroviki/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-boroviki/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/779/qag9di7b0ubmx1l4s3h187520zukcxml.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/68b/hd9k2s1qnjyfjyyrnm0mta0e2jy4ah74.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "схема стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/cee/5gt0k3jam07dbr8oibb9h6m43faskxkl.png",
+      "status": "verified"
+    },
+    {
+      "title": "проект ДДУ",
+      "url": "https://офиспродаж76.рф/upload/iblock/e02/xp3ac0xaokpbeaj0zpjcsuua0pzng0d9.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639094",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.51,
+      "price": 5410000,
+      "pricePerMeter": 127264,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-boroviki/layout-4639094-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639094-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639094-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639097",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.49,
+      "price": 5410000,
+      "pricePerMeter": 127324,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-boroviki/layout-4639097-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639097-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639097-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639106",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.91,
+      "price": 5340000,
+      "pricePerMeter": 124447,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-boroviki/layout-4639106-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639106-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639106-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639109",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 47.25,
+      "price": 5930000,
+      "pricePerMeter": 125503,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-boroviki/layout-4639109-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639109-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-boroviki/layout-4639109-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639334",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 42.73,
+      "price": 5390000,
+      "pricePerMeter": 126141,
+      "notes": []
+    },
+    {
+      "id": "4639104",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 55.31,
+      "price": 6990000,
+      "pricePerMeter": 126379,
+      "notes": []
+    },
+    {
+      "id": "4639099",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 75.75,
+      "price": 9390000,
+      "pricePerMeter": 123960,
+      "notes": []
+    },
+    {
+      "id": "4639103",
+      "room": "3",
+      "roomLabel": "3 комнатная евро+",
+      "area": 99.89,
+      "price": 11990000,
+      "pricePerMeter": 120032,
+      "notes": []
+    },
+    {
+      "id": "4639108",
+      "room": "3",
+      "roomLabel": "3 комнатная евро+",
+      "area": 102.97,
+      "price": 12370000,
+      "pricePerMeter": 120132,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-boroviki/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

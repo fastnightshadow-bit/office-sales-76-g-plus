@@ -1,0 +1,520 @@
+{
+  "slug": "zhk-ekogorod-3",
+  "title": "ЖК Экогород 3",
+  "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+  "description": [
+    "г. Ярославль ЖК \"Экогород\" - 3 сдача 1 кв 2028 год",
+    "8 жилых этажей, 4 подъезда, 225 квартир в доме.",
+    "Премиальная авторская архитектура фасад из дагестанского камня, надёжный конструктив из керамического кирпича, индивидуальное газовое отопление в каждой квартире.",
+    "Все квартиры с отделкой White Box.",
+    "Дворы будут усажены множеством деревьев, цветов, кустарников, будут игровые площадки скамейки, спортивные площадки. Отличная экология рядом бор и тут же вся инфраструктура.",
+    ".",
+    "Застройщик: Pobedonoscev Group главным направлением работы является реализация проектов комплексной застройки, в арсенале компании множество реализованных проектов среди них ЖК Экогород, Экогород 2, ЖК НовыйДом и множество др.",
+    "ООО Ваш выбор - Новостройки консультации 24/7"
+  ],
+  "district": "Заволжский",
+  "address": "Ярослаль, ул. Сахорова",
+  "completionLabel": "1 кв 2028",
+  "completionDate": "2028-Q1",
+  "minimumPrice": 2900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 2900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8600000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-ekogorod-3/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-ekogorod-3/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-ekogorod-3/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-ekogorod-3/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-ekogorod-3/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-ekogorod-3/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-ekogorod-3/gallery-004-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/b39/ojnvonirsbtzu44zosbstfm4vnojj9nx.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/05f/3mlyu2r06zbqw68i9bb6jzuu09ewgu73.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638711",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.21,
+      "price": 4191370,
+      "pricePerMeter": 97000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-ekogorod-3/layout-4638711.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638712",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.57,
+      "price": 3494010,
+      "pricePerMeter": 93000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-ekogorod-3/layout-4638712.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638714",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.3,
+      "price": 3983400,
+      "pricePerMeter": 89919,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-ekogorod-3/layout-4638714.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638715",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.88,
+      "price": 3762880,
+      "pricePerMeter": 87754,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-ekogorod-3/layout-4638715.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638717",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.14,
+      "price": 3547020,
+      "pricePerMeter": 93000,
+      "notes": []
+    },
+    {
+      "id": "4638718",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.9,
+      "price": 3774600,
+      "pricePerMeter": 90086,
+      "notes": []
+    },
+    {
+      "id": "4638721",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.24,
+      "price": 3888900,
+      "pricePerMeter": 89938,
+      "notes": []
+    },
+    {
+      "id": "4638722",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.57,
+      "price": 3644290,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638724",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 44.26,
+      "price": 4293220,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638725",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.85,
+      "price": 4156450,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638727",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.14,
+      "price": 3699580,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638728",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.94,
+      "price": 4068180,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638729",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.22,
+      "price": 3998340,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638730",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.14,
+      "price": 3699580,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638732",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.85,
+      "price": 4156450,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638734",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.31,
+      "price": 4201070,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638735",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.3,
+      "price": 4200100,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638737",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30.73,
+      "price": 2980810,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638738",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30.93,
+      "price": 3000210,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638742",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30.53,
+      "price": 2961410,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638743",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 31,
+      "price": 3007000,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638744",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 29.3,
+      "price": 2842100,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638745",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.02,
+      "price": 3978940,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638709",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 54.4,
+      "price": 5276800,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638710",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.34,
+      "price": 6628980,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638713",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 60.36,
+      "price": 5432400,
+      "pricePerMeter": 90000,
+      "notes": []
+    },
+    {
+      "id": "4638719",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 54.4,
+      "price": 5168000,
+      "pricePerMeter": 95000,
+      "notes": []
+    },
+    {
+      "id": "4638720",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.33,
+      "price": 6356550,
+      "pricePerMeter": 93027,
+      "notes": []
+    },
+    {
+      "id": "4638723",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 60.45,
+      "price": 5863650,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638733",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 67.21,
+      "price": 6519370,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638736",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 69.21,
+      "price": 6713370,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638739",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56.5,
+      "price": 5480500,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638741",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 68.42,
+      "price": 6636740,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638746",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.22,
+      "price": 5162340,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638747",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 60.32,
+      "price": 5851040,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638716",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 89.62,
+      "price": 8693140,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638726",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 89.64,
+      "price": 8695080,
+      "pricePerMeter": 97000,
+      "notes": []
+    },
+    {
+      "id": "4638731",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 89.64,
+      "price": 8695080,
+      "pricePerMeter": 97000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-ekogorod-3/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

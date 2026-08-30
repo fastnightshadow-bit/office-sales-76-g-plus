@@ -18,7 +18,7 @@
 
 .skipLink:focus { transform: translateY(0); }
 
-.main { min-height: 60vh; }
+.main { min-height: 100svh; }
 
 @media (max-width: 1023px) {
   .app { padding-bottom: calc(68px + env(safe-area-inset-bottom)); }

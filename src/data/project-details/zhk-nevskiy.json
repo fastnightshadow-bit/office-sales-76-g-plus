@@ -1,0 +1,271 @@
+{
+  "slug": "zhk-nevskiy",
+  "title": "ЖК \"Невский\"",
+  "shortDescription": "Квартиры с качественной отделкой под ключ в удобной локации.",
+  "description": [
+    "ЖК \"Невский\" - Ярославль 1 кв 2027 г сдача!",
+    "Уютный приватный квартал из трёх домов.",
+    "Представлено по продажам 1-е стр.",
+    "Квартиры с отделкой под ключ в центре Дзержинского района сочетающий в себе комфорт, надёжность, удобную локацию.",
+    "Монолитно-кирпичный дом 18 жилых этажей, 1-подьезд , на подъезд грузовой и пассажирский лифт, 176 квартир, высота потолков 2.74 м. Наружные стены керамический кирпич плюс декоративная керамическая плитка фасад.",
+    "Отделка \"под ключ\" : ламинат везде, коридор кафель, ванна в кафеле , вся сантехника, тумба подвесная в с\\у, межкомнатные двери, натяжные потолки, остекление лоджий.",
+    "Дизайнерские МОПы.",
+    "Современные детские, спортивные зоны, безбарьерная среда, двор без машин.",
+    "Отопление централизованное.",
+    "Инфраструктура - в пешей доступности детские сады , школы , гимназия №2, множество спортивных площадок, сетевые магазины, фитнес центры, поликлиника, остановки.",
+    "Застройщик группа компаний АКС построено более 120 качественных проекта в срок продажи по ДДУ с использованием счетов эскроу.",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, пр Урицкого д. зу 71-б",
+  "completionLabel": "1 кв 2027",
+  "completionDate": "2027-Q1",
+  "minimumPrice": 3600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3600000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5600000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7500000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-nevskiy/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-nevskiy/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-nevskiy/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-nevskiy/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-nevskiy/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-nevskiy/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-nevskiy/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-nevskiy/gallery-003-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-nevskiy/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/0ec/o6mgvx3ud938vta0l390xgzw7d1qfrid.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/087/8k9x1mvewxvue4fd06r3wb3l0d242ngg.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639881",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 39.47,
+      "price": 4579000,
+      "pricePerMeter": 116012,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nevskiy/layout-4639881.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639882",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.77,
+      "price": 4257000,
+      "pricePerMeter": 119010,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nevskiy/layout-4639882.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639883",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.58,
+      "price": 4234000,
+      "pricePerMeter": 118999,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nevskiy/layout-4639883.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639884",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 27.4,
+      "price": 3617000,
+      "pricePerMeter": 132007,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-nevskiy/layout-4639884.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639887",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.93,
+      "price": 4516000,
+      "pricePerMeter": 116003,
+      "notes": []
+    },
+    {
+      "id": "4639888",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.08,
+      "price": 4494000,
+      "pricePerMeter": 114995,
+      "notes": []
+    },
+    {
+      "id": "4639878",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 55.37,
+      "price": 6589030,
+      "pricePerMeter": 119000,
+      "notes": []
+    },
+    {
+      "id": "4639879",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 50.94,
+      "price": 5909000,
+      "pricePerMeter": 115999,
+      "notes": []
+    },
+    {
+      "id": "4639880",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 48.65,
+      "price": 5643000,
+      "pricePerMeter": 115992,
+      "notes": []
+    },
+    {
+      "id": "4639886",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 49.73,
+      "price": 5769000,
+      "pricePerMeter": 116006,
+      "notes": []
+    },
+    {
+      "id": "4639885",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 62.33,
+      "price": 7592000,
+      "pricePerMeter": 121803,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-nevskiy/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -228,8 +228,14 @@ export default function CatalogPage() {
               {filteredProjects.length > 0 ? (
                 <>
                   <div className={styles.grid}>
-                    {visibleProjects.map((project) => (
-                      <PropertyCard key={project.slug} project={project} variant="compact" />
+                    {visibleProjects.map((project, index) => (
+                      <PropertyCard
+                        eagerImage={index === 0}
+                        headingLevel={2}
+                        key={project.slug}
+                        project={project}
+                        variant="compact"
+                      />
                     ))}
                   </div>
                   {visibleCount < filteredProjects.length ? (

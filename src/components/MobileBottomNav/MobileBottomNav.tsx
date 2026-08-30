@@ -1,10 +1,8 @@
 import { Building2, Heart, Home, Phone } from "lucide-react";
 import { NavLink } from "react-router-dom";
-import companyJson from "../../data/company.json";
-import { companyDataSchema } from "../../features/company/company.types";
+import { companyData as company } from "../../features/company/company-data";
 import styles from "./MobileBottomNav.module.css";
 
-const company = companyDataSchema.parse(companyJson);
 const mobilePhoneHref = `tel:+${company.mobilePhone.replace(/\D/g, "")}`;
 
 const items = [

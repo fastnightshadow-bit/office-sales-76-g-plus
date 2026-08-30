@@ -1,0 +1,447 @@
+{
+  "slug": "zhk-talan-simvol",
+  "title": "ЖК \"Талан Символ\"",
+  "shortDescription": "Современный Жилой Квартал\"Талан Символ\" класс - \"Комфорт\" Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК «Талан Символ», 1 очередь",
+    "Комфорт‑класс в сердце Фрунзенского района",
+    "Престижная и перспективная локация в Ярославле.",
+    "2 подъезда, переменная этажность — 13–18 этажей (в том числе 17 и 15 жилых этажей).",
+    "239 квартир с продуманными планировками.",
+    "Высота потолков: в квартирах — 2,73–3,05 м, в холлах — до 3,6 м.",
+    "Авторская архитектура и индивидуальный проект: (переменная этажность делает двор светлым и открытым солнцу).",
+    "Надёжный монолитный конструктив — прочность и долговечность здания.",
+    "Эстетичные фасады в мягких природных оттенках современный облик без визуального шума.",
+    "ООО «СЗ «ТАЛАН‑Регион‑65» — федеральная компания с 20‑летним опытом работы."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярослаль, Суздальское ш. 23а",
+  "completionLabel": "4 к в 2028",
+  "completionDate": "2028-Q4",
+  "minimumPrice": 5100000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5100000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 9000000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-talan-simvol/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-talan-simvol/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-talan-simvol/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-talan-simvol/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-talan-simvol/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-talan-simvol/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-talan-simvol/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-talan-simvol/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-talan-simvol/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-talan-simvol/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-talan-simvol/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/6b7/iodjwl1oxjwqgbjk09h7h224y5v1p2kq.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/dce/4j4kx6e7i5ctu4ag8kof8i759fgq8rl7.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639658",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 35.8,
+      "price": 5094700,
+      "pricePerMeter": 142310,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-talan-simvol/layout-4639658-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639658-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639658-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639658-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639658-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639661",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 37.9,
+      "price": 5444000,
+      "pricePerMeter": 143641,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-talan-simvol/layout-4639661-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639661-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639661-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639661-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639661-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639663",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 44.2,
+      "price": 6390000,
+      "pricePerMeter": 144570,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-talan-simvol/layout-4639663-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639663-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639663-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639663-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639663-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639668",
+      "room": "1",
+      "roomLabel": "1-комнатная евро+",
+      "area": 39.9,
+      "price": 5545500,
+      "pricePerMeter": 138985,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-talan-simvol/layout-4639668-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639668-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639668-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639668-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-talan-simvol/layout-4639668-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639660",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 60.6,
+      "price": 8261300,
+      "pricePerMeter": 136325,
+      "notes": []
+    },
+    {
+      "id": "4639669",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 66.3,
+      "price": 9082400,
+      "pricePerMeter": 136989,
+      "notes": []
+    },
+    {
+      "id": "4639671",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 59.9,
+      "price": 8006500,
+      "pricePerMeter": 133664,
+      "notes": []
+    },
+    {
+      "id": "4639673",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 63.9,
+      "price": 8626200,
+      "pricePerMeter": 134995,
+      "notes": []
+    },
+    {
+      "id": "4639674",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 52.6,
+      "price": 6946800,
+      "pricePerMeter": 132068,
+      "notes": []
+    },
+    {
+      "id": "4639675",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 57.5,
+      "price": 7892200,
+      "pricePerMeter": 137256,
+      "notes": []
+    },
+    {
+      "id": "4639677",
+      "room": "2",
+      "roomLabel": "2-комнатная евро+",
+      "area": 61.4,
+      "price": 8574500,
+      "pricePerMeter": 139650,
+      "notes": []
+    },
+    {
+      "id": "4639679",
+      "room": "2",
+      "roomLabel": "2-комнатная",
+      "area": 52.7,
+      "price": 7135300,
+      "pricePerMeter": 135395,
+      "notes": []
+    },
+    {
+      "id": "4639656",
+      "room": "3",
+      "roomLabel": "3-комнатная евро +",
+      "area": 86.1,
+      "price": 10489400,
+      "pricePerMeter": 121828,
+      "notes": []
+    },
+    {
+      "id": "4639657",
+      "room": "3",
+      "roomLabel": "3-комнатная евро +",
+      "area": 74.9,
+      "price": 9692700,
+      "pricePerMeter": 129409,
+      "notes": []
+    },
+    {
+      "id": "4639666",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 84.9,
+      "price": 11020700,
+      "pricePerMeter": 129808,
+      "notes": []
+    },
+    {
+      "id": "4639664",
+      "room": "3",
+      "roomLabel": "3-комнатная евро+",
+      "area": 79.7,
+      "price": 10123100,
+      "pricePerMeter": 127015,
+      "notes": []
+    },
+    {
+      "id": "4639676",
+      "room": "3",
+      "roomLabel": "3-комнатная евро+",
+      "area": 102.8,
+      "price": 13180200,
+      "pricePerMeter": 128212,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-talan-simvol/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

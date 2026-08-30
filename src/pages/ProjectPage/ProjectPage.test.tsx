@@ -4,6 +4,7 @@ import { createMemoryRouter, MemoryRouter, RouterProvider } from "react-router-d
 import { afterEach, describe, expect, it } from "vitest";
 import { appRoutes } from "../../app/routes";
 import { getProjects } from "../../features/catalog/catalog-repository";
+import { getProjectDetailBySlug } from "../../features/catalog/project-detail-repository";
 import { ProjectDocuments } from "./ProjectPage";
 import { ProjectFacts } from "./components/ProjectFacts";
 import { RelatedProjects } from "./components/RelatedProjects";
@@ -107,8 +108,9 @@ describe("ProjectPage", () => {
     expect(screen.queryByRole("heading", { level: 2, name: "Программы покупки" })).not.toBeInTheDocument();
   });
 
-  it("replaces an unverified document with an honest source fallback", () => {
-    const base = getProjects()[0]!;
+  it("replaces an unverified document with an honest source fallback", async () => {
+    const base = await getProjectDetailBySlug(getProjects()[0]!.slug);
+    if (!base) throw new Error("Expected generated project detail");
     const project = {
       ...base,
       documents: [{ title: "Проектная декларация", url: "https://invalid.example/document.pdf", status: "unverified" as const }],

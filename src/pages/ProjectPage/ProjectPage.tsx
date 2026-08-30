@@ -3,7 +3,11 @@ import { useEffect, useMemo, useState } from "react";
 import { Link, useLocation, useParams, useSearchParams } from "react-router-dom";
 import { LeadDialog } from "../../components/LeadDialog/LeadDialog";
 import { ResponsiveImage } from "../../components/ResponsiveImage/ResponsiveImage";
-import { getProjectBySlug, getProjects } from "../../features/catalog/catalog-repository";
+import {
+  getProjectBySlug,
+  getProjects,
+} from "../../features/catalog/catalog-repository";
+import { getProjectDetailBySlug } from "../../features/catalog/project-detail-repository";
 import type { Project } from "../../features/catalog/catalog.types";
 import { useFavorites } from "../../features/favorites/use-favorites";
 import { Seo } from "../../seo/Seo";
@@ -75,14 +79,27 @@ export default function ProjectPage() {
   const location = useLocation();
   const [searchParams] = useSearchParams();
   const [leadOpen, setLeadOpen] = useState(false);
+  const [detail, setDetail] = useState<Project | undefined>();
   const project = getProjectBySlug(slug);
+  const projectDetail = detail?.slug === slug ? detail : undefined;
   const { isFavorite, toggle } = useFavorites();
+
+  useEffect(() => {
+    let current = true;
+    setDetail(undefined);
+    if (project) void getProjectDetailBySlug(slug).then((loaded) => {
+      if (current) setDetail(loaded);
+    });
+    return () => {
+      current = false;
+    };
+  }, [project, slug]);
 
   useEffect(() => {
     if (!location.hash) return;
     const target = document.getElementById(location.hash.slice(1));
     if (target && "scrollIntoView" in target) target.scrollIntoView({ block: "start" });
-  }, [location.hash, slug]);
+  }, [location.hash, projectDetail, slug]);
 
   const anchorBase = useMemo(() => {
     const query = new URLSearchParams(searchParams);
@@ -101,10 +118,10 @@ export default function ProjectPage() {
 
   const favorite = isFavorite(project.slug);
   const anchorItems = [
-    { id: "description", label: "Описание", visible: project.description.length > 0 },
-    { id: "documents", label: "Документы", visible: project.documents.length > 0 },
-    { id: "photos", label: "Фотографии", visible: project.gallery.length > 0 },
-    { id: "layouts", label: "Планировки", visible: project.layouts.length > 0 },
+    { id: "description", label: "Описание", visible: (projectDetail?.description.length ?? 0) > 0 },
+    { id: "documents", label: "Документы", visible: (projectDetail?.documents.length ?? 0) > 0 },
+    { id: "photos", label: "Фотографии", visible: (projectDetail?.gallery.length ?? 0) > 0 },
+    { id: "layouts", label: "Планировки", visible: (projectDetail?.layouts.length ?? 0) > 0 },
   ].filter(({ visible }) => visible);
 
   return (
@@ -137,6 +154,7 @@ export default function ProjectPage() {
             alt={`Фасад проекта ${project.title}`}
             {...(project.coverImage ? { asset: project.coverImage } : {})}
             className={styles.heroMedia!}
+            compactSourceWidth={480}
             eager
             imageClassName={styles.heroImage!}
             ratio="16 / 11"
@@ -148,13 +166,15 @@ export default function ProjectPage() {
         </div>
       </section>
 
-      <nav aria-label="Разделы проекта" className={styles.anchorNav}>
-        <div className={`container ${styles.anchorInner}`}>
-          {anchorItems.map(({ id, label }) => <a href={`${anchorBase}#${id}`} key={id}>{label}</a>)}
-        </div>
-      </nav>
+      {anchorItems.length > 0 ? (
+        <nav aria-label="Разделы проекта" className={styles.anchorNav}>
+          <div className={`container ${styles.anchorInner}`}>
+            {anchorItems.map(({ id, label }) => <a href={`${anchorBase}#${id}`} key={id}>{label}</a>)}
+          </div>
+        </nav>
+      ) : null}
 
-      {project.description.length > 0 ? (
+      {projectDetail && projectDetail.description.length > 0 ? (
         <section className={`${styles.section} ${styles.descriptionSection}`} id="description">
           <div className={`container ${styles.descriptionGrid}`}>
             <div className={styles.sectionHeading}>
@@ -162,16 +182,20 @@ export default function ProjectPage() {
               <h2>О проекте</h2>
             </div>
             <div className={styles.descriptionCopy}>
-              {project.description.map((paragraph, index) => <p key={`${index}-${paragraph.slice(0, 24)}`}>{paragraph}</p>)}
+              {projectDetail.description.map((paragraph, index) => <p key={`${index}-${paragraph.slice(0, 24)}`}>{paragraph}</p>)}
             </div>
           </div>
         </section>
       ) : null}
 
-      <PurchasePrograms features={project.features} programs={project.purchasePrograms} />
-      <ProjectDocuments project={project} />
-      <ProjectGallery images={project.gallery} title={project.title} />
-      <ProjectLayouts layouts={project.layouts} />
+      {projectDetail ? (
+        <>
+          <PurchasePrograms features={projectDetail.features} programs={projectDetail.purchasePrograms} />
+          <ProjectDocuments project={projectDetail} />
+          <ProjectGallery images={projectDetail.gallery} title={project.title} />
+          <ProjectLayouts layouts={projectDetail.layouts} />
+        </>
+      ) : null}
       <RelatedProjects project={project} projects={projects} />
 
       <aside className={styles.freshness}>

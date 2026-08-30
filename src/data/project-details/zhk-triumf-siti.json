@@ -1,0 +1,393 @@
+{
+  "slug": "zhk-triumf-siti",
+  "title": "ЖК \"Триумф Сити\"",
+  "shortDescription": "Кирпич, ИГО, в удобной локации.Эскроу счета, 100% безопасность вложений.",
+  "description": [
+    "ЖК \"Триумф Сити\"",
+    "Приватный клубный комплекс из 6 домов.",
+    "Первый дом сдача 4 кв 2027 год; Второй дом 3 кв 2028 год.",
+    "Полностью из керамического кирпича 9-ть жилых эт , 2 подъезда, 72 жилых квартиры, просторная придомовая территория обустроенная детской спортивной зонами, предусмотрена просторная парковочная зона.",
+    "Отопление индивидуальное газовое(двухконтурный котёл).",
+    "Отделка предчистовая(подготовка под ремонт косметику): штукатурка; стяжка; с\\у плитка,сантехника; система отопления радиаторы; 2 камерные стеклопакеты, остекление лоджий.",
+    "Благоустройство территории предусматривает современную спортивную и детская площадки.",
+    "Расположен в новом микр.р-не рядом Школа №91, садик, больницы, ТЦ, сетевые магазины, остановка о.т рядом,небольшая отдалённость от центра, граничит с зелёной зоной.",
+    "Ярославский Застройщик с 25.03.2013 г - г.к \"А-строй\"более 10 сданных в срок проектов в Ярославле эскроу счета, продажи по ДДУ, Ипотека от 6%.",
+    "ООО Ваш Выбор - официальный партнёр по продажам квартир от Застройщика.Консультации просмотры 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, Дядьковская",
+  "completionLabel": "4 кв /2027",
+  "completionDate": "2027-Q4",
+  "minimumPrice": 3800000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3800000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-triumf-siti/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-triumf-siti/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-triumf-siti/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-triumf-siti/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-triumf-siti/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-triumf-siti/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-triumf-siti/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-triumf-siti/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-triumf-siti/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на стр 1",
+      "url": "https://офиспродаж76.рф/upload/iblock/248/6g8scsfw2obk5nwchk30u6d1xbnip7ea.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "разрешение на ст. 2",
+      "url": "https://офиспродаж76.рф/upload/iblock/a2f/tczl98hxji64pahzzybt4twc20zqd41u.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "пр. декларация 1",
+      "url": "https://офиспродаж76.рф/upload/iblock/95a/ark2quzdu4j04xpgvhos4nncwtv63un6.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я 2",
+      "url": "https://офиспродаж76.рф/upload/iblock/463/15ekln2uomt3na7u79qbj5aij7292bo3.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638552",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 42.43,
+      "price": 4370290,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-triumf-siti/layout-4638552-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638552-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638552-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638552-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638552-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638553",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 49.22,
+      "price": 5069660,
+      "pricePerMeter": 103000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-triumf-siti/layout-4638553-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638553-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638553-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638553-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4638553-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639646",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.82,
+      "price": 3832740,
+      "pricePerMeter": 107000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-triumf-siti/layout-4639646-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639646-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639646-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639646-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639646-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639648",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.53,
+      "price": 3908710,
+      "pricePerMeter": 107000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-triumf-siti/layout-4639648-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639648-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639648-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639648-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-triumf-siti/layout-4639648-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639649",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 37.74,
+      "price": 4038180,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4638547",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 72.68,
+      "price": 7486040,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4638550",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 80.14,
+      "price": 8254420,
+      "pricePerMeter": 103000,
+      "notes": []
+    },
+    {
+      "id": "4639645",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 73.55,
+      "price": 7722750,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639647",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 48.51,
+      "price": 5093550,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639650",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.14,
+      "price": 5894700,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639651",
+      "room": "3",
+      "roomLabel": "3 комнатная евро +",
+      "area": 85.2,
+      "price": 8775600,
+      "pricePerMeter": 103000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-triumf-siti/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

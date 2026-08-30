@@ -1,13 +1,20 @@
-import type { CatalogQuery, CatalogSort, CompletionFilter, Project } from "./catalog.types";
+import type { CatalogQuery, CatalogSort, CompletionFilter, Layout, ProjectSummary, RoomKey } from "./catalog.types";
 
-function searchableText(project: Project): string {
+type FilterProject = Pick<ProjectSummary,
+  "title" | "shortDescription" | "district" | "address" | "completionDate" | "minimumPrice" | "roomPrices"
+> & {
+  availableRooms?: RoomKey[];
+  layouts?: Layout[];
+};
+
+function searchableText(project: FilterProject): string {
   return [project.title, project.shortDescription, project.district, project.address]
     .filter((value): value is string => value !== undefined)
     .join(" ")
     .toLocaleLowerCase("ru-RU");
 }
 
-function matchesCompletion(project: Project, filter: CompletionFilter): boolean {
+function matchesCompletion(project: FilterProject, filter: CompletionFilter): boolean {
   if (filter === "all") return true;
   const completionDate = project.completionDate;
   if (completionDate === undefined) return false;
@@ -19,10 +26,10 @@ function matchesCompletion(project: Project, filter: CompletionFilter): boolean 
   return /^\d{4}-Q[1-4]$/.test(completionDate) && completionDate.startsWith(`${filter}-Q`);
 }
 
-function matchesRooms(project: Project, rooms: NonNullable<CatalogQuery["rooms"]>): boolean {
+function matchesRooms(project: FilterProject, rooms: NonNullable<CatalogQuery["rooms"]>): boolean {
   const projectRooms = new Set([
     ...project.roomPrices.map(({ room }) => room),
-    ...project.layouts.map(({ room }) => room),
+    ...(project.availableRooms ?? project.layouts?.map(({ room }) => room) ?? []),
   ]);
   return rooms.some((room) => projectRooms.has(room));
 }
@@ -35,7 +42,7 @@ function completionRank(value: string | undefined): [number, number, number] {
     : [1, Number(match[1]), Number(match[2])];
 }
 
-function comparePrice(a: Project, b: Project, descending: boolean): number {
+function comparePrice(a: FilterProject, b: FilterProject, descending: boolean): number {
   const aPrice = a.minimumPrice;
   const bPrice = b.minimumPrice;
   if (aPrice === undefined && bPrice === undefined) return 0;
@@ -44,13 +51,13 @@ function comparePrice(a: Project, b: Project, descending: boolean): number {
   return descending ? bPrice - aPrice : aPrice - bPrice;
 }
 
-function compareCompletion(a: Project, b: Project): number {
+function compareCompletion(a: FilterProject, b: FilterProject): number {
   const [aGroup, aYear, aQuarter] = completionRank(a.completionDate);
   const [bGroup, bYear, bQuarter] = completionRank(b.completionDate);
   return aGroup - bGroup || aYear - bYear || aQuarter - bQuarter;
 }
 
-function sortProjects(projects: Project[], sort: CatalogSort | undefined): Project[] {
+function sortProjects<T extends FilterProject>(projects: T[], sort: CatalogSort | undefined): T[] {
   if (sort === undefined || sort === "featured") return projects;
   return projects.map((project, index) => ({ project, index })).sort((a, b) => {
     const comparison = sort === "completion"
@@ -60,7 +67,7 @@ function sortProjects(projects: Project[], sort: CatalogSort | undefined): Proje
   }).map(({ project }) => project);
 }
 
-export function filterProjects(projects: readonly Project[], query: CatalogQuery): Project[] {
+export function filterProjects<T extends FilterProject>(projects: readonly T[], query: CatalogQuery): T[] {
   const text = query.text?.toLocaleLowerCase("ru-RU");
   const filtered = projects.filter((project) => {
     if (text !== undefined && !searchableText(project).includes(text)) return false;

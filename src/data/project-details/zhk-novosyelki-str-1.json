@@ -1,0 +1,244 @@
+{
+  "slug": "zhk-novosyelki-str-1",
+  "title": "ЖК Новосёлки стр. 1",
+  "shortDescription": "ЖК Новосёлки - качественный кирпичный дом, хорошая инфраструктура.а",
+  "description": [
+    "Жилой комплекс \"НОВОСЕЛКИ\" pacпoлoжeн в южнoй чepтe гopoдa Яpocлaвля вo Фpyнзeнcкoм paйoне.",
+    "Полностью состоящий из кирпича, внутренние перегородки из газоблоков.",
+    "5 жил этажей, 7 подъездов, 128 квартир, высота потолков 3 м.",
+    "Пред- чистовая отделка(подготовлены под ремонт). Централизованное отопление. Дом расположен по адресу: Ярославская область, г. Ярославль, Фрунзенский район, территория в районе ул. Калинина и ул. Рябиновой.",
+    "Застройщик \"АО ЯРОСЛАВЛЬЗАКАЗЧИК\""
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Калинина 34",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4600000
+    },
+    {
+      "room": "2"
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-novosyelki-str-1/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-novosyelki-str-1/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novosyelki-str-1/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-novosyelki-str-1/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-novosyelki-str-1/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-novosyelki-str-1/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novosyelki-str-1/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novosyelki-str-1/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-novosyelki-str-1/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/fc7/vumljjn1nwr604b5isw0noo1i60p9ve8.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/d52/4ndub7hav29tagizjbwfs02f2z0uuyqv.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проет ДДУ",
+      "url": "https://офиспродаж76.рф/upload/iblock/257/ros1jt44wyg1hftf2wwvgphxf955lju2.docx",
+      "status": "verified"
+    },
+    {
+      "title": "Разр. на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/be5/5eyeo91ydk9dcajdizs5tr993a22ljfi.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4635317",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.39,
+      "price": 4600000,
+      "pricePerMeter": 113890,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novosyelki-str-1/layout-4635317.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638309",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.39,
+      "price": 4600000,
+      "pricePerMeter": 113890,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novosyelki-str-1/layout-4638309.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638315",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.39,
+      "price": 4600000,
+      "pricePerMeter": 113890,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novosyelki-str-1/layout-4638309.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638316",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.39,
+      "price": 4600000,
+      "pricePerMeter": 113890,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-novosyelki-str-1/layout-4635317.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638319",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.39,
+      "price": 4600000,
+      "pricePerMeter": 113890,
+      "notes": []
+    },
+    {
+      "id": "4638327",
+      "room": "1",
+      "roomLabel": "1-комнатная",
+      "area": 40.39,
+      "price": 4600000,
+      "pricePerMeter": 113890,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novosyelki-str-1/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

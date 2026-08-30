@@ -29,8 +29,9 @@ describe("catalog query URL state", () => {
     expect(serializeCatalogQuery({ completion: "all", sort: "featured" }).toString()).toBe("");
   });
 
-  it("accepts only positive finite maximum prices", () => {
-    expect(parseCatalogQuery(new URLSearchParams("maximumPrice=8000000"))).toEqual({ maximumPrice: 8_000_000 });
+  it("accepts only maximum prices represented by the shared filter options", () => {
+    expect(parseCatalogQuery(new URLSearchParams("maximumPrice=7000000"))).toEqual({ maximumPrice: 7_000_000 });
+    expect(parseCatalogQuery(new URLSearchParams("maximumPrice=1250000"))).toEqual({});
     expect(parseCatalogQuery(new URLSearchParams("maximumPrice=0"))).toEqual({});
     expect(parseCatalogQuery(new URLSearchParams("maximumPrice=-1"))).toEqual({});
     expect(parseCatalogQuery(new URLSearchParams("maximumPrice=Infinity"))).toEqual({});
@@ -42,9 +43,14 @@ describe("catalog query URL state", () => {
       "text=&district=&completion=2030&sort=price-desc&rooms=studio&rooms=studio&maximumPrice=1250000",
     ));
 
-    expect(parsed).toEqual({ rooms: ["studio"], maximumPrice: 1_250_000, sort: "price-desc" });
+    expect(parsed).toEqual({ rooms: ["studio"], sort: "price-desc" });
     expect(serializeCatalogQuery(parsed).toString())
-      .toBe("rooms=studio&maximumPrice=1250000&sort=price-desc");
+      .toBe("rooms=studio&sort=price-desc");
+  });
+
+  it("does not serialize maximum prices that no shared filter can display", () => {
+    expect(serializeCatalogQuery({ maximumPrice: 1_250_000 }).toString()).toBe("");
+    expect(serializeCatalogQuery({ maximumPrice: 10_000_000 }).toString()).toBe("maximumPrice=10000000");
   });
 });
 

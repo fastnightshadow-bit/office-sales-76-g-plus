@@ -26,7 +26,7 @@ export default function FavoritesPage() {
         {favoriteProjects.length > 0 ? (
           <div className={styles.grid}>
             {favoriteProjects.map((project) => (
-              <PropertyCard key={project.slug} project={project} variant="compact" />
+              <PropertyCard headingLevel={2} key={project.slug} project={project} variant="compact" />
             ))}
           </div>
         ) : (

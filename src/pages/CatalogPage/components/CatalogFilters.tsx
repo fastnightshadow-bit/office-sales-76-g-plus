@@ -1,4 +1,5 @@
 import type { CatalogQuery, CompletionFilter, RoomKey } from "../../../features/catalog/catalog.types";
+import { MAXIMUM_PRICE_OPTIONS } from "../../../features/catalog/catalog-query";
 import styles from "../CatalogPage.module.css";
 
 const ROOM_OPTIONS: ReadonlyArray<{ label: string; value: RoomKey }> = [
@@ -9,8 +10,6 @@ const ROOM_OPTIONS: ReadonlyArray<{ label: string; value: RoomKey }> = [
   { label: "4+ комнаты", value: "4+" },
   { label: "Коммерческое", value: "commercial" },
 ];
-
-const PRICE_OPTIONS = [5_000_000, 7_000_000, 10_000_000, 15_000_000] as const;
 
 interface CatalogFiltersProps {
   districts: readonly string[];
@@ -91,7 +90,7 @@ export function CatalogFilters({ districts, onChange, query }: CatalogFiltersPro
           value={query.maximumPrice ?? ""}
         >
           <option value="">Без ограничения</option>
-          {PRICE_OPTIONS.map((price) => (
+          {MAXIMUM_PRICE_OPTIONS.map((price) => (
             <option key={price} value={price}>до {price / 1_000_000} млн ₽</option>
           ))}
         </select>

@@ -1,0 +1,368 @@
+{
+  "slug": "zhk-yantar",
+  "title": "ЖК Янтарь",
+  "shortDescription": "Новый современный дом \"Комфорт класса\" в удобной локации!",
+  "description": [
+    "г.Ярославль ЖК Янтарь комфорт - класс в центральной части Дзержинского ра-на, лучшая локация всё рядом",
+    "ЖК Янтарь - это продуманный, комфортный и удобный для жизни комплекс 11 жилых этажей, 77 жилых квартиры: 9 студий; 33 1-комомнатных; 26 2-х комнатных; 9 трёшек; 7 подземных парковок; 3 комерческих 48-56 кв\\м; 32 кладовых помещения от 3.2 до 10 кв\\м",
+    "Отделка - White box",
+    "Конструктив - монолитный железнобетонный каркас стены кирпич, керамический камень,блоки. Отличается долговечностью, энергоэффективностью.",
+    "Красивый долговечный фасад.",
+    "Придомовая территория будет оборудована детскими, спорт. площадками, зоны отдыха, зелёные пространства создадут безопасную комфортную среду для жителей всех возрастов.",
+    "МОПЫ с дизайнерской отделкой, красивые входные группы.",
+    "Застройщик \"ГК\" Капитал 76 проектное финансирование ведущим банком, ДДУ счета ЭСКРОУ."
+  ],
+  "district": "Дзержинский",
+  "address": "Дзержинский р-н,Пионерская д. 19",
+  "completionLabel": "1 кв 2027",
+  "completionDate": "2027-Q1",
+  "minimumPrice": 3900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-yantar/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-yantar/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-yantar/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-yantar/gallery-002-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yantar/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yantar/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-yantar/gallery-003-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yantar/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yantar/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-yantar/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yantar/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yantar/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-yantar/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yantar/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/bb2/2b16u9quh43kemm7hsyiw0ee8v356hjt.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/ca5/n03481ln2l8lf1jgolxtnuby2n5li9gw.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект",
+      "url": "https://офиспродаж76.рф/upload/iblock/286/efx2oy11ten7jr7fjiyhz1ciuz1iy19c.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638649",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30.07,
+      "price": 3907800,
+      "pricePerMeter": 129957,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yantar/layout-4638649-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-yantar/layout-4638649-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-yantar/layout-4638649-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638626",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 46.64,
+      "price": 5830000,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yantar/layout-4638626.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638627",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 47.88,
+      "price": 5985000,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yantar/layout-4638627-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-yantar/layout-4638627-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-yantar/layout-4638627-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638632",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 39.66,
+      "price": 4957500,
+      "pricePerMeter": 125000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-yantar/layout-4638632.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638633",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 41.18,
+      "price": 5147500,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638634",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.1,
+      "price": 4638750,
+      "pricePerMeter": 125034,
+      "notes": []
+    },
+    {
+      "id": "4638635",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 38.97,
+      "price": 4871250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638636",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 40.49,
+      "price": 5061250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638641",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 41.27,
+      "price": 5158750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638642",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 42.15,
+      "price": 5268750,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638647",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 58.22,
+      "price": 7568600,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4638648",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 50.24,
+      "price": 6531200,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4638650",
+      "room": "1",
+      "roomLabel": "1+ евро",
+      "area": 48.85,
+      "price": 6350500,
+      "pricePerMeter": 130000,
+      "notes": []
+    },
+    {
+      "id": "4638624",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.6,
+      "price": 6700000,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638625",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 55.76,
+      "price": 6970000,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638630",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 56.04,
+      "price": 7005000,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638638",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 48.46,
+      "price": 6057500,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638639",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 51.93,
+      "price": 6491250,
+      "pricePerMeter": 125000,
+      "notes": []
+    },
+    {
+      "id": "4638643",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 70.2,
+      "price": 8424000,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4638644",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 71.08,
+      "price": 8529600,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4638645",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 129.41,
+      "price": 15528000,
+      "pricePerMeter": 119991,
+      "notes": []
+    },
+    {
+      "id": "4638646",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 68.24,
+      "price": 8871200,
+      "pricePerMeter": 130000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-yantar/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -1,0 +1,5587 @@
+[
+  {
+    "slug": "3-shoseynaya-20",
+    "title": "3 Шоссейная 22А(Б)",
+    "shortDescription": "Кирпичный дом с индивидуальным газовым отоплением.",
+    "district": "Заволжский",
+    "address": "Ярославль, ул. Шосейная 20",
+    "completionLabel": "Сдан!!!",
+    "completionDate": "ready",
+    "minimumPrice": 3600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3600000
+      },
+      {
+        "room": "2"
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/3-shoseynaya-20/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/3-shoseynaya-20/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/3-shoseynaya-20/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/3-shoseynaya-20/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "dom-na-puteyskom-per",
+    "title": "Дом на Путейском пер.",
+    "shortDescription": "Малоквартирный кирпичный дом с индивидуальным газовым отоплением",
+    "district": "Красноперекопский",
+    "address": "Ярославль, Путейский переулок",
+    "completionLabel": "4 кв 2026",
+    "completionDate": "2026-Q4",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5630000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от",
+    "coverImage": {
+      "src": "/media/projects/dom-na-puteyskom-per/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/dom-na-puteyskom-per/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "dom-na-saltykova-shchedrina",
+    "title": "Дом на Салтыкова Щедрина",
+    "shortDescription": "Дом БИЗНЕС КЛАССА в Центре Ярославля",
+    "district": "Центр",
+    "address": "Ярославль, ул. Салтыкова Щедрина 21",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 13300000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 13300000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 22000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 24000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/dom-na-saltykova-shchedrina/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/dom-na-saltykova-shchedrina/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-saltykova-shchedrina/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-saltykova-shchedrina/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-saltykova-shchedrina/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-saltykova-shchedrina/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-saltykova-shchedrina/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/dom-na-saltykova-shchedrina/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "dom-na-ul-chernoprudnaya-2",
+    "title": "Дом на ул. Чернопрудная-2",
+    "shortDescription": "Скидки до 7000 руб с кв\\м Акция ограничена.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Чернопрудная д. 41",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 11600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-ul-chernoprudnaya-2/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/dom-na-ul-chernoprudnaya-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "lenina-28a",
+    "title": "Ленина 28а",
+    "shortDescription": "Квартиры в центре , приватная территория, подземный паркинг",
+    "district": "Центр",
+    "address": "Ярослаль, пр. Ленина 28а",
+    "completionLabel": "Сдан!!!",
+    "completionDate": "ready",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 14000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 16700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/lenina-28a/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/lenina-28a/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/lenina-28a/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/lenina-28a/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/lenina-28a/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/lenina-28a/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "moskovskiy-kvartal",
+    "title": "ЖК Московский Квартал",
+    "shortDescription": "Дом полностью из керамического кирпича - экологичного, природного материала, общепризнанного наиболее комфортным для постоянного проживания.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, Проспект Фрундзе",
+    "completionLabel": "4 кв /2028",
+    "completionDate": "2028-Q4",
+    "minimumPrice": 4000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 10000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/moskovskiy-kvartal/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/moskovskiy-kvartal/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/moskovskiy-kvartal/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/moskovskiy-kvartal/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "parizhskaya-kommuna-12",
+    "title": "Парижская Коммуна 6-12",
+    "shortDescription": "Кирпичный малоквартирный дом. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+    "district": "Дзержинский",
+    "address": "Ярославль, ул.Комунаров",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4400000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4400000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5900000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/parizhskaya-kommuna-12/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/parizhskaya-kommuna-12/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/parizhskaya-kommuna-12/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-admiral",
+    "title": "ЖК \"Адмирал\"",
+    "shortDescription": "ЖК \"Адмирал\" доступные современные квартиры с отделкой под ключ.",
+    "district": "Заволжский",
+    "address": "Ярославль,ул. Шандорная",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 2900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 2900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 4700000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6820000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-admiral/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-admiral/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-admiral/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-aeropark",
+    "title": "ЖК АЭРОПАРК",
+    "shortDescription": "Современный проект в центральной локации р-на",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Чернопрудная д.17",
+    "completionLabel": "Сдан",
+    "completionDate": "ready",
+    "minimumPrice": 4600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 4700000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7400000
+      },
+      {
+        "room": "4+",
+        "minimumPrice": 9960000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "4+"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-aeropark-2/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-aeropark/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-aeropark-2",
+    "title": "ЖК АЭРОПАРК 2",
+    "shortDescription": "Современный проект в центральной локации р-на",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Чернопрудная д.17",
+    "completionLabel": "3 кв 2026",
+    "completionDate": "2026-Q3",
+    "minimumPrice": 3900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 4450000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6100000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-aeropark-2/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-aeropark-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-alye-parusa",
+    "title": "ЖК Алые паруса 2",
+    "shortDescription": "Современный комплекс рядом с парковой зоной. Использование счетов ЭСКРОУ, от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+    "district": "Заволжский",
+    "address": "г Ярославль, ул. Красноборская 38.к 2",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5600000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-alye-parusa/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-alye-parusa/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-alye-parusa-3",
+    "title": "ЖК Алые паруса 3",
+    "shortDescription": "Новый современный ЖК из 4 многоквартирных домов, использование счетов ЭСКРОУ, от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+    "district": "Заволжский",
+    "address": "г Ярославль, ул. Красноборская 38к3",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "roomPrices": [
+      {
+        "room": "2",
+        "minimumPrice": 6400000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8200000
+      }
+    ],
+    "availableRooms": [
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-alye-parusa-3/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-3/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-alye-parusa-3/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-alye-parusa-korp-1",
+    "title": "ЖК Алые паруса корп 1",
+    "shortDescription": "Современный комплекс рядом с парковой зоной. Использование счетов ЭСКРОУ, от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+    "district": "Заволжский",
+    "address": "г Ярославль, ул. Красноборская 38.к 1",
+    "completionLabel": "2 кв 2028",
+    "completionDate": "2028-Q2",
+    "minimumPrice": 4140000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4140000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6140000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8860000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-alye-parusa-korp-1/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-alye-parusa-korp-1/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-arkadiya",
+    "title": "ЖК \"Аркадия\"",
+    "shortDescription": "ЖК«Аркадия» кирпичный дом комфорт класса в \"сердце\" ленинского района.",
+    "district": "Центр",
+    "address": "Ярославль, ул. Жукова 17а",
+    "completionLabel": "2 кв 2026",
+    "completionDate": "2026-Q2",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 10700000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-arkadiya/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-arkadiya/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-arkadiya/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-atlas",
+    "title": "ЖК Атлас",
+    "shortDescription": "Клубный дом Атлас - отделка \"под ключ\"индивидуальное газовое отопление, технологии \"умный дом\"",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Ильинская 20",
+    "completionLabel": "3 кв /2027",
+    "completionDate": "2027-Q3",
+    "minimumPrice": 4100000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4100000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-atlas/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atlas/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-atlas/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-atmosfera",
+    "title": "ЖК Атмосфера",
+    "shortDescription": "Кирпичный дом комфорт класса. Консультации будни и выходные 24/7",
+    "district": "Фрунзенский",
+    "address": "Ярославль,",
+    "completionLabel": "1 кв 2028",
+    "completionDate": "2028-Q1",
+    "minimumPrice": 3900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5700000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-atmosfera/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atmosfera/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atmosfera/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-atmosfera/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-barvikha",
+    "title": "ЖК Барвиха",
+    "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+    "district": "Заволжский",
+    "address": "Посёлок Заволжье",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4400000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4400000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 9700000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8800000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-barvikha/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-barvikha/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-barvikha-kor-2",
+    "title": "ЖК Барвиха кор. 2",
+    "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+    "district": "Заволжский",
+    "address": "Посёлок Заволжье",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 4500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 11000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-barvikha-kor-2/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha-kor-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-barvikha-kor-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-barvikha-kor-3",
+    "title": "ЖК Барвиха кор. 3",
+    "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+    "district": "Заволжский",
+    "address": "Посёлок Заволжье",
+    "completionLabel": "1 кв 2028",
+    "completionDate": "2028-Q1",
+    "minimumPrice": 3800000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3800000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7800000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-barvikha-kor-3/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-3/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-barvikha-kor-3/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-barvikha-kor-4",
+    "title": "ЖК Барвиха кор. 4",
+    "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+    "district": "Заволжский",
+    "address": "Посёлок Заволжье",
+    "completionLabel": "4 кв 2028",
+    "completionDate": "2028-Q4",
+    "minimumPrice": 1900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 1900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 4300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-barvikha-kor-4/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-barvikha-kor-4/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-barvikha-kor-4/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-boroviki",
+    "title": "ЖК \"Боровики\"",
+    "shortDescription": "Клубный приватный квартал, кирпичные дома ИГО.",
+    "district": "Заволжский",
+    "address": "Ярославль, Заволжский р-н, ул. Клубная в районе дома 18-22",
+    "completionLabel": "1 кв. 2027",
+    "completionDate": "2027-Q1",
+    "minimumPrice": 4490000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4490000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-boroviki/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-boroviki/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-boroviki/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-boroviki/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-bumerang",
+    "title": "ЖК \"Бумеранг\"",
+    "shortDescription": "Современный проект в удобной локации.",
+    "district": "Красноперекопский",
+    "address": "Ярославль ул Гагарина",
+    "completionLabel": "2 кв 2029",
+    "completionDate": "2029-Q2",
+    "minimumPrice": 3600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6400000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-bumerang/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-bumerang/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-bumerang/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-bumerang/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-butusovskiy",
+    "title": "ЖК \"Бутусовский\"",
+    "shortDescription": "ЖК \"Бутусовский\" уютный квартал из трёх невысоких кирпичных домов комфорт класса.",
+    "district": "Центр",
+    "address": "Ярославль, ул. Некрасова 41",
+    "completionLabel": "3 кв 2028",
+    "completionDate": "2028-Q3",
+    "minimumPrice": 9900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 9900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 14200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 19000000
+      },
+      {
+        "room": "4+",
+        "minimumPrice": 24000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "4+"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-butusovskiy-str-2/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-butusovskiy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-butusovskiy-str-2",
+    "title": "ЖК \"Бутусовский\" стр 2",
+    "shortDescription": "ЖК \"Бутусовский\" уютный квартал из трёх невысоких кирпичных домов комфорт класса.",
+    "district": "Центр",
+    "address": "Ярославль, ул. Некрасова 41",
+    "completionLabel": "3 кв 2028",
+    "completionDate": "2028-Q3",
+    "minimumPrice": 11000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 11000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 15500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 16100000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-butusovskiy-str-2/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-butusovskiy-str-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-butusovskiy-str-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-chistye-prudy",
+    "title": "ЖК \"Чистые пруды\"",
+    "shortDescription": "Кирпичный приватный клубный квартал.",
+    "district": "Красноперекопский",
+    "address": "Ярославль ул Лесная",
+    "completionLabel": "3 кв 2026",
+    "completionDate": "2026-Q3",
+    "minimumPrice": 5700000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5700000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 8200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-chistye-prudy/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-chistye-prudy/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-chistye-prudy/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-chistye-prudy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-divnye-berega",
+    "title": "ЖК \"Дивные Берега\"",
+    "shortDescription": "Кирпич, ИГО, берег р. Волги, подземный паркинг, 5 мин до Центра. Просмотры, консультации 24/7",
+    "district": "Центр",
+    "address": "Ярославль, ул. Тверицкая Набережная",
+    "completionLabel": "4 кв 2028",
+    "completionDate": "2028-Q4",
+    "minimumPrice": 4600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9300000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-divnye-berega/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-divnye-berega/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-divnye-berega/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-divnye-berega/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-dom-u-reki",
+    "title": "ЖК \"Дом у реки\"",
+    "shortDescription": "ЖК \"Дом у реки\" уютный квартал комфорт класса.",
+    "district": "Центр",
+    "address": "Ярославль Котрольсная Набережная",
+    "completionLabel": "3 кв 2027",
+    "completionDate": "2027-Q3",
+    "minimumPrice": 10000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 10000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 15000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 18000000
+      },
+      {
+        "room": "4+",
+        "minimumPrice": 24000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "4+"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-dom-u-reki/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-dom-u-reki/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-dom-u-reki/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-domashniy",
+    "title": "ЖК \"Домашний\"",
+    "shortDescription": "Кирпичный дом комфорт класса, индивидуальное газовое отопление.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Тормозное шоссе",
+    "completionLabel": "4 кв /2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 4500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 10000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-domashniy/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-domashniy/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-domashniy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-domashniy-2-3-korp",
+    "title": "ЖК \"Домашний\" 2,3,4 корп.",
+    "shortDescription": "Кирпичный дом комфорт класса, индивидуальное газовое отопление.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Тормозное шоссе",
+    "completionLabel": "4 кв /2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 4100000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4100000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7300000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-domashniy-2-3-korp/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-domashniy-2-3-korp/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy-2-3-korp/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy-2-3-korp/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-domashniy-2-3-korp/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-domashniy-2-3-korp/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-ekogorod-3",
+    "title": "ЖК Экогород 3",
+    "shortDescription": "Стильный современный клубный комплекс, в экологичном районе.",
+    "district": "Заволжский",
+    "address": "Ярослаль, ул. Сахорова",
+    "completionLabel": "1 кв 2028",
+    "completionDate": "2028-Q1",
+    "minimumPrice": 2900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 2900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-ekogorod-3/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-ekogorod-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-ekogorod-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-ekogorod-3/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-finitimi",
+    "title": "ЖК ФИНИТiМИ",
+    "shortDescription": "Кирпичный дом с автономным отоплением в микрорайоне «Яблоневый посад». Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "Ярослаль, 2 брагинский 11",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-finitimi/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-finitimi/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-finitimi/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-forum-za-globusom",
+    "title": "ЖК Форум за Глобусом 2",
+    "shortDescription": "Кирпичный дом с индивидуальным отоплением, в 50 метрах от ТЦ \"Глобус\"",
+    "district": "Заволжский",
+    "address": "Ярославль, пос. Красный бор, ул Заволжская д.1",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-forum-za-globusom-3/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-forum-za-globusom/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-forum-za-globusom-1",
+    "title": "ЖК Форум за Глобусом 1",
+    "shortDescription": "Кирпичный дом с индивидуальным отоплением, в 50 метрах от ТЦ \"Глобус\" Консультации будни и выходные 24/7",
+    "district": "Заволжский",
+    "address": "Ярославль, пос. Красный бор, ул Заволжская д.1",
+    "completionLabel": "Сдан!!!",
+    "completionDate": "ready",
+    "minimumPrice": 4000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-forum-za-globusom-1/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-forum-za-globusom%201/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-forum-za-globusom-3",
+    "title": "ЖК Форум за Глобусом 3",
+    "shortDescription": "Кирпичный дом с индивидуальным отоплением, в 50 метрах от ТЦ \"Глобус\" Консультации 24/7",
+    "district": "Заволжский",
+    "address": "Ярославль, пос. Красный бор, ул Заволжская д.1",
+    "completionLabel": "3 кв 2025",
+    "completionDate": "2025-Q3",
+    "minimumPrice": 3700000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3700000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5200000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-forum-za-globusom-3/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-3/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-forum-za-globusom-3/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-gagarin",
+    "title": "ЖК Гагарин",
+    "shortDescription": "Квартиры с отделкой \"под ключ\" в начале Фрунзе.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Дядьковская 16а",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 3600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5400000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "commercial"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-gagarin/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-gagarin/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-gagarin/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-granat",
+    "title": "ЖК ГРАНАТ",
+    "shortDescription": "Кирпичный дом с индивидуальным отоплением в микрорайоне «Яблоневый посад». Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "Ярослаль, 2 брагинский",
+    "completionLabel": "4 кв 2028",
+    "completionDate": "2028-Q4",
+    "minimumPrice": 3500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-granat/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-granat/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-granat/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-idiliya",
+    "title": "ЖК«Идиллия»",
+    "shortDescription": "Приватный кирпичный дом комфорт с ИГО, берег Волги. Консультации 24/7",
+    "district": "Дзержинский",
+    "address": "г. Ярославль, 3 норский пер.",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4200000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4200000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5900000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8300000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-idiliya/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-idiliya/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-idiliya/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-idiliya/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-imperiya-life",
+    "title": "ЖК «Империя-Life»",
+    "shortDescription": "Дом комфорт, индивидуальное газ. отопление, керамический кирпич",
+    "district": "Дзержинский",
+    "address": "г. Ярославль, ул.Тутаевское шоссе д.93",
+    "completionLabel": "2 кв 2026",
+    "completionDate": "2026-Q2",
+    "minimumPrice": 5400000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5400000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-imperiya-life/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-imperiya-life/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-imperiya-life/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-karachikha",
+    "title": "ЖК \"Карачиха\"",
+    "shortDescription": "Кирпичные дома, клубный квартал в 5 мин от центра.",
+    "district": "Красноперекопский",
+    "address": "посёлок Карачиха, ул. Радужная",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 5280000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5280000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6370000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-karachikha/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-karachikha/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-karachikha/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-karachikha/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-lukomore",
+    "title": "ЖК Лукоморье",
+    "shortDescription": "Кирпичный дом с индивидуальным газовым отоплением.",
+    "district": "Заволжский",
+    "address": "Ярославль, Клубной , 3 больничной,2 ляпинской",
+    "completionLabel": "2 кв 2027",
+    "completionDate": "2027-Q2",
+    "minimumPrice": 3200000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3200000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6500000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-lukomore/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-lukomore/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-lukomore/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-lukomore/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-lukomore/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-lukomore/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-malevich",
+    "title": "ЖК«Малевич»",
+    "shortDescription": "Приватный кирпичный дом комфорт. Консультации 24/7",
+    "district": "Дзержинский",
+    "address": "г. Ярославль, Малоя Норская д. 5",
+    "completionLabel": "4 кв 2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 3500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-malevich/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-malevich/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-malevich/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-margelov-park-2",
+    "title": "ЖК Маргелов Парк 2",
+    "shortDescription": "ЖК Маргелов Парк , Кирпич, ИГО",
+    "district": "Дзержинский",
+    "address": "г Ярославль, район Дзержинский, ул Генерала Маргелова",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 2300000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 2300000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 4300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6",
+    "coverImage": {
+      "src": "/media/projects/zhk-margelov-park-2/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-margelov-park-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-margelov-park-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-margelov-park-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-margelov-park-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-margelov-park-2/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-margelov-park-2/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-margelov-park-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-mashinostroiteley",
+    "title": "ЖК \"Машиностроителей\" 25",
+    "shortDescription": "Современный дом в удобной локации.",
+    "district": "Заволжский",
+    "address": "Ярославль,Машиностроителей",
+    "completionLabel": "1 кв / 2027",
+    "completionDate": "2027-Q1",
+    "minimumPrice": 4900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8100000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-mashinostroiteley/cover.webp",
+      "variants": []
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-mashinostroiteley/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-mechta",
+    "title": "ЖК Мечта",
+    "shortDescription": "Современный проект в удобной локации.",
+    "district": "Красноперекопский",
+    "address": "Ярославль ул Менделеева д.10",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 5400000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5400000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 10000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-mechta/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-mechta/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-mechta/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-mechta/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-megapolis",
+    "title": "ЖК Мегаполис 11",
+    "shortDescription": "Новый современный квартал из 16 домов, использование счетов ЭСКРОУ , от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "г Ярославль,ул Комкора Хрипина д.11",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-megapolis/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-megapolis/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price",
+      "untrusted-price"
+    ]
+  },
+  {
+    "slug": "zhk-megapolis-12",
+    "title": "ЖК Мегаполис 12",
+    "shortDescription": "Новый современный квартал из 16 домов, использование счетов ЭСКРОУ , от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "г Ярославль,ул Комкора Хрипина д.3",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2"
+      },
+      {
+        "room": "3",
+        "minimumPrice": 6600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-megapolis-12/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-12/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-megapolis-12/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-megapolis-13",
+    "title": "ЖК Мегаполис 13",
+    "shortDescription": "Новый современный квартал из 16 домов, использование счетов ЭСКРОУ , от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "г Ярославль",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 3500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-megapolis-13/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-13/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-megapolis-13/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-melodiya-lesa",
+    "title": "ЖК \"Мелодия леса\"",
+    "shortDescription": "Современный проект в удобной локации.Эскроу счета, 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Чернопрудная 35а",
+    "completionLabel": "2 кв /2026",
+    "completionDate": "2026-Q2",
+    "minimumPrice": 3000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-melodiya-lesa/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-melodiya-lesa/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-minipolis",
+    "title": "ЖК Миниполис",
+    "shortDescription": "Авторская архитектура, дворы без машин, ИГО",
+    "district": "Заволжский",
+    "address": "Ярославль, пос.Зелёный Бор",
+    "completionLabel": "3 кв 2027",
+    "completionDate": "2027-Q3",
+    "minimumPrice": 3900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5500000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-minipolis/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-minipolis/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-minipolis/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-minipolis/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-moskovskiy-kvartal-2",
+    "title": "ЖК \"Московский Квартал\" -2",
+    "shortDescription": "Дом полностью из керамического кирпича - экологичного, природного материала, общепризнанного наиболее комфортным для постоянного проживания. Представлены разные варианты отделки, чистовая и WhiteBox.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, Проспект Фрундзе",
+    "completionLabel": "4 кв /2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 6000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 6000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 10700000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-moskovskiy-kvartal-2/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-moskovskiy-kvartal-2/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-moskovskiy-kvartal-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-na-dyadkovskoy",
+    "title": "ЖК \"на Дядьковской\"",
+    "shortDescription": "Кирпич, ИГО, в удобной локации.Эскроу счета, 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Дядьковская 6",
+    "completionLabel": "3 кв /2026",
+    "completionDate": "2026-Q3",
+    "minimumPrice": 4200000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4200000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 10000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-na-dyadkovskoy/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-dyadkovskoy/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-na-dyadkovskoy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-na-lisitsina",
+    "title": "ЖК \"НА ЛИСИЦИНА\"",
+    "shortDescription": "Дом в центральной части города, подземный паркинг, приватный благоустроенный двор.",
+    "district": "Центр",
+    "address": "Ярослаль, ул Лисицина 6в",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 8000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 8000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 12000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 16000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-na-lisitsina/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-lisitsina/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-lisitsina/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-na-lisitsina/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-na-posokhova-str-31-37",
+    "title": "ЖК на Посохова стр 31,37",
+    "shortDescription": "Малоквартирные кирпичные дома с индивидуальным газовым отоплением",
+    "district": "Красноперекопский",
+    "address": "Ярославль, ул. Посохова",
+    "completionLabel": "2 кв 2026",
+    "completionDate": "2026-Q2",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6800000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от",
+    "coverImage": {
+      "src": "/media/projects/zhk-na-posokhova-str-31-37/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-na-posokhova-str-31-37/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-na-posokhova-str-31-37/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-na-posokhova-str-31-37/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-nasledie",
+    "title": "ЖК«Наследие»",
+    "shortDescription": "Квартиры с отделкой, дом комфорт, в парке на берегу Волги. Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "г. Ярославль, ул.Тутаевское шоссе д. 74",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 5300000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5300000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7800000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 10300000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-nasledie/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nasledie/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nasledie/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-nasledie/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-nevskiy",
+    "title": "ЖК \"Невский\"",
+    "shortDescription": "Квартиры с качественной отделкой под ключ в удобной локации.",
+    "district": "Дзержинский",
+    "address": "Ярослаль, пр Урицкого д. зу 71-б",
+    "completionLabel": "1 кв 2027",
+    "completionDate": "2027-Q1",
+    "minimumPrice": 3600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5600000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7500000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-nevskiy/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-nevskiy/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-nevskiy/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-nevskiy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novatsiya",
+    "title": "ЖК Новация",
+    "shortDescription": "Современный проект комфорт класса, финансирование Дом.рф, счета ЭСКРОУ. Консультации будни и выходные 24/7",
+    "district": "Центр",
+    "address": "Ярославль, Республиканский проезд д.1",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 6900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 6900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 8600000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 13400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novatsiya/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novatsiya/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novatsiya/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novatsiya/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novelly",
+    "title": "ЖК Новеллы 2 стр",
+    "shortDescription": "Жилой Квартал \"Новеллы\" класс-\"Комфорт\" на Тутаевском шоссе/Панина компании \"Талан\" Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "Ярослаль, Тутаевское шоссе.",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 5300000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5300000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9300000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novelly/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novelly/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novelly-3-str",
+    "title": "ЖК Новеллы 3 стр",
+    "shortDescription": "Жилой Квартал \"Новеллы\" класс-\"Комфорт\" на Тутаевском шоссе/Панина компании \"Талан\" Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "Ярослаль, Тутаевское шоссе.",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4700000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4700000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8300000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "4+"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novelly-3-str/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-3-str/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novelly-3-str/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novelly-4-str",
+    "title": "ЖК Новеллы 4 стр",
+    "shortDescription": "Жилой Квартал \"Новеллы\" класс-\"Комфорт\" на Тутаевском шоссе/Панина компании \"Талан\" Консультации будни и выходные 24/7",
+    "district": "Дзержинский",
+    "address": "Ярослаль, Тутаевское шоссе.",
+    "completionLabel": "4 кв / 2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 4100000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4100000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio",
+      "commercial"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novelly-4-str/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novelly-4-str/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novelly-4-str/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novelly-4-str/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novoe-bragino",
+    "title": "ЖК Новое Брагино",
+    "shortDescription": "Новый современный квартал \"Комфорт класса\"",
+    "district": "Дзержинский",
+    "address": "Дзержинский р-н, МКР №15",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 3700000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3700000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novoe-bragino/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novoe-bragino/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novoe-bragino/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novoe-bragino-dom-2",
+    "title": "ЖК Новое Брагино дом 2",
+    "shortDescription": "Новый современный квартал \"Комфорт класса\"",
+    "district": "Дзержинский",
+    "address": "Дзержинский р-н, МКР №15",
+    "completionLabel": "3 кв 2028",
+    "completionDate": "2028-Q3",
+    "minimumPrice": 3200000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3200000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novoe-bragino-dom-2/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novoe-bragino-dom-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novoe-bragino-dom-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novoe-bragino-dom-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "untrusted-price"
+    ]
+  },
+  {
+    "slug": "zhk-novosyelki-str-1",
+    "title": "ЖК Новосёлки стр. 1",
+    "shortDescription": "ЖК Новосёлки - качественный кирпичный дом, хорошая инфраструктура.а",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Калинина 34",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "2"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-novosyelki-str-1/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novosyelki-str-1/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novosyelki-str-1/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-novyy-dom",
+    "title": "ЖК Новый Дом",
+    "shortDescription": "Приватный кирпичный дом комфорт,ИГО.. Консультации 24/7",
+    "district": "Дзержинский",
+    "address": "г. Ярославль, д. Старое Брагино д. 29",
+    "completionLabel": "3 кв 2026",
+    "completionDate": "2026-Q3",
+    "minimumPrice": 5200000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5200000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 10000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 5.9%",
+    "coverImage": {
+      "src": "/media/projects/zhk-novyy-dom/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-novyy-dom/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-novyy-dom/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-novyy-dom/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-petropavlovskie-prudy",
+    "title": "ЖК \"Петропавловские пруды\"",
+    "shortDescription": "Кирпичный, малоквартирный клубный дом",
+    "district": "Красноперекопский",
+    "address": "Ярославль ул Мамонтова\\Тулупова",
+    "completionLabel": "4 кв 2025",
+    "completionDate": "2025-Q4",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 8900000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 11900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-petropavlovskie-prudy/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-petropavlovskie-prudy/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-petropavlovskie-prudy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-premer-2",
+    "title": "ЖК Премьер - 2",
+    "shortDescription": "Ликвидные планировки в удобной локации. Консультации будни и выходные 24/7",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Старая костромская 4",
+    "completionLabel": "4 кв 2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 3500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "studio",
+      "commercial"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-premer-2/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-premer-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-premer-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-premer-3",
+    "title": "ЖК Премьер - 3",
+    "shortDescription": "Комфорт класс,ИГО в престижной локации. Консультации будни и выходные 24/7",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул.Суздольское шоссее\\гоголя",
+    "completionLabel": "3 кв 2027",
+    "completionDate": "2027-Q3",
+    "minimumPrice": 4300000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4300000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5800000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-premer-3/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-premer-3/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-premer-3/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-prestizh-siti",
+    "title": "ЖК \"Престиж Сити\"",
+    "shortDescription": "Кирпичный дом комфорт класса. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Ильинская",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6600000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-prestizh-siti/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-prestizh-siti/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-prestizh-siti/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-prestizh-siti/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-pyestryy-kvartal",
+    "title": "ЖК \"Пёстрый Квартал\"",
+    "shortDescription": "Современный комплекс комфорт.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Бурмакинская",
+    "completionLabel": "2 кв 2027",
+    "completionDate": "2027-Q2",
+    "minimumPrice": 3000000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3000000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7930000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-pyestryy-kvartal/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-pyestryy-kvartal/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-pyestryy-kvartal/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-rivera-park",
+    "title": "ЖК Ривьера Парк",
+    "shortDescription": "Квартиры на набережной, приватная территория, подземный паркинг",
+    "district": "Центр",
+    "address": "Ярослаль, ул.Котрольсная набережная ст. 1",
+    "completionLabel": "Сдан!!!",
+    "completionDate": "ready",
+    "minimumPrice": 8600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 8600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 11000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 14000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-rivera-park/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rivera-park/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-rivera-park/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-rivera-park-2-str",
+    "title": "ЖК Ривьера Парк 2 стр",
+    "shortDescription": "Квартиры на набережной, приватная территория, подземный паркинг. Консультации будни и выходные 24/7",
+    "district": "Центр",
+    "address": "Ярослаль, ул.Котрольсная набережная ст. 1",
+    "completionLabel": "3 кв 2025",
+    "completionDate": "2025-Q3",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2"
+      },
+      {
+        "room": "3",
+        "minimumPrice": 13000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 5 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-rivera-park-2-str/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rivera-park-2-str/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-rivera-park-2-str/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-rublyev",
+    "title": "ЖК«Рублёв»",
+    "shortDescription": "Приватный кирпичный дом комфорт . Консультации 24/7",
+    "district": "Дзержинский",
+    "address": "г. Ярославль, ул. Почтовая д. 10",
+    "completionLabel": "3 кв 2028",
+    "completionDate": "2028-Q3",
+    "minimumPrice": 3820000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3820000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-rublyev/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-rublyev/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-rublyev/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-rublyev/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-russkaya-sloboda",
+    "title": "ЖК«Русская Слобода»",
+    "shortDescription": "Ультра современный клубный квартал бизнес класса.",
+    "district": "Дзержинский",
+    "address": "13 мкр. ра-он",
+    "completionLabel": "1 кв 2029",
+    "completionDate": "2029-Q1",
+    "minimumPrice": 4600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 9000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 16000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-russkaya-sloboda/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-russkaya-sloboda/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-semeynyy-kvartal",
+    "title": "ЖК Семейный Квартал",
+    "shortDescription": "Клубный квартал, своя спа зона, спортзалы, комфорт класс",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Бурмакинская\\Чернопрудная\\Лескова 35,36,37",
+    "completionLabel": "1 кв. 2029",
+    "completionDate": "2029-Q1",
+    "minimumPrice": 2900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 2900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5400000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-semeynyy-kvartal/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-semeynyy-kvartal/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-semeynyy-kvartal/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-severnye-rezidentsii-",
+    "title": "ЖК Северные Резиденции",
+    "shortDescription": "Кирпичные дома с ИГО в микрорайоне «Яблоневый посад»",
+    "district": "Дзержинский",
+    "address": "Ярослаль, 2 брагинский 11",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4200000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4200000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-severnye-rezidentsii/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-severnye-rezidentsii/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-severnye-rezidentsii-/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-sirenevyy",
+    "title": "ЖК \"Сиреневый\"",
+    "shortDescription": "ЖК \"Сиреневый\" Кирпичный дом с индивидуальным газовым отоплением.",
+    "district": "Заволжский",
+    "address": "Ярославская обл. Деревня Полесье",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 4350000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4350000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-sirenevyy/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-sirenevyy/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sirenevyy/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-sirenevyy/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sirenevyy/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-sirenevyy/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-sofity",
+    "title": "ЖК Софиты",
+    "shortDescription": "ЖК Софиты - современный проект комфорт",
+    "district": "Фрунзенский",
+    "address": "пр Фрунзе, ул Проектируемой, Тормозн Шоссе, ул Попова",
+    "completionLabel": "3 кв /2027",
+    "completionDate": "2027-Q3",
+    "minimumPrice": 3500000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3500000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5400000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-sofity/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-sofity/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-sofity/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-sofity/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-svetloyar-siti",
+    "title": "ЖК \"Светлояр Сити\"",
+    "shortDescription": "Стильный современный проект, удобная локация .",
+    "district": "Заволжский",
+    "address": "Ярославль,Машиностроителей д 11",
+    "completionLabel": "3 кв 2026",
+    "completionDate": "2026-Q3",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7300000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-svetloyar-siti/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-svetloyar-siti/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-talan-simvol",
+    "title": "ЖК \"Талан Символ\"",
+    "shortDescription": "Современный Жилой Квартал\"Талан Символ\" класс - \"Комфорт\" Консультации будни и выходные 24/7",
+    "district": "Фрунзенский",
+    "address": "Ярослаль, Суздальское ш. 23а",
+    "completionLabel": "4 к в 2028",
+    "completionDate": "2028-Q4",
+    "minimumPrice": 5100000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5100000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 9000000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-talan-simvol/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-talan-simvol/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-talan-simvol/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-talan-simvol/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-traditsii",
+    "title": "ЖК \"Традиции\"",
+    "shortDescription": "Кирпичный дом, ИГО, 10 мин до цента г. Ярославля",
+    "district": "Красноперекопский",
+    "address": "ул. Колмыковых 5",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 6100000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 6100000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7900000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 12100000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-traditsii/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-traditsii/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-traditsii/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-traditsii/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-triumf-siti",
+    "title": "ЖК \"Триумф Сити\"",
+    "shortDescription": "Кирпич, ИГО, в удобной локации.Эскроу счета, 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, Дядьковская",
+    "completionLabel": "4 кв /2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 3800000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3800000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8700000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-triumf-siti/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-triumf-siti/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-triumf-siti/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-triumf-siti/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-u-prudov",
+    "title": "ЖК \"У прудов\"",
+    "shortDescription": "Кирпичный дом бизнес класса в центре р-на",
+    "district": "Дзержинский",
+    "address": "Ярослаль, пр Дзержинского у д. 24",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 4300000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4300000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8500000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-u-prudov/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-u-prudov/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-u-prudov/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-u-prudov/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-uyutnyy-kvartal",
+    "title": "ЖК \"УЮТНЫЙ КВАРТАЛ\" - 2",
+    "shortDescription": "ЖК \"Уютный Квартал\" основная концепция квартала ориентирована на создание комфорта и приватности.",
+    "district": "Дзержинский",
+    "address": "Ярослаль, Парижская Комуна д. 11",
+    "completionLabel": "2 кв 2029",
+    "completionDate": "2029-Q2",
+    "minimumPrice": 3900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8900000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-uyutnyy-kvartal/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-uyutnyy-kvartal/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-uyutnyy-kvartal-2",
+    "title": "ЖК \"УЮТНЫЙ КВАРТАЛ\"-1",
+    "shortDescription": "ЖК \"Уютный Квартал\" основная концепция квартала ориентирована на создание комфорта и приватности.",
+    "district": "Дзержинский",
+    "address": "Ярослаль, Парижская Комуна д. 11",
+    "completionLabel": "3 кв / 2026",
+    "completionDate": "2026-Q3",
+    "minimumPrice": 4600000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4600000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6200000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-uyutnyy-kvartal-2/cover-1440.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-1440.avif",
+          "width": 1440,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-uyutnyy-kvartal-2/cover-1440.webp",
+          "width": 1440,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-uyutnyy-kvartal-2/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-vera",
+    "title": "ЖК \"Вера\"",
+    "shortDescription": "Кирпич, ИГО, парковая зона, 10 мин до Центра. Просмотры, консультации 24/7",
+    "district": "Заволжский",
+    "address": "Ярославль, ул. Приозёрная 5",
+    "completionLabel": "Сдан!!!",
+    "completionDate": "ready",
+    "roomPrices": [
+      {
+        "room": "1"
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5500000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 7600000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "17%",
+    "coverImage": {
+      "src": "/media/projects/zhk-vera/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vera/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vera/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vera/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-vera/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": [
+      "missing-price"
+    ]
+  },
+  {
+    "slug": "zhk-vivat",
+    "title": "ЖК \"ВИВАТ\"",
+    "shortDescription": "ЖК«ВИВВАТ» кирпичный дом, удобная локация.",
+    "district": "Центр",
+    "address": "Ярославль, ул. Белинского 17",
+    "completionLabel": "4 кв 2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 5900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 8100000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 12200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-vivat/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vivat/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-vivat/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-yantar",
+    "title": "ЖК Янтарь",
+    "shortDescription": "Новый современный дом \"Комфорт класса\" в удобной локации!",
+    "district": "Дзержинский",
+    "address": "Дзержинский р-н,Пионерская д. 19",
+    "completionLabel": "1 кв 2027",
+    "completionDate": "2027-Q1",
+    "minimumPrice": 3900000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3900000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6000000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8400000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3",
+      "studio"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-yantar/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yantar/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yantar/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-yantar/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-yaroslavl-siti-1-ztap",
+    "title": "ЖК Ярославль СИТИ",
+    "shortDescription": "АКЦИЯ РАССРОЧКА до 5 лет. Дом в современном стиле, по индивидуальному архитектурному проекту. Консультации 24/7",
+    "district": "Красноперекопский",
+    "address": "г. Ярославль, Московский пр-кт, 78",
+    "completionLabel": "Сдан!",
+    "completionDate": "ready",
+    "minimumPrice": 5400000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 5400000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 7100000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6 %",
+    "coverImage": {
+      "src": "/media/projects/zhk-yaroslavl-siti-1-ztap/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-yaroslavl-siti-1-ztap/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-yaroslavl-siti-1-ztap/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-zvezda",
+    "title": "ЖК Звезда",
+    "shortDescription": "Кирпичный дом, ИГО, 10 мин до цента г. Ярославля",
+    "district": "Красноперекопский",
+    "address": "ул. Текстилей",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 4250000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4250000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6130000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8200000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-zvezda/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-zvezda/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-zvezda/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhk-zvezda-2-str",
+    "title": "ЖК Звезда 2 стр",
+    "shortDescription": "Кирпичный дом, ИГО, 10 мин до цента г. Ярославля",
+    "district": "Красноперекопский",
+    "address": "ул. Текстилей",
+    "completionLabel": "4 кв 2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 4250000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4250000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 6140000
+      },
+      {
+        "room": "3",
+        "minimumPrice": 8500000
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhk-zvezda-2-str/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-zvezda-2-str/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-zvezda-2-str/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhukovskogo-12",
+    "title": "Жуковского 12",
+    "shortDescription": "Кирпичный малоквартирный дом. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Жуковского 12",
+    "completionLabel": "4 кв /2027",
+    "completionDate": "2027-Q4",
+    "minimumPrice": 3670000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3670000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5130000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhukovskogo-12/cover-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-12/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/cover-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-12/cover-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhukovskogo-12/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhukovskogo-8",
+    "title": "Жуковского 8",
+    "shortDescription": "Кирпичный малоквартирный дом. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Жуковского 8",
+    "completionLabel": "4 кв /2026",
+    "completionDate": "2026-Q4",
+    "minimumPrice": 3820000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 3820000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5700000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhukovskogo-8/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-8/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-8/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhukovskogo-8/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  },
+  {
+    "slug": "zhukovskogo-9",
+    "title": "Жуковского 9",
+    "shortDescription": "Кирпичный малоквартирный дом. Эскроу счета, проектное финансирование 100% безопасность вложений.",
+    "district": "Фрунзенский",
+    "address": "Ярославль, ул. Жуковского 9",
+    "completionLabel": "2 кв /2027",
+    "completionDate": "2027-Q2",
+    "minimumPrice": 4050000,
+    "roomPrices": [
+      {
+        "room": "1",
+        "minimumPrice": 4050000
+      },
+      {
+        "room": "2",
+        "minimumPrice": 5200000
+      },
+      {
+        "room": "3"
+      }
+    ],
+    "availableRooms": [
+      "1",
+      "2",
+      "3"
+    ],
+    "mortgageRateLabel": "от 6%",
+    "coverImage": {
+      "src": "/media/projects/zhukovskogo-9/cover-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhukovskogo-9/cover-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhukovskogo-9/cover-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    "relatedProjectSlugs": [],
+    "sourceUrl": "https://офиспродаж76.рф/catalog/zhukovskogo-9/",
+    "sourceCheckedAt": "2026-08-29",
+    "dataQualityFlags": []
+  }
+]

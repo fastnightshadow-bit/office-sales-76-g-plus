@@ -1,0 +1,208 @@
+{
+  "slug": "zhk-premer-3",
+  "title": "ЖК Премьер - 3",
+  "shortDescription": "Комфорт класс,ИГО в престижной локации. Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Премьер\" 3 - Ваш новый уровень комфорта в динамичном районе Ярославля!",
+    "ЖК \"Премьер\" 3 - это современный жилой комплекс комфорт класса",
+    "*Монолитно-кирпичный дом на 68 жилых квартир высота потолков 2.7.",
+    "*Надёжная монолитно каркасная технология стены кирпич.",
+    "*Фасад из штукатурки премиального качества Bergauf (2-8 этаж).",
+    "*Индивидуальное газовое отпление (газовая плита+газовый котел)",
+    "*Дизайнерская отделка входных групп холов.",
+    "*Панорамное остекление лоджий.",
+    "* Удобное расположение: ЖК \"Премьер\" находится в районе с развитой инфраструктурой и удобной транспортной доступностью, что позволяет добраться в любую точку города.",
+    "* Деловая локация: В непосредственной близости расположены бизнес-центры, офисные здания, банки и другие объекты деловой инфраструктуры, что делает ЖК\"Премьер\" отличным выбором для тех, кто ценит своё время.",
+    "* Развитая инфраструктура: В шаговой доступности от комплекса находятся школы, детские сады, мед. учреждения,магазины,кафе и рестораны - всё необходимое для комфортной жизни.",
+    "* Безопасность и комфорт: Закрытая территория с круглосуточным видеонаблюдением и охраной,достаточное количество парковочных мест, детская спортивные зоны.",
+    "Отделка :",
+    "* White Box - подготовка под чистовую отделку, включающая выравнивание стен и пола, разводку электрики и сантехники.Этот вариант для тех, кто хочет создать сам интерьер своей мечты.",
+    "консультации 24/7."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул.Суздольское шоссее\\гоголя",
+  "completionLabel": "3 кв 2027",
+  "completionDate": "2027-Q3",
+  "minimumPrice": 4300000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4300000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5800000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-premer-3/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-premer-3/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-premer-3/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-premer-3/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-premer-3/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-premer-3/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-premer-3/gallery-004.webp",
+      "variants": []
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/7c5/umx2jix1mvov6p8i38p0l26dxikbj1h6.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/8a8/ii90yar7jj1x3ttzhzwapev9ritk3y2q.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639066",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 38.69,
+      "price": 4255900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-3/layout-4639066.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639067",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 38.69,
+      "price": 4255900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-3/layout-4639067.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639070",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 38.69,
+      "price": 4255900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-3/layout-4639066.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639071",
+      "room": "1",
+      "roomLabel": "1 комнатная евро+",
+      "area": 38.69,
+      "price": 4255900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-premer-3/layout-4639067.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639065",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58.54,
+      "price": 5912540,
+      "pricePerMeter": 101000,
+      "notes": []
+    },
+    {
+      "id": "4639068",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.5,
+      "price": 5706500,
+      "pricePerMeter": 101000,
+      "notes": []
+    },
+    {
+      "id": "4639069",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 56.5,
+      "price": 5706500,
+      "pricePerMeter": 101000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-premer-3/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

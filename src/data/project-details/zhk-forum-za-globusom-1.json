@@ -1,0 +1,266 @@
+{
+  "slug": "zhk-forum-za-globusom-1",
+  "title": "ЖК Форум за Глобусом 1",
+  "shortDescription": "Кирпичный дом с индивидуальным отоплением, в 50 метрах от ТЦ \"Глобус\" Консультации будни и выходные 24/7",
+  "description": [
+    "Дом№1 - ЖК \"Форум за Глобусом\" п.Красный Бор, ул. Заволжская д.1 от Застройщика ООО\"Форум\"",
+    "Комплекс будет состоять из 4 домов, полностью из керамического кирпича, с индивидуальным газовым отоплением, фасады будут облицованы минеральным утеплителем по технологии \"Тёплый фасад\", оштукатурены и окрашены самыми современными материалами, что обеспечит долгий срок службы повышенную теплоизоляцию и сухость.",
+    "Отделка и комплектация: стены оштукатурены, пол стяжка, входные двери, окна ПВХ, радиаторы отопления, счётчики, разведена электрика, пожарная сигнализация, двух контурный котёл, газовые плиты. Возможна отделка под ключ за доп плату.",
+    "Комплекс запроектирован с продуманным расположением домов для образования комфортной приватной среды : детские площадки, парковочные зоны, магазины, салоны красоты, развивающие кружки и т.д будут располагаться на первых этажах в коммерческих помещениях.",
+    "ЖК выгодно расположен в самом экологически чистом Заволжском районе г.Ярославль , центрально расположен рядом с ТЦ\"Глобус\" в окружении новых домов и жилых комплексов соседство с которыми обеспечивает благополучное окружение и безопасность, инфраструктура района не уступает ни одному району города.",
+    "Безопасность и способы покупки: 3 стр. продажи квартир осуществляются согласно последним изменениям 214 ФЗ с использованием счетов ЭСКРОУ, застройщик аккредитован в ведущих банках, поможем сформировать заявки на одобрение в ПАО \"Сбербанк\", ПАО\"ВТБ, ОАО \"Россельхозбанк\" и др. банки, льготная ипотека от 6%, семейная ипотека, мат капитал.",
+    "Застройщик ООО \"Форум\" 11 лет успешной работы в сфере строительства, в городе Ярославль сдаёт в срок уже третье строение, проекты выгодно отличаются качеством постройки из кирпича, современными планировками и самое главное своевременной готовностью объектов.",
+    "Перейти на Дом №2"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, пос. Красный бор, ул Заволжская д.1",
+  "completionLabel": "Сдан!!!",
+  "completionDate": "ready",
+  "minimumPrice": 4000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-forum-za-globusom-1/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-1/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-1/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-1/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-1/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-1/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-forum-za-globusom-1/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-forum-za-globusom-1/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-forum-za-globusom-1/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-forum-za-globusom-1/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-forum-za-globusom-1/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-forum-za-globusom-1/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация 1 стр",
+      "url": "https://офиспродаж76.рф/upload/iblock/5eb/e0i5pcpt5hxm5szr1ia2bdmqe0og8nhe.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация 2 стр",
+      "url": "https://офиспродаж76.рф/upload/iblock/c83/e8p4hcjhoqy8dev710qah45yg5vledgh.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во 1 ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/616/1xwt2mztacbf990xn9yrl1ynk3alja70.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во 2 ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/ada/vm8txp1w03ss6ytu5a1waccpes173eeh.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на ввод 1-2 эт",
+      "url": "https://офиспродаж76.рф/upload/iblock/1ce/1w5912yujdmet0rts83svbqrnt2ogq1q.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "ГПЗУ",
+      "url": "https://офиспродаж76.рф/upload/iblock/0b9/lh3qm5gnobvneenasi83se4s2civ3m79.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на с-во 3 этап",
+      "url": "https://офиспродаж76.рф/upload/iblock/1bf/h1h9af892939f9xhfbkrn2nrat9fr7df.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация 3 этап",
+      "url": "https://офиспродаж76.рф/upload/iblock/148/z6ok7ehqh5b1a0ableneyzzmh6evy6bz.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "План застройки",
+      "url": "https://офиспродаж76.рф/upload/iblock/f21/n0twhdw5w7rhj4dosq81o8309b29xcze.jpeg",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4636444",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 49.85,
+      "price": 5600000,
+      "pricePerMeter": 112337,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom-1/layout-4636444.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4636454",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 69.15,
+      "price": 6100000,
+      "pricePerMeter": 88214,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom-1/layout-4636454.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4636453",
+      "room": "3",
+      "roomLabel": "3-комнатная",
+      "area": 83.78,
+      "price": 8400000,
+      "pricePerMeter": 100263,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-forum-za-globusom-1/layout-4636453.webp",
+        "variants": []
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-forum-za-globusom%201/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

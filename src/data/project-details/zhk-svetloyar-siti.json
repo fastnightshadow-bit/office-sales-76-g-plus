@@ -1,0 +1,319 @@
+{
+  "slug": "zhk-svetloyar-siti",
+  "title": "ЖК \"Светлояр Сити\"",
+  "shortDescription": "Стильный современный проект, удобная локация .",
+  "description": [
+    "ЖК \"Светлояр Сити\" стильный современный проект самой центральной локации Заволжского района.",
+    "Конструкция: монолитные несущие конструкции и перекрытия, наружные стены из газосиликатного блока с эффективным утеплителем. Фасад навесной вентилируемый.",
+    "Комплекс состоит из двух 18 эт зданий объединённых \"стилобатом\"(помещения социальной и коммерческой инфраструктуры), запроектированы просторные холы, колясочные 3 лифта, безбарьерные входные группы. Лаундж зона на крыше(эксплуатируемая кровля на крыше башен и стилобата будет оборудована спортивными площадками зонами отдыха).",
+    "Отделка стандартная включает панорамное остекление лоджий, потолки 2.7 м",
+    "Комплекс запроектирован с продуманным расположением домов для образования комфортной приватной среды : детские площадки будут иметь продолжение на крышных \"лаундж зонах\" , парковочные зоны, магазины, салоны красоты, развивающие кружки и т.д будут располагаться на первых этажах в коммерческих помещениях.",
+    "ЖК выгодно расположен в самом экологически чистом Заволжском районе г.Ярославль , центрально расположен на месте заволжского рынка в окружении новых домов и жилых комплексов соседство с которыми обеспечивает благополучное окружение и безопасность, инфраструктура района не уступает ни одному району города.",
+    "Безопасность и способы покупки: продажи квартир осуществляются согласно последним изменениям 214 ФЗ с использованием счетов ЭСКРОУ, застройщик аккредитован в ведущих банках, поможем сформировать заявки на одобрение в ПАО \"Сбербанк\", ПАО\"ВТБ, ОАО \"Россельхозбанк\" и др. банки, льготная ипотека от 5%, принимаем мат капитал.",
+    "Застройщик ООО \"Светлояр\" более 10 лет успешной работы в сфере строительства, в городе Ярославль сдаёт в срок уже более десятка строений, проекты выгодно отличаются качеством постройки из кирпича, современными планировками и самое главное своевременной готовностью объектов.",
+    "Информация предоставлена:",
+    "ООО «Ваш выбор», Победы 38/27 ТЦ \"Бутусовский\" 5 эт , оф. 501 партнёр по реализации проекта по ценам застройщика, брокер по ипотечным продуктам."
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль,Машиностроителей д 11",
+  "completionLabel": "3 кв 2026",
+  "completionDate": "2026-Q3",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7300000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 9600000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-svetloyar-siti/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-svetloyar-siti/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-svetloyar-siti/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-svetloyar-siti/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-svetloyar-siti/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-svetloyar-siti/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-svetloyar-siti/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-svetloyar-siti/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-svetloyar-siti/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-svetloyar-siti/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-svetloyar-siti/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Документ проекта",
+      "url": "https://офиспродаж76.рф/upload/iblock/3bb/4z4g8yyb9a6w3r7xyalewfhtzwyhy49g.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Документ проекта",
+      "url": "https://офиспродаж76.рф/upload/iblock/bc9/qem2vozysoln32gm4pfnx0xr1c4i2igv.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637618",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 58.7,
+      "price": 7347500,
+      "pricePerMeter": 125170,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-svetloyar-siti/layout-4637618-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637618-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637618-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637623",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61.8,
+      "price": 7735000,
+      "pricePerMeter": 125162,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-svetloyar-siti/layout-4637623-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637623-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637623-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637625",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 66.4,
+      "price": 8247500,
+      "pricePerMeter": 124209,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-svetloyar-siti/layout-4637625-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637625-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637625-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637627",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 62.8,
+      "price": 7357600,
+      "pricePerMeter": 117159,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-svetloyar-siti/layout-4637627-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637627-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-svetloyar-siti/layout-4637627-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637628",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 62.8,
+      "price": 7860000,
+      "pricePerMeter": 125159,
+      "notes": []
+    },
+    {
+      "id": "4637630",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 65.9,
+      "price": 8247500,
+      "pricePerMeter": 125152,
+      "notes": []
+    },
+    {
+      "id": "4637632",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 61.8,
+      "price": 8044000,
+      "pricePerMeter": 130162,
+      "notes": []
+    },
+    {
+      "id": "4637637",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 58.7,
+      "price": 7347500,
+      "pricePerMeter": 125170,
+      "notes": []
+    },
+    {
+      "id": "4637624",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 87.2,
+      "price": 9602000,
+      "pricePerMeter": 110115,
+      "notes": []
+    },
+    {
+      "id": "4637631",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 87.8,
+      "price": 9602000,
+      "pricePerMeter": 109362,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-svetloyar-siti/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

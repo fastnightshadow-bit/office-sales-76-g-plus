@@ -1,0 +1,338 @@
+{
+  "slug": "zhk-malevich",
+  "title": "ЖК«Малевич»",
+  "shortDescription": "Приватный кирпичный дом комфорт. Консультации 24/7",
+  "description": [
+    "ЖК \"Малевич\" представляет собой приватную малоэтажную застройку, в близи новых мкр-кварталов.",
+    "Кирпичный дом комфорт класса , приватной благоустроенной территорией",
+    "Проектом предусмотрена комфортная обустроенная среда проживания.",
+    "В доме 5 этажей, 2 подъезда, 36 квартир, потолки 2.7, отопление своя крышная котельная, есть лифт.",
+    "Конструкция дома: дом из керамического кирпича толщина стен 640 мм с облицовкой декор. керамический кирпич , что обеспечивает долговечность и энергетическую эффективность.",
+    ".",
+    "Предчистовая внутренняя отделка полная подготовка под ремонт,косметику выравнивание,стяжка, сантехника, электрика, приборы учёта.",
+    "Локация: В шаговой доступности: школы, садики, остановка, все сетевые магазины, аптеки, рядом поликлиника, хорошая экология относительно района",
+    "Застройщик: Группа компаний \"СК\" построены в срок более 8 проектов многоквартирных кирпичных домов в г.Ярославле",
+    "Официальные представители по продажам ООО \"Ваш выбор\" ИНН 7602067446"
+  ],
+  "district": "Дзержинский",
+  "address": "г. Ярославль, Малоя Норская д. 5",
+  "completionLabel": "4 кв 2026",
+  "completionDate": "2026-Q4",
+  "minimumPrice": 3500000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3500000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5500000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-malevich/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-malevich/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-malevich/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-malevich/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-malevich/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-malevich/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-malevich/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-malevich/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-malevich/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-malevich/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-malevich/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-malevich/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-malevich/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-malevich/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/fdf/xp01s0iwn8fan49bsvpano5eqv7xnx21.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "пр. декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/ce9/v3ugo8jdc0mgblaf40k25jzftaj3w3tb.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638690",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.02,
+      "price": 4322400,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-malevich/layout-4638690-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638690-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638690-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638690-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638690-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638691",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 34.79,
+      "price": 4174800,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-malevich/layout-4638691-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638691-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638691-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638691-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638691-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638694",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.51,
+      "price": 4501200,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-malevich/layout-4638694-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638694-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638694-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638694-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638694-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638695",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.52,
+      "price": 4382400,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-malevich/layout-4638695-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638695-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638695-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638695-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-malevich/layout-4638695-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638696",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.87,
+      "price": 6503010,
+      "pricePerMeter": 123000,
+      "notes": []
+    },
+    {
+      "id": "4638692",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 69.24,
+      "price": 7962600,
+      "pricePerMeter": 115000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-malevich/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

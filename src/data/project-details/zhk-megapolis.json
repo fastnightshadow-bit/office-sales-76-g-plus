@@ -1,0 +1,273 @@
+{
+  "slug": "zhk-megapolis",
+  "title": "ЖК Мегаполис 11",
+  "shortDescription": "Новый современный квартал из 16 домов, использование счетов ЭСКРОУ , от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Мегаполис\" 2019 год начало проекта жилого квартала на 16 многоквартирных домов.",
+    "Представлено строение № 11 дом из керамического кирпича, из 3-х подъездов 9 эт, 108 квартир, потолки 2.7, предусмотрен один грузопассажирский лифт, газовые плиты. . Теплоснабжение спроектировано с учётом наличия крышных котелен.",
+    "Отделка предусматривает: стены-штукатурка, потолки-ж.б плита без окраски, полы-полусухая цементно-песочная стяжка, электропроводка с розетками и выключателями, отопление-радиаторы, водоснабжение- стояки с приборами учёта, окна ПВХ, входные двери.",
+    "Придомовая территория: будут созданы максимально комфортные условия для жителей квартала. Во дворе будут построены детские площадки, спортивные площадки, зоны для отдыха. На первых этажах магазины , кафе, салоны красоты, развивающие детские клубы.",
+    "Остановка общественного транспорта 2023 год, строительство садика на 280 мест ведётся, школа в проекте.",
+    "Продажи открыты согласно 214 ст.закона с использованием счетов ЭСКРОУ что обеспечивает на 100% сохранность ваших денег до окончания ст-ва , аккредитация ПАО Сбербанк, ПАО БТБ, Россельхоз банк и др. позволяет приобрести квартиру в Ипотеку с господдержкой.",
+    "Застройщик: ГСК \"МЕДИК\" строительная компания основана в 2008 году, за это время заработала безупречную репутацию благодаря качеству строительства и своевременному вводу в эксплуатацию более десятка многоквартирных домов.",
+    "Консультации 24/7 Скидки!"
+  ],
+  "district": "Дзержинский",
+  "address": "г Ярославль,ул Комкора Хрипина д.11",
+  "completionLabel": "4 кв 2027",
+  "completionDate": "2027-Q4",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 6400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-megapolis/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-megapolis/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-megapolis/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-megapolis/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-megapolis/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-megapolis-13/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-megapolis-13/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-13/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/919/t55olm73b5nlxwory8a0v7pgrlemmx5m.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/2d7/7a9xszzyg23c16lqb590fc1lvmwjcchc.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "план строений",
+      "url": "https://офиспродаж76.рф/upload/iblock/164/efd2nrelqswets98wtr70b2ik47krfc5.png",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638908",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 34.04,
+      "price": 3642280,
+      "pricePerMeter": 107000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis/layout-4638908.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638912",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 34.04,
+      "price": 3642280,
+      "pricePerMeter": 107000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis/layout-4638912.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638916",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 34.04,
+      "price": 3642280,
+      "pricePerMeter": 107000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis/layout-4638916-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-megapolis/layout-4638916-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-megapolis/layout-4638916-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638907",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 52.57,
+      "price": 5257000,
+      "pricePerMeter": 100000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis/layout-4638907.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638909",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 51.6,
+      "price": 5056800,
+      "pricePerMeter": 98000,
+      "notes": []
+    },
+    {
+      "id": "4638911",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.06,
+      "price": 5306000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4638913",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 51.6,
+      "price": 5056800,
+      "pricePerMeter": 98000,
+      "notes": []
+    },
+    {
+      "id": "4638915",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 53.04,
+      "price": 5304000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4638917",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 51.6,
+      "price": 5056800,
+      "pricePerMeter": 98000,
+      "notes": []
+    },
+    {
+      "id": "4638910",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 67.26,
+      "price": 6456960,
+      "pricePerMeter": 96000,
+      "notes": []
+    },
+    {
+      "id": "4638914",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 67.26,
+      "price": 6456960,
+      "pricePerMeter": 96000,
+      "notes": []
+    },
+    {
+      "id": "4638918",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 66.76,
+      "price": 6408960,
+      "pricePerMeter": 96000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-megapolis/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price",
+    "untrusted-price"
+  ]
+}

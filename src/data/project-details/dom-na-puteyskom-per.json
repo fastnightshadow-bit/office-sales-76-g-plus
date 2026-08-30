@@ -1,0 +1,143 @@
+{
+  "slug": "dom-na-puteyskom-per",
+  "title": "Дом на Путейском пер.",
+  "shortDescription": "Малоквартирный кирпичный дом с индивидуальным газовым отоплением",
+  "description": [
+    "Дом на Путейском пер 3 кв. 2026 год.",
+    "Малоквартирный 4 жилых этажа, всего 23 квартиры.",
+    "Удобно расположен: вся необходимая инфраструктура, остановки, близость к центру.",
+    "Кирпичный конструктив.",
+    "Индивидуальное газовое отопление.",
+    "Отделка предчистовая: - выровнены все поверхности(пол стяжка, стены штукатурка), сделана разводка сантехники, электрики, установлены розетки, выключатели, радиаторы отопления, счётчики, газовое оборудование (двухконтурный котёл, датчики загазованности). Балконы не застеклены..",
+    "Надёжный Застройщик - построено более 10 качественных кирпичных многоквартирных домов в г.Ярославле",
+    "Официальный партнёр - брокерский сервис по прямым продажам Новостроек от Застройщиков г. Ярославль: офиспродаж76 (ООО \"Ваш выбор\")",
+    "Отдел бронирования ул. Победы 38\\27 оф.501 по предварительной записи тел. 8(4852)93-59-69, 89109773737"
+  ],
+  "district": "Красноперекопский",
+  "address": "Ярославль, Путейский переулок",
+  "completionLabel": "4 кв 2026",
+  "completionDate": "2026-Q4",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5630000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/dom-na-puteyskom-per/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/dom-na-puteyskom-per/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/dom-na-puteyskom-per/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/dom-na-puteyskom-per/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/dom-na-puteyskom-per/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/dom-na-puteyskom-per/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/dom-na-puteyskom-per/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/dom-na-puteyskom-per/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/dom-na-puteyskom-per/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Документ проекта",
+      "url": "https://офиспродаж76.рф/upload/iblock/1a4/co6u4slc723ei12xt5tkgwtjd4c4w28k.jpeg",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/68a/k9dtkj5ccqrxba5f14zgnwexriz5d3ce.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638458",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.23,
+      "price": 5626850,
+      "pricePerMeter": 95000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/dom-na-puteyskom-per/layout-4638458.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638459",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.44,
+      "price": 5706240,
+      "pricePerMeter": 96000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/dom-na-puteyskom-per/layout-4638459.webp",
+        "variants": []
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/dom-na-puteyskom-per/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

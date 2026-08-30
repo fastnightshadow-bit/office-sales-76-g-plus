@@ -1,15 +1,34 @@
 # Офис продаж 76 — G+ Edition
 
-Private local frontend demonstration for the G+ Edition real-estate proposal.
+> **Частная демонстрация предложения. Сайт не опубликован и не готов к публичному использованию без согласования с компанией.** Формы работают только локально: они проверяют введённые значения, но не отправляют и не сохраняют персональные данные.
 
-## Development
+Проект — production-сборка нового интерфейса «Офис продаж 76» с локальным снимком каталога. Дата проверки источника находится в поле `sourceCheckedAt` файла `src/data/source-report.json` (текущий снимок: **2026-08-29**).
+
+## Требования
+
+- Node.js 22.19 или новее (требование Lighthouse 13);
+- npm 10 или новее;
+- Chromium из установленного Playwright для browser-тестов.
+
+## Установка
+
+Воспроизводимая установка по lockfile:
 
 ```bash
-npm install
+npm ci
+```
+
+## Локальная разработка
+
+```bash
 npm run dev
 ```
 
-## Verification
+Vite выведет локальный адрес в терминале. Демо не требует backend, базы данных, cookies или аналитики.
+
+## Проверки
+
+Unit/integration, типы, lint и production-сборка:
 
 ```bash
 npm run test:run
@@ -18,4 +37,51 @@ npm run lint
 npm run build
 ```
 
-The import and route-generation commands are reserved for the subsequent source-data tasks.
+Browser acceptance на production preview:
+
+```bash
+npm run test:e2e
+```
+
+Playwright-конфигурация сама выполняет production-сборку и запускает preview на `http://127.0.0.1:4173`. Установка или повторная загрузка Chromium не входит в эту команду.
+
+## Production preview
+
+```bash
+npm run build
+npm run preview -- --host 127.0.0.1
+```
+
+По умолчанию сборка остаётся приватной: в ней используется `noindex, nofollow`, а публичный canonical URL не задаётся.
+
+## Импорт и обновление данных
+
+Полный повторный импорт обращается к исходному сайту, перезаписывает локальные JSON и media assets и затем требует повторной проверки проекта:
+
+```bash
+npm run import:source
+npm run generate:catalog
+npm run generate:routes
+npm run test:run
+npm run build
+```
+
+`import:source` уже создаёт лёгкий `projects-summary.json` и отдельные detail-файлы. Команда `generate:catalog` повторяет только этот воспроизводимый шаг из существующего `projects.json`; она нужна после ручной замены канонического снимка и не обращается к сети. Для обычной разработки повторный импорт не нужен — репозиторий уже содержит локальный снимок данных и изображений. После обновления проверьте `src/data/source-report.json`: количество проектов, дубликаты, ошибки записей, качество цен, media budget и новое значение `sourceCheckedAt`.
+
+## Публичный режим — только после отдельного одобрения
+
+Валидный HTTPS-адрес включает public robots/canonical metadata и route assets:
+
+```bash
+VITE_SITE_URL=https://example.com npm run generate:routes
+VITE_SITE_URL=https://example.com npm run build
+```
+
+Не используйте публичный режим и не разворачивайте сайт, пока компания письменно не подтвердила:
+
+- юридические тексты и формулировки согласия;
+- актуальную доступность объектов, цены, сроки и коммерческие условия;
+- права на все фотографии, планировки, логотипы и другие изображения;
+- подключение CRM, телефонии, мессенджеров, аналитики и любого обработчика форм.
+
+Сейчас в проекте нет отправки лидов, backend-интеграций и аналитики. Добавление этих систем — отдельная production-задача с проверкой безопасности и обработки персональных данных.

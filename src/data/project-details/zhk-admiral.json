@@ -1,0 +1,448 @@
+{
+  "slug": "zhk-admiral",
+  "title": "ЖК \"Адмирал\"",
+  "shortDescription": "ЖК \"Адмирал\" доступные современные квартиры с отделкой под ключ.",
+  "description": [
+    "ЖК \"Адмирал\"",
+    "Современный приватный комплекс, 7 домов на территории 48 Га, запроектировано строительство ТЦ для жителей квартала.",
+    "Отделка под ключ: Декоративная штукатурка - стены, ламинат, с\\у частичная облицовка пола и стен плитка, установлена сантехника; электрика - выключатели, розетки; эстетичные межкомнатные двери; окна ПВХ; разводка труб горячей и холодной воды из полипропилена; радиаторы отопления; качественные входные двери.",
+    "Комплекс запроектирован с продуманным расположением домов для образования комфортной приватной среды без машин: детские площадки, магазины, салоны красоты, развивающие кружки и т.д будут располагаться в ТЦ на территории ЖК.",
+    "Квартал выгодно расположен в самом экологически чистом Заволжском районе г.Ярославль , в окружении новых домов соседство с которыми обеспечивает безопасность, инфраструктура района не уступает ни одному району города.",
+    "Безопасность и способы покупки: продажи квартир осуществляются по договору купли продажи напрямую от Застройщика, застройщик аккредитован в ведущих банках, поможем сформировать заявки на одобрение в ПАО \"Сбербанк\", ПАО\"ВТБ, ОАО \"Россельхозбанк\" и др. банки, льготная ипотека от 6 %, семейная от 5%, принимаем мат капитал.",
+    "Застройщик: Тверской ДСК работает с 1961 года, крупнейший застройщик г. Тверь. Введено в эксплуатацию более 7000 000 кв\\м жилья. Своё производство стройматериалов, собственный проектный институт.",
+    "Просмотры, консультации 24/7 в будни и выходные."
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль,ул. Шандорная",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 2900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 2900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 4700000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 6820000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-admiral/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-admiral/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-admiral/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-admiral/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-admiral/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-admiral/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-admiral/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-admiral/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-admiral/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-admiral/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-admiral/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-admiral/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-admiral/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-admiral/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/3be/93d5og50ojkidgn3zp4y7x9e9esh4nhp.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638145",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 36.7,
+      "price": 4961858,
+      "pricePerMeter": 135200,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-admiral/layout-4638145.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638501",
+      "room": "studio",
+      "roomLabel": "1 студия",
+      "area": 21.7,
+      "price": 3561335,
+      "pricePerMeter": 164117,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-admiral/layout-4638501.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638502",
+      "room": "studio",
+      "roomLabel": "1 студия",
+      "area": 21.3,
+      "price": 3548697,
+      "pricePerMeter": 166605,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-admiral/layout-4638502.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638653",
+      "room": "studio",
+      "roomLabel": "1 студия",
+      "area": 21.7,
+      "price": 3561713,
+      "pricePerMeter": 164134,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-admiral/layout-4638653-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-admiral/layout-4638653-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-admiral/layout-4638653-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-admiral/layout-4638653-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-admiral/layout-4638653-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638518",
+      "room": "1",
+      "roomLabel": "1 комнатная+",
+      "area": 39.2,
+      "price": 4954453,
+      "pricePerMeter": 126389,
+      "notes": []
+    },
+    {
+      "id": "4638148",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35,
+      "price": 4562765,
+      "pricePerMeter": 130365,
+      "notes": []
+    },
+    {
+      "id": "4638521",
+      "room": "1",
+      "roomLabel": "1 комнатная+",
+      "area": 35.1,
+      "price": 4569911,
+      "pricePerMeter": 130197,
+      "notes": []
+    },
+    {
+      "id": "4638996",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.2,
+      "price": 4859746,
+      "pricePerMeter": 123973,
+      "notes": []
+    },
+    {
+      "id": "4638999",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 17.5,
+      "price": 2982935,
+      "pricePerMeter": 170453,
+      "notes": []
+    },
+    {
+      "id": "4639000",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 21.7,
+      "price": 3696439,
+      "pricePerMeter": 170343,
+      "notes": []
+    },
+    {
+      "id": "4639001",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 21.3,
+      "price": 3628487,
+      "pricePerMeter": 170352,
+      "notes": []
+    },
+    {
+      "id": "4639002",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 34.1,
+      "price": 4953920,
+      "pricePerMeter": 145276,
+      "notes": []
+    },
+    {
+      "id": "4639005",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 29.3,
+      "price": 4750506,
+      "pricePerMeter": 162133,
+      "notes": []
+    },
+    {
+      "id": "4638496",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.8,
+      "price": 6423352,
+      "pricePerMeter": 121654,
+      "notes": []
+    },
+    {
+      "id": "4638504",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.2,
+      "price": 6274320,
+      "pricePerMeter": 122545,
+      "notes": []
+    },
+    {
+      "id": "4638652",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.81,
+      "price": 6423352,
+      "pricePerMeter": 121631,
+      "notes": []
+    },
+    {
+      "id": "4638656",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 51.2,
+      "price": 6274934,
+      "pricePerMeter": 122557,
+      "notes": []
+    },
+    {
+      "id": "4638523",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.8,
+      "price": 6423352,
+      "pricePerMeter": 121654,
+      "notes": []
+    },
+    {
+      "id": "4637674",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.81,
+      "price": 6423352,
+      "pricePerMeter": 121631,
+      "notes": []
+    },
+    {
+      "id": "4638499",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.8,
+      "price": 6666602,
+      "pricePerMeter": 126261,
+      "notes": []
+    },
+    {
+      "id": "4638505",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.8,
+      "price": 6420857,
+      "pricePerMeter": 121607,
+      "notes": []
+    },
+    {
+      "id": "4638508",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.8,
+      "price": 6423352,
+      "pricePerMeter": 121654,
+      "notes": []
+    },
+    {
+      "id": "4638997",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 48.4,
+      "price": 6010196,
+      "pricePerMeter": 124178,
+      "notes": []
+    },
+    {
+      "id": "4638998",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.8,
+      "price": 6019200,
+      "pricePerMeter": 114000,
+      "notes": []
+    },
+    {
+      "id": "4639003",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 56.5,
+      "price": 7251775,
+      "pricePerMeter": 128350,
+      "notes": []
+    },
+    {
+      "id": "4639004",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 55.6,
+      "price": 6961168,
+      "pricePerMeter": 125201,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-admiral/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

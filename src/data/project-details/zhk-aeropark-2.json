@@ -1,0 +1,596 @@
+{
+  "slug": "zhk-aeropark-2",
+  "title": "ЖК АЭРОПАРК 2",
+  "shortDescription": "Современный проект в центральной локации р-на",
+  "description": [
+    "Жилой комплекс \"Аэропарк\" стр.2",
+    "Сдача 2026 год",
+    "Стильный приватный комплекс из двух строений.",
+    "В продаже первое строение:",
+    "Характеристики дома :18 жилых этажей., два подъезда 412 жилых квартир.",
+    "Жилой дом с монолитным железобетонным каркасом; стены из блоков, кирпича, керамического камня, декоративная штукатурка.",
+    "Своя котельная - экономия на ком услугах.",
+    "Отделка «Под чистовую». Высота потолков 2.74-2.94 м. Балконы,лоджии из алюминиевого профиля с витражным остеклением. Отопительные приборы -биметаллические. Индивидуальные счетчики на х/г воду, электричество. Все поверхности выровнены, подготовлены под оклейку обоев и укладку напольного покрытия.",
+    "Благоустройство прилегающей к дому территории предполагает:тротуарные дорожки, игровой комплекс, физкультурная площадка , площадка для тихого отдыха . Ландшафтный дизайн. Недалеко от дома находятся 4 детских сада и школа. Перспективы карабулинской развязки.",
+    "Территория будет огороженна выделены парковочные зоны.",
+    "Срок ввода в эксплуатацию 1 кв 2025 года, используется проектное финансирование , ДДУ с использованием ЭСКРОУ-СЧЕТОВ",
+    "Застройщик ГК \"Фора\""
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Чернопрудная д.17",
+  "completionLabel": "3 кв 2026",
+  "completionDate": "2026-Q3",
+  "minimumPrice": 3900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 4450000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 6100000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-aeropark-2/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-aeropark-2/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-aeropark-2/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-aeropark-2/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-aeropark-2/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-aeropark-2/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-aeropark-2/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-aeropark-2/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-aeropark-2/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-aeropark-2/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-aeropark-2/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-aeropark-2/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/ece/iaz7wtejl7jfezu5ak2x0jxek0cs3m9i.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/efc/3pr0vzrxhb56290n0bwsijl5v6eo4wd2.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638832",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.75,
+      "price": 4364072,
+      "pricePerMeter": 122072,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-aeropark-2/layout-4638832-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638832-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638832-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638832-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638832-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638846",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.73,
+      "price": 4292091,
+      "pricePerMeter": 116855,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-aeropark-2/layout-4638846-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638846-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638846-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638846-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638846-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638851",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 27.44,
+      "price": 3864986,
+      "pricePerMeter": 140852,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-aeropark-2/layout-4638851-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638851-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638851-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638851-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638851-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638852",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 28.15,
+      "price": 3964991,
+      "pricePerMeter": 140852,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-aeropark-2/layout-4638852-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638852-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638852-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638852-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-aeropark-2/layout-4638852-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638857",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 39.66,
+      "price": 4593098,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638859",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.77,
+      "price": 4490025,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638860",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 29.29,
+      "price": 4125562,
+      "pricePerMeter": 140852,
+      "notes": []
+    },
+    {
+      "id": "4638861",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39,
+      "price": 4516662,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638922",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.66,
+      "price": 4708910,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638833",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 39.4,
+      "price": 4556975,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638835",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 40.98,
+      "price": 4739716,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638836",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 38.77,
+      "price": 4484109,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638837",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 53.24,
+      "price": 6054727,
+      "pricePerMeter": 113725,
+      "notes": []
+    },
+    {
+      "id": "4638838",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 38.51,
+      "price": 4454038,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638839",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 38.68,
+      "price": 4601520,
+      "pricePerMeter": 118964,
+      "notes": []
+    },
+    {
+      "id": "4638841",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 40.32,
+      "price": 4796621,
+      "pricePerMeter": 118964,
+      "notes": []
+    },
+    {
+      "id": "4638842",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 41.33,
+      "price": 4700260,
+      "pricePerMeter": 113725,
+      "notes": []
+    },
+    {
+      "id": "4638843",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.44,
+      "price": 6127886,
+      "pricePerMeter": 116855,
+      "notes": []
+    },
+    {
+      "id": "4638848",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 40.47,
+      "price": 4680730,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638849",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 52.59,
+      "price": 6145415,
+      "pricePerMeter": 116855,
+      "notes": []
+    },
+    {
+      "id": "4638920",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 47.66,
+      "price": 5512320,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638921",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 47.72,
+      "price": 5519260,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638854",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 59.35,
+      "price": 6873433,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638865",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 46.67,
+      "price": 5552041,
+      "pricePerMeter": 118964,
+      "notes": []
+    },
+    {
+      "id": "4638868",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 46.72,
+      "price": 5403600,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638866",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57.38,
+      "price": 6645284,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638867",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 59.53,
+      "price": 6894279,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638869",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 54.72,
+      "price": 6337224,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4639732",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 57.67,
+      "price": 6670069,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638834",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 84.04,
+      "price": 9557461,
+      "pricePerMeter": 113725,
+      "notes": []
+    },
+    {
+      "id": "4638840",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 62.47,
+      "price": 7225234,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638845",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 57.46,
+      "price": 6709074,
+      "pricePerMeter": 116761,
+      "notes": []
+    },
+    {
+      "id": "4638847",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 61.56,
+      "price": 7193606,
+      "pricePerMeter": 116855,
+      "notes": []
+    },
+    {
+      "id": "4638919",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 85.27,
+      "price": 9697343,
+      "pricePerMeter": 113725,
+      "notes": []
+    },
+    {
+      "id": "4638850",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 53.27,
+      "price": 6169297,
+      "pricePerMeter": 115812,
+      "notes": []
+    },
+    {
+      "id": "4638853",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 58.11,
+      "price": 6720959,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638855",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 56.76,
+      "price": 6632701,
+      "pricePerMeter": 116855,
+      "notes": []
+    },
+    {
+      "id": "4638862",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 59.22,
+      "price": 6849341,
+      "pricePerMeter": 115659,
+      "notes": []
+    },
+    {
+      "id": "4638863",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 52.29,
+      "price": 6110358,
+      "pricePerMeter": 116855,
+      "notes": []
+    },
+    {
+      "id": "4638864",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 58.39,
+      "price": 6753344,
+      "pricePerMeter": 115659,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-aeropark-2/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

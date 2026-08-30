@@ -1,11 +1,9 @@
 import { ExternalLink, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import { useState } from "react";
 import { LeadDialog } from "../../components/LeadDialog/LeadDialog";
-import companySource from "../../data/company.json";
-import { companyDataSchema } from "../../features/company/company.types";
+import { companyData as company } from "../../features/company/company-data";
 import styles from "./ContactsPage.module.css";
 
-const company = companyDataSchema.parse(companySource);
 const mapQuery = encodeURIComponent("Ярославль, Победы 38/27, офис 501");
 const mapUrl = `https://yandex.ru/maps/?text=${mapQuery}`;
 

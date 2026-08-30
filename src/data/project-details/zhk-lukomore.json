@@ -1,0 +1,349 @@
+{
+  "slug": "zhk-lukomore",
+  "title": "ЖК Лукоморье",
+  "shortDescription": "Кирпичный дом с индивидуальным газовым отоплением.",
+  "description": [
+    "Жилой комплекс \"Лукоморье\" от ООО СЗ КЛУБНАЯ в Ярославле — это строящийся многоквартирный дом комфорт-класса.",
+    "Приватный малоквартирный дом из 3-х этажей., двух подъездов.",
+    "В проекте предусмотрено 42 квартиры: 30 однокомнатных, 6 двухкомнатных и 6 трёхкомнатных. 43 кладовых помещений.",
+    "Общая жилая площадь составляет 2 032 квадратных метра. Материал стен — монолит-кирпич, максимальная этажность — 3 жилых этажа.",
+    "Индивидуальное газовое отопление.",
+    "Отделка - пред чистовая: окна и оконная дверь ПВХ; полы стяжка; стены-штукатурка, шпаклёвка; сантехническое оборудование -разводка коммуникаций, радиаторы отопления, счётчики, устройство внутреннего пожара тушения; электрика-электро выключатели, розетки; газ-плита газовая, двух контурный котёл, счётчик газовый бытовой, извещатель автономный дымовой, клапан газовый терма запорный; сигнализатор загазованности.",
+    "Расположен в 10 минутах езды от Центра, рядом остановка с хорошей транспортной развязкой, детский сад , школа , рядом Зелёный Бор и Прусовские карьеры, 5 минут на авто до Тверицкого пляжа, все сетевые магазины, аптеки, ТИХО, ЭКОЛОГИЧНО, УДОБНО!!!"
+  ],
+  "district": "Заволжский",
+  "address": "Ярославль, Клубной , 3 больничной,2 ляпинской",
+  "completionLabel": "2 кв 2027",
+  "completionDate": "2027-Q2",
+  "minimumPrice": 3200000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3200000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 6500000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-lukomore/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-lukomore/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-lukomore/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-lukomore/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-lukomore/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-lukomore/gallery-001.webp",
+      "variants": []
+    },
+    {
+      "src": "/media/projects/zhk-lukomore/gallery-002.webp",
+      "variants": []
+    },
+    {
+      "src": "/media/projects/zhk-lukomore/gallery-003.webp",
+      "variants": []
+    },
+    {
+      "src": "/media/projects/zhk-lukomore/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-lukomore/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-lukomore/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-lukomore/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-lukomore/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/947/twy00nx1jsirca47nosfdpdh9wn6pcud.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/579/kz8979ybwcdb48e3fauqo7cukinu343v.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проект ДДУ",
+      "url": "https://офиспродаж76.рф/upload/iblock/e49/qx8zpm7u16xsn1snflxnk896stgfwh34.docx",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639637",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.4,
+      "price": 3291200,
+      "pricePerMeter": 88000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-lukomore/layout-4639637-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639637-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639637-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639637-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639637-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639631",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 46.3,
+      "price": 4074400,
+      "pricePerMeter": 88000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-lukomore/layout-4639631-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639631-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639631-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639631-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639631-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639633",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 44.5,
+      "price": 3916000,
+      "pricePerMeter": 88000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-lukomore/layout-4639633-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639633-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639633-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639633-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639633-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639636",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 41.1,
+      "price": 3616800,
+      "pricePerMeter": 88000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-lukomore/layout-4639636-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639636-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639636-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639636-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-lukomore/layout-4639636-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639638",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.4,
+      "price": 3291200,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639639",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 42.5,
+      "price": 3740000,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639640",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.3,
+      "price": 3546400,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639641",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 40.3,
+      "price": 3546400,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639642",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 41.1,
+      "price": 3616800,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639644",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.8,
+      "price": 3414000,
+      "pricePerMeter": 87990,
+      "notes": []
+    },
+    {
+      "id": "4639634",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 64.5,
+      "price": 5676000,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639643",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57.7,
+      "price": 5077600,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639632",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 69.9,
+      "price": 6151200,
+      "pricePerMeter": 88000,
+      "notes": []
+    },
+    {
+      "id": "4639635",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 74.6,
+      "price": 6564800,
+      "pricePerMeter": 88000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-lukomore/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

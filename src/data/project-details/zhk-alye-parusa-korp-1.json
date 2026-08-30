@@ -1,0 +1,330 @@
+{
+  "slug": "zhk-alye-parusa-korp-1",
+  "title": "ЖК Алые паруса корп 1",
+  "shortDescription": "Современный комплекс рядом с парковой зоной. Использование счетов ЭСКРОУ, от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Алые паруса\" стр 1",
+    "Ул. Красноборская д. 38 корп 1",
+    "Представлено первое строение жилой двух подъездный дом из 208 квартир, этажностью 21 этажей , на подъезд предусмотрено два лифта.",
+    "Отделка предусматривает: стены-штукатурка, потолки-ж.б плита без окраски, полы-полусухая цементно-песочная стяжка, электропроводка с розетками и выключателями, отопление-радиаторы, водоснабжение- стояки с приборами учёта, окна ПВХ, входные двери.",
+    "Придомовая территория: будут созданы максимально комфортные условия для жителей квартала. Во дворе будут построены детские площадки, спортивные площадки, зоны для отдыха. На первых этажах коммерческие помещения .",
+    "Инфраструктура: Парковая зелёная зона, детские сады, школы, остановочные комплексы, поликлиника, все сетевые магазины, в километре гипермаркет \"Глобус\", кафе, салоны красоты, фитнес центры всё необходимое для жизни и отдыха в сочетании с самым экологичным районом и одной из самых экологически благоприятных частей Заволжского р-на граничащая с сосновым бором.",
+    "Застройщик: ГСК \"МЕДИК\" строительная компания основана в 2008 году, за это время заработала безупречную репутацию благодаря качеству строительства и своевременному вводу в эксплуатацию более десятка многоквартирных домов.",
+    "Консультации 24/7 Скидки!"
+  ],
+  "district": "Заволжский",
+  "address": "г Ярославль, ул. Красноборская 38.к 1",
+  "completionLabel": "2 кв 2028",
+  "completionDate": "2028-Q2",
+  "minimumPrice": 4140000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4140000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6140000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8860000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-alye-parusa-korp-1/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-alye-parusa-korp-1/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-korp-1/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-korp-1/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-korp-1/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-korp-1/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-alye-parusa-korp-1/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-alye-parusa-korp-1/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-alye-parusa-korp-1/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-alye-parusa-korp-1/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-alye-parusa-korp-1/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/abc/kskpyuq73mz70b6e3ugqeoedp282bc4b.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/a6c/wreigu20u8ubzil4kalxvnbdg9dbqkh4.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "схема стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/959/cafa3f8m71dmk1kfv73i85k1qp7pzz8d.jpg",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639286",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.1,
+      "price": 4267200,
+      "pricePerMeter": 112000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-korp-1/layout-4639286-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639286-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639286-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639287",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37,
+      "price": 4144000,
+      "pricePerMeter": 112000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-korp-1/layout-4639287-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639287-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639287-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639292",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.1,
+      "price": 4267200,
+      "pricePerMeter": 112000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-korp-1/layout-4639286-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639286-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639286-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639293",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37,
+      "price": 4144000,
+      "pricePerMeter": 112000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-alye-parusa-korp-1/layout-4639287-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639287-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-alye-parusa-korp-1/layout-4639287-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639285",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58.49,
+      "price": 6141450,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639288",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57.32,
+      "price": 6018600,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639289",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 71.15,
+      "price": 7257300,
+      "pricePerMeter": 102000,
+      "notes": []
+    },
+    {
+      "id": "4639291",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 58.49,
+      "price": 6141450,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639294",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 57.32,
+      "price": 6018600,
+      "pricePerMeter": 105000,
+      "notes": []
+    },
+    {
+      "id": "4639295",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 71.15,
+      "price": 7257300,
+      "pricePerMeter": 102000,
+      "notes": []
+    },
+    {
+      "id": "4639284",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 88.8,
+      "price": 8880000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639290",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 88.8,
+      "price": 9057600,
+      "pricePerMeter": 102000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-alye-parusa-korp-1/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -42,7 +42,7 @@ describe("FavoritesPage", () => {
 
     render(<MemoryRouter><FavoritesPage /></MemoryRouter>);
     const card = screen.getByRole("article");
-    expect(within(card).getByRole("heading", { name: project.title })).toBeVisible();
+    expect(within(card).getByRole("heading", { level: 2, name: project.title })).toBeVisible();
   });
 
   it("removes a project immediately from the favorites page", async () => {

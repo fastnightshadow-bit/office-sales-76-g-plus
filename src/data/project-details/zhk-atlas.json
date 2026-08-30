@@ -1,0 +1,341 @@
+{
+  "slug": "zhk-atlas",
+  "title": "ЖК Атлас",
+  "shortDescription": "Клубный дом Атлас - отделка \"под ключ\"индивидуальное газовое отопление, технологии \"умный дом\"",
+  "description": [
+    "ЖК \"Атлас\" - ул. Ильинский пер д. 20 сдача 3 кв.2027 года.",
+    "Клубный комплекс комфорт класса, квартиры с отделкой.",
+    "Монолитно-кирпичный (монолитно каркасная технология с-тва), эстетичный фасад из керамогранита с высококачественной декоративной штукатуркой, панорамное остеклением лоджиий, карзинки для кондиционеров в едином стиле.",
+    "Индивидуальное газовое отопление.",
+    "9-ть жилых эт, 2 подъезда, 106 жилых квартиры, 2.7 м высота потолков, 110 гостевых парковочных мест.",
+    "Отделка \"Под Ключ\": полы - ламинат; флизелиновые обои под покраску; с\\у керамическая плитка; сантехника; электрика; панорамное остекление лоджий; межкомнатные,входные двери; приборы учёта.",
+    "Улучшенная отделка подъездов, современные технологии - \"Умный Дом\", безбарьерная среда, колясочные, лапомойки, Face ID, видеонаблюдение.",
+    "Благоустройство территории предусматривает современную спортивную и детскую площадки, озеленение с зонами для отдыха, парковки для авто .",
+    "Удобная локация - школы № 21,91,23; садики № 99,25,98,35,58; больница № 2; ТЦ; сетевые магазины; аквапарк; ФОК \"Локомотив\"; остановка о.т рядом,с верхних этажей вид на Волгу.",
+    "Консультации по объекту 24/7."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Ильинская 20",
+  "completionLabel": "3 кв /2027",
+  "completionDate": "2027-Q3",
+  "minimumPrice": 4100000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4100000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 6700000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-atlas/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-atlas/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-atlas/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-atlas/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-atlas/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-atlas/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-atlas/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-atlas/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atlas/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-atlas/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atlas/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-atlas/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atlas/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-atlas/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-atlas/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-atlas/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/134/yqj62mnnj9liji93b5b6b33mm3sl5eev.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/7dd/dooz1rod0ludykro864vfwu3mjse5hud.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639022",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.06,
+      "price": 4110480,
+      "pricePerMeter": 108000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atlas/layout-4639022.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639013",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 38.78,
+      "price": 5041400,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atlas/layout-4639013.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639019",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.24,
+      "price": 4316400,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atlas/layout-4639019.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639020",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37.77,
+      "price": 4947870,
+      "pricePerMeter": 131000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-atlas/layout-4639020.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639021",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39.73,
+      "price": 4410030,
+      "pricePerMeter": 111000,
+      "notes": []
+    },
+    {
+      "id": "4639023",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.11,
+      "price": 4192100,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639024",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38.85,
+      "price": 4195800,
+      "pricePerMeter": 108000,
+      "notes": []
+    },
+    {
+      "id": "4639012",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 58.14,
+      "price": 7383780,
+      "pricePerMeter": 127000,
+      "notes": []
+    },
+    {
+      "id": "4639010",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 64.15,
+      "price": 8147050,
+      "pricePerMeter": 127000,
+      "notes": []
+    },
+    {
+      "id": "4639011",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 61.06,
+      "price": 7876740,
+      "pricePerMeter": 129000,
+      "notes": []
+    },
+    {
+      "id": "4639014",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 62.75,
+      "price": 6714250,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4639015",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 67.18,
+      "price": 7322620,
+      "pricePerMeter": 109000,
+      "notes": []
+    },
+    {
+      "id": "4639016",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 63.84,
+      "price": 6830880,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4639017",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 66.66,
+      "price": 7265940,
+      "pricePerMeter": 109000,
+      "notes": []
+    },
+    {
+      "id": "4639018",
+      "room": "2",
+      "roomLabel": "2+ евро",
+      "area": 65.87,
+      "price": 7179830,
+      "pricePerMeter": 109000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-atlas/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -1,0 +1,324 @@
+{
+  "slug": "zhk-granat",
+  "title": "ЖК ГРАНАТ",
+  "shortDescription": "Кирпичный дом с индивидуальным отоплением в микрорайоне «Яблоневый посад». Консультации будни и выходные 24/7",
+  "description": [
+    "ЖД \"ГРАНАТ\"",
+    "Современный проект Комфорт класса с выразительной кирпичной архитектурой. Индивидуальное газовое отопление(двух контурный котёл)",
+    "9 жилых этажей, 2-ва подъезда, 133 квартиры,78 кладовых помещений(в цокале), колясочные, лапомойки, детская игровая внутри дома.",
+    "Отделка предчистовая(white-box) - полная подготовка под ремонт(выровнены все поверхности, электрика, разводка сантехники, остекление лоджий, газовая плита, двух контурный котёл, счётчики-вода, свет, газ, высота потолков 3 м.",
+    "Инфраструктура - в пешей доступности новый детский сад «Яблочко», строится школа, множество спортивных площадок, сетевые магазины, фитнес центры, зелёная зона(Павловский парк),поликлиники, остановки.",
+    "Застройщик - группа компаний Менгель 12 лет в сфере жилого строительства 7-мь качественных во время реализованных проектов.",
+    "Инвест предложение на первые 15 квартир.",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, 2 брагинский",
+  "completionLabel": "4 кв 2028",
+  "completionDate": "2028-Q4",
+  "minimumPrice": 3500000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3500000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5500000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 7400000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-granat/cover-480.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-granat/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-granat/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-granat/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-granat/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-granat/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-granat/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-granat/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-granat/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-granat/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-granat/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-granat/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Смотреть презентацию ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/032/34c2mfwdlrg1hbvigvir216gfi9fsj92.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "презентация",
+      "url": "https://офиспродаж76.рф/upload/iblock/d29/pfw4ucfowycxy0jeyguya4wna8qevlks.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разр на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/062/1ecx792e4qr0io2mzkpw9tnxr9igs4jg.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проект. Дек-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/08d/mi1xouonhimjjvd389q1kuragcy9062u.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639455",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 35.08,
+      "price": 4560400,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-granat/layout-4639455.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639456",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 34.79,
+      "price": 4522700,
+      "pricePerMeter": 130000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-granat/layout-4639456.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639461",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 42.59,
+      "price": 4684900,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-granat/layout-4639461.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639462",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 42.2,
+      "price": 4642000,
+      "pricePerMeter": 110000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-granat/layout-4639462.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639464",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 41.16,
+      "price": 4527600,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639450",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 62.39,
+      "price": 6675730,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4639453",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 62.94,
+      "price": 6734580,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4639454",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 54.95,
+      "price": 6594000,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4639458",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 62.57,
+      "price": 6257000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639459",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 59.73,
+      "price": 6570300,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4639460",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 77.06,
+      "price": 7706000,
+      "pricePerMeter": 100000,
+      "notes": []
+    },
+    {
+      "id": "4639463",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 53.69,
+      "price": 6442800,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4639451",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 77.74,
+      "price": 8318180,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4639457",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 80.13,
+      "price": 8573930,
+      "pricePerMeter": 107000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-granat/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

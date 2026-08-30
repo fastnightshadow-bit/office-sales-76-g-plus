@@ -1,0 +1,978 @@
+{
+  "slug": "zhk-russkaya-sloboda",
+  "title": "ЖК«Русская Слобода»",
+  "shortDescription": "Ультра современный клубный квартал бизнес класса.",
+  "description": [
+    "ЖК «Русская Слобода» в Ярославле от СЗ «АЛЬТЕРНАТИВА» — это строящийся квартал с концепцией \"Город в городе\" бизнес-класса. Будет состоять из трёх жилых строений, школа, два детских сада, кафе, магазины, рестораны.",
+    "Эксклюзивный яркий проект с Авторской архитектурой современным обустройством приватной комфортной средой насыщенной множеством объектов собственной инфраструктуры.",
+    "Первое строение - ЖК \"Большая Медведица\"",
+    "В комплексе будет 561 квартира: 322 однокомнатных, 164 двухкомнатных и 75 трёхкомнатных. Общая жилая площадь — 35 266 кв. м. Стены дома будут возведены из монолитного кирпича. Максимальная этажность — 9 этажей. Завершение строительства запланировано на 1 кв. 2029. В комплексе также предусмотрено 991 нежилое помещение. Продуманные планировочные решения и высокое качество строительства обеспечат комфорт проживания.",
+    "Благоустройство",
+    "В жилом комплексе созданы все условия для комфортной жизни. Для удобства передвижения предусмотрены велосипедные дорожки. Для детей оборудованы две современные игровые площадки, где малыши смогут весело и безопасно проводить время. Для любителей активного образа жизни обустроено три спортивные площадки. Понижающие площадки обеспечивают доступность среды для всех жителей. Площадки для мусорных контейнеров расположены удобно для эксплуатации. Для автовладельцев предусмотрено 76 гостевых машиномест и 344 парковочных места.",
+    "Архитектура",
+    "Жилой комплекс представляет собой многоквартирный дом с 14 подъездами. Максимальная этажность здания — 9 этажей, минимальная — 7 этажей. Стены здания выполнены из монолитного кирпича, что обеспечивает высокую прочность и теплоизоляцию. Класс энергоэффективности комплекса — A++.",
+    "О застройщике",
+    "Застройщик ООО СЗ АЛЬТЕРНАТИВА специализируется на объектах класса «Комфорт». Автор популярного инновационного проекта в г Калининград \" Русская Европа\"",
+    "Консультации по проекту 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "13 мкр. ра-он",
+  "completionLabel": "1 кв 2029",
+  "completionDate": "2029-Q1",
+  "minimumPrice": 4600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4600000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 9000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 16000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-russkaya-sloboda/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-russkaya-sloboda/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-russkaya-sloboda/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-russkaya-sloboda/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-russkaya-sloboda/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-russkaya-sloboda/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-russkaya-sloboda/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-russkaya-sloboda/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Смотреть презентацию ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/6a0/5z5mkzwpv93hixhn16m6ywrjy2acn8u3.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/856/pfrfrgv2helh1dhx5xm3f6qyp2m9lp1i.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/cc3/kmc5dg8qate5g8l4xix1ot9t7r3nao5u.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639757",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23,
+      "price": 4176000,
+      "pricePerMeter": 181565,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-russkaya-sloboda/layout-4639757-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639757-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639757-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639757-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639757-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639780",
+      "room": "studio",
+      "roomLabel": "студитя",
+      "area": 22,
+      "price": 4674000,
+      "pricePerMeter": 212455,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-russkaya-sloboda/layout-4639780-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639780-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639780-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639780-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639780-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639724",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 39,
+      "price": 7429000,
+      "pricePerMeter": 190487,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-russkaya-sloboda/layout-4639724-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639724-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639724-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639724-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639724-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639727",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38,
+      "price": 7600000,
+      "pricePerMeter": 200000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-russkaya-sloboda/layout-4639727-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639727-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639727-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639727-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-russkaya-sloboda/layout-4639727-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639429",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37,
+      "price": 7580000,
+      "pricePerMeter": 204865,
+      "notes": []
+    },
+    {
+      "id": "4639434",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 43,
+      "price": 8284000,
+      "pricePerMeter": 192651,
+      "notes": []
+    },
+    {
+      "id": "4639728",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37,
+      "price": 7182000,
+      "pricePerMeter": 194108,
+      "notes": []
+    },
+    {
+      "id": "4639734",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 42,
+      "price": 8075000,
+      "pricePerMeter": 192262,
+      "notes": []
+    },
+    {
+      "id": "4639738",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30,
+      "price": 6660000,
+      "pricePerMeter": 222000,
+      "notes": []
+    },
+    {
+      "id": "4639740",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 45,
+      "price": 8550000,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639745",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 46,
+      "price": 8816000,
+      "pricePerMeter": 191652,
+      "notes": []
+    },
+    {
+      "id": "4639750",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 30,
+      "price": 6020000,
+      "pricePerMeter": 200667,
+      "notes": []
+    },
+    {
+      "id": "4639751",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 45,
+      "price": 8702000,
+      "pricePerMeter": 193378,
+      "notes": []
+    },
+    {
+      "id": "4639755",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 45,
+      "price": 8702000,
+      "pricePerMeter": 193378,
+      "notes": []
+    },
+    {
+      "id": "4639756",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23,
+      "price": 4804000,
+      "pricePerMeter": 208870,
+      "notes": []
+    },
+    {
+      "id": "4639758",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 46,
+      "price": 8759000,
+      "pricePerMeter": 190413,
+      "notes": []
+    },
+    {
+      "id": "4639760",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 45,
+      "price": 5588000,
+      "pricePerMeter": 124178,
+      "notes": []
+    },
+    {
+      "id": "4639761",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 25,
+      "price": 5313000,
+      "pricePerMeter": 212520,
+      "notes": []
+    },
+    {
+      "id": "4639765",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37,
+      "price": 7163000,
+      "pricePerMeter": 193595,
+      "notes": []
+    },
+    {
+      "id": "4639766",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36,
+      "price": 6954000,
+      "pricePerMeter": 193167,
+      "notes": []
+    },
+    {
+      "id": "4639767",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 31,
+      "price": 6061000,
+      "pricePerMeter": 195516,
+      "notes": []
+    },
+    {
+      "id": "4639770",
+      "room": "1",
+      "roomLabel": "1 евро +",
+      "area": 49,
+      "price": 9424000,
+      "pricePerMeter": 192327,
+      "notes": []
+    },
+    {
+      "id": "4639772",
+      "room": "1",
+      "roomLabel": "1 евро +",
+      "area": 50,
+      "price": 9519000,
+      "pricePerMeter": 190380,
+      "notes": []
+    },
+    {
+      "id": "4639776",
+      "room": "1",
+      "roomLabel": "1 евро +",
+      "area": 43,
+      "price": 8208000,
+      "pricePerMeter": 190884,
+      "notes": []
+    },
+    {
+      "id": "4639779",
+      "room": "studio",
+      "roomLabel": "студитя",
+      "area": 22,
+      "price": 4674000,
+      "pricePerMeter": 212455,
+      "notes": []
+    },
+    {
+      "id": "4639781",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 45,
+      "price": 8721000,
+      "pricePerMeter": 193800,
+      "notes": []
+    },
+    {
+      "id": "4639782",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 25,
+      "price": 5250000,
+      "pricePerMeter": 210000,
+      "notes": []
+    },
+    {
+      "id": "4639783",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 25,
+      "price": 5271000,
+      "pricePerMeter": 210840,
+      "notes": []
+    },
+    {
+      "id": "4639784",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 25,
+      "price": 5250000,
+      "pricePerMeter": 210000,
+      "notes": []
+    },
+    {
+      "id": "4639786",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 26,
+      "price": 5523000,
+      "pricePerMeter": 212423,
+      "notes": []
+    },
+    {
+      "id": "4639787",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 25,
+      "price": 5313000,
+      "pricePerMeter": 212520,
+      "notes": []
+    },
+    {
+      "id": "4639788",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 47,
+      "price": 9044000,
+      "pricePerMeter": 192426,
+      "notes": []
+    },
+    {
+      "id": "4639789",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 25,
+      "price": 5283600,
+      "pricePerMeter": 211344,
+      "notes": []
+    },
+    {
+      "id": "4639790",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 46,
+      "price": 8759000,
+      "pricePerMeter": 190413,
+      "notes": []
+    },
+    {
+      "id": "4639794",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 37,
+      "price": 7182000,
+      "pricePerMeter": 194108,
+      "notes": []
+    },
+    {
+      "id": "4639795",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 38,
+      "price": 7353000,
+      "pricePerMeter": 193500,
+      "notes": []
+    },
+    {
+      "id": "4639798",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 42,
+      "price": 8132000,
+      "pricePerMeter": 193619,
+      "notes": []
+    },
+    {
+      "id": "4639799",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 48,
+      "price": 9196000,
+      "pricePerMeter": 191583,
+      "notes": []
+    },
+    {
+      "id": "4639722",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 87,
+      "price": 15714000,
+      "pricePerMeter": 180621,
+      "notes": []
+    },
+    {
+      "id": "4639723",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 52,
+      "price": 9937000,
+      "pricePerMeter": 191096,
+      "notes": []
+    },
+    {
+      "id": "4639725",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 73,
+      "price": 13560500,
+      "pricePerMeter": 185760,
+      "notes": []
+    },
+    {
+      "id": "4639726",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 80,
+      "price": 14855500,
+      "pricePerMeter": 185694,
+      "notes": []
+    },
+    {
+      "id": "4639729",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 77,
+      "price": 14300500,
+      "pricePerMeter": 185721,
+      "notes": []
+    },
+    {
+      "id": "4639730",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 77,
+      "price": 14263500,
+      "pricePerMeter": 185240,
+      "notes": []
+    },
+    {
+      "id": "4639731",
+      "room": "1",
+      "roomLabel": "1 комнатная +",
+      "area": 53,
+      "price": 10070000,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639733",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 78,
+      "price": 14578000,
+      "pricePerMeter": 186897,
+      "notes": []
+    },
+    {
+      "id": "4639735",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 80,
+      "price": 14929500,
+      "pricePerMeter": 186619,
+      "notes": []
+    },
+    {
+      "id": "4639736",
+      "room": "2",
+      "roomLabel": "2 комнатная +",
+      "area": 94,
+      "price": 16956000,
+      "pricePerMeter": 180383,
+      "notes": []
+    },
+    {
+      "id": "4639739",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 45,
+      "price": 8550000,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639741",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 62,
+      "price": 11470000,
+      "pricePerMeter": 185000,
+      "notes": []
+    },
+    {
+      "id": "4639742",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 75,
+      "price": 13949000,
+      "pricePerMeter": 185987,
+      "notes": []
+    },
+    {
+      "id": "4639743",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 77,
+      "price": 14263500,
+      "pricePerMeter": 185240,
+      "notes": []
+    },
+    {
+      "id": "4639744",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 46,
+      "price": 8816000,
+      "pricePerMeter": 191652,
+      "notes": []
+    },
+    {
+      "id": "4639748",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 59,
+      "price": 11210000,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639749",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 53,
+      "price": 10241000,
+      "pricePerMeter": 193226,
+      "notes": []
+    },
+    {
+      "id": "4639759",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 75,
+      "price": 13986000,
+      "pricePerMeter": 186480,
+      "notes": []
+    },
+    {
+      "id": "4639762",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 45,
+      "price": 8569000,
+      "pricePerMeter": 190422,
+      "notes": []
+    },
+    {
+      "id": "4639764",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 69,
+      "price": 12765000,
+      "pricePerMeter": 185000,
+      "notes": []
+    },
+    {
+      "id": "4639768",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 66,
+      "price": 12321000,
+      "pricePerMeter": 186682,
+      "notes": []
+    },
+    {
+      "id": "4639769",
+      "room": "1",
+      "roomLabel": "1 евро +",
+      "area": 52,
+      "price": 9975000,
+      "pricePerMeter": 191827,
+      "notes": []
+    },
+    {
+      "id": "4639771",
+      "room": "1",
+      "roomLabel": "1 евро +",
+      "area": 51,
+      "price": 9709000,
+      "pricePerMeter": 190373,
+      "notes": []
+    },
+    {
+      "id": "4639773",
+      "room": "1",
+      "roomLabel": "1 евро +",
+      "area": 53,
+      "price": 10089000,
+      "pricePerMeter": 190358,
+      "notes": []
+    },
+    {
+      "id": "4639775",
+      "room": "2",
+      "roomLabel": "2 евро +",
+      "area": 77,
+      "price": 14411500,
+      "pricePerMeter": 187162,
+      "notes": []
+    },
+    {
+      "id": "4639777",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 66,
+      "price": 12302500,
+      "pricePerMeter": 186402,
+      "notes": []
+    },
+    {
+      "id": "4639778",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 50,
+      "price": 9614000,
+      "pricePerMeter": 192280,
+      "notes": []
+    },
+    {
+      "id": "4639785",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 52,
+      "price": 9918000,
+      "pricePerMeter": 190731,
+      "notes": []
+    },
+    {
+      "id": "4639792",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 53,
+      "price": 10203000,
+      "pricePerMeter": 192509,
+      "notes": []
+    },
+    {
+      "id": "4639793",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 65,
+      "price": 12025000,
+      "pricePerMeter": 185000,
+      "notes": []
+    },
+    {
+      "id": "4639796",
+      "room": "2",
+      "roomLabel": "2 комнатная евро +",
+      "area": 78,
+      "price": 14514000,
+      "pricePerMeter": 186077,
+      "notes": []
+    },
+    {
+      "id": "4639797",
+      "room": "1",
+      "roomLabel": "1 комнатная евро +",
+      "area": 52,
+      "price": 9994000,
+      "pricePerMeter": 192192,
+      "notes": []
+    },
+    {
+      "id": "4639447",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 127,
+      "price": 22878000,
+      "pricePerMeter": 180142,
+      "notes": []
+    },
+    {
+      "id": "4639737",
+      "room": "3",
+      "roomLabel": "3 комнатная +",
+      "area": 108,
+      "price": 19548000,
+      "pricePerMeter": 181000,
+      "notes": []
+    },
+    {
+      "id": "4639746",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 95,
+      "price": 17118000,
+      "pricePerMeter": 180189,
+      "notes": []
+    },
+    {
+      "id": "4639747",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 111,
+      "price": 20016000,
+      "pricePerMeter": 180324,
+      "notes": []
+    },
+    {
+      "id": "4639752",
+      "room": "2",
+      "roomLabel": "2 + евро",
+      "area": 87,
+      "price": 15822000,
+      "pricePerMeter": 181862,
+      "notes": []
+    },
+    {
+      "id": "4639753",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 96,
+      "price": 17442000,
+      "pricePerMeter": 181688,
+      "notes": []
+    },
+    {
+      "id": "4639754",
+      "room": "3",
+      "roomLabel": "3 + евро",
+      "area": 110,
+      "price": 21000000,
+      "pricePerMeter": 190909,
+      "notes": []
+    },
+    {
+      "id": "4639763",
+      "room": "3",
+      "roomLabel": "3 комнатная евро +",
+      "area": 93,
+      "price": 16740000,
+      "pricePerMeter": 180000,
+      "notes": []
+    },
+    {
+      "id": "4639774",
+      "room": "2",
+      "roomLabel": "2 евро +",
+      "area": 90,
+      "price": 16308000,
+      "pricePerMeter": 181200,
+      "notes": []
+    },
+    {
+      "id": "4639791",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 95,
+      "price": 17154000,
+      "pricePerMeter": 180568,
+      "notes": []
+    },
+    {
+      "id": "4639800",
+      "room": "3",
+      "roomLabel": "3 комнатная евро +",
+      "area": 98,
+      "price": 17766000,
+      "pricePerMeter": 181286,
+      "notes": []
+    },
+    {
+      "id": "4639801",
+      "room": "3",
+      "roomLabel": "3 комнатная евро +",
+      "area": 99,
+      "price": 17874000,
+      "pricePerMeter": 180545,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-russkaya-sloboda/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

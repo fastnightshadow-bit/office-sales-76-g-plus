@@ -1,0 +1,604 @@
+{
+  "slug": "zhk-melodiya-lesa",
+  "title": "ЖК \"Мелодия леса\"",
+  "shortDescription": "Современный проект в удобной локации.Эскроу счета, 100% безопасность вложений.",
+  "description": [
+    "ЖК \"Мелодия леса\" сдача 3 кв.2026 года.",
+    "г. Ярославль (микр.р-н \"Сокол\")",
+    "Централизованное отопление, электроплиты.",
+    "Комплекс из двух монолитно-кирпичных домов - первый 12 эт 5-ть подъездов 390 квартир; второй одноподъездная свечка 77 квартир.",
+    "Современные мопы с общими колясочными, сквозные подъезды с качественной долговечной отделкой.",
+    "Отделка предчистовая(подготовка под ремонт косметику)",
+    "Благоустройство территории предусматривает современную спортивную и детская площадки.",
+    "Расположен в новом микр.р-не рядом Школа №91, садик, больницы, ТЦ, сетевые магазины, остановка о.т рядом,небольшая отдалённость от центра, граничит с зелёной зоной.",
+    "Надёжный федеральный Застройщик, эскроу счета, продажи по ДДУ, Ипотека от 6%.",
+    "ООО Ваш Выбор - официальный партнёр по продажам квартир от Застройщика."
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Чернопрудная 35а",
+  "completionLabel": "2 кв /2026",
+  "completionDate": "2026-Q2",
+  "minimumPrice": 3000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-melodiya-lesa/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-melodiya-lesa/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-melodiya-lesa/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-melodiya-lesa/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-melodiya-lesa/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-melodiya-lesa/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-melodiya-lesa/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-melodiya-lesa/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-melodiya-lesa/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-melodiya-lesa/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-melodiya-lesa/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "П.Д бурмакинская 12 эт",
+      "url": "https://офиспродаж76.рф/upload/iblock/3a9/yg3fq7us1bdcsrkydvhnveg9xepkczh7.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Р-е на стр.(бурмак) 12 эт",
+      "url": "https://офиспродаж76.рф/upload/iblock/d77/52tlejt74unkcdewfk501xzall02robw.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "П.Д (Чернопр) 9 эт",
+      "url": "https://офиспродаж76.рф/upload/iblock/eb0/2pgmmvdzuvf7qxgewq037rdp178du8wr.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Р-е на стр 9 эт",
+      "url": "https://офиспродаж76.рф/upload/iblock/ad2/fv4ea6xy8e65p1kc6qo8wq35m0tey2hc.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638087",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23.4,
+      "price": 3036407,
+      "pricePerMeter": 129761,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-melodiya-lesa/layout-4638087.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638123",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.3,
+      "price": 4036000,
+      "pricePerMeter": 114334,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-melodiya-lesa/layout-4638123-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-melodiya-lesa/layout-4638123-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-melodiya-lesa/layout-4638123-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638090",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.5,
+      "price": 4697550,
+      "pricePerMeter": 110531,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-melodiya-lesa/layout-4638090-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-melodiya-lesa/layout-4638090-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-melodiya-lesa/layout-4638090-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4638091",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.4,
+      "price": 4428249,
+      "pricePerMeter": 109610,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-melodiya-lesa/layout-4638091.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638092",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.8,
+      "price": 4559027,
+      "pricePerMeter": 106519,
+      "notes": []
+    },
+    {
+      "id": "4638093",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 47.8,
+      "price": 4856762,
+      "pricePerMeter": 101606,
+      "notes": []
+    },
+    {
+      "id": "4638095",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41,
+      "price": 4575045,
+      "pricePerMeter": 111586,
+      "notes": []
+    },
+    {
+      "id": "4638096",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 46.7,
+      "price": 4931800,
+      "pricePerMeter": 105606,
+      "notes": []
+    },
+    {
+      "id": "4638098",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.6,
+      "price": 4640498,
+      "pricePerMeter": 114298,
+      "notes": []
+    },
+    {
+      "id": "4638099",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.9,
+      "price": 4848300,
+      "pricePerMeter": 113014,
+      "notes": []
+    },
+    {
+      "id": "4638102",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23.6,
+      "price": 3037013,
+      "pricePerMeter": 128687,
+      "notes": []
+    },
+    {
+      "id": "4638749",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23.6,
+      "price": 3013413,
+      "pricePerMeter": 127687,
+      "notes": []
+    },
+    {
+      "id": "4638103",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 27,
+      "price": 3364038,
+      "pricePerMeter": 124594,
+      "notes": []
+    },
+    {
+      "id": "4638750",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 33.3,
+      "price": 4044584,
+      "pricePerMeter": 121459,
+      "notes": []
+    },
+    {
+      "id": "4638105",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.9,
+      "price": 4891200,
+      "pricePerMeter": 114014,
+      "notes": []
+    },
+    {
+      "id": "4638106",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.6,
+      "price": 4681098,
+      "pricePerMeter": 115298,
+      "notes": []
+    },
+    {
+      "id": "4638109",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.6,
+      "price": 4681098,
+      "pricePerMeter": 115298,
+      "notes": []
+    },
+    {
+      "id": "4638110",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.7,
+      "price": 4826679,
+      "pricePerMeter": 113037,
+      "notes": []
+    },
+    {
+      "id": "4638112",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 26.4,
+      "price": 3036000,
+      "pricePerMeter": 115000,
+      "notes": []
+    },
+    {
+      "id": "4638114",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23.5,
+      "price": 2978014,
+      "pricePerMeter": 126724,
+      "notes": []
+    },
+    {
+      "id": "4638115",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45,
+      "price": 4940100,
+      "pricePerMeter": 109780,
+      "notes": []
+    },
+    {
+      "id": "4638118",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43.4,
+      "price": 4902290,
+      "pricePerMeter": 112956,
+      "notes": []
+    },
+    {
+      "id": "4638119",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 40.6,
+      "price": 4782598,
+      "pricePerMeter": 117798,
+      "notes": []
+    },
+    {
+      "id": "4638121",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 27.2,
+      "price": 3237020,
+      "pricePerMeter": 119008,
+      "notes": []
+    },
+    {
+      "id": "4638122",
+      "room": "studio",
+      "roomLabel": "студия",
+      "area": 23.7,
+      "price": 3050000,
+      "pricePerMeter": 128692,
+      "notes": []
+    },
+    {
+      "id": "4638126",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.9,
+      "price": 4172010,
+      "pricePerMeter": 116212,
+      "notes": []
+    },
+    {
+      "id": "4638127",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.9,
+      "price": 3841300,
+      "pricePerMeter": 107000,
+      "notes": []
+    },
+    {
+      "id": "4638129",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 35.3,
+      "price": 4105672,
+      "pricePerMeter": 116308,
+      "notes": []
+    },
+    {
+      "id": "4638128",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 47.6,
+      "price": 5022060,
+      "pricePerMeter": 105505,
+      "notes": []
+    },
+    {
+      "id": "4638089",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 58.3,
+      "price": 6571459,
+      "pricePerMeter": 112718,
+      "notes": []
+    },
+    {
+      "id": "4638094",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.5,
+      "price": 6760628,
+      "pricePerMeter": 113624,
+      "notes": []
+    },
+    {
+      "id": "4638097",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59,
+      "price": 6794558,
+      "pricePerMeter": 115162,
+      "notes": []
+    },
+    {
+      "id": "4638100",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 58.4,
+      "price": 6582264,
+      "pricePerMeter": 112710,
+      "notes": []
+    },
+    {
+      "id": "4638104",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.2,
+      "price": 6509874,
+      "pricePerMeter": 113809,
+      "notes": []
+    },
+    {
+      "id": "4638107",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.1,
+      "price": 6953410,
+      "pricePerMeter": 117655,
+      "notes": []
+    },
+    {
+      "id": "4638108",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59.1,
+      "price": 7367110,
+      "pricePerMeter": 124655,
+      "notes": []
+    },
+    {
+      "id": "4638111",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 57.3,
+      "price": 6520797,
+      "pricePerMeter": 113801,
+      "notes": []
+    },
+    {
+      "id": "4638117",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 56,
+      "price": 6379072,
+      "pricePerMeter": 113912,
+      "notes": []
+    },
+    {
+      "id": "4638120",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 59,
+      "price": 7237058,
+      "pricePerMeter": 122662,
+      "notes": []
+    },
+    {
+      "id": "4638125",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 47.8,
+      "price": 5043562,
+      "pricePerMeter": 105514,
+      "notes": []
+    },
+    {
+      "id": "4638088",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 74.8,
+      "price": 8238612,
+      "pricePerMeter": 110142,
+      "notes": []
+    },
+    {
+      "id": "4638101",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 74.8,
+      "price": 8253880,
+      "pricePerMeter": 110346,
+      "notes": []
+    },
+    {
+      "id": "4638116",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 78.8,
+      "price": 8677928,
+      "pricePerMeter": 110126,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-melodiya-lesa/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

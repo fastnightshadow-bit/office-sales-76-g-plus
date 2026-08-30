@@ -1,6 +1,7 @@
 import { copyFile, mkdir, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
 import { pathToFileURL } from "node:url";
+import { writeCatalogArtifacts } from "./write-catalog-artifacts";
 import { z } from "zod";
 import { catalogSchema, sourceProjectInputSchema } from "../src/features/catalog/catalog-schema";
 import type {
@@ -618,10 +619,12 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
     writeFile(join(stagingData, "legal.json"), json(legal), "utf8"),
     writeFile(join(stagingData, "source-report.json"), json(report), "utf8"),
   ]);
+  await writeCatalogArtifacts(validatedProjects as Project[], stagingData);
   await replaceDirectory(join(stagingPublic, "media/projects"), join(rootDirectory, "public/media/projects"));
   await replaceDirectory(join(stagingPublic, "media/site"), join(rootDirectory, "public/media/site"));
   await mkdir(join(rootDirectory, "src/data"), { recursive: true });
-  for (const name of ["projects.json", "company.json", "legal.json", "source-report.json"]) {
+  await replaceDirectory(join(stagingData, "project-details"), join(rootDirectory, "src/data/project-details"));
+  for (const name of ["projects.json", "projects-summary.json", "company.json", "legal.json", "source-report.json"]) {
     await rename(join(stagingData, name), join(rootDirectory, "src/data", name));
   }
   await rm(stagingRoot, { recursive: true, force: true });

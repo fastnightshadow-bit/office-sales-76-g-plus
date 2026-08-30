@@ -1,0 +1,338 @@
+{
+  "slug": "zhk-finitimi",
+  "title": "ЖК ФИНИТiМИ",
+  "shortDescription": "Кирпичный дом с автономным отоплением в микрорайоне «Яблоневый посад». Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"ФИНИТiМИ\" Сдан!",
+    "Кирпичный дом 10 жилых этажей, 3-ри подъезда, на подъезд грузовой лифт, 130 квартир, кладовые помещения.",
+    "Крышная котельная(экономия на ком услугах).",
+    "Отделка предчистовая(white-box) - полная подготовка под ремонт(выровнены все поверхности, электрика, разводка сантехники, остекление лоджий, газовая плита, счётчики-вода, свет, газ, высота потолков 2.6 м.",
+    "Дизайнерская отделка мест общего пользования, система \"умный дом\" (автоматическая передача показаний за воду и электричество)",
+    "Инфраструктура - в пешей доступности новый детский сад «Яблочко», строится школа, множество спортивных площадок, сетевые магазины, фитнес центры, зелёная зона(Павловский парк),поликлиники, остановки.",
+    "Продажи от Юр лица(ООО СЗ «М2М» ИНН 7612045586 с 2013 года возведено и введено в эксплуатацию 4 жилых многоквартирных дома, коммерческие объекты 6200 кв\\м )",
+    "Ген подрядчик: ООО \"Волга-Строй\" ИНН 7606119367",
+    "Просмотры, консультации 24/7"
+  ],
+  "district": "Дзержинский",
+  "address": "Ярослаль, 2 брагинский 11",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 4500000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 4500000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7200000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 9900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-finitimi/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-finitimi/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-finitimi/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-finitimi/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-finitimi/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-finitimi/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-finitimi/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-finitimi/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-finitimi/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-finitimi/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на строительство",
+      "url": "https://офиспродаж76.рф/upload/iblock/10f/f3ikq3bkgv0gx843m0aaab63ct4qldl2.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/851/oi0vemt8qhrvp9xjzq5jy4y9x69o5sii.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проект дду",
+      "url": "https://офиспродаж76.рф/upload/iblock/4db/fdclz20n94a05a6oja94zrsik3ntz3o7.docx",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637432",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.4,
+      "price": 5376000,
+      "pricePerMeter": 140000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-finitimi/layout-4637432-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637432-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637432-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637433",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 32.5,
+      "price": 4550000,
+      "pricePerMeter": 140000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-finitimi/layout-4637433-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637433-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637433-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637434",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 38.1,
+      "price": 5334000,
+      "pricePerMeter": 140000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-finitimi/layout-4637434-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637434-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637434-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637435",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 32.1,
+      "price": 4494000,
+      "pricePerMeter": 140000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-finitimi/layout-4637435-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637435-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-finitimi/layout-4637435-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4637436",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 32.6,
+      "price": 4564000,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4637437",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 37.4,
+      "price": 5236000,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4637439",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 54.5,
+      "price": 7630000,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4637441",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 54.4,
+      "price": 7644000,
+      "pricePerMeter": 140515,
+      "notes": []
+    },
+    {
+      "id": "4637443",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 51.7,
+      "price": 7238000,
+      "pricePerMeter": 140000,
+      "notes": []
+    },
+    {
+      "id": "4637444",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 75.9,
+      "price": 9867000,
+      "pricePerMeter": 130000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-finitimi/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

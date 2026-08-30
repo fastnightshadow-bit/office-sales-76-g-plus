@@ -1,0 +1,306 @@
+{
+  "slug": "zhk-imperiya-life",
+  "title": "ЖК «Империя-Life»",
+  "shortDescription": "Дом комфорт, индивидуальное газ. отопление, керамический кирпич",
+  "description": [
+    "ЖК \"Империя\" представляет собой девяти эт. застройку из четырёх подъездов, в сердце молодого современного мк-ра района \"Яблоневый Посад\"",
+    "Дом из керамического кирпича, индивидуальное газовое отопление, потолки 2.7 м",
+    "Улучшенная отделка входных групп.",
+    "Дом построен на просторном земельном участке, что позволило спроектировать комфортную среду проживания. Проектом благоустройства предусмотрены детская и спортивная площадки, зоны отдыха, гостевая парковка на 99 машин.",
+    "Предчистовая отделка. Квартиры подготовлены для ремонта: стяжка, заливка полов, разводка - электрики, сантехники, приборы учёта, газовое оборудование, входные двери.",
+    "Локация: В шаговой доступности: школы, новый детский сад \"Яблочко, остановка, все сетевые магазины, аптеки,ТЦ.",
+    "Застройщик: СЗ\"ИМПЕРИЯ-СТРОЙ\" проектное финансирование строительства."
+  ],
+  "district": "Дзержинский",
+  "address": "г. Ярославль, ул.Тутаевское шоссе д.93",
+  "completionLabel": "2 кв 2026",
+  "completionDate": "2026-Q2",
+  "minimumPrice": 5400000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5400000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 7500000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 9000000
+    }
+  ],
+  "mortgageRateLabel": "от 6 %",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-imperiya-life/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-imperiya-life/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-imperiya-life/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-imperiya-life/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-imperiya-life/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-imperiya-life/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-imperiya-life/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-imperiya-life/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-imperiya-life/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-imperiya-life/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-imperiya-life/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-imperiya-life/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/87b/gubp2zrh0cli08dxdcn8pcrv47dvagu8.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/0ee/mdpbp27g3ktz1a570oc7mi21rzgxyvh6.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637797",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 48.2,
+      "price": 5543000,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-imperiya-life/layout-4637797.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637805",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 46.5,
+      "price": 5347500,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-imperiya-life/layout-4637805.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637806",
+      "room": "1",
+      "roomLabel": "1 + евро",
+      "area": 48.2,
+      "price": 5543000,
+      "pricePerMeter": 115000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-imperiya-life/layout-4637806.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637789",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 63.69,
+      "price": 7642800,
+      "pricePerMeter": 120000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-imperiya-life/layout-4637789.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637794",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 63.21,
+      "price": 7585200,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4637798",
+      "room": "2",
+      "roomLabel": "2 комнатная",
+      "area": 62.57,
+      "price": 7508400,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4637799",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 75.96,
+      "price": 8355600,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4637804",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 75.96,
+      "price": 8355600,
+      "pricePerMeter": 110000,
+      "notes": []
+    },
+    {
+      "id": "4637807",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 62.57,
+      "price": 7508400,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4637809",
+      "room": "2",
+      "roomLabel": "2 + евродвушка",
+      "area": 63.21,
+      "price": 7585200,
+      "pricePerMeter": 120000,
+      "notes": []
+    },
+    {
+      "id": "4637800",
+      "room": "3",
+      "roomLabel": "3 + евро-трёшка",
+      "area": 79.01,
+      "price": 9086150,
+      "pricePerMeter": 115000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-imperiya-life/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

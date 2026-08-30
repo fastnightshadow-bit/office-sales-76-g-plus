@@ -1,0 +1,333 @@
+{
+  "slug": "zhk-vivat",
+  "title": "ЖК \"ВИВАТ\"",
+  "shortDescription": "ЖК«ВИВВАТ» кирпичный дом, удобная локация.",
+  "description": [
+    "ЖК \"Виват\" — современный кирпичный жилой комплекс в центральной части города. Сдача: 4 квартал 2026 года.",
+    "Жилой дом построен из кирпича, расположен на второй линии от ул. Чкалова — удобное сочетание центровой локации и тихой городской среды. Проект — 2‑подъездный 12‑этажный дом с 168 квартирами и продуманной инфраструктурой для комфортной жизни.",
+    "Технические характеристики",
+    "- Толщина кирпичной кладки: 640 мм.",
+    "- Этажность: 12 этажей, 2 подъезда.",
+    "- Количество квартир: 168.",
+    "- Высота потолков: 2,7 м.",
+    "- Лифты: по два лифта на подъезд.",
+    "- Плиты: электрические (электроплиты в квартирах).",
+    "- Продажи: по эскроу‑счетам.",
+    "Инфраструктура и благоустройство",
+    "- 31 гостевое машиноместо.",
+    "- Детские и спортивные площадки.",
+    "- Зоны отдыха во дворе.",
+    "- Удобная транспортная доступность и пешая доступность до объектов городской инфраструктуры.",
+    "Отделка — White Box (предчистовая)",
+    "В квартирах выполняются подготовительные работы для чистовой отделки:",
+    "- стяжка пола;",
+    "- штукатурка стен;",
+    "- двухкамерные стеклопакеты;",
+    "- установка счётчиков;",
+    "- разводка электрики;",
+    "- радиаторы отопления;",
+    "- входные металлические двери;",
+    "- электроплиты.",
+    "Расположение и окружение",
+    "В пешей доступности: школа №9 им. И. Ткаченко, рынок, МУП, отделение Сбербанка, магазины и аптеки, остановки общественного транспорта. Поблизости — бассейн «Лазурный», теннисный клуб, ДК Добрынина. До центра города — примерно 5 минут.",
+    "Преимущества",
+    "- Центровая локация при сохранении приватности (вторая линия от улицы).",
+    "- Надёжная кирпичная конструкция и повышенная тепло/шумоизоляция.",
+    "- Готовность к комфортной чистовой отделке (White Box).",
+    "- Развитая развлекательная и бытовая инфраструктура в пешей доступности.",
+    "Застройщик ООО СЗ \"Медик\"",
+    "ген подрядчик ООО \"Ведич\" ИНН 7604208068",
+    "Консультации 24/7 Скидки!"
+  ],
+  "district": "Центр",
+  "address": "Ярославль, ул. Белинского 17",
+  "completionLabel": "4 кв 2026",
+  "completionDate": "2026-Q4",
+  "minimumPrice": 5900000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 5900000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 8100000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 12200000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-vivat/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-vivat/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-vivat/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-vivat/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-vivat/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-vivat/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vivat/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-vivat/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vivat/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-vivat/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vivat/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-vivat/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-vivat/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-vivat/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/f7c/4ft0hqnqp2k5q8kdfhqhmqrsdq77c0qk.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/4d2/78sa5of5l2cjlr7qavkau8ms9xlvtyyx.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637845",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42,
+      "price": 6300000,
+      "pricePerMeter": 150000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vivat/layout-4637845.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637849",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.38,
+      "price": 6357000,
+      "pricePerMeter": 150000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vivat/layout-4637849.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637843",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 42.44,
+      "price": 6366000,
+      "pricePerMeter": 150000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vivat/layout-4637843.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637846",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.01,
+      "price": 6152500,
+      "pricePerMeter": 150024,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-vivat/layout-4637846.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637850",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 41.2,
+      "price": 6180000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4637856",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 43,
+      "price": 6450000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4637844",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 66.75,
+      "price": 9678750,
+      "pricePerMeter": 145000,
+      "notes": []
+    },
+    {
+      "id": "4637847",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 64.09,
+      "price": 9293050,
+      "pricePerMeter": 145000,
+      "notes": []
+    },
+    {
+      "id": "4637852",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 64.55,
+      "price": 9359750,
+      "pricePerMeter": 145000,
+      "notes": []
+    },
+    {
+      "id": "4637853",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 63.77,
+      "price": 9246650,
+      "pricePerMeter": 145000,
+      "notes": []
+    },
+    {
+      "id": "4637854",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 60.7,
+      "price": 8801500,
+      "pricePerMeter": 145000,
+      "notes": []
+    },
+    {
+      "id": "4637848",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 88.38,
+      "price": 12815100,
+      "pricePerMeter": 145000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-vivat/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

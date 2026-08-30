@@ -1,0 +1,362 @@
+{
+  "slug": "zhk-dom-u-reki",
+  "title": "ЖК \"Дом у реки\"",
+  "shortDescription": "ЖК \"Дом у реки\" уютный квартал комфорт класса.",
+  "description": [
+    "\"Дом у Реки\" в Ярославле от СЗ ЭЛИТСТРОЙИНВЕСТ — это строящийся многоквартирный дом бизнес-класса.",
+    "Индивидуальное газовое отопление (двух контурный котёл)",
+    "Максимальная этажность здания — 10 этажей. Материал стен — монолит-кирпич, что обеспечивает надёжность и долговечность конструкции. В доме будет 275 квартир: 56 однокомнатных, 77 двухкомнатных, 98 трёхкомнатных и 44 квартиры с четырьмя и более комнатами. Общая жилая площадь составляет 26 234 квадратных метра. Также в доме предусмотрено 194 нежилых помещения. Завершение строительства запланировано на 30 июня 2027 года.",
+    "Благоустройство",
+    "В жилом комплексе созданы комфортные условия для всех категорий жителей. Для удобства передвижения предусмотрены пандус и понижающие площадки. Оборудованы детские площадки (всего 4) и спортивная площадка. Для удобства эксплуатации установлены площадки для мусорных контейнеров. Также имеется 173 парковочных места.",
+    "Архитектура",
+    "Жилой комплекс представляет собой многоквартирный дом с максимальной этажностью в 10 этажей. Минимальное количество этажей — 9. В комплексе 10 подъездов. Стены здания выполнены из монолитного кирпича, что обеспечивает высокую прочность и долговечность конструкции. Класс энергоэффективности здания — B.",
+    "О застройщике",
+    "Застройщик ООО СЗ «ЭЛИТСТРОЙИНВЕСТ» специализируется на объектах класса «бизнес». В настоящее время возводится один многоквартирный дом с общей жилой площадью 26 234 квадратных метра. Планируемая дата сдачи объекта — 2027 год.",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Центр",
+  "address": "Ярославль Котрольсная Набережная",
+  "completionLabel": "3 кв 2027",
+  "completionDate": "2027-Q3",
+  "minimumPrice": 10000000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 10000000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 15000000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 18000000
+    },
+    {
+      "room": "4+",
+      "minimumPrice": 24000000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-dom-u-reki/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-dom-u-reki/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-dom-u-reki/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-dom-u-reki/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-dom-u-reki/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-dom-u-reki/gallery-001-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-dom-u-reki/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-dom-u-reki/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-dom-u-reki/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-dom-u-reki/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "разрешение на ст.",
+      "url": "https://офиспродаж76.рф/upload/iblock/704/82ih2vgmdsm2q5y3xisa97frvjryq41h.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "проект. д-я",
+      "url": "https://офиспродаж76.рф/upload/iblock/b73/ahkz8jwvc7g8wo3l2y9ckkyjqnpiz1gm.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4639397",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 45.1,
+      "price": 10373000,
+      "pricePerMeter": 230000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-dom-u-reki/layout-4639397-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-dom-u-reki/layout-4639397-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-dom-u-reki/layout-4639397-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639398",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 50.1,
+      "price": 11523000,
+      "pricePerMeter": 230000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-dom-u-reki/layout-4639398-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-dom-u-reki/layout-4639398-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-dom-u-reki/layout-4639398-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639400",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 71.58,
+      "price": 15031800,
+      "pricePerMeter": 210000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-dom-u-reki/layout-4639400.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4639403",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 77.98,
+      "price": 16375800,
+      "pricePerMeter": 210000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-dom-u-reki/layout-4639403-480.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-dom-u-reki/layout-4639403-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-dom-u-reki/layout-4639403-480.webp",
+            "width": 480,
+            "format": "webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4639399",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 73.78,
+      "price": 15493800,
+      "pricePerMeter": 210000,
+      "notes": []
+    },
+    {
+      "id": "4639402",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 98.22,
+      "price": 20626200,
+      "pricePerMeter": 210000,
+      "notes": []
+    },
+    {
+      "id": "4639401",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 73.58,
+      "price": 16187600,
+      "pricePerMeter": 220000,
+      "notes": []
+    },
+    {
+      "id": "4639404",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 97.35,
+      "price": 18496500,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639406",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 111.67,
+      "price": 21217300,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639405",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 109.51,
+      "price": 20806900,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639407",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 114.56,
+      "price": 21766400,
+      "pricePerMeter": 190000,
+      "notes": []
+    },
+    {
+      "id": "4639408",
+      "room": "3",
+      "roomLabel": "3-комнатная квартира",
+      "area": 148.12,
+      "price": 25180400,
+      "pricePerMeter": 170000,
+      "notes": []
+    },
+    {
+      "id": "4639410",
+      "room": "4+",
+      "roomLabel": "4-комнатная квартира",
+      "area": 128.41,
+      "price": 24397000,
+      "pricePerMeter": 189993,
+      "notes": []
+    },
+    {
+      "id": "4639409",
+      "room": "4+",
+      "roomLabel": "4-комнатная квартира",
+      "area": 124.87,
+      "price": 24974000,
+      "pricePerMeter": 200000,
+      "notes": []
+    },
+    {
+      "id": "4639411",
+      "room": "4+",
+      "roomLabel": "4-комнатная квартира",
+      "area": 144.63,
+      "price": 31818600,
+      "pricePerMeter": 220000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-dom-u-reki/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

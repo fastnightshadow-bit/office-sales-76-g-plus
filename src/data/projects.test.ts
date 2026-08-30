@@ -13,6 +13,7 @@ function loadJson(name: string): unknown {
 const companyJson = loadJson("company.json");
 const legalJson = loadJson("legal.json");
 const projectsJson = loadJson("projects.json");
+const projectSummariesJson = loadJson("projects-summary.json");
 const reportJson = z.object({
   importedProjects: z.number(),
   duplicateSlugs: z.number(),
@@ -52,6 +53,59 @@ const reportJson = z.object({
 }).parse(loadJson("source-report.json"));
 
 describe("generated source snapshot", () => {
+  it("keeps the lightweight catalog and per-project details in exact sync", () => {
+    const projects = z.array(catalogSchema).length(92).parse(projectsJson);
+    const summaries = z.array(z.object({
+      slug: z.string(),
+      title: z.string(),
+      shortDescription: z.string(),
+      district: z.string().optional(),
+      address: z.string().optional(),
+      completionLabel: z.string().optional(),
+      completionDate: z.string().optional(),
+      minimumPrice: z.number().positive().optional(),
+      roomPrices: z.array(z.object({ room: z.string(), minimumPrice: z.number().positive().optional() })),
+      availableRooms: z.array(z.string()),
+      mortgageRateLabel: z.string().optional(),
+      coverImage: z.unknown().optional(),
+      relatedProjectSlugs: z.array(z.string()),
+      sourceUrl: z.string().url(),
+      sourceCheckedAt: z.string(),
+      dataQualityFlags: z.array(z.string()),
+    }).strict()).length(92).parse(projectSummariesJson);
+    const detailDirectory = resolve(process.cwd(), "src/data/project-details");
+    const detailFiles = readdirSync(detailDirectory).filter((name) => name.endsWith(".json")).sort();
+
+    expect(detailFiles).toEqual(projects.map(({ slug }) => `${slug}.json`).sort());
+    expect(summaries.map(({ slug }) => slug)).toEqual(projects.map(({ slug }) => slug));
+    for (const project of projects) {
+      expect(loadJson(`project-details/${project.slug}.json`)).toEqual(project);
+      const summary = summaries.find(({ slug }) => slug === project.slug)!;
+      const availableRooms = [...new Set([
+        ...project.roomPrices.map(({ room }) => room),
+        ...project.layouts.map(({ room }) => room),
+      ])];
+      expect(summary).toEqual({
+        slug: project.slug,
+        title: project.title,
+        shortDescription: project.shortDescription,
+        ...(project.district ? { district: project.district } : {}),
+        ...(project.address ? { address: project.address } : {}),
+        ...(project.completionLabel ? { completionLabel: project.completionLabel } : {}),
+        ...(project.completionDate ? { completionDate: project.completionDate } : {}),
+        ...(project.minimumPrice !== undefined ? { minimumPrice: project.minimumPrice } : {}),
+        roomPrices: project.roomPrices,
+        availableRooms,
+        ...(project.mortgageRateLabel ? { mortgageRateLabel: project.mortgageRateLabel } : {}),
+        ...(project.coverImage ? { coverImage: project.coverImage } : {}),
+        relatedProjectSlugs: project.relatedProjectSlugs,
+        sourceUrl: project.sourceUrl,
+        sourceCheckedAt: project.sourceCheckedAt,
+        dataQualityFlags: project.dataQualityFlags,
+      });
+    }
+  });
+
   it("contains exactly 92 valid projects with unique slugs and no zero prices", () => {
     const projects = z.array(catalogSchema).length(92).parse(projectsJson);
     expect(new Set(projects.map((project) => project.slug)).size).toBe(92);

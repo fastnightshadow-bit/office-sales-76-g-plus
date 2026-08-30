@@ -1,0 +1,225 @@
+{
+  "slug": "zhk-megapolis-12",
+  "title": "ЖК Мегаполис 12",
+  "shortDescription": "Новый современный квартал из 16 домов, использование счетов ЭСКРОУ , от ГСК \"МЕДИК\" Консультации будни и выходные 24/7",
+  "description": [
+    "ЖК \"Мегаполис\" 2019 год начало проекта жилого квартала на 16 многоквартирных домов.",
+    "Представлено строение № 12 дом из керамического кирпича, из 3-х подъездов 9 эт, предусмотрен один грузопассажирский лифт, газовые плиты. . Теплоснабжение спроектировано с учётом наличия крышных котелен.",
+    "Отделка предусматривает: стены-штукатурка, потолки-ж.б плита без окраски, полы-полусухая цементно-песочная стяжка, электропроводка с розетками и выключателями, отопление-радиаторы, водоснабжение- стояки с приборами учёта, окна ПВХ, входные двери.",
+    "Придомовая территория: будут созданы максимально комфортные условия для жителей квартала. Во дворе будут построены детские площадки, спортивные площадки, зоны для отдыха. На первых этажах магазины , кафе, салоны красоты, развивающие детские клубы.",
+    "Остановка общественного транспорта 2023 год, строительство садика на 280 мест ведётся, школа в проекте.",
+    "Продажи открыты согласно 214 ст.закона с использованием счетов ЭСКРОУ что обеспечивает на 100% сохранность ваших денег до окончания ст-ва , аккредитация ПАО Сбербанк, ПАО БТБ, Россельхоз банк и др. позволяет приобрести квартиру в Ипотеку с господдержкой.",
+    "Застройщик: ГСК \"МЕДИК\" строительная компания основана в 2008 году, за это время заработала безупречную репутацию благодаря качеству строительства и своевременному вводу в эксплуатацию более десятка многоквартирных домов.",
+    "Консультации 24/7 Скидки!"
+  ],
+  "district": "Дзержинский",
+  "address": "г Ярославль,ул Комкора Хрипина д.3",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2"
+    },
+    {
+      "room": "3",
+      "minimumPrice": 6600000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-megapolis-12/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-megapolis-12/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-megapolis-12/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-megapolis-12/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-megapolis-12/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-megapolis-12/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-megapolis-12/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-megapolis-12/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-megapolis-12/gallery-004-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-004-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-megapolis-12/gallery-004-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Проектная декларация",
+      "url": "https://офиспродаж76.рф/upload/iblock/5ff/jbgx3gdt4ai7puqrlrfn2s5z5x3zznql.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/0cf/ogaqt92j1rruejhf805h8ktcazuzntnr.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "План застройки",
+      "url": "https://офиспродаж76.рф/upload/iblock/801/9ls4lugvspbd8vt5u6r3kvto3u4sxv4e.png",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4637921",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 67.26,
+      "price": 6187920,
+      "pricePerMeter": 92000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis-12/layout-4637921.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637925",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 67.26,
+      "price": 6187920,
+      "pricePerMeter": 92000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis-12/layout-4637921.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4637929",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 66.76,
+      "price": 6141920,
+      "pricePerMeter": 92000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-megapolis-12/layout-4637929.webp",
+        "variants": []
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-megapolis-12/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

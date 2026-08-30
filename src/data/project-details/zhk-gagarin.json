@@ -1,0 +1,312 @@
+{
+  "slug": "zhk-gagarin",
+  "title": "ЖК Гагарин",
+  "shortDescription": "Квартиры с отделкой \"под ключ\" в начале Фрунзе.",
+  "description": [
+    "Жилой комплекс \"Гагарин\", расположен во Фрунзенском р-не г. Ярославля. В новом микрорайоне СОКОЛ.",
+    "Отделка \"под ключ\" от Застройщика: укладка ламината; декоративная штукатурка;монтаж межкомнатных дверей;окраска потолков;облицовка пола и стен в с/у плиткой;сантехника;электрика.",
+    "Проект ЖК :17 жилых этажей из двух корпусов, наземный паркинг на 210 машин. Собственная котельная. Увеличенные окна. Современная архитектура.",
+    "Внутри дворовое пространство благоустройство комфорт класса: приватный двор без машин - детские,спортивные площадки; зоны отдыха.",
+    "Продажа готовых квартир в сданных домах с ремонтом от крупного Федерального застройщика - Тверской ДСК",
+    "Консультации по приобретению 24/7"
+  ],
+  "district": "Фрунзенский",
+  "address": "Ярославль, ул. Дядьковская 16а",
+  "completionLabel": "Сдан!",
+  "completionDate": "ready",
+  "minimumPrice": 3600000,
+  "roomPrices": [
+    {
+      "room": "1",
+      "minimumPrice": 3600000
+    },
+    {
+      "room": "2",
+      "minimumPrice": 5400000
+    },
+    {
+      "room": "3",
+      "minimumPrice": 8900000
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-gagarin/cover-1440.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-gagarin/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-gagarin/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-gagarin/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-gagarin/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-gagarin/cover-1440.avif",
+        "width": 1440,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-gagarin/cover-1440.webp",
+        "width": 1440,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-gagarin/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-gagarin/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-gagarin/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-gagarin/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Смотреть презентацию ЖК",
+      "url": "https://офиспродаж76.рф/upload/iblock/1ea/v4a5nu4gjsmqjzawiebuw6af4a5rfk3s.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Разрешение на ввод",
+      "url": "https://офиспродаж76.рф/upload/iblock/8b6/51euvmudrlv4cl7y4ror7go7g2w28m3e.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Схема планировоч о-ции у-ка",
+      "url": "https://офиспродаж76.рф/upload/iblock/9d4/jj4s4f24hi5ve8ccj8zu6vnok1to1k9l.jpg",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638258",
+      "room": "1",
+      "roomLabel": "1-комнатная квартира",
+      "area": 36.8,
+      "price": 5502643,
+      "pricePerMeter": 149528,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-gagarin/layout-4638258.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638260",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.8,
+      "price": 5502643,
+      "pricePerMeter": 149528,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-gagarin/layout-4638260.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638761",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.8,
+      "price": 5521941,
+      "pricePerMeter": 150053,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-gagarin/layout-4638258.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638763",
+      "room": "1",
+      "roomLabel": "1 комнатная",
+      "area": 36.8,
+      "price": 5413898,
+      "pricePerMeter": 147117,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-gagarin/layout-4638260.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638257",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.4,
+      "price": 7870706,
+      "pricePerMeter": 142071,
+      "notes": []
+    },
+    {
+      "id": "4638760",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 55.4,
+      "price": 7870706,
+      "pricePerMeter": 142071,
+      "notes": []
+    },
+    {
+      "id": "4638261",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 65.1,
+      "price": 9076021,
+      "pricePerMeter": 139417,
+      "notes": []
+    },
+    {
+      "id": "4638764",
+      "room": "3",
+      "roomLabel": "3 комнатная",
+      "area": 65.1,
+      "price": 9110134,
+      "pricePerMeter": 139941,
+      "notes": []
+    },
+    {
+      "id": "4638806",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 22.6,
+      "price": 3390000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4639653",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 37.8,
+      "price": 5670000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4638807",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 37.8,
+      "price": 5670000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4639652",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 22.6,
+      "price": 3390000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4638805",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 24,
+      "price": 3600000,
+      "pricePerMeter": 150000,
+      "notes": []
+    },
+    {
+      "id": "4638803",
+      "room": "commercial",
+      "roomLabel": "Торгово-офисное",
+      "area": 71.5,
+      "price": 11797500,
+      "pricePerMeter": 165000,
+      "notes": []
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-gagarin/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": []
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "zhk-arkadiya",
+  "title": "ЖК \"Аркадия\"",
+  "shortDescription": "ЖК«Аркадия» кирпичный дом комфорт класса в \"сердце\" ленинского района.",
+  "description": [
+    "ЖК \"Аркадия\" 1 стр 1-2\\2026 ввод в эксплуатацию.",
+    "Будет состоять из двух кирпичных 8 этажных строений, авторская архитектура, безбарьерные входные группы с качественной отделкой колясочными зонами, приватной благоустроенной территорией - детскими, спортивными площадками, множеством парковочных мест.",
+    "1 Стр. 8 жилых этажей, два подъезда, 103 жилых квартиры, 96 кладовых, 56 машиномест. Высота потолков 2.7. Общедомовое газовое отопление с индивидуальной регулировкой по каждой квартире(комфорт,экономия и тепло в любое время года).",
+    "Продажи по дду, эскроу счета, все действующие льготы по ипотечным ставкам.",
+    "Отделка-предчистовая \"White Box\" : стяжка, штукатурка, двух камерные стеклопакеты, счётчики, электрика, радиаторы отопления.",
+    "В пешей доступности , школа № 9 имени Ивана Ткаченко, Рынок, МУП, Сбербанк, магазины, аптеки, остановки общественного транспорта, бассейн Лазурный, теннисный клуб, ДК Добрынина, до центра 5 минут.",
+    "Застройщик ГК \"Капитал76\" ИНН 7604359074",
+    "Информация предоставлена брокерской компанией (офиспродаж76) ООО \"Ваш выбор\" ИНН 7602067446",
+    "ул. Победы д. 38\\501 тел. 8(4852) 93-59-69; 95-55-55; 89109773737",
+    "У нас можно получить консультацию 24/7 по строящимся и готовым объектам города, по ипотечным продуктам и прочим вопросам приобретения новостроек. Комиссий наценок нет работаем за счёт продавцов, приференции скидки - только прямые продажи от Застройщиков г.Ярославль."
+  ],
+  "district": "Центр",
+  "address": "Ярославль, ул. Жукова 17а",
+  "completionLabel": "2 кв 2026",
+  "completionDate": "2026-Q2",
+  "roomPrices": [
+    {
+      "room": "1"
+    },
+    {
+      "room": "2",
+      "minimumPrice": 10700000
+    },
+    {
+      "room": "3"
+    }
+  ],
+  "mortgageRateLabel": "от 6%",
+  "features": [],
+  "purchasePrograms": [],
+  "coverImage": {
+    "src": "/media/projects/zhk-arkadiya/cover-960.webp",
+    "variants": [
+      {
+        "url": "/media/projects/zhk-arkadiya/cover-480.avif",
+        "width": 480,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-arkadiya/cover-480.webp",
+        "width": 480,
+        "format": "webp"
+      },
+      {
+        "url": "/media/projects/zhk-arkadiya/cover-960.avif",
+        "width": 960,
+        "format": "avif"
+      },
+      {
+        "url": "/media/projects/zhk-arkadiya/cover-960.webp",
+        "width": 960,
+        "format": "webp"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/media/projects/zhk-arkadiya/gallery-001-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-001-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-001-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-001-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-001-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-arkadiya/gallery-002-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-002-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-002-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-002-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-002-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-arkadiya/gallery-003-960.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-003-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-003-480.webp",
+          "width": 480,
+          "format": "webp"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-003-960.avif",
+          "width": 960,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-003-960.webp",
+          "width": 960,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "src": "/media/projects/zhk-arkadiya/gallery-004-480.webp",
+      "variants": [
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-004-480.avif",
+          "width": 480,
+          "format": "avif"
+        },
+        {
+          "url": "/media/projects/zhk-arkadiya/gallery-004-480.webp",
+          "width": 480,
+          "format": "webp"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Разрешение на стр.",
+      "url": "https://офиспродаж76.рф/upload/iblock/517/ml9ir297ue3il1tgicjpoii00tdqq53v.pdf",
+      "status": "verified"
+    },
+    {
+      "title": "Проектная д-я.",
+      "url": "https://офиспродаж76.рф/upload/iblock/cf9/c3196q1nv6c51ep73edvivtb6uu6zzy8.pdf",
+      "status": "verified"
+    }
+  ],
+  "layouts": [
+    {
+      "id": "4638406",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 71.98,
+      "price": 10797000,
+      "pricePerMeter": 150000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-arkadiya/layout-4638406.webp",
+        "variants": []
+      }
+    },
+    {
+      "id": "4638408",
+      "room": "2",
+      "roomLabel": "2-комнатная квартира",
+      "area": 71.98,
+      "price": 10797000,
+      "pricePerMeter": 150000,
+      "notes": [],
+      "image": {
+        "src": "/media/projects/zhk-arkadiya/layout-4638408-960.webp",
+        "variants": [
+          {
+            "url": "/media/projects/zhk-arkadiya/layout-4638408-480.avif",
+            "width": 480,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-arkadiya/layout-4638408-480.webp",
+            "width": 480,
+            "format": "webp"
+          },
+          {
+            "url": "/media/projects/zhk-arkadiya/layout-4638408-960.avif",
+            "width": 960,
+            "format": "avif"
+          },
+          {
+            "url": "/media/projects/zhk-arkadiya/layout-4638408-960.webp",
+            "width": 960,
+            "format": "webp"
+          }
+        ]
+      }
+    }
+  ],
+  "relatedProjectSlugs": [],
+  "sourceUrl": "https://офиспродаж76.рф/catalog/zhk-arkadiya/",
+  "sourceCheckedAt": "2026-08-29",
+  "dataQualityFlags": [
+    "missing-price"
+  ]
+}

@@ -12,7 +12,7 @@ const roomNames: Record<RoomKey, string> = {
 };
 
 interface ProjectFactsProps {
-  project: Project;
+  project: Pick<Project, "address" | "completionLabel" | "mortgageRateLabel" | "roomPrices">;
 }
 
 function formatTotalMoney(value: number): string {
