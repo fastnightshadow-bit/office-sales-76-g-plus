@@ -25,6 +25,11 @@ interface ProjectDocumentsProps {
   project: Project;
 }
 
+type DetailLoadState =
+  | { status: "loading"; slug: string }
+  | { status: "success"; slug: string; project: Project }
+  | { status: "error"; slug: string };
+
 export function ProjectDocuments({ project }: ProjectDocumentsProps) {
   if (project.documents.length === 0) return null;
 
@@ -79,21 +84,33 @@ export default function ProjectPage() {
   const location = useLocation();
   const [searchParams] = useSearchParams();
   const [leadOpen, setLeadOpen] = useState(false);
-  const [detail, setDetail] = useState<Project | undefined>();
+  const [detailAttempt, setDetailAttempt] = useState(0);
+  const [detailState, setDetailState] = useState<DetailLoadState>({ status: "loading", slug });
   const project = getProjectBySlug(slug);
-  const projectDetail = detail?.slug === slug ? detail : undefined;
+  const currentDetailState = detailState.slug === slug
+    ? detailState
+    : { status: "loading" as const, slug };
+  const projectDetail = currentDetailState.status === "success" ? currentDetailState.project : undefined;
   const { isFavorite, toggle } = useFavorites();
 
   useEffect(() => {
     let current = true;
-    setDetail(undefined);
-    if (project) void getProjectDetailBySlug(slug).then((loaded) => {
-      if (current) setDetail(loaded);
-    });
+    if (project) {
+      setDetailState({ status: "loading", slug });
+      void getProjectDetailBySlug(slug)
+        .then((loaded) => {
+          if (!current) return;
+          if (loaded) setDetailState({ status: "success", slug, project: loaded });
+          else setDetailState({ status: "error", slug });
+        })
+        .catch(() => {
+          if (current) setDetailState({ status: "error", slug });
+        });
+    }
     return () => {
       current = false;
     };
-  }, [project, slug]);
+  }, [detailAttempt, project, slug]);
 
   useEffect(() => {
     if (!location.hash) return;
@@ -165,6 +182,32 @@ export default function ProjectPage() {
           <ProjectFacts project={project} />
         </div>
       </section>
+
+      {currentDetailState.status === "loading" ? (
+        <section
+          aria-label="Загрузка подробностей проекта"
+          aria-live="polite"
+          className={styles.detailState}
+          role="status"
+        >
+          <div className="container"><p>Загружаем подробности проекта…</p></div>
+        </section>
+      ) : null}
+
+      {currentDetailState.status === "error" ? (
+        <section
+          aria-label="Ошибка загрузки подробностей проекта"
+          className={`${styles.detailState} ${styles.detailError}`}
+          role="alert"
+        >
+          <div className="container">
+            <p>Не удалось загрузить подробности проекта. Основная информация остаётся доступной.</p>
+            <button onClick={() => setDetailAttempt((attempt) => attempt + 1)} type="button">
+              Повторить загрузку
+            </button>
+          </div>
+        </section>
+      ) : null}
 
       {anchorItems.length > 0 ? (
         <nav aria-label="Разделы проекта" className={styles.anchorNav}>

@@ -1,7 +1,9 @@
 import type { Project } from "./catalog.types";
 
-const detailModules = import.meta.glob<{ default: Project }>("../../data/project-details/*.json");
-const detailPromises = new Map<string, Promise<Project | undefined>>();
+type DetailModule = { default: Project };
+type DetailModules = Record<string, () => Promise<DetailModule>>;
+
+const detailModules = import.meta.glob<DetailModule>("../../data/project-details/*.json");
 
 function deepFreeze<T>(value: T): T {
   if (value !== null && typeof value === "object" && !Object.isFrozen(value)) {
@@ -11,12 +13,22 @@ function deepFreeze<T>(value: T): T {
   return value;
 }
 
-export function getProjectDetailBySlug(slug: string): Promise<Project | undefined> {
-  const existing = detailPromises.get(slug);
-  if (existing) return existing;
-  const load = detailModules[`../../data/project-details/${slug}.json`];
-  if (!load) return Promise.resolve(undefined);
-  const pending = load().then(({ default: project }) => deepFreeze(project));
-  detailPromises.set(slug, pending);
-  return pending;
+export function createProjectDetailRepository(modules: DetailModules) {
+  const detailPromises = new Map<string, Promise<Project | undefined>>();
+  return function getDetailBySlug(slug: string): Promise<Project | undefined> {
+    const existing = detailPromises.get(slug);
+    if (existing) return existing;
+    const load = modules[`../../data/project-details/${slug}.json`];
+    if (!load) return Promise.resolve(undefined);
+    const pending = load()
+      .then(({ default: project }) => deepFreeze(project))
+      .catch((error: unknown) => {
+        if (detailPromises.get(slug) === pending) detailPromises.delete(slug);
+        throw error;
+      });
+    detailPromises.set(slug, pending);
+    return pending;
+  };
 }
+
+export const getProjectDetailBySlug = createProjectDetailRepository(detailModules);

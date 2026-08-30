@@ -1,6 +1,7 @@
-import { copyFile, mkdir, readdir, rename, rm, stat, writeFile } from "node:fs/promises";
-import { dirname, join, resolve } from "node:path";
+import { copyFile, cp, mkdir, readdir, rm, stat, writeFile } from "node:fs/promises";
+import { join, resolve } from "node:path";
 import { pathToFileURL } from "node:url";
+import { promoteStagedDirectories } from "./atomic-directory-swap";
 import { writeCatalogArtifacts } from "./write-catalog-artifacts";
 import { z } from "zod";
 import { catalogSchema, sourceProjectInputSchema } from "../src/features/catalog/catalog-schema";
@@ -350,12 +351,6 @@ export async function cacheProjectMedia(
   return project;
 }
 
-async function replaceDirectory(staged: string, destination: string): Promise<void> {
-  await mkdir(dirname(destination), { recursive: true });
-  await rm(destination, { recursive: true, force: true });
-  await rename(staged, destination);
-}
-
 async function directorySize(directory: string): Promise<number> {
   let total = 0;
   for (const entry of await readdir(directory, { withFileTypes: true })) {
@@ -439,6 +434,11 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
   const stagingRoot = staging.root;
   const stagingPublic = staging.public;
   const stagingData = staging.data;
+  try {
+    await cp(join(rootDirectory, "src/data"), stagingData, { recursive: true });
+  } catch (error) {
+    if (!(error instanceof Error && "code" in error && error.code === "ENOENT")) throw error;
+  }
   resetImageDownloadCache();
 
   const namedPages = [
@@ -620,13 +620,20 @@ export async function importSource(rootDirectory = resolve(".")): Promise<Source
     writeFile(join(stagingData, "source-report.json"), json(report), "utf8"),
   ]);
   await writeCatalogArtifacts(validatedProjects as Project[], stagingData);
-  await replaceDirectory(join(stagingPublic, "media/projects"), join(rootDirectory, "public/media/projects"));
-  await replaceDirectory(join(stagingPublic, "media/site"), join(rootDirectory, "public/media/site"));
-  await mkdir(join(rootDirectory, "src/data"), { recursive: true });
-  await replaceDirectory(join(stagingData, "project-details"), join(rootDirectory, "src/data/project-details"));
-  for (const name of ["projects.json", "projects-summary.json", "company.json", "legal.json", "source-report.json"]) {
-    await rename(join(stagingData, name), join(rootDirectory, "src/data", name));
-  }
+  await promoteStagedDirectories([
+    {
+      staged: join(stagingPublic, "media/projects"),
+      destination: join(rootDirectory, "public/media/projects"),
+    },
+    {
+      staged: join(stagingPublic, "media/site"),
+      destination: join(rootDirectory, "public/media/site"),
+    },
+    {
+      staged: stagingData,
+      destination: join(rootDirectory, "src/data"),
+    },
+  ]);
   await rm(stagingRoot, { recursive: true, force: true });
 
   console.log(`Imported projects: ${report.importedProjects}`);

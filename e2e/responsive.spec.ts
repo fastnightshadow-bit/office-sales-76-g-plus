@@ -41,6 +41,10 @@ for (const width of widths) {
         page.getByRole("button", { name: "Открыть меню" }),
         ...await bottomNav.getByRole("link").all(),
         ...(width < 768 ? [compactSearch] : []),
+        ...(width === 768 ? [
+          ...await fullSearch.getByRole("combobox").all(),
+          fullSearch.getByRole("button", { name: /^Показать \d+ проект/ }),
+        ] : []),
       ];
       for (const control of controls) {
         const box = await control.boundingBox();

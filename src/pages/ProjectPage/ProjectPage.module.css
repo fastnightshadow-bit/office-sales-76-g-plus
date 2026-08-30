@@ -94,6 +94,28 @@
 
 .factsWrap { margin-top: clamp(34px, 5vw, 66px); }
 
+.detailState {
+  padding: 20px 0;
+  color: var(--color-text);
+  background: var(--color-white);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.detailState > div { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.detailState p { margin: 0; line-height: 1.55; }
+.detailError { color: var(--color-graphite); background: var(--color-surface); }
+.detailError button {
+  min-height: 44px;
+  flex: 0 0 auto;
+  padding: 0 20px;
+  color: var(--color-white);
+  background: var(--color-graphite);
+  border: 0;
+  border-radius: var(--radius-pill);
+  font-weight: 750;
+  cursor: pointer;
+}
+
 .factsArea {
   display: grid;
   grid-template-columns: minmax(240px, 0.85fr) minmax(0, 1.4fr);
@@ -344,6 +366,7 @@
   .galleryButton:first-child { grid-column: auto; }
   .relatedGrid > :last-child { display: block; }
   .freshness > div { align-items: flex-start; flex-direction: column; }
+  .detailState > div { align-items: flex-start; flex-direction: column; }
 }
 
 @media (prefers-reduced-motion: reduce) {
