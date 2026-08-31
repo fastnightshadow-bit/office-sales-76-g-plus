@@ -52,3 +52,10 @@ test("project lead dialog validates locally, keeps context, transmits nothing an
   await expect(page.getByRole("dialog", { name: "Записаться на показ" }).getByLabel("Комментарий (необязательно)"))
     .toHaveValue("");
 });
+
+test("lead dialog styles do not add a form gap to the hero search", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 900 });
+  await page.goto("/");
+  const gap = await page.locator("form").evaluate((form) => getComputedStyle(form).gap);
+  expect(gap).not.toBe("18px");
+});

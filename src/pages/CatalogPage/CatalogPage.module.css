@@ -30,10 +30,10 @@
 .filterGroup legend,
 .selectField > span { margin-bottom: 12px; color: var(--color-graphite); font-size: 0.79rem; font-weight: 800; letter-spacing: 0.055em; text-transform: uppercase; }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
-.chip { min-height: 38px; padding: 7px 12px; color: var(--color-text); background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-pill); cursor: pointer; }
+.chip { min-height: 44px; padding: 7px 12px; color: var(--color-text); background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-pill); cursor: pointer; }
 .chip[aria-pressed="true"] { color: var(--color-white); background: var(--color-graphite); border-color: var(--color-graphite); }
 .checks { display: grid; gap: 11px; }
-.check { display: flex; min-height: 30px; align-items: center; gap: 10px; cursor: pointer; }
+.check { display: flex; min-height: 44px; align-items: center; gap: 10px; cursor: pointer; }
 .check input { width: 18px; height: 18px; accent-color: var(--color-graphite); }
 .selectField { display: grid; }
 .selectField select { width: 100%; }

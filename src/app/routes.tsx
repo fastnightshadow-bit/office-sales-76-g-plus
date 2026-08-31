@@ -1,5 +1,5 @@
 import { lazy, Suspense } from "react";
-import { createBrowserRouter, Outlet, type RouteObject, useLocation } from "react-router-dom";
+import { createBrowserRouter, Outlet, ScrollRestoration, type RouteObject, useLocation } from "react-router-dom";
 import { MobileBottomNav } from "../components/MobileBottomNav/MobileBottomNav";
 import { PageSkeleton } from "../components/PageSkeleton/PageSkeleton";
 import { SiteFooter } from "../components/SiteFooter/SiteFooter";
@@ -31,6 +31,7 @@ function AppLayout() {
           <Outlet />
         </Suspense>
       </main>
+      <ScrollRestoration />
       <SiteFooter />
       <MobileBottomNav />
     </div>

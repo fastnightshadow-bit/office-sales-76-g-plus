@@ -194,6 +194,31 @@ describe("CatalogPage", () => {
     expect(search.closest("[inert]")).toBeNull();
     expect(shellAction.closest("[inert]")).toBeNull();
   });
+
+  it("closes the mobile filter sheet and removes its modal effects when the desktop breakpoint starts", async () => {
+    const user = userEvent.setup();
+    const listeners = new Set<(event: MediaQueryListEvent) => void>();
+    const media = {
+      matches: true,
+      media: "(max-width: 1023px)",
+      addEventListener: (_type: string, listener: (event: MediaQueryListEvent) => void) => listeners.add(listener),
+      removeEventListener: (_type: string, listener: (event: MediaQueryListEvent) => void) => listeners.delete(listener),
+    } as unknown as MediaQueryList;
+    const originalMatchMedia = window.matchMedia;
+    Object.defineProperty(window, "matchMedia", { configurable: true, value: () => media });
+    renderCatalog();
+
+    await user.click(screen.getByRole("button", { name: "Открыть фильтры" }));
+    expect(document.body.style.overflow).toBe("hidden");
+
+    Object.assign(media, { matches: false });
+    listeners.forEach((listener) => listener({ matches: false } as MediaQueryListEvent));
+
+    await waitFor(() => expect(screen.queryByRole("dialog", { name: "Фильтры каталога" })).not.toBeInTheDocument());
+    expect(document.body.style.overflow).toBe("");
+    expect(document.querySelector("[inert]")).toBeNull();
+    Object.defineProperty(window, "matchMedia", { configurable: true, value: originalMatchMedia });
+  });
 });
 
 describe("catalog routes", () => {

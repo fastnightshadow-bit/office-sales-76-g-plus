@@ -305,7 +305,7 @@ export function LeadDialog({ open, kind, projectTitle, onClose }: LeadDialogProp
               </div>
             ) : null}
 
-            <form noValidate onSubmit={handleSubmit}>
+            <form className={styles.form} noValidate onSubmit={handleSubmit}>
               <div className={styles.fieldGroup}>
                 <label htmlFor="lead-name">Имя</label>
                 <input

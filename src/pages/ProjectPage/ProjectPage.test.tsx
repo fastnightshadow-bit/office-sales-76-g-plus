@@ -7,6 +7,7 @@ import { getProjects } from "../../features/catalog/catalog-repository";
 import { getProjectDetailBySlug } from "../../features/catalog/project-detail-repository";
 import { ProjectDocuments } from "./ProjectPage";
 import { ProjectFacts } from "./components/ProjectFacts";
+import { ProjectLayouts } from "./components/ProjectLayouts";
 import { RelatedProjects } from "./components/RelatedProjects";
 
 function renderProject(slug: string, suffix = "") {
@@ -37,12 +38,13 @@ describe("ProjectPage", () => {
     expect(await screen.findByText("Ярославль, Республиканский проезд д.1")).toBeVisible();
     expect(screen.getByText("Сдан!")).toBeVisible();
     expect(screen.getByText("Ипотека от 6%")).toBeVisible();
-    expect(screen.getByText("1-комнатные")).toBeVisible();
+    expect(within(screen.getByLabelText("Минимальная стоимость по комнатности")).getByText("1-комнатные")).toBeVisible();
     expect(screen.getByText("от 6 900 000 ₽")).toBeVisible();
-    expect(screen.getByRole("link", { name: "Открыть адрес на карте" })).toHaveAttribute(
+    expect(screen.getByRole("link", { name: "Открыть в Яндекс Картах" })).toHaveAttribute(
       "href",
-      expect.stringContaining("query="),
+      expect.stringContaining("yandex.ru/maps/?text="),
     );
+    expect(screen.getByLabelText("Карта проекта без внешней загрузки")).toBeVisible();
   });
 
   it("keeps detail facts limited to address, completion, mortgage, and room minimums", () => {
@@ -123,15 +125,30 @@ describe("ProjectPage", () => {
     expect(screen.getByRole("link", { name: "Проверить на странице проекта" })).toHaveAttribute("href", project.sourceUrl);
   });
 
-  it("shows only known layout values and total prices", async () => {
+  it("shows source-provided layout values including price per square metre", async () => {
     renderProject("zhk-novatsiya");
 
     const layout = await screen.findByRole("article", { name: "Планировка 1-комнатная квартира, 44,3 м²" });
     expect(within(layout).getByText("44,3 м²")).toBeVisible();
     expect(within(layout).getByText("7 309 500 ₽")).toBeVisible();
-    expect(within(layout).queryByText(/₽\/м²/)).not.toBeInTheDocument();
+    expect(within(layout).getByText("165 000 ₽/м²")).toBeVisible();
     expect(within(layout).queryByText("Этаж")).not.toBeInTheDocument();
     expect(within(layout).queryByText("Подъезд")).not.toBeInTheDocument();
+  });
+
+  it("uses accessible room tabs to reduce a large layouts list", async () => {
+    const user = userEvent.setup();
+    const project = await getProjectDetailBySlug("zhk-russkaya-sloboda");
+    if (!project) throw new Error("Expected generated project detail");
+
+    render(<ProjectLayouts layouts={project.layouts} />);
+
+    expect(screen.getAllByRole("article")).toHaveLength(13);
+    const roomTabs = screen.getByRole("tablist", { name: "Комнатность планировок" });
+    await user.click(within(roomTabs).getByRole("tab", { name: /2-комнатные/ }));
+
+    expect(within(roomTabs).getByRole("tab", { name: /2-комнатные/ })).toHaveAttribute("aria-selected", "true");
+    expect(screen.getAllByRole("article")).toHaveLength(project.layouts.filter(({ room }) => room === "2").length);
   });
 
   it("opens the gallery and supports ArrowRight, ArrowLeft, Escape, and focus restoration", async () => {

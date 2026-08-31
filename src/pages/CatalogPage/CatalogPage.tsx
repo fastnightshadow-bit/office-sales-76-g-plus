@@ -13,6 +13,7 @@ import { EmptyCatalog } from "./components/EmptyCatalog";
 import { useSearchParams } from "react-router-dom";
 
 const PAGE_SIZE = 18;
+const MOBILE_FILTER_QUERY = "(max-width: 1023px)";
 const projects = getProjects();
 
 function projectWord(count: number): string {
@@ -68,6 +69,17 @@ export default function CatalogPage() {
     document.body.append(element);
     setPortalElement(element);
     return () => element.remove();
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined" || typeof window.matchMedia !== "function") return;
+    const media = window.matchMedia(MOBILE_FILTER_QUERY);
+    const closeOnDesktop = (event: Pick<MediaQueryList, "matches">) => {
+      if (!event.matches) setFiltersOpen(false);
+    };
+    closeOnDesktop(media);
+    media.addEventListener?.("change", closeOnDesktop);
+    return () => media.removeEventListener?.("change", closeOnDesktop);
   }, []);
 
   useEffect(() => {

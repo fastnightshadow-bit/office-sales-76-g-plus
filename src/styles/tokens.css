@@ -5,7 +5,7 @@
   --color-text: #1c2721;
   --color-muted: #6f7a73;
   --color-accent: #718277;
-  --color-accent-dark: #4f6257;
+  --color-accent-dark: var(--color-graphite);
   --color-border: #e2e7e3;
   --color-error: #a64035;
   --radius-card: 24px;

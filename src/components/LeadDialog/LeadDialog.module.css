@@ -32,7 +32,7 @@
 }
 
 .eyebrow {
-  color: var(--color-muted);
+  color: var(--color-text);
   font-size: 0.7rem;
   font-weight: 800;
   letter-spacing: 0.1em;
@@ -71,7 +71,7 @@
 .success p {
   max-width: 45ch;
   margin: 16px 0 0;
-  color: var(--color-muted);
+  color: var(--color-text);
   font-size: 0.88rem;
   line-height: 1.6;
 }
@@ -87,10 +87,10 @@
   border-radius: var(--radius-control);
 }
 
-form { display: grid; gap: 18px; }
+.form { display: grid; gap: 18px; }
 .fieldGroup { display: grid; gap: 7px; }
 .fieldGroup label { color: var(--color-graphite); font-size: 0.78rem; font-weight: 800; }
-.fieldGroup label span { color: var(--color-muted); font-weight: 500; }
+.fieldGroup label span { color: var(--color-text); font-weight: 500; }
 
 .fieldGroup input,
 .fieldGroup textarea {
@@ -107,26 +107,27 @@ form { display: grid; gap: 18px; }
 }
 
 .fieldGroup textarea { min-height: 94px; }
-.fieldGroup input:focus, .fieldGroup textarea:focus { border-color: var(--color-accent-dark); box-shadow: 0 0 0 3px rgb(113 130 119 / 18%); }
+.fieldGroup input:focus, .fieldGroup textarea:focus { border-color: var(--color-graphite); box-shadow: 0 0 0 3px rgb(113 130 119 / 18%); }
 .fieldGroup input[aria-invalid="true"], .fieldGroup textarea[aria-invalid="true"] { border-color: var(--color-error); }
 .fieldError { color: var(--color-error); font-size: 0.75rem; line-height: 1.4; }
-.fieldHint { color: var(--color-muted); font-size: 0.7rem; }
+.fieldHint { color: var(--color-text); font-size: 0.7rem; }
 
 .consent {
   display: grid;
-  grid-template-columns: 22px 1fr;
-  align-items: start;
+  grid-template-columns: 24px 1fr;
+  min-height: 44px;
+  align-items: center;
   gap: 10px;
-  color: var(--color-muted);
+  color: var(--color-text);
   font-size: 0.75rem;
   line-height: 1.5;
 }
 
-.consent input { width: 20px; height: 20px; margin: 0; accent-color: var(--color-accent-dark); }
+.consent input { width: 22px; height: 22px; margin: 0; accent-color: var(--color-graphite); }
 .consent a { color: var(--color-graphite); font-weight: 700; }
 
 .success { padding: 24px 0 4px; }
-.successMark { display: grid; place-items: center; width: 54px; height: 54px; margin-bottom: 22px; color: var(--color-white); font-size: 1.5rem; background: var(--color-accent-dark); border-radius: 50%; }
+.successMark { display: grid; place-items: center; width: 54px; height: 54px; margin-bottom: 22px; color: var(--color-white); font-size: 1.5rem; background: var(--color-graphite); border-radius: 50%; }
 .success p { margin-bottom: 28px; }
 
 @media (max-width: 600px) {

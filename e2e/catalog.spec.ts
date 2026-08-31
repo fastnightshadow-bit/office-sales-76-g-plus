@@ -57,3 +57,25 @@ test("real catalog cards use an exact positive total-price label and approved te
   const metadataColor = await firstCard.locator("span").first().evaluate((element) => getComputedStyle(element).color);
   expect(metadataColor).toBe("rgb(28, 39, 33)");
 });
+
+test("mobile filter sheet cleans modal state on a desktop resize and keeps every control target usable", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/catalog");
+  await page.getByRole("button", { name: "Открыть фильтры" }).click();
+  const dialog = page.getByRole("dialog", { name: "Фильтры каталога" });
+  await expect(dialog).toBeVisible();
+
+  for (const target of [
+    dialog.getByRole("button", { name: "Центр" }),
+    dialog.getByText("1 комната").locator(".."),
+  ]) {
+    const box = await target.boundingBox();
+    expect(box?.width).toBeGreaterThanOrEqual(44);
+    expect(box?.height).toBeGreaterThanOrEqual(44);
+  }
+
+  await page.setViewportSize({ width: 1024, height: 844 });
+  await expect(dialog).toBeHidden();
+  await expect.poll(() => page.evaluate(() => document.body.style.overflow)).toBe("");
+  await expect.poll(() => page.evaluate(() => document.getElementById("root")?.hasAttribute("inert"))).toBe(false);
+});

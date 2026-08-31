@@ -1,5 +1,6 @@
 import { ResponsiveImage } from "../../../components/ResponsiveImage/ResponsiveImage";
 import type { Layout } from "../../../features/catalog/catalog.types";
+import { useMemo, useState } from "react";
 import styles from "../ProjectPage.module.css";
 
 interface ProjectLayoutsProps {
@@ -16,8 +17,29 @@ function formatTotalMoney(value: number): string {
     .replace(/[\u00a0\u202f]/g, " ")} ₽`;
 }
 
+function formatPricePerMeter(value: number): string {
+  return `${new Intl.NumberFormat("ru-RU", { maximumFractionDigits: 0 })
+    .format(value)
+    .replace(/[\u00a0\u202f]/g, " ")} ₽/м²`;
+}
+
+const roomLabels = {
+  studio: "Студии",
+  "1": "1-комнатные",
+  "2": "2-комнатные",
+  "3": "3-комнатные",
+  "4+": "4+ комнат",
+  commercial: "Коммерческие",
+} as const;
+
+const roomOrder = ["studio", "1", "2", "3", "4+", "commercial"] as const;
+
 export function ProjectLayouts({ layouts }: ProjectLayoutsProps) {
+  const rooms = useMemo(() => roomOrder.filter((room) => layouts.some((layout) => layout.room === room)), [layouts]);
+  const [selectedRoom, setSelectedRoom] = useState<Layout["room"]>("studio");
   if (layouts.length === 0) return null;
+  const activeRoom = rooms.includes(selectedRoom) ? selectedRoom : rooms[0]!;
+  const visibleLayouts = layouts.filter((layout) => layout.room === activeRoom);
 
   return (
     <section className={styles.section} id="layouts">
@@ -26,8 +48,24 @@ export function ProjectLayouts({ layouts }: ProjectLayoutsProps) {
           <p>Выбор квартиры</p>
           <h2>Планировки</h2>
         </div>
+        {rooms.length > 1 ? (
+          <div aria-label="Комнатность планировок" className={styles.layoutTabs} role="tablist">
+            {rooms.map((room) => (
+              <button
+                aria-selected={activeRoom === room}
+                className={styles.layoutTab}
+                key={room}
+                onClick={() => setSelectedRoom(room)}
+                role="tab"
+                type="button"
+              >
+                {roomLabels[room]}
+              </button>
+            ))}
+          </div>
+        ) : null}
         <div className={styles.layoutGrid}>
-          {layouts.map((layout) => {
+          {visibleLayouts.map((layout) => {
             const areaLabel = layout.area !== undefined && layout.area > 0 ? formatArea(layout.area) : undefined;
             const ariaLabel = `Планировка ${layout.roomLabel}${areaLabel ? `, ${areaLabel}` : ""}`;
             return (
@@ -45,6 +83,9 @@ export function ProjectLayouts({ layouts }: ProjectLayoutsProps) {
                   <h3>{layout.roomLabel}</h3>
                   <dl className={styles.layoutFacts}>
                     {areaLabel ? <div><dt>Площадь</dt><dd>{areaLabel}</dd></div> : null}
+                    {layout.pricePerMeter !== undefined && layout.pricePerMeter > 0
+                      ? <div><dt>Цена за м²</dt><dd>{formatPricePerMeter(layout.pricePerMeter)}</dd></div>
+                      : null}
                     {layout.floors ? <div><dt>Этаж</dt><dd>{layout.floors}</dd></div> : null}
                     {layout.entrances ? <div><dt>Подъезд</dt><dd>{layout.entrances}</dd></div> : null}
                   </dl>

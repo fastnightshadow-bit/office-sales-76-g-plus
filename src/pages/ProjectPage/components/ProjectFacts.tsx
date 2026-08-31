@@ -41,12 +41,16 @@ export function ProjectFacts({ project }: ProjectFactsProps) {
           <div>
             <p>{project.address}</p>
             <a
-              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(project.address)}`}
+              href={`https://yandex.ru/maps/?text=${encodeURIComponent(project.address)}`}
               rel="noopener noreferrer"
               target="_blank"
             >
-              Открыть адрес на карте
+              Открыть в Яндекс Картах
             </a>
+            <div aria-label="Карта проекта без внешней загрузки" className={styles.mapSurface} role="img">
+              <MapPin aria-hidden="true" size={18} strokeWidth={1.7} />
+              <span>Карта откроется по ссылке — внешний сервис здесь не загружается.</span>
+            </div>
           </div>
         </div>
       ) : null}

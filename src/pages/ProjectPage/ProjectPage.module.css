@@ -135,6 +135,8 @@
 .addressBlock svg { flex: 0 0 auto; margin-top: 2px; color: var(--color-accent); }
 .addressBlock p { margin: 0 0 8px; color: var(--color-graphite); font-weight: 720; line-height: 1.48; }
 .addressBlock a { color: var(--color-text); font-size: 0.76rem; text-underline-offset: 3px; }
+.mapSurface { display: flex; align-items: center; gap: 8px; margin-top: 14px; padding: 10px 12px; color: var(--color-text); font-size: 0.72rem; line-height: 1.45; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 12px; }
+.mapSurface svg { flex: 0 0 auto; margin: 0; color: var(--color-accent); }
 
 .facts {
   display: grid;
@@ -286,7 +288,10 @@
 .galleryNext { right: 14px; }
 .galleryCounter { position: absolute; right: 22px; bottom: 16px; margin: 0; padding: 6px 10px; color: var(--color-white); font-size: 0.76rem; background: rgb(23 34 29 / 82%); border-radius: var(--radius-pill); }
 
-.layoutGrid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; margin-top: 36px; }
+.layoutTabs { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 30px; }
+.layoutTab { min-height: 44px; padding: 0 18px; color: var(--color-text); background: var(--color-white); border: 1px solid var(--color-border); border-radius: var(--radius-pill); cursor: pointer; }
+.layoutTab[aria-selected="true"] { color: var(--color-white); background: var(--color-graphite); border-color: var(--color-graphite); }
+.layoutGrid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; margin-top: 24px; }
 .layoutCard { overflow: hidden; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 20px; }
 .layoutImage { object-fit: contain; padding: 12px; background: var(--color-white); }
 .layoutBody { padding: 20px; }

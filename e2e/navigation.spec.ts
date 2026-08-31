@@ -75,6 +75,22 @@ test("gallery supports keyboard navigation, focus restoration and Escape", async
   await expect(trigger).toBeFocused();
 });
 
+test("new routes start at the top while Back restores the prior scroll position", async ({ page }) => {
+  await page.goto("/catalog");
+  await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+  const catalogScroll = await page.evaluate(() => window.scrollY);
+  expect(catalogScroll).toBeGreaterThan(300);
+
+  await page.getByRole("article").first().getByRole("link", { name: /^Подробнее о проекте / }).click();
+  await expect(page).toHaveURL(/\/catalog\/3-shoseynaya-20$/);
+  await expect(page.getByRole("heading", { level: 1, name: "3 Шоссейная 22А(Б)" })).toBeVisible();
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeLessThanOrEqual(1);
+
+  await page.goBack();
+  await expect(page.getByRole("heading", { level: 1, name: "Каталог проектов" })).toBeVisible();
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(300);
+});
+
 test("declares available favicon and route-aware LCP image preloads", async ({ page, request }) => {
   const favicon = await request.get("/favicon.svg");
   expect(favicon.ok()).toBe(true);
@@ -166,4 +182,18 @@ test("declares available favicon and route-aware LCP image preloads", async ({ p
   const desktopCurrentSource = await page.getByRole("img", { name: "Фасад проекта ЖК Новация" })
     .evaluate((image) => new URL((image as HTMLImageElement).currentSrc).pathname);
   expect(desktopCurrentSource).toMatch(/\/cover-(?:960|1440)\.avif$/);
+});
+
+test("preloads an existing LCP variant with the correct image MIME type", async ({ page, request }) => {
+  await page.setViewportSize({ width: 1280, height: 900 });
+  await page.goto("/catalog/zhk-granat");
+
+  const href = await page.locator('link[rel="preload"][as="image"]').getAttribute("href");
+  expect(href).toBe("/media/projects/zhk-granat/cover-480.avif");
+  const imageResponse = await request.get(href!);
+  expect(imageResponse.ok()).toBe(true);
+  expect(imageResponse.headers()["content-type"]).toContain("image/avif");
+  expect(await page.getByRole("img", { name: "Фасад проекта ЖК ГРАНАТ" }).evaluate((image) => (
+    new URL((image as HTMLImageElement).currentSrc).pathname
+  ))).toBe(href);
 });
